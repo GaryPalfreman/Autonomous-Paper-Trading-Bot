@@ -44,7 +44,7 @@ class PaperEngine:
         self.storage.append_trade(trade)
         return trade
 
-    def process(self, portfolio: Portfolio, signals: list[Signal]) -> list[Trade]:
+    def process(self, portfolio: Portfolio, signals: list[Signal], allow_new_entries: bool = True) -> list[Trade]:
         by_symbol = {signal.symbol: signal for signal in signals}
         trades: list[Trade] = []
 
@@ -71,6 +71,8 @@ class PaperEngine:
                 trades.append(self._sell(portfolio, position, signal.price, reason, signal.score))
 
         for signal in signals:
+            if not allow_new_entries:
+                break
             if len(portfolio.positions) >= self.settings.max_positions:
                 break
             if signal.symbol in portfolio.positions or signal.score < self.policy.buy_threshold:
@@ -80,10 +82,15 @@ class PaperEngine:
                 trades.append(trade)
 
         for signal in signals:
-            action = next((trade.side for trade in trades if trade.symbol == signal.symbol), "HOLD" if signal.symbol in portfolio.positions else "WATCH")
+            default_action = "HOLD" if signal.symbol in portfolio.positions else "WATCH"
+            action = next((trade.side for trade in trades if trade.symbol == signal.symbol), default_action)
+            reason = signal.reason
+            if not allow_new_entries and action == "WATCH" and signal.score >= self.policy.buy_threshold:
+                action = "RISK_BLOCKED"
+                reason = f"New entry blocked by defensive market regime; {signal.reason}"
             self.storage.append_decision({
                 "timestamp": utc_now(), "symbol": signal.symbol, "action": action,
-                "score": round(signal.score, 5), "price": signal.price, "reason": signal.reason,
+                "score": round(signal.score, 5), "price": signal.price, "reason": reason,
             })
 
         portfolio.cycle_count += 1
@@ -92,7 +99,15 @@ class PaperEngine:
         return trades
 
 
-def make_report(portfolio: Portfolio, signals: list[Signal], trades: list[Trade], market_open: bool) -> str:
+def make_report(
+    portfolio: Portfolio,
+    signals: list[Signal],
+    trades: list[Trade],
+    market_open: bool,
+    benchmark: dict | None = None,
+    research: dict | None = None,
+    goal: float = 1_000_000.0,
+) -> str:
     equity = portfolio.equity()
     total_return = equity / portfolio.starting_cash - 1
     lines = [
@@ -104,6 +119,27 @@ def make_report(portfolio: Portfolio, signals: list[Signal], trades: list[Trade]
         f"Cash: **${portfolio.cash:,.2f}**",
         f"Invested: **${portfolio.invested_value():,.2f}**",
         f"Realised P/L: **${portfolio.realized_pnl:+,.2f}**",
+    ]
+    if benchmark:
+        benchmark_return = float(benchmark.get("return", 0.0))
+        lines += [
+            f"SPY benchmark: **${float(benchmark.get('value', portfolio.starting_cash)):,.2f}** ({benchmark_return:+.2%})",
+            f"Excess return vs SPY: **{total_return - benchmark_return:+.2%}**",
+        ]
+    lines += [
+        f"Long-term simulated goal: **${goal:,.0f}** ({equity / goal:.4%} complete; {goal / max(equity, 0.01):,.1f}x remaining)",
+        "",
+        "## Market research",
+    ]
+    if research:
+        lines += [
+            f"- Regime: **{research.get('regime', 'UNKNOWN')}** (breadth above 20-day average: {float(research.get('breadth_above_20d_average', 0)):.0%})",
+            f"- Source: {research.get('data_source', 'market data')} / {research.get('data_feed', 'unknown')} feed; {research.get('universe_size', 0)} liquid symbols; {research.get('news_articles_reviewed', 0)} recent articles",
+            f"- New entries allowed: **{'Yes' if research.get('new_entries_allowed') else 'No'}**",
+        ]
+    else:
+        lines.append("- Research snapshot unavailable.")
+    lines += [
         "",
         "## Positions",
     ]
