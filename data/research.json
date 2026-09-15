@@ -1,0 +1,101 @@
+{
+  "benchmark_above_20d_average": false,
+  "benchmark_above_50d_average": true,
+  "benchmark_price": 760.755,
+  "benchmark_symbol": "SPY",
+  "breadth_above_20d_average": 0.324324,
+  "data_feed": "iex",
+  "data_source": "Alpaca Market Data",
+  "generated_at": "2026-09-15T10:58:42.585468+00:00",
+  "latest_market_timestamp": "2026-09-14T20:55:34.193910431Z",
+  "market_is_open": false,
+  "new_entries_allowed": true,
+  "news_articles_reviewed": 50,
+  "next_close": "2026-09-15T16:00:00-04:00",
+  "next_open": "2026-09-15T09:30:00-04:00",
+  "regime": "NEUTRAL",
+  "regime_score": -0.105405,
+  "top_candidates": [
+    {
+      "news_score": 0.0,
+      "price": 665.64,
+      "reason": "5d +7.9%; 20d +12.9%; RSI 84; vs SPY +14.9%; RSI 84; volume 1.1x; volatility 37.5%; news +0.00",
+      "relative_strength_20d": 0.148687,
+      "score": 0.76078,
+      "symbol": "META"
+    },
+    {
+      "news_score": 0.0,
+      "price": 333.0,
+      "reason": "5d +4.1%; 20d +8.8%; RSI 71; vs SPY +10.8%; RSI 71; volume 1.0x; volatility 23.7%; news +0.00",
+      "relative_strength_20d": 0.108473,
+      "score": 0.613239,
+      "symbol": "AAPL"
+    },
+    {
+      "news_score": 0.0,
+      "price": 212.15,
+      "reason": "5d +1.7%; 20d +7.0%; RSI 74; vs SPY +9.0%; RSI 74; volume 1.2x; volatility 17.9%; news +0.00",
+      "relative_strength_20d": 0.089922,
+      "score": 0.470919,
+      "symbol": "CVX"
+    },
+    {
+      "news_score": 0.166667,
+      "price": 165.05,
+      "reason": "5d +3.5%; 20d +3.8%; RSI 59; vs SPY +5.8%; RSI 59; volume 1.2x; volatility 23.2%; news +0.17",
+      "relative_strength_20d": 0.057618,
+      "score": 0.419099,
+      "symbol": "XOM"
+    },
+    {
+      "news_score": 0.0,
+      "price": 64.54,
+      "reason": "5d +0.7%; 20d +4.2%; RSI 68; vs SPY +6.2%; RSI 68; volume 1.6x; volatility 15.5%; news +0.00",
+      "relative_strength_20d": 0.062421,
+      "score": 0.366448,
+      "symbol": "XLE"
+    },
+    {
+      "news_score": 0.111111,
+      "price": 349.445,
+      "reason": "5d +3.3%; 20d +1.1%; RSI 52; vs SPY +3.1%; RSI 52; volume 1.7x; volatility 22.7%; news +0.11",
+      "relative_strength_20d": 0.031033,
+      "score": 0.35229,
+      "symbol": "GOOGL"
+    },
+    {
+      "news_score": 0.0,
+      "price": 115.04,
+      "reason": "5d +2.7%; 20d +1.9%; RSI 56; vs SPY +3.9%; RSI 56; volume 1.2x; volatility 17.1%; news +0.00",
+      "relative_strength_20d": 0.038709,
+      "score": 0.275967,
+      "symbol": "XLC"
+    },
+    {
+      "news_score": 0.0,
+      "price": 80.33,
+      "reason": "5d +2.7%; 20d +2.8%; RSI 45; vs SPY +4.8%; RSI 45; volume 1.2x; volatility 36.1%; news +0.00",
+      "relative_strength_20d": 0.047657,
+      "score": 0.275374,
+      "symbol": "NFLX"
+    },
+    {
+      "news_score": 0.0,
+      "price": 505.72,
+      "reason": "5d +1.2%; 20d +2.3%; RSI 58; vs SPY +4.3%; RSI 58; volume 1.5x; volatility 22.8%; news +0.00",
+      "relative_strength_20d": 0.04288,
+      "score": 0.263453,
+      "symbol": "MSFT"
+    },
+    {
+      "news_score": 0.0,
+      "price": 359.02,
+      "reason": "5d +1.4%; 20d +4.9%; RSI 54; vs SPY +6.9%; RSI 54; volume 0.9x; volatility 51.3%; news +0.00",
+      "relative_strength_20d": 0.068717,
+      "score": 0.262059,
+      "symbol": "TSLA"
+    }
+  ],
+  "universe_size": 37
+}
