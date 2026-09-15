@@ -8,7 +8,7 @@ on:
       - ".github/workflows/market-cycle.yml"
   schedule:
     # Broad UTC window covers US regular hours through daylight-saving changes.
-    # Each cycle refreshes research, SPY benchmark and the virtual ledger.
+    # Each cycle refreshes research, SPY benchmark, daily holdings and the virtual ledger.
     # The engine checks Alpaca's market clock and never fills while closed.
     - cron: "*/15 13-21 * * 1-5"
 
