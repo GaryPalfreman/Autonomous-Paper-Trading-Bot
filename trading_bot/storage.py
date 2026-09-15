@@ -26,6 +26,9 @@ class Storage:
         self.trades_path = self.data_dir / "trades.csv"
         self.equity_path = self.data_dir / "equity_history.csv"
         self.decisions_path = self.data_dir / "decisions.csv"
+        self.benchmark_path = self.data_dir / "benchmark.json"
+        self.research_path = self.data_dir / "research.json"
+        self.benchmark_history_path = self.data_dir / "benchmark_history.csv"
 
     @staticmethod
     def _atomic_json(path: Path, payload: dict) -> None:
@@ -75,6 +78,39 @@ class Storage:
     def append_decision(self, row: dict) -> None:
         fields = ("timestamp", "symbol", "action", "score", "price", "reason")
         self._append_csv(self.decisions_path, fields, row)
+
+    def update_benchmark(self, symbol: str, price: float, starting_cash: float) -> dict:
+        if price <= 0:
+            return {}
+        if self.benchmark_path.exists():
+            payload = json.loads(self.benchmark_path.read_text(encoding="utf-8"))
+        else:
+            payload = {
+                "symbol": symbol,
+                "starting_cash": starting_cash,
+                "start_price": price,
+                "started_at": utc_now(),
+            }
+        payload["latest_price"] = price
+        payload["updated_at"] = utc_now()
+        payload["value"] = starting_cash * price / float(payload["start_price"])
+        payload["return"] = payload["value"] / starting_cash - 1
+        self._atomic_json(self.benchmark_path, payload)
+        self._append_csv(
+            self.benchmark_history_path,
+            ("timestamp", "symbol", "price", "value", "return"),
+            {
+                "timestamp": payload["updated_at"],
+                "symbol": symbol,
+                "price": round(price, 6),
+                "value": round(payload["value"], 4),
+                "return": round(payload["return"], 8),
+            },
+        )
+        return payload
+
+    def write_research(self, payload: dict) -> None:
+        self._atomic_json(self.research_path, payload)
 
     def write_report(self, content: str) -> None:
         (self.report_dir / "latest.md").write_text(content, encoding="utf-8")
