@@ -78,6 +78,7 @@ def main() -> int:
     if not clock.get("is_open"):
         storage.save_portfolio(portfolio)
         storage.append_equity(portfolio)
+    storage.append_positions_snapshot(portfolio)
     report = make_report(
         portfolio, signals, trades, bool(clock.get("is_open")), benchmark, research, SETTINGS.portfolio_goal,
     )
