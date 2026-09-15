@@ -26,6 +26,8 @@ class Settings:
     stop_loss_pct: float = 0.05
     take_profit_pct: float = 0.10
     max_holding_days: int = 20
+    max_risk_per_trade_pct: float = 0.01
+    max_portfolio_drawdown_pct: float = 0.12
     benchmark_symbol: str = "SPY"
     portfolio_goal: float = 1_000_000.0
     universe: tuple[str, ...] = field(default_factory=lambda: DEFAULT_UNIVERSE)
