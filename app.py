@@ -43,7 +43,9 @@ def read_json(name: str) -> dict:
 
 
 @st.cache_data(ttl=30)
-def load_data() -> tuple[Portfolio, pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame, str, dict, dict]:
+def load_data() -> tuple[
+    Portfolio, pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame, str, dict, dict
+]:
     path = DATA / "portfolio.json"
     payload = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {"starting_cash": 1000, "cash": 1000}
     portfolio = Portfolio.from_dict(payload)
@@ -53,6 +55,7 @@ def load_data() -> tuple[Portfolio, pd.DataFrame, pd.DataFrame, pd.DataFrame, pd
         portfolio,
         read_csv("equity_history.csv"),
         read_csv("benchmark_history.csv"),
+        read_csv("positions_history.csv"),
         read_csv("trades.csv"),
         read_csv("decisions.csv"),
         report,
@@ -61,7 +64,9 @@ def load_data() -> tuple[Portfolio, pd.DataFrame, pd.DataFrame, pd.DataFrame, pd
     )
 
 
-portfolio, equity, benchmark_history, trades, decisions, report, benchmark, research = load_data()
+(
+    portfolio, equity, benchmark_history, positions_history, trades, decisions, report, benchmark, research,
+) = load_data()
 policy = load_policy(SETTINGS.data_dir)
 total_return = portfolio.equity() / portfolio.starting_cash - 1
 benchmark_return = float(benchmark.get("return", 0.0))
@@ -82,8 +87,8 @@ cols[3].metric("Invested", f"${portfolio.invested_value():,.2f}")
 cols[4].metric("Realised P/L", f"${portfolio.realized_pnl:+,.2f}")
 cols[5].metric("Open positions", len(portfolio.positions))
 
-overview, research_tab, activity, intelligence, system = st.tabs(
-    ["Portfolio", "Market research", "Trade journal", "Decision intelligence", "System"]
+overview, daily_tab, research_tab, activity, intelligence, system = st.tabs(
+    ["Portfolio", "Daily holdings", "Market research", "Trade journal", "Decision intelligence", "System"]
 )
 
 with overview:
@@ -134,6 +139,43 @@ with overview:
         f"{progress:.4%} complete · {SETTINGS.portfolio_goal / max(portfolio.equity(), 0.01):,.1f}x remaining. "
         "The objective does not override the fixed risk limits."
     )
+
+with daily_tab:
+    st.subheader("Daily stock allocation")
+    st.caption("Choose a date to see the final recorded allocation for that day, including the exact amount assigned to every stock.")
+    if positions_history.empty:
+        st.info("Daily allocation history will appear after the next autonomous cycle.")
+    else:
+        positions_history["timestamp"] = pd.to_datetime(positions_history["timestamp"], utc=True)
+        positions_history["date"] = positions_history["timestamp"].dt.strftime("%Y-%m-%d")
+        available_dates = sorted(positions_history["date"].unique(), reverse=True)
+        selected_date = st.selectbox("Portfolio date", available_dates)
+        selected = positions_history[positions_history["date"] == selected_date]
+        latest_timestamp = selected["timestamp"].max()
+        snapshot = selected[selected["timestamp"] == latest_timestamp].copy()
+        snapshot["portfolio_weight"] = snapshot["portfolio_weight"].astype(float) * 100
+        display_columns = {
+            "symbol": "Stock",
+            "quantity": "Quantity",
+            "average_entry": "Average entry",
+            "latest_price": "Latest price",
+            "market_value": "Amount invested",
+            "portfolio_weight": "Portfolio weight",
+            "unrealized_pnl": "Unrealised P/L",
+        }
+        st.dataframe(
+            snapshot[list(display_columns)].rename(columns=display_columns),
+            width="stretch",
+            hide_index=True,
+            column_config={
+                "Average entry": st.column_config.NumberColumn(format="$%.2f"),
+                "Latest price": st.column_config.NumberColumn(format="$%.2f"),
+                "Amount invested": st.column_config.NumberColumn(format="$%.2f"),
+                "Portfolio weight": st.column_config.NumberColumn(format="%.2f%%"),
+                "Unrealised P/L": st.column_config.NumberColumn(format="$%.2f"),
+            },
+        )
+        st.caption(f"Final snapshot: {latest_timestamp}")
 
 with research_tab:
     st.subheader("Current market regime")
@@ -199,6 +241,8 @@ with system:
         "maximum_position": f"{SETTINGS.max_position_pct:.0%}",
         "maximum_invested": f"{SETTINGS.max_invested_pct:.0%}",
         "maximum_positions": SETTINGS.max_positions,
+        "maximum_risk_per_trade": f"{SETTINGS.max_risk_per_trade_pct:.1%}",
+        "drawdown_circuit_breaker": f"{SETTINGS.max_portfolio_drawdown_pct:.0%}",
         "stop_loss": f"{SETTINGS.stop_loss_pct:.0%}",
         "take_profit": f"{SETTINGS.take_profit_pct:.0%}",
         "simulated_slippage": f"{SETTINGS.simulated_slippage_bps:.0f} bps",
