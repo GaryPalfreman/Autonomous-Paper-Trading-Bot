@@ -5,8 +5,13 @@ from dataclasses import dataclass, field
 
 
 DEFAULT_UNIVERSE = (
-    "SPY", "QQQ", "IWM", "DIA", "AAPL", "MSFT", "NVDA", "AMZN",
-    "GOOGL", "META", "AVGO", "JPM", "XOM", "UNH", "COST",
+    # Benchmarks and sector proxies
+    "SPY", "QQQ", "IWM", "DIA", "XLK", "XLF", "XLE", "XLV", "XLI",
+    "XLY", "XLP", "XLU", "XLB", "XLRE", "XLC",
+    # Highly liquid US large caps across sectors
+    "AAPL", "MSFT", "NVDA", "AMZN", "GOOGL", "META", "AVGO", "TSLA",
+    "JPM", "BAC", "V", "MA", "XOM", "CVX", "UNH", "LLY", "COST",
+    "WMT", "HD", "CAT", "GE", "NFLX",
 )
 
 
@@ -21,6 +26,8 @@ class Settings:
     stop_loss_pct: float = 0.05
     take_profit_pct: float = 0.10
     max_holding_days: int = 20
+    benchmark_symbol: str = "SPY"
+    portfolio_goal: float = 1_000_000.0
     universe: tuple[str, ...] = field(default_factory=lambda: DEFAULT_UNIVERSE)
     data_dir: str = "data"
     report_dir: str = "reports"
