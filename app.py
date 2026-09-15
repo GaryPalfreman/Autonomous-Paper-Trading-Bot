@@ -37,19 +37,35 @@ def read_csv(name: str) -> pd.DataFrame:
     return pd.read_csv(path) if path.exists() and path.stat().st_size else pd.DataFrame()
 
 
+def read_json(name: str) -> dict:
+    path = DATA / name
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+
+
 @st.cache_data(ttl=30)
-def load_data() -> tuple[Portfolio, pd.DataFrame, pd.DataFrame, pd.DataFrame, str]:
+def load_data() -> tuple[Portfolio, pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame, str, dict, dict]:
     path = DATA / "portfolio.json"
     payload = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {"starting_cash": 1000, "cash": 1000}
     portfolio = Portfolio.from_dict(payload)
     report_path = REPORTS / "latest.md"
     report = report_path.read_text(encoding="utf-8") if report_path.exists() else "No cycle report has been generated yet."
-    return portfolio, read_csv("equity_history.csv"), read_csv("trades.csv"), read_csv("decisions.csv"), report
+    return (
+        portfolio,
+        read_csv("equity_history.csv"),
+        read_csv("benchmark_history.csv"),
+        read_csv("trades.csv"),
+        read_csv("decisions.csv"),
+        report,
+        read_json("benchmark.json"),
+        read_json("research.json"),
+    )
 
 
-portfolio, equity, trades, decisions, report = load_data()
+portfolio, equity, benchmark_history, trades, decisions, report, benchmark, research = load_data()
 policy = load_policy(SETTINGS.data_dir)
 total_return = portfolio.equity() / portfolio.starting_cash - 1
+benchmark_return = float(benchmark.get("return", 0.0))
+alpha = total_return - benchmark_return
 
 st.markdown(
     '<div class="hero"><h1>Autonomous Paper Trader</h1>'
@@ -58,14 +74,17 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-cols = st.columns(5)
+cols = st.columns(6)
 cols[0].metric("Portfolio value", f"${portfolio.equity():,.2f}", f"{total_return:+.2%}")
-cols[1].metric("Available cash", f"${portfolio.cash:,.2f}")
-cols[2].metric("Invested", f"${portfolio.invested_value():,.2f}")
-cols[3].metric("Realised P/L", f"${portfolio.realized_pnl:+,.2f}")
-cols[4].metric("Open positions", len(portfolio.positions))
+cols[1].metric("vs SPY", f"{alpha:+.2%}", f"SPY {benchmark_return:+.2%}")
+cols[2].metric("Available cash", f"${portfolio.cash:,.2f}")
+cols[3].metric("Invested", f"${portfolio.invested_value():,.2f}")
+cols[4].metric("Realised P/L", f"${portfolio.realized_pnl:+,.2f}")
+cols[5].metric("Open positions", len(portfolio.positions))
 
-overview, activity, intelligence, system = st.tabs(["Portfolio", "Trade journal", "Decision intelligence", "System"])
+overview, research_tab, activity, intelligence, system = st.tabs(
+    ["Portfolio", "Market research", "Trade journal", "Decision intelligence", "System"]
+)
 
 with overview:
     left, right = st.columns([1.7, 1])
@@ -73,7 +92,15 @@ with overview:
         st.subheader("Equity curve")
         if not equity.empty:
             equity["timestamp"] = pd.to_datetime(equity["timestamp"], utc=True)
-            figure = px.line(equity, x="timestamp", y="equity", markers=True)
+            portfolio_curve = equity[["timestamp", "equity"]].rename(columns={"equity": "Value"})
+            portfolio_curve["Series"] = "Bot portfolio"
+            curves = [portfolio_curve]
+            if not benchmark_history.empty:
+                benchmark_history["timestamp"] = pd.to_datetime(benchmark_history["timestamp"], utc=True)
+                spy_curve = benchmark_history[["timestamp", "value"]].rename(columns={"value": "Value"})
+                spy_curve["Series"] = "SPY benchmark"
+                curves.append(spy_curve)
+            figure = px.line(pd.concat(curves), x="timestamp", y="Value", color="Series", markers=True)
             figure.update_layout(template="plotly_dark", height=360, margin=dict(l=10, r=10, t=20, b=10), yaxis_title="US dollars", xaxis_title="")
             st.plotly_chart(figure, width="stretch")
         else:
@@ -99,6 +126,40 @@ with overview:
     else:
         st.info("The bot is currently holding 100% cash.")
 
+    st.subheader("US$1 million simulation objective")
+    progress = min(portfolio.equity() / SETTINGS.portfolio_goal, 1.0)
+    st.progress(progress)
+    st.caption(
+        f"${portfolio.equity():,.2f} of ${SETTINGS.portfolio_goal:,.0f} · "
+        f"{progress:.4%} complete · {SETTINGS.portfolio_goal / max(portfolio.equity(), 0.01):,.1f}x remaining. "
+        "The objective does not override the fixed risk limits."
+    )
+
+with research_tab:
+    st.subheader("Current market regime")
+    if not research:
+        st.info("Research appears after the next autonomous market-data cycle.")
+    else:
+        rcols = st.columns(4)
+        rcols[0].metric("Regime", research.get("regime", "Unknown"))
+        rcols[1].metric("Market breadth", f"{float(research.get('breadth_above_20d_average', 0)):.0%}")
+        rcols[2].metric("Symbols researched", int(research.get("universe_size", 0)))
+        rcols[3].metric("News reviewed", int(research.get("news_articles_reviewed", 0)))
+        st.caption(
+            f"Live source: {research.get('data_source', 'Unknown')} ({research.get('data_feed', 'unknown')} feed) · "
+            f"Latest market event {research.get('latest_market_timestamp') or 'unknown'} · "
+            f"Research generated {research.get('generated_at', 'unknown')} · "
+            f"Market {'open' if research.get('market_is_open') else 'closed'}"
+        )
+        candidates = pd.DataFrame(research.get("top_candidates", []))
+        st.subheader("Ranked opportunities")
+        if candidates.empty:
+            st.info("No eligible candidates were produced.")
+        else:
+            st.dataframe(candidates, width="stretch", hide_index=True)
+        if not research.get("new_entries_allowed", False):
+            st.warning("Defensive regime: new entries are blocked while existing positions remain protected by exit rules.")
+
 with activity:
     st.subheader("Executed paper trades")
     st.caption("Every fill includes simulated slippage. These records never reach a brokerage order endpoint.")
@@ -115,7 +176,7 @@ with intelligence:
         latest = decisions.sort_values("timestamp", ascending=False).head(50)
         st.dataframe(latest, width="stretch", hide_index=True)
     st.subheader("Latest report")
-    st.markdown(report)
+    st.markdown(report.replace("$", r"\$"))
 
 with system:
     st.subheader("Strategy policy")
@@ -135,6 +196,9 @@ with system:
         "stop_loss": f"{SETTINGS.stop_loss_pct:.0%}",
         "take_profit": f"{SETTINGS.take_profit_pct:.0%}",
         "simulated_slippage": f"{SETTINGS.simulated_slippage_bps:.0f} bps",
+        "benchmark": SETTINGS.benchmark_symbol,
+        "long_term_goal": f"${SETTINGS.portfolio_goal:,.0f}",
+        "research_universe": len(SETTINGS.universe),
     })
     st.warning("Educational paper simulation only. Results do not represent achievable live performance or financial advice.")
     if not (os.getenv("ALPACA_API_KEY") and os.getenv("ALPACA_API_SECRET")):
