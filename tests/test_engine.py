@@ -54,3 +54,22 @@ def test_defensive_regime_blocks_new_position(tmp_path: Path) -> None:
     assert trades == []
     assert portfolio.positions == {}
     assert "RISK_BLOCKED" in storage.decisions_path.read_text(encoding="utf-8")
+
+
+def test_high_volatility_reduces_position_size(tmp_path: Path) -> None:
+    settings = Settings(data_dir=str(tmp_path / "data"), report_dir=str(tmp_path / "reports"))
+    storage = Storage(settings.data_dir, settings.report_dir)
+    portfolio = Portfolio(starting_cash=1000, cash=1000)
+    volatile = Signal("TSLA", 0.9, 100, 0.1, 0.2, 65, 0.95, 0, "volatile")
+    trade = PaperEngine(settings, storage, StrategyPolicy()).process(portfolio, [volatile])[0]
+    assert trade.notional < 150
+    assert trade.notional >= settings.minimum_order_usd
+
+
+def test_drawdown_circuit_breaker_blocks_new_position(tmp_path: Path) -> None:
+    settings = Settings(data_dir=str(tmp_path / "data"), report_dir=str(tmp_path / "reports"))
+    storage = Storage(settings.data_dir, settings.report_dir)
+    portfolio = Portfolio(starting_cash=1000, cash=870, high_water_mark=1000)
+    trades = PaperEngine(settings, storage, StrategyPolicy()).process(portfolio, [signal("AAPL", 0.9, 100)])
+    assert trades == []
+    assert "drawdown circuit breaker" in storage.decisions_path.read_text(encoding="utf-8")
