@@ -17,7 +17,10 @@ This repository contains a read-only Alpaca market-data client and an internal p
 - Bot-versus-SPY benchmark, excess-return and US$1 million goal tracking
 - Simulated bid/ask slippage
 - Fixed exposure, position, stop-loss and profit-target controls
+- Volatility-aware sizing capped at approximately 1% portfolio risk per new trade
+- 12% portfolio drawdown circuit breaker for new entries
 - Persistent JSON/CSV portfolio, trade, decision and equity history
+- Daily per-stock allocation history with quantity, dollar value, weight and P/L
 - Conservative strategy-entry calibration after sufficient completed trades
 - Streamlit dashboard with holdings, allocation, equity curve and reports
 - GitHub Actions scheduler that continues while the dashboard is closed
