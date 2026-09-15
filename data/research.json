@@ -6,14 +6,25 @@
   "breadth_above_20d_average": 0.27027,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-09-15T20:20:16.534042+00:00",
-  "latest_market_timestamp": "2026-09-15T20:20:16.034246233Z",
+  "generated_at": "2026-09-15T23:00:09.210599+00:00",
+  "latest_market_timestamp": "2026-09-15T20:58:26.862835494Z",
   "market_is_open": false,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
   "next_close": "2026-09-16T16:00:00-04:00",
   "next_open": "2026-09-16T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-09-15T20:41:49Z",
+      "headline": "'This Selloff Makes Zero Sense': An Analysis from WallStreetBets",
+      "source": "benzinga",
+      "symbols": [
+        "INTC",
+        "MU",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61804797/this-selloff-makes-zero-sense-an-analysis-from-wallstreetbets"
+    },
     {
       "created_at": "2026-09-15T20:17:26Z",
       "headline": "Elon Musk Flags Taiwan as AI\u2019s Weak Link. These Semiconductor ETFs Could Offer a Hedge",
@@ -295,17 +306,6 @@
         "NVDA"
       ],
       "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61796363/why-is-iren-stock-falling-on-tuesday"
-    },
-    {
-      "created_at": "2026-09-15T16:00:57Z",
-      "headline": "QUICK SPARK: UBS Tags Palantir 'Best AI Enabler'",
-      "source": "benzinga",
-      "symbols": [
-        "NVDA",
-        "PLTR",
-        "RXT"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/09/61796212/quick-spark-ubs-tags-palantir-best-ai-enabler"
     }
   ],
   "regime": "DEFENSIVE",
@@ -316,7 +316,7 @@
       "price": 670.49,
       "reason": "5d +9.3%; 20d +17.8%; vs SPY +19.8%; RSI 84; volume 1.1x; volatility 34.1%; news +0.00",
       "relative_strength_20d": 0.197697,
-      "score": 0.763087,
+      "score": 0.76309,
       "symbol": "META"
     },
     {
@@ -332,7 +332,7 @@
       "price": 331.335,
       "reason": "5d +4.8%; 20d +8.4%; vs SPY +10.3%; RSI 67; volume 0.7x; volatility 23.9%; news +0.11",
       "relative_strength_20d": 0.103327,
-      "score": 0.600157,
+      "score": 0.60016,
       "symbol": "AAPL"
     },
     {
