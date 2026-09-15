@@ -40,6 +40,7 @@ class Portfolio:
     created_at: str = field(default_factory=utc_now)
     updated_at: str = field(default_factory=utc_now)
     cycle_count: int = 0
+    high_water_mark: float = 1_000.0
 
     def equity(self) -> float:
         return self.cash + sum(position.market_value for position in self.positions.values())
@@ -66,6 +67,7 @@ class Portfolio:
             created_at=payload.get("created_at", utc_now()),
             updated_at=payload.get("updated_at", utc_now()),
             cycle_count=int(payload.get("cycle_count", 0)),
+            high_water_mark=float(payload.get("high_water_mark", payload.get("starting_cash", 1_000.0))),
         )
 
 
