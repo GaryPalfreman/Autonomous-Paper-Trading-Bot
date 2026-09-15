@@ -48,7 +48,26 @@ jobs:
           ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
           ALPACA_API_SECRET: ${{ secrets.ALPACA_API_SECRET }}
           ALPACA_DATA_FEED: iex
-        run: python scripts/run_cycle.py
+        run: |
+          set +e
+          python scripts/run_cycle.py > /tmp/paper-cycle.log 2>&1
+          cycle_status=$?
+          cat /tmp/paper-cycle.log
+          if [ "$cycle_status" -ne 0 ]; then
+            mkdir -p reports
+            {
+              echo "# Autonomous Paper Portfolio — Cycle Error"
+              echo
+              echo "Generated: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+              echo
+              echo "The virtual portfolio was not changed. The latest research cycle failed with:"
+              echo '```text'
+              tail -c 6000 /tmp/paper-cycle.log
+              echo '```'
+              echo
+              echo "> No real orders can be submitted by this project."
+            } > reports/latest.md
+          fi
       - name: Persist paper portfolio results
         if: steps.credentials.outputs.ready == 'true'
         run: |
