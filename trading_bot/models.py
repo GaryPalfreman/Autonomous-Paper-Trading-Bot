@@ -80,6 +80,8 @@ class Signal:
     volatility_20d: float
     news_score: float
     reason: str
+    relative_strength_20d: float = 0.0
+    volume_ratio: float = 1.0
 
 
 @dataclass(frozen=True)
