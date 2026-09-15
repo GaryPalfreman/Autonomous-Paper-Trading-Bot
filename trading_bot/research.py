@@ -71,4 +71,14 @@ def build_market_research(
             }
             for signal in signals[:10]
         ],
+        "recent_news": [
+            {
+                "headline": item.get("headline", ""),
+                "source": item.get("source", ""),
+                "created_at": item.get("created_at") or item.get("updated_at"),
+                "symbols": item.get("symbols", []),
+                "url": item.get("url", ""),
+            }
+            for item in news[:20]
+        ],
     }
