@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "buy_threshold": 0.3,
+  "sell_threshold": -0.12,
+  "updated_at": "2026-09-15T00:00:00+00:00",
+  "explanation": "Initial balanced momentum, trend and news policy."
+}
