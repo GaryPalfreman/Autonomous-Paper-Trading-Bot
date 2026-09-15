@@ -9,9 +9,12 @@ This repository contains a read-only Alpaca market-data client and an internal p
 ## Features
 
 - Live Alpaca prices, market clock and financial news
-- Autonomous 30-minute decision cycles during regular US market hours
+- Autonomous 15-minute decision cycles during regular US market hours
 - Fractional paper positions and US$1,000 starting capital
-- Momentum, trend, volatility, RSI and news scoring
+- Live snapshot pricing plus momentum, trend, volume, volatility, RSI and news research
+- Broad liquid universe spanning index, sector and large-cap opportunities
+- SPY-relative strength, market-breadth and risk-regime analysis
+- Bot-versus-SPY benchmark, excess-return and US$1 million goal tracking
 - Simulated bid/ask slippage
 - Fixed exposure, position, stop-loss and profit-target controls
 - Persistent JSON/CSV portfolio, trade, decision and equity history
@@ -40,7 +43,13 @@ Add these repository secrets under **Settings → Secrets and variables → Acti
 - `ALPACA_API_KEY`
 - `ALPACA_API_SECRET`
 
-The included workflow runs every 30 minutes across the US trading window. It checks Alpaca's market clock before creating paper fills and commits only the small simulation ledger and report files.
+The included workflow runs every 15 minutes across the US trading window. It checks Alpaca's official market clock before creating paper fills and commits only the small simulation ledger, research snapshot and report files.
+
+## Performance objective
+
+The bot is designed to **aim** for better risk-managed returns than a US$1,000 SPY buy-and-hold benchmark. The dashboard reports excess return directly, so performance cannot be judged only by whether the dollar balance rose.
+
+The US$1 million figure is a long-term simulation objective (a 1,000x increase), not a forecast or guarantee. It never overrides the fixed position, exposure, stop-loss or real-order prohibitions. Strategy calibration may adjust entry selectivity only after enough completed paper trades; it cannot relax the safety boundaries.
 
 ## Streamlit Community Cloud
 
