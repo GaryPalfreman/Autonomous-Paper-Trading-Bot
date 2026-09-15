@@ -42,3 +42,15 @@ def test_no_trade_below_threshold(tmp_path: Path) -> None:
     trades = PaperEngine(settings, storage, StrategyPolicy()).process(portfolio, [signal("QQQ", 0.1, 400)])
     assert trades == []
     assert portfolio.cash == 1000
+
+
+def test_defensive_regime_blocks_new_position(tmp_path: Path) -> None:
+    settings = Settings(data_dir=str(tmp_path / "data"), report_dir=str(tmp_path / "reports"))
+    storage = Storage(settings.data_dir, settings.report_dir)
+    portfolio = Portfolio(starting_cash=1000, cash=1000)
+    trades = PaperEngine(settings, storage, StrategyPolicy()).process(
+        portfolio, [signal("NVDA", 0.9, 200)], allow_new_entries=False,
+    )
+    assert trades == []
+    assert portfolio.positions == {}
+    assert "RISK_BLOCKED" in storage.decisions_path.read_text(encoding="utf-8")
