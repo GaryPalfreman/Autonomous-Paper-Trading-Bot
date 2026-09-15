@@ -75,7 +75,7 @@ def build_signal(
     score = max(-1.0, min(1.0, momentum_component + trend_component + rsi_component + news_component + relative_strength_component + volume_component - volatility_penalty))
 
     reason = (
-        f"5d {return_5:+.1%}; 20d {return_20:+.1%}; RSI {current_rsi:.0f}; "
+        f"5d {return_5:+.1%}; 20d {return_20:+.1%}; "
         f"vs SPY {relative_strength:+.1%}; RSI {current_rsi:.0f}; volume {volume_ratio:.1f}x; "
         f"volatility {volatility:.1%}; news {news_score:+.2f}"
     )
