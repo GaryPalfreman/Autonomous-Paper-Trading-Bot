@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from datetime import datetime, timezone
+import math
 
 from .config import Settings
 from .models import Portfolio, Position, Signal, Trade, utc_now
@@ -31,22 +32,38 @@ class PaperEngine:
 
     def _buy(self, portfolio: Portfolio, signal: Signal) -> Trade | None:
         equity = portfolio.equity()
-        target = min(equity * self.settings.max_position_pct, portfolio.cash - equity * (1 - self.settings.max_invested_pct))
+        estimated_daily_move = signal.volatility_20d / math.sqrt(252)
+        risk_distance = max(self.settings.stop_loss_pct, min(0.12, estimated_daily_move * 2))
+        risk_sized_target = equity * self.settings.max_risk_per_trade_pct / risk_distance
+        target = min(
+            equity * self.settings.max_position_pct,
+            risk_sized_target,
+            portfolio.cash - equity * (1 - self.settings.max_invested_pct),
+        )
         if target < self.settings.minimum_order_usd:
             return None
         fill = self._fill_price(signal.price, "BUY")
         quantity = target / fill
         portfolio.cash -= target
-        portfolio.positions[signal.symbol] = Position(
-            signal.symbol, quantity, fill, utc_now(), signal.price, signal.price, signal.reason,
+        sizing_reason = (
+            f"Risk-sized {target / equity:.1%} position with approximately "
+            f"{self.settings.max_risk_per_trade_pct:.1%} portfolio risk; {signal.reason}"
         )
-        trade = Trade(utc_now(), "BUY", signal.symbol, quantity, fill, target, portfolio.cash, signal.reason, signal.score)
+        portfolio.positions[signal.symbol] = Position(
+            signal.symbol, quantity, fill, utc_now(), signal.price, signal.price, sizing_reason,
+        )
+        trade = Trade(utc_now(), "BUY", signal.symbol, quantity, fill, target, portfolio.cash, sizing_reason, signal.score)
         self.storage.append_trade(trade)
         return trade
 
     def process(self, portfolio: Portfolio, signals: list[Signal], allow_new_entries: bool = True) -> list[Trade]:
         by_symbol = {signal.symbol: signal for signal in signals}
         trades: list[Trade] = []
+        current_equity = portfolio.equity()
+        portfolio.high_water_mark = max(portfolio.high_water_mark, current_equity)
+        drawdown = current_equity / portfolio.high_water_mark - 1 if portfolio.high_water_mark else 0.0
+        drawdown_blocked = drawdown <= -self.settings.max_portfolio_drawdown_pct
+        allow_new_entries = allow_new_entries and not drawdown_blocked
 
         for symbol in list(portfolio.positions):
             position = portfolio.positions[symbol]
@@ -87,13 +104,15 @@ class PaperEngine:
             reason = signal.reason
             if not allow_new_entries and action == "WATCH" and signal.score >= self.policy.buy_threshold:
                 action = "RISK_BLOCKED"
-                reason = f"New entry blocked by defensive market regime; {signal.reason}"
+                block_reason = "portfolio drawdown circuit breaker" if drawdown_blocked else "defensive market regime"
+                reason = f"New entry blocked by {block_reason}; {signal.reason}"
             self.storage.append_decision({
                 "timestamp": utc_now(), "symbol": signal.symbol, "action": action,
                 "score": round(signal.score, 5), "price": signal.price, "reason": reason,
             })
 
         portfolio.cycle_count += 1
+        portfolio.high_water_mark = max(portfolio.high_water_mark, portfolio.equity())
         self.storage.save_portfolio(portfolio)
         self.storage.append_equity(portfolio)
         return trades
