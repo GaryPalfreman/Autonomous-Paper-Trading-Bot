@@ -3,6 +3,7 @@ from pathlib import Path
 import pandas as pd
 
 from trading_bot.models import Signal
+from trading_bot.models import Portfolio
 from trading_bot.research import build_market_research
 from trading_bot.storage import Storage
 
@@ -44,3 +45,13 @@ def test_benchmark_tracks_equivalent_starting_capital(tmp_path: Path) -> None:
     assert second["value"] == 1_100.0
     assert round(second["return"], 6) == 0.1
     assert storage.benchmark_history_path.exists()
+
+
+def test_daily_snapshot_records_cash_and_stock_amounts(tmp_path: Path) -> None:
+    storage = Storage(str(tmp_path / "data"), str(tmp_path / "reports"))
+    portfolio = Portfolio(starting_cash=1_000, cash=1_000)
+    storage.append_positions_snapshot(portfolio)
+    content = storage.positions_history_path.read_text(encoding="utf-8")
+    assert "symbol" in content
+    assert "CASH" in content
+    assert "1000" in content
