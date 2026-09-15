@@ -157,6 +157,12 @@ with research_tab:
             st.info("No eligible candidates were produced.")
         else:
             st.dataframe(candidates, width="stretch", hide_index=True)
+        headlines = pd.DataFrame(research.get("recent_news", []))
+        st.subheader("Recent market news reviewed")
+        if headlines.empty:
+            st.info("No recent news was returned for the research universe.")
+        else:
+            st.dataframe(headlines, width="stretch", hide_index=True)
         if not research.get("new_entries_allowed", False):
             st.warning("Defensive regime: new entries are blocked while existing positions remain protected by exit rules.")
 
