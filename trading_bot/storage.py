@@ -29,6 +29,7 @@ class Storage:
         self.benchmark_path = self.data_dir / "benchmark.json"
         self.research_path = self.data_dir / "research.json"
         self.benchmark_history_path = self.data_dir / "benchmark_history.csv"
+        self.positions_history_path = self.data_dir / "positions_history.csv"
 
     @staticmethod
     def _atomic_json(path: Path, payload: dict) -> None:
@@ -111,6 +112,40 @@ class Storage:
 
     def write_research(self, payload: dict) -> None:
         self._atomic_json(self.research_path, payload)
+
+    def append_positions_snapshot(self, portfolio: Portfolio) -> None:
+        timestamp = utc_now()
+        equity = portfolio.equity()
+        fields = (
+            "timestamp", "date", "symbol", "quantity", "average_entry", "latest_price",
+            "market_value", "portfolio_weight", "unrealized_pnl",
+        )
+        rows = []
+        for position in portfolio.positions.values():
+            rows.append({
+                "timestamp": timestamp,
+                "date": timestamp[:10],
+                "symbol": position.symbol,
+                "quantity": round(position.quantity, 8),
+                "average_entry": round(position.average_price, 6),
+                "latest_price": round(position.last_price, 6),
+                "market_value": round(position.market_value, 4),
+                "portfolio_weight": round(position.market_value / equity, 8) if equity else 0,
+                "unrealized_pnl": round(position.unrealized_pnl, 4),
+            })
+        rows.append({
+            "timestamp": timestamp,
+            "date": timestamp[:10],
+            "symbol": "CASH",
+            "quantity": 1,
+            "average_entry": 1,
+            "latest_price": 1,
+            "market_value": round(portfolio.cash, 4),
+            "portfolio_weight": round(portfolio.cash / equity, 8) if equity else 0,
+            "unrealized_pnl": 0,
+        })
+        for row in rows:
+            self._append_csv(self.positions_history_path, fields, row)
 
     def write_report(self, content: str) -> None:
         (self.report_dir / "latest.md").write_text(content, encoding="utf-8")
