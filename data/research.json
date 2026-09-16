@@ -6,14 +6,24 @@
   "breadth_above_20d_average": 0.243243,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-09-16T20:18:23.644426+00:00",
-  "latest_market_timestamp": "2026-09-16T20:18:23.261585075Z",
+  "generated_at": "2026-09-16T23:05:37.094013+00:00",
+  "latest_market_timestamp": "2026-09-16T20:53:53.82925386Z",
   "market_is_open": false,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
   "next_close": "2026-09-17T16:00:00-04:00",
   "next_open": "2026-09-17T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-09-16T21:10:06Z",
+      "headline": "Generac Stock Soars on $8 Billion Amazon Data Center Deal",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "GNRC"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61831070/generac-stock-soars-on-8-billion-amazon-data-center-deal"
+    },
     {
       "created_at": "2026-09-16T19:49:22Z",
       "headline": "Fed Rate Hike Is Back: 4 ETFs That Could Benefit From Higher Rates, Sticky Inflation",
@@ -297,15 +307,6 @@
         "NVDA"
       ],
       "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61822125/why-is-iren-stock-surging-wednesday"
-    },
-    {
-      "created_at": "2026-09-16T16:31:14Z",
-      "headline": "What's Going On With Amazon Stock Today?",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61822025/whats-going-on-with-amazon-stock-today-5"
     }
   ],
   "regime": "DEFENSIVE",
@@ -313,10 +314,10 @@
   "top_candidates": [
     {
       "news_score": 0.083333,
-      "price": 673.59,
-      "reason": "5d +3.1%; 20d +23.9%; vs SPY +25.6%; RSI 87; volume 0.9x; volatility 27.9%; news +0.08",
-      "relative_strength_20d": 0.25648,
-      "score": 0.653071,
+      "price": 673.88,
+      "reason": "5d +3.1%; 20d +24.0%; vs SPY +25.7%; RSI 87; volume 0.9x; volatility 27.9%; news +0.08",
+      "relative_strength_20d": 0.257013,
+      "score": 0.655316,
       "symbol": "META"
     },
     {
@@ -324,7 +325,7 @@
       "price": 332.49,
       "reason": "5d +5.4%; 20d +7.2%; vs SPY +8.9%; RSI 67; volume 0.7x; volatility 23.5%; news +0.13",
       "relative_strength_20d": 0.089347,
-      "score": 0.573876,
+      "score": 0.573878,
       "symbol": "AAPL"
     },
     {
@@ -340,7 +341,7 @@
       "price": 342.94,
       "reason": "5d +3.7%; 20d -0.3%; vs SPY +1.5%; RSI 52; volume 0.8x; volatility 23.3%; news +0.00",
       "relative_strength_20d": 0.014821,
-      "score": 0.186665,
+      "score": 0.18667,
       "symbol": "GOOGL"
     },
     {
@@ -348,7 +349,7 @@
       "price": 211.55,
       "reason": "5d -1.1%; 20d +3.7%; vs SPY +5.5%; RSI 66; volume 1.1x; volatility 22.1%; news +0.00",
       "relative_strength_20d": 0.054768,
-      "score": 0.176723,
+      "score": 0.176727,
       "symbol": "CVX"
     },
     {
@@ -356,7 +357,7 @@
       "price": 370.98,
       "reason": "5d +0.9%; 20d +1.8%; vs SPY +3.6%; RSI 39; volume 1.3x; volatility 18.6%; news +0.00",
       "relative_strength_20d": 0.035744,
-      "score": 0.146692,
+      "score": 0.146701,
       "symbol": "V"
     },
     {
@@ -368,11 +369,11 @@
       "symbol": "TSLA"
     },
     {
-      "news_score": 0.066667,
+      "news_score": 0.083333,
       "price": 490.45,
-      "reason": "5d -0.2%; 20d +2.0%; vs SPY +3.7%; RSI 42; volume 1.1x; volatility 21.6%; news +0.07",
+      "reason": "5d -0.2%; 20d +2.0%; vs SPY +3.7%; RSI 42; volume 1.1x; volatility 21.6%; news +0.08",
       "relative_strength_20d": 0.037189,
-      "score": 0.086394,
+      "score": 0.088895,
       "symbol": "MSFT"
     },
     {
