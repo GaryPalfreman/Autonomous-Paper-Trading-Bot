@@ -1,19 +1,206 @@
 {
   "benchmark_above_20d_average": false,
-  "benchmark_above_50d_average": true,
-  "benchmark_price": 759.565,
+  "benchmark_above_50d_average": false,
+  "benchmark_price": 754.05,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.27027,
+  "breadth_above_20d_average": 0.243243,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-09-16T17:24:06.127934+00:00",
-  "latest_market_timestamp": "2026-09-16T17:24:05.641223285Z",
-  "market_is_open": true,
-  "new_entries_allowed": true,
+  "generated_at": "2026-09-16T20:18:23.644426+00:00",
+  "latest_market_timestamp": "2026-09-16T20:18:23.261585075Z",
+  "market_is_open": false,
+  "new_entries_allowed": false,
   "news_articles_reviewed": 50,
-  "next_close": "2026-09-16T16:00:00-04:00",
+  "next_close": "2026-09-17T16:00:00-04:00",
   "next_open": "2026-09-17T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-09-16T19:49:22Z",
+      "headline": "Fed Rate Hike Is Back: 4 ETFs That Could Benefit From Higher Rates, Sticky Inflation",
+      "source": "benzinga",
+      "symbols": [
+        "SGOV",
+        "TIP",
+        "USFR",
+        "VTV",
+        "XLE"
+      ],
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/09/61828395/fed-rate-hike-is-back-4-etfs-that-could-benefit-from-higher-rates-sticky-inflation"
+    },
+    {
+      "created_at": "2026-09-16T19:38:16Z",
+      "headline": "Why iShares Russell 2000 ETF Is Falling Wednesday",
+      "source": "benzinga",
+      "symbols": [
+        "IWM"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61828091/why-ishares-russell-2000-etf-is-falling-wednesday"
+    },
+    {
+      "created_at": "2026-09-16T19:34:19Z",
+      "headline": "Stocks Sink, 10-Year Yield Reclaims 5% as Warsh Delivers His Hawkish Show",
+      "source": "benzinga",
+      "symbols": [
+        "BTCUSD",
+        "DIA",
+        "GLD",
+        "IWM",
+        "QQQ",
+        "SPY",
+        "XLE",
+        "XLK"
+      ],
+      "url": "https://www.benzinga.com/news/politics/26/09/61827936/stocks-sink-10-year-yield-reclaims-5-percent-warsh-hawkish-press-conference"
+    },
+    {
+      "created_at": "2026-09-16T19:15:36Z",
+      "headline": "Fed Hikes 25 Basis Points, Projects Another Hike in 2026: Do Prediction Markets Agree?",
+      "source": "benzinga",
+      "symbols": [
+        "JPM",
+        "QQQ",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61827327/fed-rate-hike-another-increase-2026"
+    },
+    {
+      "created_at": "2026-09-16T19:01:58Z",
+      "headline": "SpaceX-Tesla Merger: Ron Baron Told Elon Musk 'Whatever You Decide... Is What I'm Going to Support'",
+      "source": "benzinga",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61826877/spacex-tesla-merger-ron-baron-told-elon-musk-whatever-you-decide-is-what-im-going-to-support"
+    },
+    {
+      "created_at": "2026-09-16T18:57:39Z",
+      "headline": "J.B. Hunt\u2019s Diesel Shock Hits Transportation ETFs: Which Funds Have the Most Fuel-Sensitive Exposure?",
+      "source": "benzinga",
+      "symbols": [
+        "FTXR",
+        "GM",
+        "IYT",
+        "JBHT",
+        "KNX",
+        "ODFL",
+        "R",
+        "SNDR",
+        "TSLA",
+        "UNP",
+        "UPS",
+        "WERN",
+        "XPO",
+        "XTN"
+      ],
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/61826719/j-b-hunts-diesel-shock-hits-transportation-etfs-which-funds-have-the-most-fuel-sensitive-exposure"
+    },
+    {
+      "created_at": "2026-09-16T18:24:40Z",
+      "headline": "Tesla Killed Its Solar Roof. Now Elon Musk Wants 100 GW of Solar",
+      "source": "benzinga",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61825724/tesla-100gw-solar"
+    },
+    {
+      "created_at": "2026-09-16T18:03:05Z",
+      "headline": "Why Is IBM Stock Falling Wednesday?",
+      "source": "benzinga",
+      "symbols": [
+        "DIVB",
+        "IBM",
+        "TDIV",
+        "TDVI",
+        "XLK"
+      ],
+      "url": "https://www.benzinga.com/markets/large-cap/26/09/61824915/why-is-ibm-stock-falling-wednesday"
+    },
+    {
+      "created_at": "2026-09-16T17:58:36Z",
+      "headline": "Tesla Gets Love From Ron Baron for Not Hitting Ducks: \u2018Time to Buy The Stock is Now\u2019",
+      "source": "benzinga",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61824663/tesla-gets-love-from-ron-baron-for-not-hitting-ducks-time-to-buy-the-stock-is-now"
+    },
+    {
+      "created_at": "2026-09-16T17:48:01Z",
+      "headline": "Stocks Rise On Dovish Fed Hike Hopes\u2014Strong Retail Sales Surprise",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "BTCUSD",
+        "GOOG",
+        "META",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "SPY",
+        "TSLA",
+        "USO"
+      ],
+      "url": "https://www.benzinga.com/Opinion/26/09/61824301/stocks-rise-on-dovish-fed-hike-hopes-strong-retail-sales-surprise"
+    },
+    {
+      "created_at": "2026-09-16T17:35:21Z",
+      "headline": "10 Health Care Stocks Whale Activity In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "ABVX",
+        "ARWR",
+        "DHR",
+        "GMAB",
+        "HALO",
+        "HCA",
+        "SMMT",
+        "TEM",
+        "UNH",
+        "VKTX"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/09/61823880/10-health-care-stocks-whale-activity-today-s-session"
+    },
+    {
+      "created_at": "2026-09-16T17:35:21Z",
+      "headline": "10 Financials Stocks With Whale Alerts In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "AFRM",
+        "APO",
+        "BAC",
+        "BLK",
+        "GLXY",
+        "GS",
+        "NU",
+        "OSCR",
+        "WFC",
+        "XYZ"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/09/61823879/10-financials-stocks-whale-alerts-today-s-session"
+    },
+    {
+      "created_at": "2026-09-16T17:35:21Z",
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "AMD",
+        "DELL",
+        "MARA",
+        "MRVL",
+        "MSTR",
+        "MU",
+        "NVDA",
+        "ORCL",
+        "PATH",
+        "QBTS"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/09/61823878/10-information-technology-stocks-whale-alerts-today-s-session"
+    },
     {
       "created_at": "2026-09-16T17:20:10Z",
       "headline": "Bitcoin Fed Meeting Preview: Could One Decision Pump BTC?",
@@ -119,255 +306,90 @@
         "AMZN"
       ],
       "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61822025/whats-going-on-with-amazon-stock-today-5"
-    },
-    {
-      "created_at": "2026-09-16T16:27:09Z",
-      "headline": "Cathie Wood Says SpaceX Didn't Need an IPO\u2014Until Data Centers in Space Came Along",
-      "source": "benzinga",
-      "symbols": [
-        "MSFT",
-        "NVDA",
-        "SPCX"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61821858/cathie-wood-spacex-orbital-ai-public-markets"
-    },
-    {
-      "created_at": "2026-09-16T16:13:41Z",
-      "headline": "Warren Buffett, Donald Trump Bet on Same 17 Stocks \u2014 Some Might Surprise You",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "AXP",
-        "BAC",
-        "BRK",
-        "BRK/A",
-        "BRK/B",
-        "COF",
-        "CVX",
-        "DAL",
-        "DHI",
-        "DVA",
-        "GOOG",
-        "GOOGL",
-        "KHC",
-        "KO",
-        "KR",
-        "LEN",
-        "MCO",
-        "NUE",
-        "OXY",
-        "VRSN"
-      ],
-      "url": "https://www.benzinga.com/news/politics/26/09/61821505/warren-buffett-donald-trump-bet-on-same-17-stocks-some-might-surprise-you"
-    },
-    {
-      "created_at": "2026-09-16T16:12:19Z",
-      "headline": "Nvidia Is Fighting the AI Slowdown Narrative\u2014With Power as Its Next Problem",
-      "source": "benzinga",
-      "symbols": [
-        "CRM",
-        "GOOG",
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61821456/nvidia-ai-power-grid"
-    },
-    {
-      "created_at": "2026-09-16T16:05:48Z",
-      "headline": "McDonald's May Focus On Menu Innovation, Remodels In Focus In Medium Term, Say Analysts",
-      "source": "benzinga",
-      "symbols": [
-        "MCD",
-        "WMT"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/initiation/26/09/61821171/mcdonalds-may-focus-on-menu-innovation-remodels-in-focus-in-medium-term-say-analysts"
-    },
-    {
-      "created_at": "2026-09-16T15:53:04Z",
-      "headline": "Super Micro Rebounds 3% After This Week's AI Infrastructure Selloff",
-      "source": "benzinga",
-      "symbols": [
-        "AMD",
-        "ARTY",
-        "AVGO",
-        "BUZZ",
-        "INTC",
-        "MRVL",
-        "NVDA",
-        "PFXF",
-        "SMCI"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/09/61820795/super-micro-rebounds-3-after-this-weeks-ai-infrastructure-selloff"
-    },
-    {
-      "created_at": "2026-09-16T15:52:33Z",
-      "headline": "Intel Analyst Raises Price Target On Terafab, AI-Driven Turnaround",
-      "source": "benzinga",
-      "symbols": [
-        "INTC",
-        "NVDA",
-        "SIEGY",
-        "SPCX",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/09/61820775/intel-analyst-raises-price-target-on-terafab-ai-driven-turnaround"
-    },
-    {
-      "created_at": "2026-09-16T15:23:23Z",
-      "headline": "Coinbase Institutional Business Is An \u2018Increasingly Important Contributor\u2019 To Growth, Says Bullish Analyst",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "COIN"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/09/61819807/coinbase-institutional-business-is-an-increasingly-important-contributor-to-growth-says-bullish-analyst"
-    },
-    {
-      "created_at": "2026-09-16T15:07:27Z",
-      "headline": "Fed Rate Hike Expected Today: Here's Where Benzinga Readers Think SPY Closes",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/markets/economic-data/26/09/61819129/fed-rate-hike-expected-today-heres-where-benzinga-readers-think-spy-closes"
-    },
-    {
-      "created_at": "2026-09-16T15:00:06Z",
-      "headline": "Florida Rep. Byron Donalds Sold Up to $60K Worth of Howmet Aerospace Stock",
-      "source": "benzinga",
-      "symbols": [
-        "HWM",
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/government/26/09/61818790/florida-rep-byron-donalds-sold-60k-worth-howmet-aerospace-stock"
-    },
-    {
-      "created_at": "2026-09-16T14:59:31Z",
-      "headline": "Beyond Hype: Twist Bioscience Secures Data Pipeline Role In Eli Lilly TuneLab Ecosystem",
-      "source": "benzinga",
-      "symbols": [
-        "LLY",
-        "TWST"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61818749/beyond-hype-twist-bioscience-secures-data-pipeline-role-in-eli-lilly-tunelab-ecosystem"
-    },
-    {
-      "created_at": "2026-09-16T14:25:08Z",
-      "headline": "Why Is Meta Platforms Stock Gaining Wednesday?",
-      "source": "benzinga",
-      "symbols": [
-        "FDN",
-        "IGPT",
-        "META",
-        "SOCL"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/09/61817308/why-is-meta-platforms-stock-gaining-wednesday"
-    },
-    {
-      "created_at": "2026-09-16T13:53:36Z",
-      "headline": "AI Safety Could Mean More Nvidia GPU Demand, Not Less, SemiAnalysis Says",
-      "source": "benzinga",
-      "symbols": [
-        "CRWD",
-        "NVDA",
-        "OKTA",
-        "PANW",
-        "ZS"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61815823/nvidia-ai-safety-gpu-demand-semianalysis"
-    },
-    {
-      "created_at": "2026-09-16T13:44:21Z",
-      "headline": "Nvidia\u2019s AI Is Moving Into Cell Towers\u2014and Nokia Is Already Testing It",
-      "source": "benzinga",
-      "symbols": [
-        "NOK",
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61815413/nvidia-ai-nokia-cell-towers"
     }
   ],
-  "regime": "NEUTRAL",
-  "regime_score": -0.137838,
+  "regime": "DEFENSIVE",
+  "regime_score": -0.854054,
   "top_candidates": [
     {
-      "news_score": 0.0,
-      "price": 676.265,
-      "reason": "5d +3.5%; 20d +24.4%; vs SPY +25.4%; RSI 87; volume 0.5x; volatility 27.8%; news +0.00",
-      "relative_strength_20d": 0.254214,
-      "score": 0.602451,
+      "news_score": 0.083333,
+      "price": 673.59,
+      "reason": "5d +3.1%; 20d +23.9%; vs SPY +25.6%; RSI 87; volume 0.9x; volatility 27.9%; news +0.08",
+      "relative_strength_20d": 0.25648,
+      "score": 0.653071,
       "symbol": "META"
     },
     {
-      "news_score": 0.066667,
-      "price": 333.02,
-      "reason": "5d +5.6%; 20d +7.4%; vs SPY +8.4%; RSI 68; volume 0.4x; volatility 23.5%; news +0.07",
-      "relative_strength_20d": 0.083869,
-      "score": 0.518984,
+      "news_score": 0.133333,
+      "price": 332.49,
+      "reason": "5d +5.4%; 20d +7.2%; vs SPY +8.9%; RSI 67; volume 0.7x; volatility 23.5%; news +0.13",
+      "relative_strength_20d": 0.089347,
+      "score": 0.573876,
       "symbol": "AAPL"
     },
     {
       "news_score": 0.0,
-      "price": 114.005,
-      "reason": "5d +2.9%; 20d +3.2%; vs SPY +4.2%; RSI 59; volume 0.4x; volatility 15.8%; news +0.00",
-      "relative_strength_20d": 0.041791,
-      "score": 0.220499,
+      "price": 113.015,
+      "reason": "5d +2.0%; 20d +2.3%; vs SPY +4.0%; RSI 55; volume 1.0x; volatility 16.3%; news +0.00",
+      "relative_strength_20d": 0.040019,
+      "score": 0.221011,
       "symbol": "XLC"
     },
     {
       "news_score": 0.0,
-      "price": 345.115,
-      "reason": "5d +4.4%; 20d +0.4%; vs SPY +1.4%; RSI 54; volume 0.5x; volatility 23.1%; news +0.00",
-      "relative_strength_20d": 0.01396,
-      "score": 0.195022,
+      "price": 342.94,
+      "reason": "5d +3.7%; 20d -0.3%; vs SPY +1.5%; RSI 52; volume 0.8x; volatility 23.3%; news +0.00",
+      "relative_strength_20d": 0.014821,
+      "score": 0.186665,
       "symbol": "GOOGL"
     },
     {
       "news_score": 0.0,
-      "price": 213.1,
-      "reason": "5d -0.3%; 20d +4.5%; vs SPY +5.5%; RSI 69; volume 0.6x; volatility 21.0%; news +0.00",
-      "relative_strength_20d": 0.055182,
-      "score": 0.175221,
+      "price": 211.55,
+      "reason": "5d -1.1%; 20d +3.7%; vs SPY +5.5%; RSI 66; volume 1.1x; volatility 22.1%; news +0.00",
+      "relative_strength_20d": 0.054768,
+      "score": 0.176723,
       "symbol": "CVX"
     },
     {
-      "news_score": 0.2,
-      "price": 360.765,
-      "reason": "5d -1.9%; 20d +7.1%; vs SPY +8.1%; RSI 53; volume 0.5x; volatility 51.2%; news +0.20",
-      "relative_strength_20d": 0.081033,
-      "score": 0.136962,
+      "news_score": 0.0,
+      "price": 370.98,
+      "reason": "5d +0.9%; 20d +1.8%; vs SPY +3.6%; RSI 39; volume 1.3x; volatility 18.6%; news +0.00",
+      "relative_strength_20d": 0.035744,
+      "score": 0.146692,
+      "symbol": "V"
+    },
+    {
+      "news_score": 0.185185,
+      "price": 358.13,
+      "reason": "5d -2.7%; 20d +6.3%; vs SPY +8.0%; RSI 52; volume 1.0x; volatility 51.1%; news +0.19",
+      "relative_strength_20d": 0.080399,
+      "score": 0.139847,
       "symbol": "TSLA"
     },
     {
+      "news_score": 0.066667,
+      "price": 490.45,
+      "reason": "5d -0.2%; 20d +2.0%; vs SPY +3.7%; RSI 42; volume 1.1x; volatility 21.6%; news +0.07",
+      "relative_strength_20d": 0.037189,
+      "score": 0.086394,
+      "symbol": "MSFT"
+    },
+    {
       "news_score": 0.0,
-      "price": 64.715,
-      "reason": "5d -0.9%; 20d +1.6%; vs SPY +2.7%; RSI 64; volume 1.2x; volatility 17.4%; news +0.00",
-      "relative_strength_20d": 0.026657,
-      "score": 0.10158,
+      "price": 64.04,
+      "reason": "5d -1.9%; 20d +0.6%; vs SPY +2.3%; RSI 59; volume 1.7x; volatility 19.2%; news +0.00",
+      "relative_strength_20d": 0.023242,
+      "score": 0.076754,
       "symbol": "XLE"
     },
     {
       "news_score": 0.0,
-      "price": 164.9,
-      "reason": "5d +0.5%; 20d -0.4%; vs SPY +0.6%; RSI 64; volume 1.1x; volatility 24.7%; news +0.00",
-      "relative_strength_20d": 0.005877,
-      "score": 0.079606,
+      "price": 163.36,
+      "reason": "5d -0.5%; 20d -1.4%; vs SPY +0.4%; RSI 61; volume 1.4x; volatility 26.1%; news +0.00",
+      "relative_strength_20d": 0.003765,
+      "score": 0.043066,
       "symbol": "XOM"
-    },
-    {
-      "news_score": 0.0,
-      "price": 371.46,
-      "reason": "5d +1.1%; 20d +2.0%; vs SPY +3.0%; RSI 40; volume 0.6x; volatility 18.5%; news +0.00",
-      "relative_strength_20d": 0.029875,
-      "score": 0.055273,
-      "symbol": "V"
-    },
-    {
-      "news_score": 0.0,
-      "price": 493.285,
-      "reason": "5d +0.3%; 20d +2.6%; vs SPY +3.6%; RSI 43; volume 0.6x; volatility 21.1%; news +0.00",
-      "relative_strength_20d": 0.035897,
-      "score": 0.044155,
-      "symbol": "MSFT"
     }
   ],
   "universe_size": 37
