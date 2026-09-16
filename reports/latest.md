@@ -1,31 +1,35 @@
 # Autonomous Paper Portfolio — Latest Update
 
-Generated: 2026-09-15T23:00:09.212705+00:00
-Market open: No
-Portfolio value: **$1,000.00** (+0.00%)
-Cash: **$1,000.00**
-Invested: **$0.00**
+Generated: 2026-09-16T17:24:06.132730+00:00
+Market open: Yes
+Portfolio value: **$999.80** (-0.02%)
+Cash: **$600.02**
+Invested: **$399.78**
 Realised P/L: **$+0.00**
-SPY benchmark: **$995.98** (-0.40%)
-Excess return vs SPY: **+0.40%**
-Long-term simulated goal: **$1,000,000** (0.1000% complete; 1,000.0x remaining)
+SPY benchmark: **$998.44** (-0.16%)
+Excess return vs SPY: **+0.14%**
+Long-term simulated goal: **$1,000,000** (0.1000% complete; 1,000.2x remaining)
 
 ## Market research
-- Regime: **DEFENSIVE** (breadth above 20-day average: 27%)
+- Regime: **NEUTRAL** (breadth above 20-day average: 27%)
 - Source: Alpaca Market Data / iex feed; 37 liquid symbols; 50 recent articles
-- New entries allowed: **No**
+- New entries allowed: **Yes**
 
 ## Positions
-No open positions.
+| Symbol | Quantity | Average | Latest | Value | Unrealised P/L |
+|---|---:|---:|---:|---:|---:|
+| META | 0.29559 | $676.60 | $676.26 | $199.90 | $-0.10 |
+| AAPL | 0.60020 | $333.19 | $333.02 | $199.88 | $-0.10 |
 
 ## Trades this cycle
-- No trades. Holding cash or existing positions was the highest-ranked decision.
+- **BUY META** — $200.00 at $676.60: Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +3.5%; 20d +24.4%; vs SPY +25.4%; RSI 87; volume 0.5x; volatility 27.8%; news +0.00
+- **BUY AAPL** — $199.98 at $333.19: Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +5.6%; 20d +7.4%; vs SPY +8.4%; RSI 68; volume 0.4x; volatility 23.5%; news +0.07
 
 ## Highest-ranked signals
-- **META +0.76** — 5d +9.3%; 20d +17.8%; vs SPY +19.8%; RSI 84; volume 1.1x; volatility 34.1%; news +0.00
-- **CVX +0.72** — 5d +3.7%; 20d +8.3%; vs SPY +10.3%; RSI 79; volume 1.5x; volatility 19.4%; news +0.33
-- **AAPL +0.60** — 5d +4.8%; 20d +8.4%; vs SPY +10.3%; RSI 67; volume 0.7x; volatility 23.9%; news +0.11
-- **XOM +0.50** — 5d +5.3%; 20d +4.8%; vs SPY +6.7%; RSI 71; volume 0.7x; volatility 24.3%; news +0.17
-- **XLE +0.42** — 5d +1.7%; 20d +5.3%; vs SPY +7.2%; RSI 72; volume 1.3x; volatility 16.7%; news +0.07
+- **META +0.60** — 5d +3.5%; 20d +24.4%; vs SPY +25.4%; RSI 87; volume 0.5x; volatility 27.8%; news +0.00
+- **AAPL +0.52** — 5d +5.6%; 20d +7.4%; vs SPY +8.4%; RSI 68; volume 0.4x; volatility 23.5%; news +0.07
+- **XLC +0.22** — 5d +2.9%; 20d +3.2%; vs SPY +4.2%; RSI 59; volume 0.4x; volatility 15.8%; news +0.00
+- **GOOGL +0.20** — 5d +4.4%; 20d +0.4%; vs SPY +1.4%; RSI 54; volume 0.5x; volatility 23.1%; news +0.00
+- **CVX +0.18** — 5d -0.3%; 20d +4.5%; vs SPY +5.5%; RSI 69; volume 0.6x; volatility 21.0%; news +0.00
 
 > Educational simulation only. It cannot submit real brokerage orders.

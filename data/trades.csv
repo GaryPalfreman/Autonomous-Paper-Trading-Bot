@@ -1,0 +1,3 @@
+timestamp,side,symbol,quantity,fill_price,notional,cash_after,reason,score,realized_pnl
+2026-09-16T17:24:06.129750+00:00,BUY,META,0.2955942566523663,676.6031324999999,200.0,800.0,Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +3.5%; 20d +24.4%; vs SPY +25.4%; RSI 87; volume 0.5x; volatility 27.8%; news +0.00,0.6024513469500956,0.0
+2026-09-16T17:24:06.129952+00:00,BUY,AAPL,0.6002044020179644,333.18650999999994,199.9800099950025,600.0199900049975,Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +5.6%; 20d +7.4%; vs SPY +8.4%; RSI 68; volume 0.4x; volatility 23.5%; news +0.07,0.5189837184352046,0.0
