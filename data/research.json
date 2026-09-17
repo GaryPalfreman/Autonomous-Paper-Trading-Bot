@@ -6,14 +6,28 @@
   "breadth_above_20d_average": 0.351351,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-09-17T20:26:48.760115+00:00",
-  "latest_market_timestamp": "2026-09-17T20:26:47.70308382Z",
+  "generated_at": "2026-09-17T22:58:14.558722+00:00",
+  "latest_market_timestamp": "2026-09-17T20:58:00.501204552Z",
   "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
   "next_close": "2026-09-18T16:00:00-04:00",
   "next_open": "2026-09-18T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-09-17T20:51:04Z",
+      "headline": "Ten-Year Treasury Yield Hits 5%: Why QQQ Could Face More Pressure Than Value ETFs",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "QQQ",
+        "VTV"
+      ],
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/61857522/treasury-yield-5-percent-qqq-versus-value-etfs"
+    },
     {
       "created_at": "2026-09-17T19:54:55Z",
       "headline": "JPMorgan Says Bitcoin Could Beat Gold as Analyst Predicts It'll 'Triple' Gold",
@@ -292,18 +306,6 @@
         "TSLA"
       ],
       "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61848891/spacex-stock-for-free-board-member-is-giving-away-shares-to-early-backers"
-    },
-    {
-      "created_at": "2026-09-17T15:38:04Z",
-      "headline": "Micron Jumps 5% as Intel CEO Says Memory Prices Have Surged Over 500%",
-      "source": "benzinga",
-      "symbols": [
-        "INTC",
-        "MU",
-        "NVDA",
-        "SKHY"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61848172/micron-stock-memory-prices-intel-ai-shortage"
     }
   ],
   "regime": "NEUTRAL",
@@ -314,15 +316,15 @@
       "price": 681.48,
       "reason": "5d +5.8%; 20d +24.8%; vs SPY +25.6%; RSI 87; volume 0.8x; volatility 27.8%; news +0.07",
       "relative_strength_20d": 0.256312,
-      "score": 0.736223,
+      "score": 0.736225,
       "symbol": "META"
     },
     {
-      "news_score": 0.266667,
+      "news_score": 0.277778,
       "price": 337.09,
-      "reason": "5d +3.2%; 20d +6.4%; vs SPY +7.2%; RSI 67; volume 0.7x; volatility 22.9%; news +0.27",
+      "reason": "5d +3.2%; 20d +6.4%; vs SPY +7.2%; RSI 67; volume 0.7x; volatility 22.9%; news +0.28",
       "relative_strength_20d": 0.072325,
-      "score": 0.462496,
+      "score": 0.464165,
       "symbol": "AAPL"
     },
     {
@@ -330,7 +332,7 @@
       "price": 347.41,
       "reason": "5d +4.4%; 20d +0.8%; vs SPY +1.7%; RSI 51; volume 0.9x; volatility 23.7%; news +0.07",
       "relative_strength_20d": 0.016856,
-      "score": 0.26422,
+      "score": 0.264221,
       "symbol": "GOOGL"
     },
     {
@@ -338,7 +340,7 @@
       "price": 366.02,
       "reason": "5d +0.7%; 20d +4.2%; vs SPY +5.1%; RSI 58; volume 1.0x; volatility 49.6%; news +0.05",
       "relative_strength_20d": 0.050931,
-      "score": 0.220021,
+      "score": 0.220028,
       "symbol": "TSLA"
     },
     {
@@ -354,31 +356,31 @@
       "price": 211.59,
       "reason": "5d -0.6%; 20d +2.8%; vs SPY +3.7%; RSI 64; volume 1.1x; volatility 21.9%; news +0.00",
       "relative_strength_20d": 0.036848,
-      "score": 0.15149,
+      "score": 0.151509,
       "symbol": "CVX"
     },
     {
-      "news_score": 0.0,
+      "news_score": 0.047619,
       "price": 497.67,
-      "reason": "5d +1.1%; 20d +2.9%; vs SPY +3.8%; RSI 41; volume 1.0x; volatility 22.1%; news +0.00",
+      "reason": "5d +1.1%; 20d +2.9%; vs SPY +3.8%; RSI 41; volume 1.0x; volatility 22.1%; news +0.05",
       "relative_strength_20d": 0.0379,
-      "score": 0.134178,
+      "score": 0.141321,
       "symbol": "MSFT"
     },
     {
-      "news_score": 0.047619,
-      "price": 716.16,
-      "reason": "5d +1.0%; 20d +0.0%; vs SPY +0.9%; RSI 50; volume 1.2x; volatility 13.4%; news +0.05",
-      "relative_strength_20d": 0.008796,
-      "score": 0.102306,
+      "news_score": 0.083333,
+      "price": 716.37,
+      "reason": "5d +1.1%; 20d +0.0%; vs SPY +0.9%; RSI 50; volume 1.2x; volatility 13.4%; news +0.08",
+      "relative_strength_20d": 0.009089,
+      "score": 0.111594,
       "symbol": "QQQ"
     },
     {
       "news_score": 0.0,
-      "price": 64.46,
-      "reason": "5d -0.7%; 20d +1.4%; vs SPY +2.3%; RSI 59; volume 1.2x; volatility 19.3%; news +0.00",
-      "relative_strength_20d": 0.022694,
-      "score": 0.082409,
+      "price": 64.6,
+      "reason": "5d -0.5%; 20d +1.6%; vs SPY +2.5%; RSI 60; volume 1.2x; volatility 19.3%; news +0.00",
+      "relative_strength_20d": 0.024897,
+      "score": 0.103158,
       "symbol": "XLE"
     },
     {
