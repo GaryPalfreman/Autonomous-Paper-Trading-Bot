@@ -1,14 +1,14 @@
 {
   "cash": 600.0199900049975,
   "created_at": "2026-09-15T00:00:00+00:00",
-  "cycle_count": 2,
-  "high_water_mark": 1000.0,
+  "cycle_count": 3,
+  "high_water_mark": 1001.8993345531292,
   "positions": {
     "AAPL": {
       "average_price": 333.18650999999994,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +5.6%; 20d +7.4%; vs SPY +8.4%; RSI 68; volume 0.4x; volatility 23.5%; news +0.07",
-      "highest_price": 333.02,
-      "last_price": 332.49,
+      "highest_price": 335.53499999999997,
+      "last_price": 335.53499999999997,
       "opened_at": "2026-09-16T17:24:06.129942+00:00",
       "quantity": 0.6002044020179644,
       "symbol": "AAPL"
@@ -16,8 +16,8 @@
     "META": {
       "average_price": 676.6031324999999,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +3.5%; 20d +24.4%; vs SPY +25.4%; RSI 87; volume 0.5x; volatility 27.8%; news +0.00",
-      "highest_price": 676.265,
-      "last_price": 673.88,
+      "highest_price": 678.26,
+      "last_price": 678.26,
       "opened_at": "2026-09-16T17:24:06.129738+00:00",
       "quantity": 0.2955942566523663,
       "symbol": "META"
@@ -25,5 +25,5 @@
   },
   "realized_pnl": 0.0,
   "starting_cash": 1000.0,
-  "updated_at": "2026-09-16T23:05:37.095443+00:00"
+  "updated_at": "2026-09-17T17:23:20.337316+00:00"
 }
