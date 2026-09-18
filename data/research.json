@@ -1,395 +1,373 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 762.465,
+  "benchmark_price": 759.175,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.351351,
+  "breadth_above_20d_average": 0.324324,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-09-17T22:58:14.558722+00:00",
-  "latest_market_timestamp": "2026-09-17T20:58:00.501204552Z",
-  "market_is_open": false,
+  "generated_at": "2026-09-18T16:51:19.480443+00:00",
+  "latest_market_timestamp": "2026-09-18T16:51:18.822209414Z",
+  "market_is_open": true,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
   "next_close": "2026-09-18T16:00:00-04:00",
-  "next_open": "2026-09-18T09:30:00-04:00",
+  "next_open": "2026-09-21T09:30:00-04:00",
   "recent_news": [
     {
-      "created_at": "2026-09-17T20:51:04Z",
-      "headline": "Ten-Year Treasury Yield Hits 5%: Why QQQ Could Face More Pressure Than Value ETFs",
+      "created_at": "2026-09-18T15:41:39Z",
+      "headline": "What Is Going on With Broadcom Stock on Friday?",
       "source": "benzinga",
       "symbols": [
-        "AAPL",
-        "MSFT",
-        "MU",
+        "AVGO",
+        "GOOGL",
+        "IETC",
+        "SOXQ",
+        "TRFK"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/09/61873424/what-is-going-on-with-broadcom-stock-on-friday-2"
+    },
+    {
+      "created_at": "2026-09-18T15:34:31Z",
+      "headline": "What's Going On With Sandisk Stock Friday?",
+      "source": "benzinga",
+      "symbols": [
+        "FPX",
         "NVDA",
-        "QQQ",
-        "VTV"
-      ],
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/61857522/treasury-yield-5-percent-qqq-versus-value-etfs"
-    },
-    {
-      "created_at": "2026-09-17T19:54:55Z",
-      "headline": "JPMorgan Says Bitcoin Could Beat Gold as Analyst Predicts It'll 'Triple' Gold",
-      "source": "benzinga",
-      "symbols": [
-        "BLK",
-        "BTCUSD",
-        "GLD",
-        "IBIT",
-        "JPM"
-      ],
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61855556/jpmorgan-says-bitcoin-could-beat-gold"
-    },
-    {
-      "created_at": "2026-09-17T19:41:42Z",
-      "headline": "Fed Rate Hike in October or December? Benzinga Viewers Say This is More Likely",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/markets/economic-data/26/09/61855216/fed-rate-outlook-next-hike-october-or-december"
-    },
-    {
-      "created_at": "2026-09-17T19:18:35Z",
-      "headline": "Trump's Inflation Approval Slumps to 19%: What Do Prediction Markets Say About the Midterms?",
-      "source": "benzinga",
-      "symbols": [
-        "GS",
-        "QQQ",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61854623/trump-inflation-approval-midterms-democrats-polymarket"
-    },
-    {
-      "created_at": "2026-09-17T18:11:42Z",
-      "headline": "Why Is IonQ Stock Surging Thursday?",
-      "source": "benzinga",
-      "symbols": [
-        "IONQ",
-        "NVDA",
-        "SNPS",
-        "WQTM",
-        "XITK",
-        "XQTM"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61853199/why-is-ionq-stock-surging-thursday"
-    },
-    {
-      "created_at": "2026-09-17T17:48:04Z",
-      "headline": "Goldman Slashes Tesla Q3 Delivery Forecast to 435,000: What Do Prediction Markets Say?",
-      "source": "benzinga",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61852446/tesla-q3-deliveries-goldman-kalshi-480000"
-    },
-    {
-      "created_at": "2026-09-17T17:44:06Z",
-      "headline": "Apple\u2019s iPhone Upgrade Cycle Looks Strong As Carrier Incentives Hit $1,200",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "OEF",
-        "OMAH",
-        "TMFC"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/09/61852348/apples-iphone-upgrade-cycle-looks-strong-as-carrier-incentives-hit-1200"
-    },
-    {
-      "created_at": "2026-09-17T17:35:24Z",
-      "headline": "10 Consumer Discretionary Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "BABA",
-        "CROX",
-        "DECK",
-        "DKNG",
-        "DKS",
-        "JD",
-        "LVS",
-        "ORLY",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/09/61852092/10-consumer-discretionary-stocks-whale-alerts-today-s-session"
-    },
-    {
-      "created_at": "2026-09-17T17:35:23Z",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "AMD",
-        "CORZ",
-        "INTC",
-        "KLAC",
-        "MU",
-        "NVDA",
-        "PLTR",
-        "RGTI",
-        "SMCI",
+        "PTF",
+        "RPG",
         "SNDK"
       ],
-      "url": "https://www.benzinga.com/markets/options/26/09/61852090/10-information-technology-stocks-whale-alerts-today-s-session"
+      "url": "https://www.benzinga.com/markets/tech/26/09/61873173/whats-going-on-with-sandisk-stock-friday-5"
     },
     {
-      "created_at": "2026-09-17T17:18:45Z",
-      "headline": "Triple Witching, Falling Oil, and Fed Hopium Drive Up Stocks, But Downside Risks Remain",
+      "created_at": "2026-09-18T15:30:38Z",
+      "headline": "$100 Invested In Meta Platforms 10 Years Ago Would Be Worth This Much Today",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61873031/100-invested-meta-platforms-10-years-ago-would-be-worth-much-today"
+    },
+    {
+      "created_at": "2026-09-18T15:22:18Z",
+      "headline": "GE Aerospace Sees No Airline Fleet Plan Changes Amid Air Traffic Recovery",
+      "source": "benzinga",
+      "symbols": [
+        "GE"
+      ],
+      "url": "https://www.benzinga.com/markets/large-cap/26/09/61872672/ge-aerospace-sees-no-airline-fleet-plan-changes-amid-air-traffic-recovery"
+    },
+    {
+      "created_at": "2026-09-18T15:20:23Z",
+      "headline": "This Crude Refiner Has Beaten Every Magnificent Seven Stock in the Last 2 Years",
       "source": "benzinga",
       "symbols": [
         "AAPL",
         "AMZN",
-        "BTCUSD",
-        "CRWV",
-        "GOOG",
+        "GOOGL",
         "META",
         "MSFT",
-        "NBIS",
         "NVDA",
-        "QQQ",
         "SPY",
-        "TSLA"
+        "TSLA",
+        "VLO"
       ],
-      "url": "https://www.benzinga.com/Opinion/26/09/61851724/triple-witching-falling-oil-and-fed-hopium-drive-up-stocks-but-downside-risks-remain"
+      "url": "https://www.benzinga.com/markets/equities/26/09/61872584/this-crude-refiner-has-beaten-every-magnificent-seven-stock-in-the-last-2-years"
     },
     {
-      "created_at": "2026-09-17T17:22:35Z",
-      "headline": "Nasdaq 100 Rallies as Oil Slides, Yields Retreat: Stock Market Today",
+      "created_at": "2026-09-18T15:09:14Z",
+      "headline": "Tesla\u2019s Optimus Has a New Problem: Figure\u2019s Humanoid Is Getting Better at the Unknown",
       "source": "benzinga",
       "symbols": [
-        "AMD",
-        "AN",
-        "ATI",
-        "BA",
-        "DIA",
-        "GD",
-        "GDX",
-        "GM",
-        "GNRC",
-        "HPE",
-        "IBB",
-        "INTC",
-        "IONQ",
-        "ITB",
-        "IWM",
-        "KRMN",
-        "LEN",
-        "LMT",
-        "MRNA",
-        "MTZ",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61872017/tesla-optimus-figure-ai"
+    },
+    {
+      "created_at": "2026-09-18T15:00:45Z",
+      "headline": "Ohio Rep. David Taylor Bought Up to $30K Worth of Installed Building Prods Stock",
+      "source": "benzinga",
+      "symbols": [
+        "IBP",
+        "MSFT",
+        "PG"
+      ],
+      "url": "https://www.benzinga.com/government/26/09/61871667/ohio-rep-david-taylor-bought-30k-worth-installed-building-prods-stock"
+    },
+    {
+      "created_at": "2026-09-18T14:45:55Z",
+      "headline": "Micron, SanDisk Face New China Rival: Trouble for MU and SNDK Ahead?",
+      "source": "benzinga",
+      "symbols": [
         "MU",
-        "OKLO",
+        "NVDA",
+        "SNDK"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61871184/cxmt-nand-micron-sandisk"
+    },
+    {
+      "created_at": "2026-09-18T14:04:31Z",
+      "headline": "QUICK SPARK: $30B Flows Into ETFs, IVV Leads With $6.5B Inflows",
+      "source": "benzinga",
+      "symbols": [
+        "FBTC",
+        "FLIA",
+        "IBIT",
+        "IVV",
+        "IWM",
+        "SOXX",
+        "USHY",
+        "VBR",
+        "VO",
+        "VTV",
+        "VUG"
+      ],
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/09/61869495/30b-flows-into-etfs-ivv-leads-with-6-5b-inflows"
+    },
+    {
+      "created_at": "2026-09-18T13:52:34Z",
+      "headline": "AI Capex Boom Risks 'Massive Capital Destruction' in the US, Warns Veteran Market Strategist: 'You Could Get Some News Item That Suddenly\u2026'",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "GOOGL",
+        "META",
         "ORCL",
-        "PBW",
-        "QQQ",
-        "RDDT",
-        "RTX",
-        "SITM",
-        "SMCI",
-        "SMH",
-        "SPY",
-        "TAN",
-        "TEM",
-        "TMUS",
-        "VICR",
-        "VOO",
-        "XE",
+        "SPCX"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/09/61868964/ai-capex-boom-risks-massive-capital-destruction-in-the-us-warns-veteran-market-strategist-you-could-get-some-news-item-that-suddenly"
+    },
+    {
+      "created_at": "2026-09-18T13:48:14Z",
+      "headline": "Exxon Sees Power Demand Exploding 65% By 2050",
+      "source": "benzinga",
+      "symbols": [
+        "AMLP",
+        "FENY",
+        "GRID",
+        "HDV",
+        "IGE",
+        "IXC",
+        "IYE",
+        "OIH",
+        "UNG",
+        "URA",
+        "VDE",
+        "WR",
+        "XLE",
+        "XOM",
+        "XOP"
+      ],
+      "url": "https://www.benzinga.com/markets/large-cap/26/09/61868772/exxon-sees-power-demand-exploding-65-by-2050"
+    },
+    {
+      "created_at": "2026-09-18T13:43:26Z",
+      "headline": "Oracle, CoreWeave Dump on AI's $3.6 Trillion Financing Bill",
+      "source": "benzinga",
+      "symbols": [
+        "CORZ",
+        "CRWV",
+        "NVDA",
+        "ORCL"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61868516/oracle-coreweave-ai-financing-3-6-trillion"
+    },
+    {
+      "created_at": "2026-09-18T13:10:06Z",
+      "headline": "Leading And Lagging Sectors For September 18, 2026",
+      "source": "benzinga",
+      "symbols": [
         "XLB",
         "XLC",
         "XLE",
+        "XLF",
+        "XLI",
         "XLK",
         "XLP",
+        "XLRE",
         "XLU",
-        "XLY",
-        "XME",
-        "XOP"
+        "XLV"
       ],
-      "url": "https://www.benzinga.com/news/26/09/61851798/nasdaq-100-rallies-as-oil-slides-yields-retreat-stock-market-today"
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/61867052/leading-and-lagging-sectors-september-18-2026"
     },
     {
-      "created_at": "2026-09-17T17:03:50Z",
-      "headline": "Lucid Stock Gains on Bolt Deal To Deploy Autonomous Vehicles",
+      "created_at": "2026-09-18T13:05:23Z",
+      "headline": "Goldman Sachs, UnitedHealth And A Tech Stock On CNBC\u2019s \u2018Final Trades\u2019",
       "source": "benzinga",
       "symbols": [
-        "LCDL",
-        "LCID",
-        "NVDA"
+        "GS",
+        "TER",
+        "UNH"
       ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61851205/lucid-stock-gains-on-bolt-deal-to-deploy-autonomous-vehicles"
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61866950/goldman-sachs-unitedhealth-and-a-tech-stock-on-cnbcs-final-trades"
     },
     {
-      "created_at": "2026-09-17T16:45:41Z",
-      "headline": "What's Going On With Apple Stock Today?",
+      "created_at": "2026-09-18T12:52:56Z",
+      "headline": "Why Is Netflix Stock Falling Friday?",
+      "source": "benzinga",
+      "symbols": [
+        "AIEQ",
+        "FEPI",
+        "GXPC",
+        "NFLX"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61866539/why-is-netflix-stock-falling-friday"
+    },
+    {
+      "created_at": "2026-09-18T12:58:29Z",
+      "headline": "Florida Governor Candidate Sells 2 Stocks, Buys This Tech Underperformer",
+      "source": "benzinga",
+      "symbols": [
+        "HWM",
+        "NFLX",
+        "PH"
+      ],
+      "url": "https://www.benzinga.com/news/politics/26/09/61866711/florida-governor-candidate-sells-2-stocks-buys-this-tech-underperformer"
+    },
+    {
+      "created_at": "2026-09-18T12:48:14Z",
+      "headline": "This Netflix Analyst Turns Bearish; Here Are Top 5 Downgrades For Friday",
+      "source": "benzinga",
+      "symbols": [
+        "ACN",
+        "CPRT",
+        "FBRT",
+        "MGA",
+        "NFLX",
+        "PANW",
+        "PEGA",
+        "XENE"
+      ],
+      "url": "https://www.benzinga.com/analyst-stock-ratings/downgrades/26/09/61866399/this-netflix-analyst-turns-bearish-here-are-top-5-downgrades-for-friday"
+    },
+    {
+      "created_at": "2026-09-18T12:40:18Z",
+      "headline": "Stock Market Today: S&P 500, Dow Futures Pare Gains, Nasdaq 100 Up as Trump Weighs 'Big Decision' on Iran Military Strikes\u2014 OKLO, MCD, BB, NUE in Focus (UPDATED)",
+      "source": "benzinga",
+      "symbols": [
+        "BB",
+        "BTCUSD",
+        "FEAM",
+        "MCD",
+        "NUE",
+        "OKLO",
+        "QQQ",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/09/61862065/stock-market-today-sp-500-nasdaq-100-futures-rise-as-trump-weighs-big-decision-on-iran-military-strikes-oklo-mcd-bb-nue-in-focus"
+    },
+    {
+      "created_at": "2026-09-18T12:37:53Z",
+      "headline": "Apple Raises the Premium Bet: iPhone 18 Pro Hits Stores, First Foldable Arrives Next",
       "source": "benzinga",
       "symbols": [
         "AAPL"
       ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61850736/whats-going-on-with-apple-stock-today-5"
+      "url": "https://www.benzinga.com/markets/tech/26/09/61866059/apple-raises-the-premium-bet-iphone-18-pro-hits-stores-first-foldable-arrives-next"
     },
     {
-      "created_at": "2026-09-17T16:44:58Z",
-      "headline": "EMA Committee Endorses Novo Nordisk's Hemophilia A Therapy",
+      "created_at": "2026-09-18T12:31:04Z",
+      "headline": "Apple To Rally Around 13%? Here Are 10 Top Analyst Forecasts For Friday",
       "source": "benzinga",
       "symbols": [
-        "LLY",
-        "NVO"
+        "AAPL",
+        "ABEO",
+        "GOOGL",
+        "INSW",
+        "MGA",
+        "MTX",
+        "NFLX",
+        "OCS",
+        "OKTA",
+        "STNG",
+        "XENE"
       ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61850700/ema-committee-endorses-novo-nordisks-hemophilia-a-therapy"
-    },
-    {
-      "created_at": "2026-09-17T16:44:47Z",
-      "headline": "SpaceX Adds $100B in One Day\u2014That\u2019s More Than Two Rocket Labs",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "RKLB",
-        "SPCX"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61850690/spacex-adds-100b-in-one-day-thats-more-than-two-rocket-labs"
-    },
-    {
-      "created_at": "2026-09-17T16:35:41Z",
-      "headline": "Amazon Is Coming After Walmart\u2019s Biggest Delivery Advantage",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "WMT"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/09/61850431/amazon-is-coming-after-walmarts-biggest-delivery-advantage"
-    },
-    {
-      "created_at": "2026-09-17T16:19:05Z",
-      "headline": "Snap Just Turned Its $2,195 Glasses Into an Nvidia AI Story",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "CRM",
-        "NVDA",
-        "SNAP"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61849887/snap-nvidia-ai-glasses"
-    },
-    {
-      "created_at": "2026-09-17T16:12:27Z",
-      "headline": "The Fed Just Raised Rates\u2013How To Cash In On The Hike",
-      "source": "benzinga",
-      "symbols": [
-        "BIL",
-        "CB",
-        "CVX",
-        "JPM",
-        "KIE",
-        "PRU",
-        "SGOV",
-        "USB",
-        "XLF",
-        "XOM"
-      ],
-      "url": "https://www.benzinga.com/Opinion/26/09/61849656/the-fed-just-raised-rates-how-to-cash-in-on-the-hike"
-    },
-    {
-      "created_at": "2026-09-17T16:02:07Z",
-      "headline": "QUICK SPARK: Generac Soars Nearly 20% on $8 Billion Amazon Data Center Deal",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "GNRC"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61849239/generac-gnrc-stock-amazon-deal"
-    },
-    {
-      "created_at": "2026-09-17T15:54:05Z",
-      "headline": "SpaceX Stock for Free? Board Member is Giving Away Shares to Early Backers",
-      "source": "benzinga",
-      "symbols": [
-        "SPCX",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61848891/spacex-stock-for-free-board-member-is-giving-away-shares-to-early-backers"
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/09/61865873/apple-to-rally-around-13-here-are-10-top-analyst-forecasts-for-friday"
     }
   ],
   "regime": "NEUTRAL",
-  "regime_score": -0.089189,
+  "regime_score": -0.105405,
   "top_candidates": [
     {
-      "news_score": 0.066667,
-      "price": 681.48,
-      "reason": "5d +5.8%; 20d +24.8%; vs SPY +25.6%; RSI 87; volume 0.8x; volatility 27.8%; news +0.07",
-      "relative_strength_20d": 0.256312,
-      "score": 0.736225,
+      "news_score": 0.0,
+      "price": 672.35,
+      "reason": "5d +3.8%; 20d +23.2%; vs SPY +23.4%; RSI 84; volume 0.6x; volatility 29.3%; news +0.00",
+      "relative_strength_20d": 0.233973,
+      "score": 0.634839,
       "symbol": "META"
     },
     {
-      "news_score": 0.277778,
-      "price": 337.09,
-      "reason": "5d +3.2%; 20d +6.4%; vs SPY +7.2%; RSI 67; volume 0.7x; volatility 22.9%; news +0.28",
-      "relative_strength_20d": 0.072325,
-      "score": 0.464165,
-      "symbol": "AAPL"
-    },
-    {
-      "news_score": 0.066667,
-      "price": 347.41,
-      "reason": "5d +4.4%; 20d +0.8%; vs SPY +1.7%; RSI 51; volume 0.9x; volatility 23.7%; news +0.07",
-      "relative_strength_20d": 0.016856,
-      "score": 0.264221,
+      "news_score": 0.055556,
+      "price": 350.08,
+      "reason": "5d +3.4%; 20d +2.9%; vs SPY +3.1%; RSI 60; volume 1.0x; volatility 23.3%; news +0.06",
+      "relative_strength_20d": 0.030572,
+      "score": 0.323119,
       "symbol": "GOOGL"
     },
     {
-      "news_score": 0.047619,
-      "price": 366.02,
-      "reason": "5d +0.7%; 20d +4.2%; vs SPY +5.1%; RSI 58; volume 1.0x; volatility 49.6%; news +0.05",
-      "relative_strength_20d": 0.050931,
-      "score": 0.220028,
+      "news_score": 0.125,
+      "price": 334.53,
+      "reason": "5d +0.7%; 20d +7.5%; vs SPY +7.7%; RSI 67; volume 0.6x; volatility 21.9%; news +0.12",
+      "relative_strength_20d": 0.076701,
+      "score": 0.320542,
+      "symbol": "AAPL"
+    },
+    {
+      "news_score": 0.0,
+      "price": 107.28,
+      "reason": "5d +0.1%; 20d +3.6%; vs SPY +3.8%; RSI 60; volume 0.5x; volatility 20.0%; news +0.00",
+      "relative_strength_20d": 0.037665,
+      "score": 0.109032,
+      "symbol": "WMT"
+    },
+    {
+      "news_score": 0.0,
+      "price": 362.05,
+      "reason": "5d -0.9%; 20d +4.9%; vs SPY +5.1%; RSI 47; volume 0.6x; volatility 49.2%; news +0.00",
+      "relative_strength_20d": 0.05113,
+      "score": 0.059497,
       "symbol": "TSLA"
     },
     {
       "news_score": 0.0,
-      "price": 188.06,
-      "reason": "5d +1.5%; 20d +2.4%; vs SPY +3.3%; RSI 56; volume 1.0x; volatility 21.0%; news +0.00",
-      "relative_strength_20d": 0.032683,
-      "score": 0.19321,
+      "price": 187.85,
+      "reason": "5d +0.1%; 20d +2.6%; vs SPY +2.8%; RSI 54; volume 0.5x; volatility 20.9%; news +0.00",
+      "relative_strength_20d": 0.027874,
+      "score": 0.039347,
       "symbol": "XLK"
     },
     {
-      "news_score": 0.0,
-      "price": 211.59,
-      "reason": "5d -0.6%; 20d +2.8%; vs SPY +3.7%; RSI 64; volume 1.1x; volatility 21.9%; news +0.00",
-      "relative_strength_20d": 0.036848,
-      "score": 0.151509,
-      "symbol": "CVX"
+      "news_score": 0.022222,
+      "price": 219.505,
+      "reason": "5d +0.6%; 20d +1.3%; vs SPY +1.5%; RSI 49; volume 0.4x; volatility 46.3%; news +0.02",
+      "relative_strength_20d": 0.015222,
+      "score": 0.002318,
+      "symbol": "NVDA"
     },
     {
-      "news_score": 0.047619,
-      "price": 497.67,
-      "reason": "5d +1.1%; 20d +2.9%; vs SPY +3.8%; RSI 41; volume 1.0x; volatility 22.1%; news +0.05",
-      "relative_strength_20d": 0.0379,
-      "score": 0.141321,
-      "symbol": "MSFT"
-    },
-    {
-      "news_score": 0.083333,
-      "price": 716.37,
-      "reason": "5d +1.1%; 20d +0.0%; vs SPY +0.9%; RSI 50; volume 1.2x; volatility 13.4%; news +0.08",
-      "relative_strength_20d": 0.009089,
-      "score": 0.111594,
+      "news_score": 0.142857,
+      "price": 716.455,
+      "reason": "5d +0.2%; 20d +0.8%; vs SPY +1.0%; RSI 50; volume 0.5x; volatility 13.1%; news +0.14",
+      "relative_strength_20d": 0.009816,
+      "score": -0.004334,
       "symbol": "QQQ"
     },
     {
-      "news_score": 0.0,
-      "price": 64.6,
-      "reason": "5d -0.5%; 20d +1.6%; vs SPY +2.5%; RSI 60; volume 1.2x; volatility 19.3%; news +0.00",
-      "relative_strength_20d": 0.024897,
-      "score": 0.103158,
-      "symbol": "XLE"
+      "news_score": 0.066667,
+      "price": 492.86,
+      "reason": "5d -0.5%; 20d +2.4%; vs SPY +2.6%; RSI 42; volume 0.6x; volatility 22.2%; news +0.07",
+      "relative_strength_20d": 0.026265,
+      "score": -0.004667,
+      "symbol": "MSFT"
     },
     {
       "news_score": 0.0,
-      "price": 112.325,
-      "reason": "5d +0.8%; 20d +0.9%; vs SPY +1.7%; RSI 48; volume 1.0x; volatility 16.3%; news +0.00",
-      "relative_strength_20d": 0.017461,
-      "score": 0.073478,
-      "symbol": "XLC"
+      "price": 210.4,
+      "reason": "5d -1.7%; 20d +2.2%; vs SPY +2.4%; RSI 57; volume 0.5x; volatility 22.0%; news +0.00",
+      "relative_strength_20d": 0.024396,
+      "score": -0.046468,
+      "symbol": "CVX"
     }
   ],
   "universe_size": 37
