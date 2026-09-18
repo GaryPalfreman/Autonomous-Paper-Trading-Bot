@@ -8,7 +8,7 @@
       "average_price": 333.18650999999994,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +5.6%; 20d +7.4%; vs SPY +8.4%; RSI 68; volume 0.4x; volatility 23.5%; news +0.07",
       "highest_price": 337.09,
-      "last_price": 336.245,
+      "last_price": 335.36,
       "opened_at": "2026-09-16T17:24:06.129942+00:00",
       "quantity": 0.6002044020179644,
       "symbol": "AAPL"
@@ -17,7 +17,7 @@
       "average_price": 350.25504,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +3.4%; 20d +2.9%; vs SPY +3.1%; RSI 60; volume 1.0x; volatility 23.3%; news +0.06",
       "highest_price": 351.49,
-      "last_price": 351.49,
+      "last_price": 349.23,
       "opened_at": "2026-09-18T16:51:19.481913+00:00",
       "quantity": 0.5707550515603063,
       "symbol": "GOOGL"
@@ -26,7 +26,7 @@
       "average_price": 676.6031324999999,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +3.5%; 20d +24.4%; vs SPY +25.4%; RSI 87; volume 0.5x; volatility 27.8%; news +0.00",
       "highest_price": 681.48,
-      "last_price": 671.6099999999999,
+      "last_price": 674.135,
       "opened_at": "2026-09-16T17:24:06.129738+00:00",
       "quantity": 0.2955942566523663,
       "symbol": "META"
@@ -34,5 +34,5 @@
   },
   "realized_pnl": 0.0,
   "starting_cash": 1000.0,
-  "updated_at": "2026-09-18T19:20:44.172176+00:00"
+  "updated_at": "2026-09-18T21:45:44.349002+00:00"
 }

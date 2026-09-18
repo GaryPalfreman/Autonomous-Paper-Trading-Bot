@@ -1,19 +1,94 @@
 {
-  "benchmark_above_20d_average": false,
+  "benchmark_above_20d_average": true,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 761.16,
+  "benchmark_price": 762.63,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.297297,
+  "breadth_above_20d_average": 0.351351,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-09-18T19:20:44.168388+00:00",
-  "latest_market_timestamp": "2026-09-18T19:20:43.252503928Z",
-  "market_is_open": true,
+  "generated_at": "2026-09-18T21:45:44.347390+00:00",
+  "latest_market_timestamp": "2026-09-18T20:58:00.000786147Z",
+  "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
-  "next_close": "2026-09-18T16:00:00-04:00",
+  "next_close": "2026-09-21T16:00:00-04:00",
   "next_open": "2026-09-21T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-09-18T20:30:24Z",
+      "headline": "$100 Invested In Walmart 5 Years Ago Would Be Worth This Much Today",
+      "source": "benzinga",
+      "symbols": [
+        "WMT"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61881785/100-invested-walmart-5-years-ago-would-be-worth-much-today"
+    },
+    {
+      "created_at": "2026-09-18T20:12:53Z",
+      "headline": "Congressman Ditches Magnificent Seven Stocks for Consumer Staples: Here's What He Bought",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "ACN",
+        "GOOG",
+        "JPM",
+        "MCD",
+        "NVO",
+        "PEP"
+      ],
+      "url": "https://www.benzinga.com/news/politics/26/09/61881383/congressman-ditches-magnificent-seven-stocks-for-consumer-staples-heres-what-he-bought"
+    },
+    {
+      "created_at": "2026-09-18T20:11:49Z",
+      "headline": "Fed Raises Rates, Yields Hit 2007 Highs as Fuel Costs Set Records: This Week On Wall Street",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "BLSH",
+        "BTCUSD",
+        "CHTR",
+        "COIN",
+        "CRWD",
+        "F",
+        "FDS",
+        "FTNT",
+        "GLW",
+        "GM",
+        "GNRC",
+        "GS",
+        "HOOD",
+        "IEF",
+        "JBHT",
+        "KNX",
+        "LSTR",
+        "MSTR",
+        "NVDA",
+        "ODFL",
+        "PANW",
+        "RVTY",
+        "SNDR",
+        "XPO"
+      ],
+      "url": "https://www.benzinga.com/markets/commodities/26/09/61881343/fed-raises-rates-yields-2007-highs-fuel-costs-records-this-week-wall-street"
+    },
+    {
+      "created_at": "2026-09-18T20:07:11Z",
+      "headline": "EXCLUSIVE: Nvidia's AI Token Trade Has a Catch: 'Attention Correlates. Returns Don't'",
+      "source": "benzinga",
+      "symbols": [
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61880990/nvidia-ai-token-trade"
+    },
+    {
+      "created_at": "2026-09-18T19:18:59Z",
+      "headline": "QUICK SPARK: Want Nvidia on Crypto Rails? \u2018Tokenized Stock Is the Honest Way\u2019",
+      "source": "benzinga",
+      "symbols": [
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61879416/tokenized-nvidia-crypto"
+    },
     {
       "created_at": "2026-09-18T19:15:33Z",
       "headline": "$3.2T Chip Boom: Which Semiconductor ETFs Get The Biggest Slice?",
@@ -265,153 +340,90 @@
         "VLO"
       ],
       "url": "https://www.benzinga.com/markets/equities/26/09/61872584/this-crude-refiner-has-beaten-every-magnificent-seven-stock-in-the-last-2-years"
-    },
-    {
-      "created_at": "2026-09-18T15:09:14Z",
-      "headline": "Tesla\u2019s Optimus Has a New Problem: Figure\u2019s Humanoid Is Getting Better at the Unknown",
-      "source": "benzinga",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61872017/tesla-optimus-figure-ai"
-    },
-    {
-      "created_at": "2026-09-18T15:00:45Z",
-      "headline": "Ohio Rep. David Taylor Bought Up to $30K Worth of Installed Building Prods Stock",
-      "source": "benzinga",
-      "symbols": [
-        "IBP",
-        "MSFT",
-        "PG"
-      ],
-      "url": "https://www.benzinga.com/government/26/09/61871667/ohio-rep-david-taylor-bought-30k-worth-installed-building-prods-stock"
-    },
-    {
-      "created_at": "2026-09-18T14:45:55Z",
-      "headline": "Micron, SanDisk Face New China Rival: Trouble for MU and SNDK Ahead?",
-      "source": "benzinga",
-      "symbols": [
-        "MU",
-        "NVDA",
-        "SNDK"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61871184/cxmt-nand-micron-sandisk"
-    },
-    {
-      "created_at": "2026-09-18T14:04:31Z",
-      "headline": "QUICK SPARK: $30B Flows Into ETFs, IVV Leads With $6.5B Inflows",
-      "source": "benzinga",
-      "symbols": [
-        "FBTC",
-        "FLIA",
-        "IBIT",
-        "IVV",
-        "IWM",
-        "SOXX",
-        "USHY",
-        "VBR",
-        "VO",
-        "VTV",
-        "VUG"
-      ],
-      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/09/61869495/30b-flows-into-etfs-ivv-leads-with-6-5b-inflows"
-    },
-    {
-      "created_at": "2026-09-18T13:52:34Z",
-      "headline": "AI Capex Boom Risks 'Massive Capital Destruction' in the US, Warns Veteran Market Strategist: 'You Could Get Some News Item That Suddenly\u2026'",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "GOOGL",
-        "META",
-        "ORCL",
-        "SPCX"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/09/61868964/ai-capex-boom-risks-massive-capital-destruction-in-the-us-warns-veteran-market-strategist-you-could-get-some-news-item-that-suddenly"
     }
   ],
-  "regime": "NEUTRAL",
-  "regime_score": -0.121622,
+  "regime": "RISK_ON",
+  "regime_score": 0.610811,
   "top_candidates": [
     {
       "news_score": 0.055556,
-      "price": 671.61,
-      "reason": "5d +3.6%; 20d +23.1%; vs SPY +23.0%; RSI 84; volume 0.7x; volatility 29.1%; news +0.06",
-      "relative_strength_20d": 0.230008,
-      "score": 0.655178,
+      "price": 674.135,
+      "reason": "5d +4.0%; 20d +23.5%; vs SPY +23.3%; RSI 82; volume 1.0x; volatility 30.4%; news +0.06",
+      "relative_strength_20d": 0.232702,
+      "score": 0.709944,
       "symbol": "META"
     },
     {
-      "news_score": 0.074074,
-      "price": 351.49,
-      "reason": "5d +3.9%; 20d +3.3%; vs SPY +3.2%; RSI 61; volume 1.3x; volatility 23.5%; news +0.07",
-      "relative_strength_20d": 0.032105,
-      "score": 0.392182,
-      "symbol": "GOOGL"
-    },
-    {
-      "news_score": 0.041667,
-      "price": 336.245,
-      "reason": "5d +1.2%; 20d +8.0%; vs SPY +8.0%; RSI 69; volume 0.8x; volatility 21.6%; news +0.04",
-      "relative_strength_20d": 0.079601,
-      "score": 0.38426,
+      "news_score": 0.0,
+      "price": 335.36,
+      "reason": "5d +0.9%; 20d +7.7%; vs SPY +7.5%; RSI 68; volume 0.9x; volatility 21.7%; news +0.00",
+      "relative_strength_20d": 0.074826,
+      "score": 0.371416,
       "symbol": "AAPL"
     },
     {
-      "news_score": 0.0,
-      "price": 107.44,
-      "reason": "5d +0.3%; 20d +3.7%; vs SPY +3.7%; RSI 60; volume 0.8x; volatility 20.0%; news +0.00",
-      "relative_strength_20d": 0.036601,
-      "score": 0.148754,
-      "symbol": "WMT"
+      "news_score": 0.083333,
+      "price": 349.23,
+      "reason": "5d +3.2%; 20d +2.6%; vs SPY +2.4%; RSI 59; volume 1.5x; volatility 23.3%; news +0.08",
+      "relative_strength_20d": 0.023533,
+      "score": 0.364528,
+      "symbol": "GOOGL"
     },
     {
       "news_score": 0.0,
-      "price": 363.375,
-      "reason": "5d -0.6%; 20d +5.3%; vs SPY +5.2%; RSI 48; volume 0.8x; volatility 49.1%; news +0.00",
-      "relative_strength_20d": 0.05236,
-      "score": 0.115319,
-      "symbol": "TSLA"
-    },
-    {
-      "news_score": 0.0,
-      "price": 188.545,
-      "reason": "5d +0.5%; 20d +3.0%; vs SPY +2.9%; RSI 55; volume 0.6x; volatility 20.9%; news +0.00",
-      "relative_strength_20d": 0.02906,
-      "score": 0.094031,
+      "price": 189.64,
+      "reason": "5d +1.0%; 20d +3.6%; vs SPY +3.3%; RSI 57; volume 0.9x; volatility 21.1%; news +0.00",
+      "relative_strength_20d": 0.033107,
+      "score": 0.189,
       "symbol": "XLK"
     },
     {
       "news_score": 0.083333,
-      "price": 495.605,
-      "reason": "5d +0.0%; 20d +3.0%; vs SPY +2.9%; RSI 43; volume 0.9x; volatility 22.0%; news +0.08",
-      "relative_strength_20d": 0.02936,
-      "score": 0.081333,
-      "symbol": "MSFT"
-    },
-    {
-      "news_score": 0.111111,
-      "price": 719.305,
-      "reason": "5d +0.6%; 20d +1.2%; vs SPY +1.1%; RSI 52; volume 0.8x; volatility 13.1%; news +0.11",
-      "relative_strength_20d": 0.011215,
-      "score": 0.071703,
+      "price": 722.165,
+      "reason": "5d +1.0%; 20d +1.6%; vs SPY +1.3%; RSI 54; volume 1.4x; volatility 13.2%; news +0.08",
+      "relative_strength_20d": 0.013306,
+      "score": 0.18752,
       "symbol": "QQQ"
     },
     {
-      "news_score": 0.020833,
-      "price": 219.72,
-      "reason": "5d +0.7%; 20d +1.4%; vs SPY +1.4%; RSI 49; volume 0.6x; volatility 46.3%; news +0.02",
-      "relative_strength_20d": 0.013605,
-      "score": 0.032247,
+      "news_score": 0.0,
+      "price": 364.3,
+      "reason": "5d -0.3%; 20d +5.6%; vs SPY +5.3%; RSI 48; volume 1.0x; volatility 49.1%; news +0.00",
+      "relative_strength_20d": 0.053108,
+      "score": 0.162895,
+      "symbol": "TSLA"
+    },
+    {
+      "news_score": 0.018519,
+      "price": 221.39,
+      "reason": "5d +1.5%; 20d +2.2%; vs SPY +1.9%; RSI 51; volume 0.8x; volatility 46.4%; news +0.02",
+      "relative_strength_20d": 0.019381,
+      "score": 0.130708,
       "symbol": "NVDA"
     },
     {
-      "news_score": 0.666667,
-      "price": 1159.44,
-      "reason": "5d +4.0%; 20d -6.9%; vs SPY -7.0%; RSI 50; volume 0.5x; volatility 19.1%; news +0.67",
-      "relative_strength_20d": -0.069699,
-      "score": -0.015606,
-      "symbol": "LLY"
+      "news_score": 0.0,
+      "price": 106.68,
+      "reason": "5d -0.4%; 20d +3.0%; vs SPY +2.7%; RSI 58; volume 1.1x; volatility 20.0%; news +0.00",
+      "relative_strength_20d": 0.027332,
+      "score": 0.115006,
+      "symbol": "WMT"
+    },
+    {
+      "news_score": 0.047619,
+      "price": 493.1,
+      "reason": "5d -0.5%; 20d +2.5%; vs SPY +2.2%; RSI 42; volume 1.2x; volatility 22.3%; news +0.05",
+      "relative_strength_20d": 0.022222,
+      "score": 0.060669,
+      "symbol": "MSFT"
+    },
+    {
+      "news_score": 0.0,
+      "price": 209.4,
+      "reason": "5d -2.2%; 20d +1.7%; vs SPY +1.5%; RSI 55; volume 1.4x; volatility 22.3%; news +0.00",
+      "relative_strength_20d": 0.014995,
+      "score": 0.020476,
+      "symbol": "CVX"
     }
   ],
   "universe_size": 37
