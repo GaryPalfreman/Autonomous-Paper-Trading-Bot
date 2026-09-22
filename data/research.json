@@ -1,19 +1,35 @@
 {
   "benchmark_above_20d_average": true,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 773.625,
+  "benchmark_price": 773.735,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.378378,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-09-22T20:21:09.849686+00:00",
-  "latest_market_timestamp": "2026-09-22T20:21:09.27084113Z",
+  "generated_at": "2026-09-22T23:05:58.226248+00:00",
+  "latest_market_timestamp": "2026-09-22T20:59:05.362502177Z",
   "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
   "next_close": "2026-09-23T16:00:00-04:00",
   "next_open": "2026-09-23T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-09-22T20:40:49Z",
+      "headline": "Michael Burry Bets Against the Memory Boom: These ETFs Could Be Exposed if He\u2019s Right",
+      "source": "benzinga",
+      "symbols": [
+        "AMAT",
+        "MU",
+        "NBIS",
+        "NVDA",
+        "PLTR",
+        "SKHY",
+        "SMH",
+        "SOXX"
+      ],
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/61934916/michael-burry-bets-against-the-memory-boom-these-etfs-could-be-exposed-if-hes-right"
+    },
     {
       "created_at": "2026-09-22T20:10:20Z",
       "headline": "Congressman with $11.5 Million in Trades Keeps Selling Stocks: Here\u2019s the Latest Moves",
@@ -277,18 +293,6 @@
         "USO"
       ],
       "url": "https://www.benzinga.com/Opinion/26/09/61928535/commodity-etf-delivers-double-nvidias-ytd-returns-muse-ignites-cpu-fever"
-    },
-    {
-      "created_at": "2026-09-22T16:35:07Z",
-      "headline": "Apple\u2019s New Macs Are Faster, Smarter and Built for AI",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "OMAH",
-        "TECL",
-        "TMFC"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/09/61927717/apples-new-macs-are-faster-smarter-and-built-for-ai"
     }
   ],
   "regime": "RISK_ON",
@@ -298,80 +302,80 @@
       "news_score": 0.111111,
       "price": 736.595,
       "reason": "5d +9.9%; 20d +31.9%; vs SPY +30.3%; RSI 84; volume 1.5x; volatility 48.6%; news +0.11",
-      "relative_strength_20d": 0.302792,
-      "score": 0.831672,
+      "relative_strength_20d": 0.302648,
+      "score": 0.83168,
       "symbol": "META"
     },
     {
       "news_score": 0.111111,
       "price": 196.27,
-      "reason": "5d +6.9%; 20d +9.1%; vs SPY +7.6%; RSI 75; volume 1.0x; volatility 21.7%; news +0.11",
-      "relative_strength_20d": 0.075591,
-      "score": 0.654303,
+      "reason": "5d +6.9%; 20d +9.1%; vs SPY +7.5%; RSI 75; volume 1.0x; volatility 21.7%; news +0.11",
+      "relative_strength_20d": 0.075446,
+      "score": 0.654087,
       "symbol": "XLK"
     },
     {
-      "news_score": 0.1,
+      "news_score": 0.090909,
       "price": 228.29,
-      "reason": "5d +7.6%; 20d +9.6%; vs SPY +8.0%; RSI 55; volume 0.7x; volatility 45.3%; news +0.10",
-      "relative_strength_20d": 0.080454,
-      "score": 0.567857,
+      "reason": "5d +7.6%; 20d +9.6%; vs SPY +8.0%; RSI 55; volume 0.7x; volatility 45.3%; news +0.09",
+      "relative_strength_20d": 0.08031,
+      "score": 0.56628,
       "symbol": "NVDA"
     },
     {
       "news_score": -0.055556,
       "price": 378.85,
       "reason": "5d +6.2%; 20d +8.6%; vs SPY +7.0%; RSI 61; volume 0.7x; volatility 44.4%; news -0.06",
-      "relative_strength_20d": 0.069888,
-      "score": 0.518604,
+      "relative_strength_20d": 0.069743,
+      "score": 0.518388,
       "symbol": "TSLA"
     },
     {
       "news_score": 0.083333,
-      "price": 746.895,
-      "reason": "5d +6.1%; 20d +5.8%; vs SPY +4.3%; RSI 74; volume 0.8x; volatility 16.1%; news +0.08",
-      "relative_strength_20d": 0.042636,
-      "score": 0.496762,
+      "price": 746.765,
+      "reason": "5d +6.1%; 20d +5.8%; vs SPY +4.2%; RSI 74; volume 0.8x; volatility 16.1%; news +0.08",
+      "relative_strength_20d": 0.042307,
+      "score": 0.496053,
       "symbol": "QQQ"
     },
     {
       "news_score": 0.047619,
       "price": 339.85,
       "reason": "5d +2.6%; 20d +9.5%; vs SPY +7.9%; RSI 66; volume 0.8x; volatility 21.4%; news +0.05",
-      "relative_strength_20d": 0.079101,
-      "score": 0.47919,
+      "relative_strength_20d": 0.078957,
+      "score": 0.478975,
       "symbol": "AAPL"
     },
     {
       "news_score": 0.0,
       "price": 364.49,
       "reason": "5d +7.6%; 20d +1.8%; vs SPY +0.2%; RSI 49; volume 0.7x; volatility 33.0%; news +0.00",
-      "relative_strength_20d": 0.001958,
-      "score": 0.245362,
+      "relative_strength_20d": 0.001814,
+      "score": 0.245146,
       "symbol": "AVGO"
     },
     {
       "news_score": 0.0,
       "price": 110.13,
       "reason": "5d +1.9%; 20d +3.4%; vs SPY +1.8%; RSI 64; volume 0.9x; volatility 19.7%; news +0.00",
-      "relative_strength_20d": 0.018061,
-      "score": 0.228366,
+      "relative_strength_20d": 0.017917,
+      "score": 0.22815,
       "symbol": "WMT"
     },
     {
-      "news_score": 0.037037,
+      "news_score": 0.041667,
       "price": 351.18,
       "reason": "5d +1.8%; 20d +1.0%; vs SPY -0.6%; RSI 62; volume 1.4x; volatility 23.7%; news +0.04",
-      "relative_strength_20d": -0.006314,
-      "score": 0.195953,
+      "relative_strength_20d": -0.006459,
+      "score": 0.19643,
       "symbol": "GOOGL"
     },
     {
       "news_score": 0.111111,
-      "price": 773.625,
+      "price": 773.735,
       "reason": "5d +2.4%; 20d +1.6%; vs SPY +0.0%; RSI 59; volume 0.8x; volatility 10.6%; news +0.11",
       "relative_strength_20d": 0.0,
-      "score": 0.174954,
+      "score": 0.176241,
       "symbol": "SPY"
     }
   ],
