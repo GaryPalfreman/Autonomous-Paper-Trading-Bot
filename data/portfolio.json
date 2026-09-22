@@ -1,14 +1,14 @@
 {
   "cash": 205.3440697401416,
   "created_at": "2026-09-15T00:00:00+00:00",
-  "cycle_count": 6,
-  "high_water_mark": 1027.015018047959,
+  "cycle_count": 7,
+  "high_water_mark": 1028.1334236813466,
   "positions": {
     "AAPL": {
       "average_price": 333.18650999999994,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +5.6%; 20d +7.4%; vs SPY +8.4%; RSI 68; volume 0.4x; volatility 23.5%; news +0.07",
-      "highest_price": 339.0,
-      "last_price": 339.0,
+      "highest_price": 341.58000000000004,
+      "last_price": 341.58000000000004,
       "opened_at": "2026-09-16T17:24:06.129942+00:00",
       "quantity": 0.6002044020179644,
       "symbol": "AAPL"
@@ -17,7 +17,7 @@
       "average_price": 350.25504,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +3.4%; 20d +2.9%; vs SPY +3.1%; RSI 60; volume 1.0x; volatility 23.3%; news +0.06",
       "highest_price": 355.68,
-      "last_price": 355.35,
+      "last_price": 352.91499999999996,
       "opened_at": "2026-09-18T16:51:19.481913+00:00",
       "quantity": 0.5707550515603063,
       "symbol": "GOOGL"
@@ -26,7 +26,7 @@
       "average_price": 746.6781524999999,
       "entry_reason": "Risk-sized 15.9% position with approximately 1.0% portfolio risk; 5d +12.2%; 20d +35.9%; vs SPY +34.6%; RSI 87; volume 1.9x; volatility 49.8%; news +0.04",
       "highest_price": 746.305,
-      "last_price": 741.29,
+      "last_price": 744.595,
       "opened_at": "2026-09-21T18:24:28.527278+00:00",
       "quantity": 0.21904349808268095,
       "symbol": "META"
@@ -34,8 +34,8 @@
     "QQQ": {
       "average_price": 740.9402849999999,
       "entry_reason": "Risk-sized 4.5% position with approximately 1.0% portfolio risk; 5d +4.5%; 20d +3.9%; vs SPY +2.6%; RSI 72; volume 1.0x; volatility 16.3%; news +0.05",
-      "highest_price": 741.075,
-      "last_price": 741.075,
+      "highest_price": 745.425,
+      "last_price": 745.425,
       "opened_at": "2026-09-21T18:24:28.527393+00:00",
       "quantity": 0.06254170189077651,
       "symbol": "QQQ"
@@ -43,8 +43,8 @@
     "XLK": {
       "average_price": 194.407155,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +5.6%; 20d +6.1%; vs SPY +4.8%; RSI 73; volume 1.1x; volatility 22.7%; news +0.00",
-      "highest_price": 194.84,
-      "last_price": 194.84,
+      "highest_price": 195.60000000000002,
+      "last_price": 195.60000000000002,
       "opened_at": "2026-09-21T18:24:28.527360+00:00",
       "quantity": 1.0563633624319901,
       "symbol": "XLK"
@@ -52,5 +52,5 @@
   },
   "realized_pnl": 20.49316997508879,
   "starting_cash": 1000.0,
-  "updated_at": "2026-09-21T22:05:33.891310+00:00"
+  "updated_at": "2026-09-22T17:27:32.341926+00:00"
 }
