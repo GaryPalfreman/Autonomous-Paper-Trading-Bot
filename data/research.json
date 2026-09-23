@@ -6,14 +6,84 @@
   "breadth_above_20d_average": 0.324324,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-09-23T20:40:58.494085+00:00",
-  "latest_market_timestamp": "2026-09-23T20:40:55.874688115Z",
+  "generated_at": "2026-09-23T23:08:59.429651+00:00",
+  "latest_market_timestamp": "2026-09-23T20:59:38.81947244Z",
   "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
   "next_close": "2026-09-24T16:00:00-04:00",
   "next_open": "2026-09-24T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-09-23T22:15:28Z",
+      "headline": "If You Invested $100 In Home Depot Stock 15 Years Ago, You Would Have This Much Today",
+      "source": "benzinga",
+      "symbols": [
+        "HD"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61960802/if-you-invested-100-home-depot-stock-15-years-ago-you-would-have-much-today"
+    },
+    {
+      "created_at": "2026-09-23T22:12:00Z",
+      "headline": "OpenAI Says We Weren\u2019t Aware Of Agent Activity In Australia Until August During An Ongoing Review Of OpenAI Misaligned Model Activity; Notified Services Australia About Incident On Sept 10",
+      "source": "benzinga",
+      "symbols": [
+        "EWA",
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61960509/openai-says-we-weren-t-aware-agent-activity-australia-until-august-during-ongoing-review-openai-misa"
+    },
+    {
+      "created_at": "2026-09-23T22:11:34Z",
+      "headline": "OpenAI Says Its AI Agent Improperly Accessed Australian Government Files OpenAI Says No Evidence That Patient Records Were Accessed; Says Our Overall Review Is Ongoing; During Review, Identified Activity Involving Several Australian Government Websites And Services As Our Models Attempted To Look Up Answers; Our Models Took Actions We Did Not Intend",
+      "source": "benzinga",
+      "symbols": [
+        "EWA",
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61960497/openai-says-its-ai-agent-improperly-accessed-australian-government-files-openai-says-no-evidence-pat"
+    },
+    {
+      "created_at": "2026-09-23T21:07:11Z",
+      "headline": "Dozens Of U.S. Oil Refining And Business Groups Urge Trump To Reject Any Effort To Impose Ban On Diesel Exports",
+      "source": "benzinga",
+      "symbols": [
+        "BP",
+        "COP",
+        "CVX",
+        "HES",
+        "MPC",
+        "MRO",
+        "OXY",
+        "PBR",
+        "SHEL",
+        "SLB",
+        "SPY",
+        "XOM"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61959651/dozens-u-s-oil-refining-and-business-groups-urge-trump-reject-any-effort-impose-ban-diesel-exports"
+    },
+    {
+      "created_at": "2026-09-23T20:54:40Z",
+      "headline": "QUICK SPARK: Viking Therapeutics Stock Gains 40% in 2 Days",
+      "source": "benzinga",
+      "symbols": [
+        "LLY",
+        "NVO",
+        "VKTX"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61959369/viking-therapeutics-stock-gains"
+    },
+    {
+      "created_at": "2026-09-23T20:39:59Z",
+      "headline": "'Prime Minister Anthony Albanese Has Revealed That An Artificial Intelligence Agent Developed By OpenAI Infiltrated An Australian Government Website In June, Accessing Public And Non-Public Files' - Sydney Morning Herald",
+      "source": "benzinga",
+      "symbols": [
+        "EWA",
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61959145/prime-minister-anthony-albanese-has-revealed-artificial-intelligence-agent-developed-openai-infiltra"
+    },
     {
       "created_at": "2026-09-23T20:30:19Z",
       "headline": "Here's How Much $1000 Invested In Apple 20 Years Ago Would Be Worth Today",
@@ -174,76 +244,17 @@
         "SPCX"
       ],
       "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61955773/meta-muse-vs-elon-musk-x-everything-app"
-    },
-    {
-      "created_at": "2026-09-23T18:22:35Z",
-      "headline": "Costco Q4 Preview: Members Are 'Engaged' Despite Ongoing Macro Uncertainty",
-      "source": "benzinga",
-      "symbols": [
-        "COST"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/09/61955574/costco-q4-preview-members-are-engaged-despite-ongoing-macro-uncertainty"
-    },
-    {
-      "created_at": "2026-09-23T18:12:44Z",
-      "headline": "Waymo Expands Robotaxi Access to Teens as Ridership Surges",
-      "source": "benzinga",
-      "symbols": [
-        "GOOGL"
-      ],
-      "url": "https://www.benzinga.com/markets/private-markets/26/09/61955282/waymo-expands-robotaxi-access-to-teens-as-ridership-surges"
-    },
-    {
-      "created_at": "2026-09-23T18:08:18Z",
-      "headline": "U.S. Lawmakers To Unveil Legislation To Revise National Security Tool Used By Federal Communications Commission To Bar Chinese Tech Gear",
-      "source": "benzinga",
-      "symbols": [
-        "FXI",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61955121/u-s-lawmakers-unveil-legislation-revise-national-security-tool-used-federal-communications-commissio"
-    },
-    {
-      "created_at": "2026-09-23T18:07:41Z",
-      "headline": "Google Beam Expands With New Regions, Partners, And Customers; Says We\u2019re Expanding Google Beam To Five New Countries, Partnering With Industrious For An Extended Network, And Proving Our Impact At Google And Beyond",
-      "source": "benzinga",
-      "symbols": [
-        "GOOG",
-        "GOOGL"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61955085/google-beam-expands-new-regions-partners-and-customers-says-we-re-expanding-google-beam-five-new-cou"
-    },
-    {
-      "created_at": "2026-09-23T18:05:14Z",
-      "headline": "\"Anthropic\u2019s Biolab Made A Discovery It\u2019s Comparing To Crispr; It Took Nearly 1,000 Claude Agents 21 Hours And 210 Million Tokens To Uncover The \u2018Novel Enzyme System.\u2019\" - The Verge",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "CRSP",
-        "GOOG",
-        "GOOGL"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61954954/anthropic-s-biolab-made-discovery-it-s-comparing-crispr-it-took-nearly-1-000-claude-agents-21-hours-"
-    },
-    {
-      "created_at": "2026-09-23T18:04:52Z",
-      "headline": "Jefferies Maintains Buy on GE Aerospace, Lowers Price Target to $435",
-      "source": "benzinga",
-      "symbols": [
-        "GE"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61954937/jefferies-maintains-buy-ge-aerospace-lowers-price-target-435"
     }
   ],
   "regime": "RISK_ON",
   "regime_score": 0.594595,
   "top_candidates": [
     {
-      "news_score": 0.066667,
-      "price": 746.14,
-      "reason": "5d +10.9%; 20d +31.0%; vs SPY +30.5%; RSI 83; volume 1.2x; volatility 48.6%; news +0.07",
-      "relative_strength_20d": 0.305041,
-      "score": 0.785746,
+      "news_score": 0.074074,
+      "price": 746.68,
+      "reason": "5d +10.9%; 20d +31.1%; vs SPY +30.6%; RSI 83; volume 1.2x; volatility 48.6%; news +0.07",
+      "relative_strength_20d": 0.305989,
+      "score": 0.786873,
       "symbol": "META"
     },
     {
@@ -264,10 +275,10 @@
     },
     {
       "news_score": 0.0,
-      "price": 741.205,
+      "price": 741.23,
       "reason": "5d +5.3%; 20d +4.4%; vs SPY +3.9%; RSI 66; volume 0.9x; volatility 16.5%; news +0.00",
-      "relative_strength_20d": 0.039035,
-      "score": 0.443315,
+      "relative_strength_20d": 0.03907,
+      "score": 0.443999,
       "symbol": "QQQ"
     },
     {
@@ -275,15 +286,15 @@
       "price": 225.62,
       "reason": "5d +5.5%; 20d +6.1%; vs SPY +5.6%; RSI 47; volume 0.7x; volatility 45.3%; news +0.07",
       "relative_strength_20d": 0.05561,
-      "score": 0.41871,
+      "score": 0.418711,
       "symbol": "NVDA"
     },
     {
-      "news_score": 0.111111,
+      "news_score": 0.066667,
       "price": 336.87,
-      "reason": "5d +1.3%; 20d +8.7%; vs SPY +8.2%; RSI 59; volume 0.9x; volatility 21.9%; news +0.11",
+      "reason": "5d +1.3%; 20d +8.7%; vs SPY +8.2%; RSI 59; volume 0.9x; volatility 21.9%; news +0.07",
       "relative_strength_20d": 0.082012,
-      "score": 0.409712,
+      "score": 0.403046,
       "symbol": "AAPL"
     },
     {
@@ -299,7 +310,7 @@
       "price": 355.11,
       "reason": "5d +4.8%; 20d -0.3%; vs SPY -0.8%; RSI 49; volume 0.8x; volatility 34.3%; news +0.33",
       "relative_strength_20d": -0.007674,
-      "score": 0.246387,
+      "score": 0.246388,
       "symbol": "AVGO"
     },
     {
@@ -311,11 +322,11 @@
       "symbol": "CAT"
     },
     {
-      "news_score": 0.041667,
+      "news_score": 0.033333,
       "price": 500.62,
-      "reason": "5d +2.1%; 20d +1.8%; vs SPY +1.3%; RSI 44; volume 0.9x; volatility 23.0%; news +0.04",
+      "reason": "5d +2.1%; 20d +1.8%; vs SPY +1.3%; RSI 44; volume 0.9x; volatility 23.0%; news +0.03",
       "relative_strength_20d": 0.013418,
-      "score": 0.134051,
+      "score": 0.132801,
       "symbol": "MSFT"
     }
   ],

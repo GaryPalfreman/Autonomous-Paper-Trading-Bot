@@ -1,14 +1,14 @@
 # Autonomous Paper Portfolio — Latest Update
 
-Generated: 2026-09-23T20:40:58.496508+00:00
+Generated: 2026-09-23T23:08:59.431568+00:00
 Market open: No
-Portfolio value: **$1,017.27** (+1.73%)
+Portfolio value: **$1,017.39** (+1.74%)
 Cash: **$216.96**
-Invested: **$800.31**
+Invested: **$800.43**
 Realised P/L: **$+13.44**
 SPY benchmark: **$1,009.18** (+0.92%)
-Excess return vs SPY: **+0.81%**
-Long-term simulated goal: **$1,000,000** (0.1017% complete; 983.0x remaining)
+Excess return vs SPY: **+0.82%**
+Long-term simulated goal: **$1,000,000** (0.1017% complete; 982.9x remaining)
 
 ## Market research
 - Regime: **RISK_ON** (breadth above 20-day average: 32%)
@@ -19,8 +19,8 @@ Long-term simulated goal: **$1,000,000** (0.1017% complete; 983.0x remaining)
 | Symbol | Quantity | Average | Latest | Value | Unrealised P/L |
 |---|---:|---:|---:|---:|---:|
 | AAPL | 0.60020 | $333.19 | $336.87 | $202.19 | $+2.21 |
-| META | 0.21904 | $746.68 | $746.14 | $163.44 | $-0.12 |
-| QQQ | 0.06254 | $740.94 | $741.20 | $46.36 | $+0.02 |
+| META | 0.21904 | $746.68 | $746.68 | $163.56 | $+0.00 |
+| QQQ | 0.06254 | $740.94 | $741.23 | $46.36 | $+0.02 |
 | TSLA | 0.47859 | $378.69 | $380.25 | $181.98 | $+0.75 |
 | XLK | 1.05636 | $194.41 | $195.33 | $206.34 | $+0.97 |
 
@@ -28,7 +28,7 @@ Long-term simulated goal: **$1,000,000** (0.1017% complete; 983.0x remaining)
 - No trades. Holding cash or existing positions was the highest-ranked decision.
 
 ## Highest-ranked signals
-- **META +0.79** — 5d +10.9%; 20d +31.0%; vs SPY +30.5%; RSI 83; volume 1.2x; volatility 48.6%; news +0.07
+- **META +0.79** — 5d +10.9%; 20d +31.1%; vs SPY +30.6%; RSI 83; volume 1.2x; volatility 48.6%; news +0.07
 - **XLK +0.57** — 5d +6.3%; 20d +7.6%; vs SPY +7.1%; RSI 69; volume 0.9x; volatility 21.9%; news +0.00
 - **TSLA +0.51** — 5d +6.2%; 20d +8.6%; vs SPY +8.1%; RSI 52; volume 0.6x; volatility 44.4%; news +0.00
 - **QQQ +0.44** — 5d +5.3%; 20d +4.4%; vs SPY +3.9%; RSI 66; volume 0.9x; volatility 16.5%; news +0.00

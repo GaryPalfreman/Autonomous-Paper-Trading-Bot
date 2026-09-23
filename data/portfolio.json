@@ -16,8 +16,8 @@
     "META": {
       "average_price": 746.6781524999999,
       "entry_reason": "Risk-sized 15.9% position with approximately 1.0% portfolio risk; 5d +12.2%; 20d +35.9%; vs SPY +34.6%; RSI 87; volume 1.9x; volatility 49.8%; news +0.04",
-      "highest_price": 746.305,
-      "last_price": 746.14,
+      "highest_price": 746.68,
+      "last_price": 746.68,
       "opened_at": "2026-09-21T18:24:28.527278+00:00",
       "quantity": 0.21904349808268095,
       "symbol": "META"
@@ -26,7 +26,7 @@
       "average_price": 740.9402849999999,
       "entry_reason": "Risk-sized 4.5% position with approximately 1.0% portfolio risk; 5d +4.5%; 20d +3.9%; vs SPY +2.6%; RSI 72; volume 1.0x; volatility 16.3%; news +0.05",
       "highest_price": 746.895,
-      "last_price": 741.2049999999999,
+      "last_price": 741.23,
       "opened_at": "2026-09-21T18:24:28.527393+00:00",
       "quantity": 0.06254170189077651,
       "symbol": "QQQ"
@@ -52,5 +52,5 @@
   },
   "realized_pnl": 13.439166913113745,
   "starting_cash": 1000.0,
-  "updated_at": "2026-09-23T20:40:58.495632+00:00"
+  "updated_at": "2026-09-23T23:08:59.430924+00:00"
 }
