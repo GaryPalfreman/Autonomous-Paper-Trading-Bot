@@ -8,7 +8,7 @@
       "average_price": 333.18650999999994,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +5.6%; 20d +7.4%; vs SPY +8.4%; RSI 68; volume 0.4x; volatility 23.5%; news +0.07",
       "highest_price": 341.58000000000004,
-      "last_price": 337.05499999999995,
+      "last_price": 336.87,
       "opened_at": "2026-09-16T17:24:06.129942+00:00",
       "quantity": 0.6002044020179644,
       "symbol": "AAPL"
@@ -17,7 +17,7 @@
       "average_price": 746.6781524999999,
       "entry_reason": "Risk-sized 15.9% position with approximately 1.0% portfolio risk; 5d +12.2%; 20d +35.9%; vs SPY +34.6%; RSI 87; volume 1.9x; volatility 49.8%; news +0.04",
       "highest_price": 746.305,
-      "last_price": 745.4,
+      "last_price": 746.14,
       "opened_at": "2026-09-21T18:24:28.527278+00:00",
       "quantity": 0.21904349808268095,
       "symbol": "META"
@@ -26,7 +26,7 @@
       "average_price": 740.9402849999999,
       "entry_reason": "Risk-sized 4.5% position with approximately 1.0% portfolio risk; 5d +4.5%; 20d +3.9%; vs SPY +2.6%; RSI 72; volume 1.0x; volatility 16.3%; news +0.05",
       "highest_price": 746.895,
-      "last_price": 739.3199999999999,
+      "last_price": 741.2049999999999,
       "opened_at": "2026-09-21T18:24:28.527393+00:00",
       "quantity": 0.06254170189077651,
       "symbol": "QQQ"
@@ -34,8 +34,8 @@
     "TSLA": {
       "average_price": 378.68924999999996,
       "entry_reason": "Risk-sized 17.8% position with approximately 1.0% portfolio risk; 5d +5.7%; 20d +8.1%; vs SPY +7.6%; RSI 51; volume 0.5x; volatility 44.5%; news +0.00",
-      "highest_price": 378.5,
-      "last_price": 378.5,
+      "highest_price": 380.25,
+      "last_price": 380.25,
       "opened_at": "2026-09-23T17:36:54.844310+00:00",
       "quantity": 0.4785879175839416,
       "symbol": "TSLA"
@@ -44,7 +44,7 @@
       "average_price": 194.407155,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +5.6%; 20d +6.1%; vs SPY +4.8%; RSI 73; volume 1.1x; volatility 22.7%; news +0.00",
       "highest_price": 196.27,
-      "last_price": 194.69,
+      "last_price": 195.33,
       "opened_at": "2026-09-21T18:24:28.527360+00:00",
       "quantity": 1.0563633624319901,
       "symbol": "XLK"
@@ -52,5 +52,5 @@
   },
   "realized_pnl": 13.439166913113745,
   "starting_cash": 1000.0,
-  "updated_at": "2026-09-23T17:36:54.846273+00:00"
+  "updated_at": "2026-09-23T20:40:58.495632+00:00"
 }

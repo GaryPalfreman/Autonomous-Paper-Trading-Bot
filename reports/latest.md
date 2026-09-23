@@ -1,38 +1,37 @@
 # Autonomous Paper Portfolio — Latest Update
 
-Generated: 2026-09-23T17:36:54.847111+00:00
-Market open: Yes
-Portfolio value: **$1,015.59** (+1.56%)
+Generated: 2026-09-23T20:40:58.496508+00:00
+Market open: No
+Portfolio value: **$1,017.27** (+1.73%)
 Cash: **$216.96**
-Invested: **$798.62**
+Invested: **$800.31**
 Realised P/L: **$+13.44**
-SPY benchmark: **$1,008.81** (+0.88%)
-Excess return vs SPY: **+0.68%**
-Long-term simulated goal: **$1,000,000** (0.1016% complete; 984.7x remaining)
+SPY benchmark: **$1,009.18** (+0.92%)
+Excess return vs SPY: **+0.81%**
+Long-term simulated goal: **$1,000,000** (0.1017% complete; 983.0x remaining)
 
 ## Market research
-- Regime: **RISK_ON** (breadth above 20-day average: 30%)
+- Regime: **RISK_ON** (breadth above 20-day average: 32%)
 - Source: Alpaca Market Data / iex feed; 37 liquid symbols; 50 recent articles
 - New entries allowed: **Yes**
 
 ## Positions
 | Symbol | Quantity | Average | Latest | Value | Unrealised P/L |
 |---|---:|---:|---:|---:|---:|
-| AAPL | 0.60020 | $333.19 | $337.05 | $202.30 | $+2.32 |
-| META | 0.21904 | $746.68 | $745.40 | $163.28 | $-0.28 |
-| QQQ | 0.06254 | $740.94 | $739.32 | $46.24 | $-0.10 |
-| XLK | 1.05636 | $194.41 | $194.69 | $205.66 | $+0.30 |
-| TSLA | 0.47859 | $378.69 | $378.50 | $181.15 | $-0.09 |
+| AAPL | 0.60020 | $333.19 | $336.87 | $202.19 | $+2.21 |
+| META | 0.21904 | $746.68 | $746.14 | $163.44 | $-0.12 |
+| QQQ | 0.06254 | $740.94 | $741.20 | $46.36 | $+0.02 |
+| TSLA | 0.47859 | $378.69 | $380.25 | $181.98 | $+0.75 |
+| XLK | 1.05636 | $194.41 | $195.33 | $206.34 | $+0.97 |
 
 ## Trades this cycle
-- **SELL GOOGL** — $192.86 at $337.90: Signal exit: score declined to -0.15; 5d -1.4%; 20d -2.5%; vs SPY -3.0%; RSI 47; volume 1.2x; volatility 27.2%; news +0.06
-- **BUY TSLA** — $181.24 at $378.69: Risk-sized 17.8% position with approximately 1.0% portfolio risk; 5d +5.7%; 20d +8.1%; vs SPY +7.6%; RSI 51; volume 0.5x; volatility 44.5%; news +0.00
+- No trades. Holding cash or existing positions was the highest-ranked decision.
 
 ## Highest-ranked signals
-- **META +0.73** — 5d +10.7%; 20d +30.9%; vs SPY +30.4%; RSI 82; volume 0.9x; volatility 48.5%; news +0.03
-- **XLK +0.52** — 5d +5.9%; 20d +7.2%; vs SPY +6.8%; RSI 68; volume 0.7x; volatility 22.1%; news +0.00
-- **TSLA +0.47** — 5d +5.7%; 20d +8.1%; vs SPY +7.6%; RSI 51; volume 0.5x; volatility 44.5%; news +0.00
-- **QQQ +0.39** — 5d +5.0%; 20d +4.1%; vs SPY +3.7%; RSI 64; volume 0.6x; volatility 16.7%; news +0.00
-- **NVDA +0.36** — 5d +4.9%; 20d +5.5%; vs SPY +5.1%; RSI 46; volume 0.5x; volatility 45.6%; news +0.06
+- **META +0.79** — 5d +10.9%; 20d +31.0%; vs SPY +30.5%; RSI 83; volume 1.2x; volatility 48.6%; news +0.07
+- **XLK +0.57** — 5d +6.3%; 20d +7.6%; vs SPY +7.1%; RSI 69; volume 0.9x; volatility 21.9%; news +0.00
+- **TSLA +0.51** — 5d +6.2%; 20d +8.6%; vs SPY +8.1%; RSI 52; volume 0.6x; volatility 44.4%; news +0.00
+- **QQQ +0.44** — 5d +5.3%; 20d +4.4%; vs SPY +3.9%; RSI 66; volume 0.9x; volatility 16.5%; news +0.00
+- **NVDA +0.42** — 5d +5.5%; 20d +6.1%; vs SPY +5.6%; RSI 47; volume 0.7x; volatility 45.3%; news +0.07
 
 > Educational simulation only. It cannot submit real brokerage orders.
