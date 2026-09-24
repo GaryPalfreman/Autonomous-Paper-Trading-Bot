@@ -26,7 +26,7 @@
       "average_price": 740.9402849999999,
       "entry_reason": "Risk-sized 4.5% position with approximately 1.0% portfolio risk; 5d +4.5%; 20d +3.9%; vs SPY +2.6%; RSI 72; volume 1.0x; volatility 16.3%; news +0.05",
       "highest_price": 746.895,
-      "last_price": 740.0550000000001,
+      "last_price": 740.47,
       "opened_at": "2026-09-21T18:24:28.527393+00:00",
       "quantity": 0.06254170189077651,
       "symbol": "QQQ"
@@ -52,5 +52,5 @@
   },
   "realized_pnl": 13.439166913113745,
   "starting_cash": 1000.0,
-  "updated_at": "2026-09-24T20:47:02.121595+00:00"
+  "updated_at": "2026-09-24T23:41:54.287032+00:00"
 }

@@ -6,14 +6,120 @@
   "breadth_above_20d_average": 0.351351,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-09-24T20:47:02.120505+00:00",
-  "latest_market_timestamp": "2026-09-24T20:47:01.181731366Z",
+  "generated_at": "2026-09-24T23:41:54.285746+00:00",
+  "latest_market_timestamp": "2026-09-24T20:58:04.650981717Z",
   "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
   "next_close": "2026-09-25T16:00:00-04:00",
   "next_open": "2026-09-25T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-09-24T22:45:21Z",
+      "headline": "Here\u2019s How Much You Would Have Made Owning JPMorgan Chase Stock In The Last 20 Years",
+      "source": "benzinga",
+      "symbols": [
+        "JPM"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61987404/here-s-how-much-you-would-have-made-owning-jpmorgan-chase-stock-last-20-years"
+    },
+    {
+      "created_at": "2026-09-24T22:19:56Z",
+      "headline": "Trump Disapproval Hits Record High in New Poll: 56% Say President Has Done Worse than Expected",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/news/politics/26/09/61987260/trump-disapproval-hits-record-high-in-new-poll-56-say-president-has-done-worse-than-expected"
+    },
+    {
+      "created_at": "2026-09-24T22:13:51Z",
+      "headline": "Full Transcript: Costco Wholesale Q4 2026 Earnings Call",
+      "source": "benzinga",
+      "symbols": [
+        "COST"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61987229/full-transcript-costco-wholesale-q4-2026-earnings-call"
+    },
+    {
+      "created_at": "2026-09-24T22:01:49Z",
+      "headline": "'Anthropic Seeks Palantir-Style Voting Control For Seven Co-Founders Ahead Of IPO; Anthropic Planning To Give Founders 50.1% Voting Control In New Corporate Structure' - The Information",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61987142/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo-anthropic-planning-give-fo"
+    },
+    {
+      "created_at": "2026-09-24T21:37:57Z",
+      "headline": "Costco Exec Says Beyond FY27, We Would Expect To See Slowing In Rate Of Capital Expenditure Growth",
+      "source": "benzinga",
+      "symbols": [
+        "COST"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61986884/costco-exec-says-beyond-fy27-we-would-expect-see-slowing-rate-capital-expenditure-growth"
+    },
+    {
+      "created_at": "2026-09-24T21:27:56Z",
+      "headline": "Costco Exec Says Traffic Teams Are Working Through Minor Shipping Disruptions Due To Recent Typhoons In Asia And Panama Canal Delays Due To El Nino",
+      "source": "benzinga",
+      "symbols": [
+        "COST"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61986767/costco-exec-says-traffic-teams-are-working-through-minor-shipping-disruptions-due-recent-typhoons-as"
+    },
+    {
+      "created_at": "2026-09-24T21:26:52Z",
+      "headline": "Costco Exec Says Saw Increase In Non-foods Inflation During Q4, Predominantly Due To Memory Costs In Consumer Electronics, Gas & Petroleum-based Items",
+      "source": "benzinga",
+      "symbols": [
+        "COST"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61986739/costco-exec-says-saw-increase-non-foods-inflation-during-q4-predominantly-due-memory-costs-consumer-"
+    },
+    {
+      "created_at": "2026-09-24T21:26:21Z",
+      "headline": "Airlines For America CEO Sununu Opposes U.S. Diesel Export Ban, Saying It Could Lead To Higher Prices",
+      "source": "benzinga",
+      "symbols": [
+        "AAL",
+        "ALGT",
+        "ALK",
+        "CPA",
+        "DAL",
+        "JBLU",
+        "JETS",
+        "LTM",
+        "LUV",
+        "RJET",
+        "SKYW",
+        "SNCY",
+        "SPY",
+        "UAL",
+        "ULCC"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61986727/airlines-america-ceo-sununu-opposes-u-s-diesel-export-ban-saying-it-could-lead-higher-prices"
+    },
+    {
+      "created_at": "2026-09-24T21:16:46Z",
+      "headline": "Costco Exec Says We Received $184M In IEEPA Tariff Refunds In The Q4; In Q1 Of FY27, We Have Already Received Similar Amount Of Refunds As We Did In Q4",
+      "source": "benzinga",
+      "symbols": [
+        "COST"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61986585/costco-exec-says-we-received-184m-ieepa-tariff-refunds-q4-q1-fy27-we-have-already-received-similar-a"
+    },
+    {
+      "created_at": "2026-09-24T21:15:42Z",
+      "headline": "Here's How Much $100 Invested In Amazon.com 10 Years Ago Would Be Worth Today",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61986560/here-s-how-much-100-invested-amazon-com-10-years-ago-would-be-worth-today"
+    },
     {
       "created_at": "2026-09-24T20:40:55Z",
       "headline": "Costco Wholesale Reports Strong Q4: Revenue, Earnings Beat Estimates",
@@ -136,134 +242,25 @@
         "TSM"
       ],
       "url": "https://www.benzinga.com/markets/tech/26/09/61982882/micron-earnings-break-memory-cycle-pureplay-etfs-nvps"
-    },
-    {
-      "created_at": "2026-09-24T18:53:05Z",
-      "headline": "U.S. Defense Official Says About 60 Commercial Vessels Transited Strait Of Hormuz Wednesday, Highest Daily Crude Volume Since Early July",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61982548/u-s-defense-official-says-about-60-commercial-vessels-transited-strait-hormuz-wednesday-highest-dail"
-    },
-    {
-      "created_at": "2026-09-24T18:51:55Z",
-      "headline": "'US, Iran Said to Be Exploring Phased Deal to Open Hormuz' - Bloomberg",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61982518/us-iran-said-be-exploring-phased-deal-open-hormuz-bloomberg"
-    },
-    {
-      "created_at": "2026-09-24T18:50:08Z",
-      "headline": "Meta Platforms Rolls Out Horizon Create, Horizon Studio",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61982468/meta-platforms-rolls-out-horizon-create-horizon-studio"
-    },
-    {
-      "created_at": "2026-09-24T18:48:41Z",
-      "headline": "Small Caps Get Crushed: IWM Sees $3.3B Outflow as Treasury Yields Surge",
-      "source": "benzinga",
-      "symbols": [
-        "IWM"
-      ],
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/61982431/small-caps-crushed-iwm-sees-3-3b-outflow-treasury-yields-surge"
-    },
-    {
-      "created_at": "2026-09-24T18:40:57Z",
-      "headline": "US Senate Rejects Resolution Curbing Trump's Iran War Powers",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61982248/us-senate-rejects-resolution-curbing-trump-s-iran-war-powers"
-    },
-    {
-      "created_at": "2026-09-24T18:36:08Z",
-      "headline": "Federal Reserve Board Seeks Public Comment On Proposals For Stablecoin Rules Under GENIUS Act, Requiring Full Reserve Backing And Capital Standards For Supervised Issuers",
-      "source": "benzinga",
-      "symbols": [
-        "BLK",
-        "BNY",
-        "COIN",
-        "CRCL",
-        "GS",
-        "HOOD",
-        "NTRS",
-        "SPY",
-        "STT"
-      ],
-      "url": "https://www.benzinga.com/markets/cryptocurrency/26/09/61982105/federal-reserve-board-seeks-public-comment-proposals-stablecoin-rules-under-genius-act-requiring-ful"
-    },
-    {
-      "created_at": "2026-09-24T18:29:35Z",
-      "headline": "EXCLUSIVE: Why AI Semiconductor Stocks Are a 'Dangerous Playground' For Investors",
-      "source": "benzinga",
-      "symbols": [
-        "NVDA",
-        "SMH"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/09/61981929/ai-semiconductor-stocks-dangerous-playground"
-    },
-    {
-      "created_at": "2026-09-24T18:26:16Z",
-      "headline": "Why Is AST SpaceMobile Stock Surging on Thursday?",
-      "source": "benzinga",
-      "symbols": [
-        "ASTS",
-        "GOOG",
-        "GOOGL",
-        "META"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61981824/why-is-ast-spacemobile-stock-surging-on-thursday"
-    },
-    {
-      "created_at": "2026-09-24T18:26:08Z",
-      "headline": "Texas Attorney General Paxton Launches Investigation Into Texas Data Centers Over Water Usage Requirements",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61981812/texas-attorney-general-paxton-launches-investigation-texas-data-centers-over-water-usage-requirement"
-    },
-    {
-      "created_at": "2026-09-24T18:26:03Z",
-      "headline": "EXCLUSIVE: Nvidia Keeps AI Profits, TSMC May Want a Bigger Cut",
-      "source": "benzinga",
-      "symbols": [
-        "AMD",
-        "AVGO",
-        "INTC",
-        "NVDA",
-        "SMH",
-        "TSM"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61981809/nvidia-tsmc-ai-profits"
     }
   ],
   "regime": "RISK_ON",
   "regime_score": 0.610811,
   "top_candidates": [
     {
-      "news_score": 0.2,
+      "news_score": 0.208333,
       "price": 777.73,
-      "reason": "5d +14.1%; 20d +35.1%; vs SPY +34.7%; RSI 85; volume 1.7x; volatility 49.8%; news +0.20",
+      "reason": "5d +14.1%; 20d +35.1%; vs SPY +34.7%; RSI 85; volume 1.7x; volatility 49.8%; news +0.21",
       "relative_strength_20d": 0.34667,
-      "score": 0.866981,
+      "score": 0.868232,
       "symbol": "META"
     },
     {
-      "news_score": 0.111111,
+      "news_score": 0.166667,
       "price": 377.99,
-      "reason": "5d +3.3%; 20d +9.3%; vs SPY +8.9%; RSI 71; volume 0.6x; volatility 44.2%; news +0.11",
+      "reason": "5d +3.3%; 20d +9.3%; vs SPY +8.9%; RSI 71; volume 0.6x; volatility 44.2%; news +0.17",
       "relative_strength_20d": 0.089032,
-      "score": 0.519839,
+      "score": 0.528172,
       "symbol": "TSLA"
     },
     {
@@ -276,18 +273,18 @@
     },
     {
       "news_score": 0.111111,
-      "price": 740.055,
-      "reason": "5d +3.3%; 20d +4.2%; vs SPY +3.8%; RSI 64; volume 0.7x; volatility 16.5%; news +0.11",
-      "relative_strength_20d": 0.037514,
-      "score": 0.337012,
+      "price": 740.47,
+      "reason": "5d +3.4%; 20d +4.2%; vs SPY +3.8%; RSI 64; volume 0.7x; volatility 16.5%; news +0.11",
+      "relative_strength_20d": 0.038098,
+      "score": 0.343488,
       "symbol": "QQQ"
     },
     {
-      "news_score": 0.074074,
+      "news_score": 0.083333,
       "price": 223.71,
-      "reason": "5d +2.0%; 20d +6.8%; vs SPY +6.4%; RSI 43; volume 0.7x; volatility 44.9%; news +0.07",
+      "reason": "5d +2.0%; 20d +6.8%; vs SPY +6.4%; RSI 43; volume 0.7x; volatility 44.9%; news +0.08",
       "relative_strength_20d": 0.0636,
-      "score": 0.280494,
+      "score": 0.281884,
       "symbol": "NVDA"
     },
     {
@@ -299,20 +296,20 @@
       "symbol": "XLC"
     },
     {
-      "news_score": 0.444444,
-      "price": 1183.49,
-      "reason": "5d +2.7%; 20d -0.5%; vs SPY -0.9%; RSI 62; volume 1.4x; volatility 18.9%; news +0.44",
-      "relative_strength_20d": -0.008952,
-      "score": 0.276888,
-      "symbol": "LLY"
-    },
-    {
       "news_score": 0.0,
       "price": 335.88,
       "reason": "5d -0.4%; 20d +7.1%; vs SPY +6.7%; RSI 70; volume 0.6x; volatility 21.8%; news +0.00",
       "relative_strength_20d": 0.067448,
-      "score": 0.252057,
+      "score": 0.252058,
       "symbol": "AAPL"
+    },
+    {
+      "news_score": 0.166667,
+      "price": 1183.49,
+      "reason": "5d +2.7%; 20d -0.5%; vs SPY -0.9%; RSI 62; volume 1.4x; volatility 18.9%; news +0.17",
+      "relative_strength_20d": -0.008952,
+      "score": 0.235221,
+      "symbol": "LLY"
     },
     {
       "news_score": 0.0,
@@ -323,11 +320,11 @@
       "symbol": "WMT"
     },
     {
-      "news_score": 0.166667,
+      "news_score": 0.333333,
       "price": 162.115,
-      "reason": "5d -0.7%; 20d +2.5%; vs SPY +2.1%; RSI 55; volume 1.2x; volatility 26.9%; news +0.17",
+      "reason": "5d -0.7%; 20d +2.5%; vs SPY +2.1%; RSI 55; volume 1.2x; volatility 26.9%; news +0.33",
       "relative_strength_20d": 0.020787,
-      "score": 0.120053,
+      "score": 0.145053,
       "symbol": "XOM"
     }
   ],
