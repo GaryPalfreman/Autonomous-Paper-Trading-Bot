@@ -1,47 +1,212 @@
 {
   "benchmark_above_20d_average": true,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 767.735,
+  "benchmark_price": 766.965,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.324324,
+  "breadth_above_20d_average": 0.351351,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-09-23T23:08:59.429651+00:00",
-  "latest_market_timestamp": "2026-09-23T20:59:38.81947244Z",
-  "market_is_open": false,
+  "generated_at": "2026-09-24T17:39:57.521307+00:00",
+  "latest_market_timestamp": "2026-09-24T17:39:57.051793248Z",
+  "market_is_open": true,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
   "next_close": "2026-09-24T16:00:00-04:00",
-  "next_open": "2026-09-24T09:30:00-04:00",
+  "next_open": "2026-09-25T09:30:00-04:00",
   "recent_news": [
     {
-      "created_at": "2026-09-23T22:15:28Z",
-      "headline": "If You Invested $100 In Home Depot Stock 15 Years Ago, You Would Have This Much Today",
+      "created_at": "2026-09-24T17:35:10Z",
+      "headline": "8 Consumer Discretionary Stocks With Whale Alerts In Today\u2019s Session",
       "source": "benzinga",
       "symbols": [
-        "HD"
+        "AMZN",
+        "GME",
+        "HLT",
+        "MCD",
+        "MELI",
+        "PZZA",
+        "RCL",
+        "TSLA"
       ],
-      "url": "https://www.benzinga.com/news/26/09/61960802/if-you-invested-100-home-depot-stock-15-years-ago-you-would-have-much-today"
+      "url": "https://www.benzinga.com/markets/options/26/09/61980200/8-consumer-discretionary-stocks-whale-alerts-today-s-session"
     },
     {
-      "created_at": "2026-09-23T22:12:00Z",
-      "headline": "OpenAI Says We Weren\u2019t Aware Of Agent Activity In Australia Until August During An Ongoing Review Of OpenAI Misaligned Model Activity; Notified Services Australia About Incident On Sept 10",
+      "created_at": "2026-09-24T17:35:10Z",
+      "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
       "source": "benzinga",
       "symbols": [
-        "EWA",
-        "MSFT"
+        "AAPL",
+        "AMD",
+        "MSTR",
+        "MU",
+        "NOW",
+        "NVDA",
+        "QCOM",
+        "SKHY",
+        "SNDK",
+        "WULF"
       ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61960509/openai-says-we-weren-t-aware-agent-activity-australia-until-august-during-ongoing-review-openai-misa"
+      "url": "https://www.benzinga.com/markets/options/26/09/61980198/10-information-technology-stocks-whale-activity-today-s-session"
     },
     {
-      "created_at": "2026-09-23T22:11:34Z",
-      "headline": "OpenAI Says Its AI Agent Improperly Accessed Australian Government Files OpenAI Says No Evidence That Patient Records Were Accessed; Says Our Overall Review Is Ongoing; During Review, Identified Activity Involving Several Australian Government Websites And Services As Our Models Attempted To Look Up Answers; Our Models Took Actions We Did Not Intend",
+      "created_at": "2026-09-24T17:32:01Z",
+      "headline": "S&P 500 Erases Losses as US, Iran Reportedly Discuss Hormuz Deal: Stock Market Today",
       "source": "benzinga",
       "symbols": [
-        "EWA",
+        "AMLP",
+        "AUR",
+        "CRL",
+        "DIA",
+        "ENPH",
+        "FSLR",
+        "GDDY",
+        "GEN",
+        "IBB",
+        "IWM",
+        "LLY",
+        "META",
+        "MGM",
+        "OIH",
+        "ORCL",
+        "P",
+        "QQQ",
+        "SEDG",
+        "SNX",
+        "VKTX",
+        "VLO",
+        "VOO",
+        "XLC",
+        "XLE",
+        "XLI",
+        "XLK",
+        "XLV",
+        "XLY",
+        "XOP",
+        "XRT"
+      ],
+      "url": "https://www.benzinga.com/markets/market-summary/26/09/61980097/sp500-erases-losses-us-iran-hormuz-deal-markets-thursday"
+    },
+    {
+      "created_at": "2026-09-24T17:25:04Z",
+      "headline": "GE Aerospace Stock Faces Pressure As Jefferies Cuts Price Target",
+      "source": "benzinga",
+      "symbols": [
+        "GE",
+        "KTOS",
+        "PPA",
+        "VIS",
+        "XLI"
+      ],
+      "url": "https://www.benzinga.com/markets/large-cap/26/09/61979916/ge-aerospace-stock-faces-pressure-as-jefferies-cuts-price-target"
+    },
+    {
+      "created_at": "2026-09-24T17:13:29Z",
+      "headline": "What Is Going on With Nebius Stock on Thursday?",
+      "source": "benzinga",
+      "symbols": [
+        "CRWV",
+        "IREN",
+        "NBIG",
+        "NBIS",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/09/61979684/what-is-going-on-with-nebius-stock-on-thursday"
+    },
+    {
+      "created_at": "2026-09-24T17:12:57Z",
+      "headline": "President Trump Says We Had A Great Meeting; Trump Takes China's Xi Inside Presidential Helicopter",
+      "source": "benzinga",
+      "symbols": [
+        "FXI",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61979652/president-trump-says-we-had-great-meeting-trump-takes-china-s-xi-inside-presidential-helicopter"
+    },
+    {
+      "created_at": "2026-09-24T17:03:11Z",
+      "headline": "'Trump Administration Presses China on Suspected Nuclear Tests in Confidential Talks' - Wall Street Journal",
+      "source": "benzinga",
+      "symbols": [
+        "FXI",
+        "SPY",
+        "URA"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61979366/trump-administration-presses-china-suspected-nuclear-tests-confidential-talks-wall-street-journal"
+    },
+    {
+      "created_at": "2026-09-24T16:48:27Z",
+      "headline": "Chinese President Xi Jinping Says China Hopes U.S. Keeps Opposing Taiwan Independence, Handles Taiwan Question With Prudence - Xinhua",
+      "source": "benzinga",
+      "symbols": [
+        "EWT",
+        "FXI",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61978972/chinese-president-xi-jinping-says-china-hopes-us-keeps-opposing-taiwan-independence-handles-taiwan-question-with-prudence-xinhua"
+    },
+    {
+      "created_at": "2026-09-24T16:48:25Z",
+      "headline": "'White House Asks OpenAI And Anthropic To Hold New Models From UK Testers Until U.S. Review; U.K. Leaders Are Calling For A Shared Set Of Global Principles, Even As The White House Seeks First Access To New Models For Testing' - Politico",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
         "MSFT"
       ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61960497/openai-says-its-ai-agent-improperly-accessed-australian-government-files-openai-says-no-evidence-pat"
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61978969/white-house-asks-openai-and-anthropic-hold-new-models-uk-testers-until-u-s-review-u-k-leaders-are-ca"
+    },
+    {
+      "created_at": "2026-09-24T16:44:53Z",
+      "headline": "Tesla FSD Drove Over the Limit in 55% of Brussels Tests Ahead of EU Approval Vote",
+      "source": "benzinga",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61978817/tesla-fsd-brussels-speed-limit-eu-vote"
+    },
+    {
+      "created_at": "2026-09-24T16:25:04Z",
+      "headline": "Here's How Meta's Muse Mania Is Spilling into Leveraged ETFs",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "META",
+        "METG",
+        "METU"
+      ],
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/09/61978215/heres-how-metas-muse-mania-is-spilling-into-leveraged-etfs"
+    },
+    {
+      "created_at": "2026-09-24T16:08:33Z",
+      "headline": "CNN Granted Access To White House",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "WBD"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61977722/cnn-granted-access-to-white-house"
+    },
+    {
+      "created_at": "2026-09-24T16:19:36Z",
+      "headline": "US And Iran Discuss Phased Deal To Reopen Strait Of Hormuz And End US Blockade, Sources Say",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "USO"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61978026/us-and-iran-discuss-phased-deal-reopen-strait-hormuz-and-end-us-blockade-sources-say"
+    },
+    {
+      "created_at": "2026-09-24T16:11:46Z",
+      "headline": "BNP Paribas And Google Cloud Announce Five-Year Agentic AI And Cloud Partnership; Terms Not Disclosed",
+      "source": "benzinga",
+      "symbols": [
+        "BNPQY",
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/61977811/bnp-paribas-and-google-cloud-announce-five-year-agentic-ai-and-cloud-partnership-terms-not-disclosed"
     },
     {
       "created_at": "2026-09-23T21:07:11Z",
@@ -49,285 +214,156 @@
       "source": "benzinga",
       "symbols": [
         "BP",
+        "CLMT",
         "COP",
         "CVX",
+        "DINO",
         "HES",
         "MPC",
         "MRO",
         "OXY",
+        "PARR",
+        "PBF",
         "PBR",
         "SHEL",
         "SLB",
         "SPY",
+        "VLO",
         "XOM"
       ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61959651/dozens-u-s-oil-refining-and-business-groups-urge-trump-reject-any-effort-impose-ban-diesel-exports"
+      "url": "https://www.benzinga.com/news/26/09/61959651/dozens-of-u-s-oil-refining-and-business-groups-urge-trump-to-reject-any-effort-to-impose-ban-on-diesel-exports"
     },
     {
-      "created_at": "2026-09-23T20:54:40Z",
-      "headline": "QUICK SPARK: Viking Therapeutics Stock Gains 40% in 2 Days",
+      "created_at": "2026-09-24T16:06:38Z",
+      "headline": "Lilly Wins FDA Nod For Weekly Insulin, Signs $3.25 Billion InnoCare Pact",
       "source": "benzinga",
       "symbols": [
-        "LLY",
-        "NVO",
-        "VKTX"
+        "LLY"
       ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61959369/viking-therapeutics-stock-gains"
+      "url": "https://www.benzinga.com/news/health-care/26/09/61977558/lilly-wins-fda-nod-for-weekly-insulin-signs-3-25-billion-innocare-pact"
     },
     {
-      "created_at": "2026-09-23T20:39:59Z",
-      "headline": "'Prime Minister Anthony Albanese Has Revealed That An Artificial Intelligence Agent Developed By OpenAI Infiltrated An Australian Government Website In June, Accessing Public And Non-Public Files' - Sydney Morning Herald",
+      "created_at": "2026-09-24T16:01:28Z",
+      "headline": "Tigress Financial Maintains Strong Buy on Meta Platforms, Raises Price Target to $995",
       "source": "benzinga",
       "symbols": [
-        "EWA",
-        "MSFT"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61959145/prime-minister-anthony-albanese-has-revealed-artificial-intelligence-agent-developed-openai-infiltra"
-    },
-    {
-      "created_at": "2026-09-23T20:30:19Z",
-      "headline": "Here's How Much $1000 Invested In Apple 20 Years Ago Would Be Worth Today",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61958804/here-s-how-much-1000-invested-apple-20-years-ago-would-be-worth-today"
-    },
-    {
-      "created_at": "2026-09-23T20:25:34Z",
-      "headline": "U.S. Judge Deciding Case Over Media Ban At The White House Ends Hearing Without Saying When He Would Rule",
-      "source": "benzinga",
-      "symbols": [
-        "DIS",
-        "SPY",
-        "VSNT",
-        "WBD"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61958704/u-s-judge-deciding-case-over-media-ban-white-house-ends-hearing-without-saying-when-he-would-rule"
-    },
-    {
-      "created_at": "2026-09-23T20:13:48Z",
-      "headline": "Airbnb Announces Broader Access To OpenAI Frontier Models For Its Engineering, Product Development Teams",
-      "source": "benzinga",
-      "symbols": [
-        "ABNB",
-        "MSFT"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61958438/airbnb-announces-broader-access-openai-frontier-models-its-engineering-product-development-teams"
-    },
-    {
-      "created_at": "2026-09-23T20:07:12Z",
-      "headline": "'Hellman & Friedman Explores Sale Of Applied Systems At Up To $10B; Hellman & Friedman Is Working With JPMorgan, Goldman Sachs On The Sale, Sources Say' - Reuters Exclusive",
-      "source": "benzinga",
-      "symbols": [
-        "GS",
-        "JPM"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61958248/hellman-friedman-explores-sale-applied-systems-10b-hellman-friedman-working-jpmorgan-goldman-sachs-s"
-    },
-    {
-      "created_at": "2026-09-23T20:01:01Z",
-      "headline": "OpenAI Announces MentalHealthBench, Open Benchmark For Evaluating AI Responses In Mental Health Conversations, Built With More Than 80 Licensed Experts",
-      "source": "benzinga",
-      "symbols": [
-        "GOOGL",
-        "META",
-        "MSFT",
-        "TDOC"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61957908/openai-announces-mentalhealthbench-open-benchmark-evaluating-ai-responses-mental-health-conversation"
-    },
-    {
-      "created_at": "2026-09-23T19:50:42Z",
-      "headline": "'U.S. Regulators Plan Major Move To Speed Authorizations Of Vapes, Tobacco Pouches; Move Comes Despite Lawmakers Voicing Concern About Recent Flavor Approvals' - WSJ Exclusive",
-      "source": "benzinga",
-      "symbols": [
-        "BTI",
-        "MO",
-        "PM",
-        "SPY",
-        "XXII"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61957563/u-s-regulators-plan-major-move-speed-authorizations-vapes-tobacco-pouches-move-comes-despite-lawmake"
-    },
-    {
-      "created_at": "2026-09-23T19:45:42Z",
-      "headline": "Meta\u2019s Muse \u2018A Game Changer\u2019 Says Dan Ives: \u2018Investors Discounted Meta and Zuckerberg'",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
         "META"
       ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61957441/metas-muse-a-game-changer-says-dan-ives-investors-discounted-meta-and-zuckerberg"
+      "url": "https://www.benzinga.com/news/26/09/61977415/tigress-financial-maintains-strong-buy-meta-platforms-raises-price-target-995"
     },
     {
-      "created_at": "2026-09-23T19:35:32Z",
-      "headline": "AI Agents Could Wipe Out Schwab\u2019s $9 Billion \u2018Lazy Cash\u2019 Windfall, Citrini Says",
+      "created_at": "2026-09-24T15:59:41Z",
+      "headline": "Google Launches Gemini 3.8 Live With Live Avatar For Enterprise AI Agents",
       "source": "benzinga",
       "symbols": [
-        "HOOD",
-        "IBKR",
-        "META",
-        "SCHW"
-      ],
-      "url": "https://www.benzinga.com/markets/large-cap/26/09/61957178/schwab-lazy-cash-ai-agents-9-billion-ibkr-citrini"
-    },
-    {
-      "created_at": "2026-09-23T19:31:54Z",
-      "headline": "'Trump Officials Weigh Rolling Back Beef Import Plan As GOP Midterm Panic Spreads' - Politico Exclusive",
-      "source": "benzinga",
-      "symbols": [
-        "ACI",
-        "AMZN",
-        "COST",
-        "JBS",
-        "KR",
-        "PPC",
-        "SPY",
-        "TSN",
-        "WMT"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61957119/trump-officials-weigh-rolling-back-beef-import-plan-as-gop-midterm-panic-spreads-politico-exclusive"
-    },
-    {
-      "created_at": "2026-09-23T18:54:24Z",
-      "headline": "Anthropic CEO Dario Amodei Posts On X \"Today we announced the Claude-led discovery of a molecular machine that we suspect could represent a new gene editing mechanism. Its precise function, biotechnological utility (if any), or level of significance is not yet clear, but at minimum it is work I would have been proud to do as a PhD student. The work was done mostly, though not entirely, by Claude: our life sciences team suggested a broad area of research...\"",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "CRSP",
         "GOOG",
         "GOOGL"
       ],
-      "url": "https://www.benzinga.com/news/26/09/61956240/anthropic-ceo-dario-amodei-posts-x-today-we-announced-claude-led-discovery-molecular-machine-we-susp"
+      "url": "https://www.benzinga.com/news/26/09/61977320/google-launches-gemini-3-8-live-live-avatar-enterprise-ai-agents"
     },
     {
-      "created_at": "2026-09-23T18:50:19Z",
-      "headline": "'Microsoft President Backs Deployment of AI Safety Evaluators' - Bloomberg",
+      "created_at": "2026-09-24T15:58:02Z",
+      "headline": "'US Seeks to Join Musk in Court Fight With EU Over X Fine' - Bloomberg",
       "source": "benzinga",
       "symbols": [
-        "MSFT"
+        "EWU",
+        "SPY",
+        "TSLA"
       ],
-      "url": "https://www.benzinga.com/news/26/09/61956169/microsoft-president-backs-deployment-ai-safety-evaluators-bloomberg"
+      "url": "https://www.benzinga.com/news/26/09/61977271/us-seeks-join-musk-court-fight-eu-over-x-fine-bloomberg"
     },
     {
-      "created_at": "2026-09-23T18:46:47Z",
-      "headline": "Microsoft Upgraded as Analyst Sees Steady Margins Even Without Heavy AI Model Spending",
+      "created_at": "2026-09-24T15:41:51Z",
+      "headline": "U.S. Treasury 10-year Yield High For Session Of 5.1685%, Highest Since July 2007; Yield On 10-Year Note Last Up 5.24 Basis Points At 5.166%",
       "source": "benzinga",
       "symbols": [
-        "MSFT"
+        "SPY"
       ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/upgrades/26/09/61956084/microsoft-upgraded-as-analyst-sees-steady-margins-even-without-heavy-ai-model-spending"
-    },
-    {
-      "created_at": "2026-09-23T18:35:20Z",
-      "headline": "What Is Going on With Snap Stock on Wednesday?",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "CRM",
-        "NVDA",
-        "SNAP",
-        "VERS"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61955854/what-is-going-on-with-snap-stock-on-wednesday"
-    },
-    {
-      "created_at": "2026-09-23T18:31:47Z",
-      "headline": "Meta Muse vs. Elon Musk\u2019s X: The Battle for the \u2018Everything App\u2019",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "META",
-        "PYPL",
-        "SHOP",
-        "SPCX"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61955773/meta-muse-vs-elon-musk-x-everything-app"
+      "url": "https://www.benzinga.com/quote/SPY"
     }
   ],
   "regime": "RISK_ON",
-  "regime_score": 0.594595,
+  "regime_score": 0.610811,
   "top_candidates": [
     {
-      "news_score": 0.074074,
-      "price": 746.68,
-      "reason": "5d +10.9%; 20d +31.1%; vs SPY +30.6%; RSI 83; volume 1.2x; volatility 48.6%; news +0.07",
-      "relative_strength_20d": 0.305989,
-      "score": 0.786873,
+      "news_score": 0.1,
+      "price": 768.24,
+      "reason": "5d +12.7%; 20d +33.4%; vs SPY +33.0%; RSI 84; volume 1.4x; volatility 49.1%; news +0.10",
+      "relative_strength_20d": 0.330385,
+      "score": 0.803689,
       "symbol": "META"
     },
     {
-      "news_score": 0.0,
-      "price": 195.33,
-      "reason": "5d +6.3%; 20d +7.6%; vs SPY +7.1%; RSI 69; volume 0.9x; volatility 21.9%; news +0.00",
-      "relative_strength_20d": 0.070987,
-      "score": 0.569506,
-      "symbol": "XLK"
-    },
-    {
-      "news_score": 0.0,
-      "price": 380.25,
-      "reason": "5d +6.2%; 20d +8.6%; vs SPY +8.1%; RSI 52; volume 0.6x; volatility 44.4%; news +0.00",
-      "relative_strength_20d": 0.080651,
-      "score": 0.510746,
+      "news_score": 0.111111,
+      "price": 381.47,
+      "reason": "5d +4.2%; 20d +10.3%; vs SPY +9.9%; RSI 74; volume 0.4x; volatility 44.0%; news +0.11",
+      "relative_strength_20d": 0.099292,
+      "score": 0.593036,
       "symbol": "TSLA"
     },
     {
       "news_score": 0.0,
-      "price": 741.23,
-      "reason": "5d +5.3%; 20d +4.4%; vs SPY +3.9%; RSI 66; volume 0.9x; volatility 16.5%; news +0.00",
-      "relative_strength_20d": 0.03907,
-      "score": 0.443999,
+      "price": 194.39,
+      "reason": "5d +3.5%; 20d +6.4%; vs SPY +6.0%; RSI 65; volume 0.4x; volatility 22.1%; news +0.00",
+      "relative_strength_20d": 0.060215,
+      "score": 0.367494,
+      "symbol": "XLK"
+    },
+    {
+      "news_score": 0.5,
+      "price": 1194.365,
+      "reason": "5d +3.6%; 20d +0.4%; vs SPY +0.0%; RSI 65; volume 0.9x; volatility 19.6%; news +0.50",
+      "relative_strength_20d": 0.000388,
+      "score": 0.300601,
+      "symbol": "LLY"
+    },
+    {
+      "news_score": 0.0,
+      "price": 739.99,
+      "reason": "5d +3.3%; 20d +4.1%; vs SPY +3.8%; RSI 64; volume 0.4x; volatility 16.6%; news +0.00",
+      "relative_strength_20d": 0.037619,
+      "score": 0.281621,
       "symbol": "QQQ"
     },
     {
-      "news_score": 0.066667,
-      "price": 225.62,
-      "reason": "5d +5.5%; 20d +6.1%; vs SPY +5.6%; RSI 47; volume 0.7x; volatility 45.3%; news +0.07",
-      "relative_strength_20d": 0.05561,
-      "score": 0.418711,
-      "symbol": "NVDA"
-    },
-    {
-      "news_score": 0.066667,
-      "price": 336.87,
-      "reason": "5d +1.3%; 20d +8.7%; vs SPY +8.2%; RSI 59; volume 0.9x; volatility 21.9%; news +0.07",
-      "relative_strength_20d": 0.082012,
-      "score": 0.403046,
+      "news_score": 0.0,
+      "price": 337.38,
+      "reason": "5d +0.1%; 20d +7.6%; vs SPY +7.2%; RSI 73; volume 0.4x; volatility 21.7%; news +0.00",
+      "relative_strength_20d": 0.07243,
+      "score": 0.265899,
       "symbol": "AAPL"
     },
     {
+      "news_score": 0.047619,
+      "price": 223.845,
+      "reason": "5d +2.0%; 20d +6.8%; vs SPY +6.4%; RSI 43; volume 0.4x; volatility 45.0%; news +0.05",
+      "relative_strength_20d": 0.06444,
+      "score": 0.24374,
+      "symbol": "NVDA"
+    },
+    {
       "news_score": 0.0,
-      "price": 110.53,
-      "reason": "5d +2.8%; 20d +4.9%; vs SPY +4.4%; RSI 58; volume 0.9x; volatility 19.2%; news +0.00",
-      "relative_strength_20d": 0.043837,
-      "score": 0.321877,
+      "price": 108.425,
+      "reason": "5d +1.6%; 20d +3.9%; vs SPY +3.5%; RSI 55; volume 0.8x; volatility 20.3%; news +0.00",
+      "relative_strength_20d": 0.035323,
+      "score": 0.204899,
       "symbol": "WMT"
     },
     {
-      "news_score": 0.333333,
-      "price": 355.11,
-      "reason": "5d +4.8%; 20d -0.3%; vs SPY -0.8%; RSI 49; volume 0.8x; volatility 34.3%; news +0.33",
-      "relative_strength_20d": -0.007674,
-      "score": 0.246388,
-      "symbol": "AVGO"
+      "news_score": 0.0,
+      "price": 113.7,
+      "reason": "5d +1.6%; 20d +1.3%; vs SPY +0.9%; RSI 56; volume 1.2x; volatility 22.2%; news +0.00",
+      "relative_strength_20d": 0.00918,
+      "score": 0.163994,
+      "symbol": "XLC"
     },
     {
       "news_score": 0.0,
-      "price": 811.98,
-      "reason": "5d +3.6%; 20d +0.1%; vs SPY -0.4%; RSI 54; volume 1.4x; volatility 26.1%; news +0.00",
-      "relative_strength_20d": -0.004245,
-      "score": 0.243265,
-      "symbol": "CAT"
-    },
-    {
-      "news_score": 0.033333,
-      "price": 500.62,
-      "reason": "5d +2.1%; 20d +1.8%; vs SPY +1.3%; RSI 44; volume 0.9x; volatility 23.0%; news +0.03",
-      "relative_strength_20d": 0.013418,
-      "score": 0.132801,
-      "symbol": "MSFT"
+      "price": 162.675,
+      "reason": "5d -0.4%; 20d +2.8%; vs SPY +2.5%; RSI 56; volume 0.8x; volatility 27.0%; news +0.00",
+      "relative_strength_20d": 0.024524,
+      "score": 0.072584,
+      "symbol": "XOM"
     }
   ],
   "universe_size": 37
