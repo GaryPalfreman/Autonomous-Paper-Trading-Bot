@@ -1,331 +1,354 @@
 {
   "benchmark_above_20d_average": true,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 767.115,
+  "benchmark_price": 770.77,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.351351,
+  "breadth_above_20d_average": 0.432432,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-09-24T23:41:54.285746+00:00",
-  "latest_market_timestamp": "2026-09-24T20:58:04.650981717Z",
-  "market_is_open": false,
+  "generated_at": "2026-09-25T17:39:35.885813+00:00",
+  "latest_market_timestamp": "2026-09-25T17:39:34.472901476Z",
+  "market_is_open": true,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
   "next_close": "2026-09-25T16:00:00-04:00",
-  "next_open": "2026-09-25T09:30:00-04:00",
+  "next_open": "2026-09-28T09:30:00-04:00",
   "recent_news": [
     {
-      "created_at": "2026-09-24T22:45:21Z",
-      "headline": "Here\u2019s How Much You Would Have Made Owning JPMorgan Chase Stock In The Last 20 Years",
+      "created_at": "2026-09-25T17:36:29Z",
+      "headline": "Costco Save Members $3.2 Billion for Gas this Fiscal Year: How Higher Gas Prices Could Help Retailer",
+      "source": "benzinga",
+      "symbols": [
+        "COST"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/62003964/costco-save-members-3-2-billion-for-gas-this-fiscal-year-how-higher-gas-prices-could-help-retailer"
+    },
+    {
+      "created_at": "2026-09-25T17:35:11Z",
+      "headline": "10 Industrials Stocks Whale Activity In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "BA",
+        "BE",
+        "BETA",
+        "CAT",
+        "DAL",
+        "FDX",
+        "GD",
+        "MOD",
+        "VICR",
+        "VRT"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/09/62003902/10-industrials-stocks-whale-activity-today-s-session"
+    },
+    {
+      "created_at": "2026-09-25T17:35:11Z",
+      "headline": "10 Health Care Stocks With Whale Alerts In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "ABBV",
+        "ABUS",
+        "ABVX",
+        "AMGN",
+        "BIOA",
+        "CDNA",
+        "CORT",
+        "HIMS",
+        "NVO",
+        "UNH"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/09/62003901/10-health-care-stocks-whale-alerts-today-s-session"
+    },
+    {
+      "created_at": "2026-09-25T17:35:11Z",
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "CRWV",
+        "INTC",
+        "IREN",
+        "KEYS",
+        "NBIS",
+        "NOW",
+        "ORCL",
+        "PANW",
+        "RIOT"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/09/62003900/10-information-technology-stocks-whale-alerts-today-s-session"
+    },
+    {
+      "created_at": "2026-09-25T17:27:47Z",
+      "headline": "Jury Finds Meta Platforms Misled New Mexico Consumers In Cambridge Analytica Trial",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/62003723/jury-finds-meta-platforms-misled-new-mexico-consumers-cambridge-analytica-trial"
+    },
+    {
+      "created_at": "2026-09-25T17:19:37Z",
+      "headline": "President Trump Posts On Truth Social \"President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florida. Much has been, and will be, accomplished. I look forward to our next meeting!\"",
+      "source": "benzinga",
+      "symbols": [
+        "FXI",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62003509/president-trump-posts-truth-social-president-xi-and-madam-peng-have-just-left-d-c-heading-china-meet"
+    },
+    {
+      "created_at": "2026-09-25T17:18:20Z",
+      "headline": "FTC Chair Says Going To Continue As Long As I Am Chairman To Resist This Anthropomorphizing Of These (AI Agent) Tools;  If There Is Substantial Personal Data Being Used To Offer A Product Or Service Where That Has Not Been The Tradition, They Ought To Be Told That Is Happening; Says, Speaking For Himself, That He Is Most Concerned About Delivery, Rideshare And Airline Pricing",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62003480/ftc-chair-says-going-continue-long-i-am-chairman-resist-anthropomorphizing-these-ai-agent-tools-if-t"
+    },
+    {
+      "created_at": "2026-09-25T17:12:39Z",
+      "headline": "'JPMorgan Tweaks Data-Sharing Notices in Battle With Fintechs' - Bloomberg",
       "source": "benzinga",
       "symbols": [
         "JPM"
       ],
-      "url": "https://www.benzinga.com/news/26/09/61987404/here-s-how-much-you-would-have-made-owning-jpmorgan-chase-stock-last-20-years"
+      "url": "https://www.benzinga.com/news/26/09/62003337/jpmorgan-tweaks-data-sharing-notices-battle-fintechs-bloomberg"
     },
     {
-      "created_at": "2026-09-24T22:19:56Z",
-      "headline": "Trump Disapproval Hits Record High in New Poll: 56% Say President Has Done Worse than Expected",
+      "created_at": "2026-09-25T17:06:07Z",
+      "headline": "U.S. Baker Hughes Oil Rig Count +3 To 455; U.S. Baker Hughes NatGas Rig Count +1 To 135; U.S. Baker Hughes Total Rig Count 599 Vs 595 Prior",
       "source": "benzinga",
       "symbols": [
-        "SPY"
+        "SPY",
+        "UNG",
+        "USO"
       ],
-      "url": "https://www.benzinga.com/news/politics/26/09/61987260/trump-disapproval-hits-record-high-in-new-poll-56-say-president-has-done-worse-than-expected"
+      "url": "https://www.benzinga.com/quote/UNG"
     },
     {
-      "created_at": "2026-09-24T22:13:51Z",
-      "headline": "Full Transcript: Costco Wholesale Q4 2026 Earnings Call",
+      "created_at": "2026-09-25T17:01:58Z",
+      "headline": "CNBC Halftime Report Final Trades: Hewlett Packard Enterprise, Natera, UnitedHealth Group",
+      "source": "benzinga",
+      "symbols": [
+        "HPE",
+        "NTRA",
+        "UNH"
+      ],
+      "url": "https://www.benzinga.com/quote/UNH"
+    },
+    {
+      "created_at": "2026-09-25T17:01:18Z",
+      "headline": "What Is Going on With Qualcomm Stock on Friday?",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "FTXL",
+        "QCOM",
+        "ROYA",
+        "SMHX",
+        "TSM"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/09/62002905/what-is-going-on-with-qualcomm-stock-on-friday"
+    },
+    {
+      "created_at": "2026-09-25T17:00:28Z",
+      "headline": "Reported Earlier: 'Germany's SCHMID Says It Is in Talks With Suppliers to Nvidia, Intel and AMD; Glass Boosts Speed and Cuts Power Use Compared With Plastic Substrates; Jensen Huang Discussed Glass Substrates With Chey Tae-won' - Seoul Economic Daily",
+      "source": "benzinga",
+      "symbols": [
+        "AMD",
+        "INTC",
+        "NVDA",
+        "SHMD"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/62002860/reported-earlier-germany-s-schmid-says-it-talks-suppliers-nvidia-intel-and-amd-glass-boosts-speed-an"
+    },
+    {
+      "created_at": "2026-09-25T16:55:35Z",
+      "headline": "U.S. Central Command Posts On X \"U.S. Marines assigned to the 11th Marine Expeditionary Unit train aboard USS Boxer (LHD 4) as the ship sails in regional waters and continues to support enforcement of the U.S. blockade against Iran. As of Sept. 25, CENTCOM forces have redirected 122 commercial vessels to ensure strict compliance.\"",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "USO"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62002744/u-s-central-command-posts-x-u-s-marines-assigned-11th-marine-expeditionary-unit-train-aboard-uss-box"
+    },
+    {
+      "created_at": "2026-09-25T16:55:32Z",
+      "headline": "Raymond James Maintains Outperform on Costco Wholesale, Lowers Price Target to $1050",
       "source": "benzinga",
       "symbols": [
         "COST"
       ],
-      "url": "https://www.benzinga.com/news/26/09/61987229/full-transcript-costco-wholesale-q4-2026-earnings-call"
+      "url": "https://www.benzinga.com/news/26/09/62002732/raymond-james-maintains-outperform-costco-wholesale-lowers-price-target-1050"
     },
     {
-      "created_at": "2026-09-24T22:01:49Z",
-      "headline": "'Anthropic Seeks Palantir-Style Voting Control For Seven Co-Founders Ahead Of IPO; Anthropic Planning To Give Founders 50.1% Voting Control In New Corporate Structure' - The Information",
+      "created_at": "2026-09-25T16:54:16Z",
+      "headline": "President Trump Posts On Truth Social \"Scott Bessent will not be going to be Super Intelligence (SI) Czar. Number One, he doesn\u2019t want to. Number Two, he\u2019s doing such a great job at Treasury, and that\u2019s where I want to keep him! Why would I ever make such a change? Just more Fake News!\"",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62002696/president-trump-posts-truth-social-scott-bessent-will-not-be-going-be-super-intelligence-si-czar-num"
+    },
+    {
+      "created_at": "2026-09-25T16:53:40Z",
+      "headline": "FTC Chair Says Will Resist Anthropomorphizing Of AI Agent Tools As Long As Chairman; Says Use Of Substantial Personal Data In Non-Traditional Products Should Be Disclosed",
       "source": "benzinga",
       "symbols": [
         "AMZN",
         "GOOG",
-        "GOOGL"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61987142/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo-anthropic-planning-give-fo"
-    },
-    {
-      "created_at": "2026-09-24T21:37:57Z",
-      "headline": "Costco Exec Says Beyond FY27, We Would Expect To See Slowing In Rate Of Capital Expenditure Growth",
-      "source": "benzinga",
-      "symbols": [
-        "COST"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61986884/costco-exec-says-beyond-fy27-we-would-expect-see-slowing-rate-capital-expenditure-growth"
-    },
-    {
-      "created_at": "2026-09-24T21:27:56Z",
-      "headline": "Costco Exec Says Traffic Teams Are Working Through Minor Shipping Disruptions Due To Recent Typhoons In Asia And Panama Canal Delays Due To El Nino",
-      "source": "benzinga",
-      "symbols": [
-        "COST"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61986767/costco-exec-says-traffic-teams-are-working-through-minor-shipping-disruptions-due-recent-typhoons-as"
-    },
-    {
-      "created_at": "2026-09-24T21:26:52Z",
-      "headline": "Costco Exec Says Saw Increase In Non-foods Inflation During Q4, Predominantly Due To Memory Costs In Consumer Electronics, Gas & Petroleum-based Items",
-      "source": "benzinga",
-      "symbols": [
-        "COST"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61986739/costco-exec-says-saw-increase-non-foods-inflation-during-q4-predominantly-due-memory-costs-consumer-"
-    },
-    {
-      "created_at": "2026-09-24T21:26:21Z",
-      "headline": "Airlines For America CEO Sununu Opposes U.S. Diesel Export Ban, Saying It Could Lead To Higher Prices",
-      "source": "benzinga",
-      "symbols": [
-        "AAL",
-        "ALGT",
-        "ALK",
-        "CPA",
-        "DAL",
-        "JBLU",
-        "JETS",
-        "LTM",
-        "LUV",
-        "RJET",
-        "SKYW",
-        "SNCY",
-        "SPY",
-        "UAL",
-        "ULCC"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61986727/airlines-america-ceo-sununu-opposes-u-s-diesel-export-ban-saying-it-could-lead-higher-prices"
-    },
-    {
-      "created_at": "2026-09-24T21:16:46Z",
-      "headline": "Costco Exec Says We Received $184M In IEEPA Tariff Refunds In The Q4; In Q1 Of FY27, We Have Already Received Similar Amount Of Refunds As We Did In Q4",
-      "source": "benzinga",
-      "symbols": [
-        "COST"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61986585/costco-exec-says-we-received-184m-ieepa-tariff-refunds-q4-q1-fy27-we-have-already-received-similar-a"
-    },
-    {
-      "created_at": "2026-09-24T21:15:42Z",
-      "headline": "Here's How Much $100 Invested In Amazon.com 10 Years Ago Would Be Worth Today",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61986560/here-s-how-much-100-invested-amazon-com-10-years-ago-would-be-worth-today"
-    },
-    {
-      "created_at": "2026-09-24T20:40:55Z",
-      "headline": "Costco Wholesale Reports Strong Q4: Revenue, Earnings Beat Estimates",
-      "source": "benzinga",
-      "symbols": [
-        "BJ",
-        "COST",
-        "DG",
-        "DLTR",
-        "PSMT",
-        "TGT"
-      ],
-      "url": "https://www.benzinga.com/markets/earnings/26/09/61985661/costco-wholesale-reports-strong-q4-revenue-earnings-beat-estimates"
-    },
-    {
-      "created_at": "2026-09-24T20:38:07Z",
-      "headline": "Airline Industry Group Airlines For America Opposes Allowing Chinese Carriers To Add More Flights To U.S",
-      "source": "benzinga",
-      "symbols": [
-        "AAL",
-        "ALGT",
-        "ALK",
-        "CPA",
-        "DAL",
-        "FXI",
-        "JBLU",
-        "JETS",
-        "LTM",
-        "LUV",
-        "RJET",
-        "SKYW",
-        "SNCY",
-        "SPY",
-        "UAL",
-        "ULCC"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61985591/airline-industry-group-airlines-america-opposes-allowing-chinese-carriers-add-more-flights-u-s"
-    },
-    {
-      "created_at": "2026-09-24T20:33:00Z",
-      "headline": "Airline Industry Group Airlines For America Opposes Allowing Chinese Carriers To Add More Flights To U.S.",
-      "source": "benzinga",
-      "symbols": [
+        "GOOGL",
+        "MSFT",
+        "ORCL",
         "SPY"
       ],
-      "url": "https://www.benzinga.com/news/26/09/61985401/airline-industry-group-airlines-america-opposes-allowing-chinese-carriers-add-more-flights-u-s"
+      "url": "https://www.benzinga.com/news/26/09/62002672/ftc-chair-says-will-resist-anthropomorphizing-ai-agent-tools-long-chairman-says-use-substantial-pers"
     },
     {
-      "created_at": "2026-09-24T20:25:58Z",
-      "headline": "AI Boom Adds More Customers But Spending Remains Highly Concentrated: What It Means for Nvidia, CoreWeave",
+      "created_at": "2026-09-25T16:53:06Z",
+      "headline": "Senior Iranian Official Tells Reuters Strait Of Hormuz Will Remain Closed, No Nuclear Talks With US Until Iran's Conditions Met; Iran Will Make No Nuclear Concessions",
       "source": "benzinga",
       "symbols": [
+        "SPY",
+        "USO"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/62002636/senior-iranian-official-tells-reuters-strait-hormuz-will-remain-closed-no-nuclear-talks-us-until-ira"
+    },
+    {
+      "created_at": "2026-09-25T16:51:19Z",
+      "headline": "Trump Administration To Meet September 30 Deadline To Commit To Spending $400M In Ukraine Military Aid, Sources Say",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "VGK"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62002559/trump-administration-meet-september-30-deadline-commit-spending-400m-ukraine-military-aid-sources-sa"
+    },
+    {
+      "created_at": "2026-09-25T16:48:32Z",
+      "headline": "Akamai Jumps on Anthropic Deal, 30-Year Yields Top 5.5%: Stock Market Today (CORRECTED)",
+      "source": "benzinga",
+      "symbols": [
+        "AKAM",
         "CRWV",
-        "NVDA"
+        "DELL",
+        "DIA",
+        "DKS",
+        "GME",
+        "IWM",
+        "META",
+        "MOS",
+        "NET",
+        "NKE",
+        "ONON",
+        "ORCL",
+        "QQQ",
+        "TWLO",
+        "VOO",
+        "XLC",
+        "XLY",
+        "ZS"
       ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61985209/ai-spending-concentration-nvidia-coreweave"
+      "url": "https://www.benzinga.com/markets/equities/26/09/62001141/oil-slips-treasury-yields-19-year-high-akamai-anthropic-markets-friday"
     },
     {
-      "created_at": "2026-09-24T20:25:34Z",
-      "headline": "Trump And Xi Confirmed That They Would Support Each Other In Hosting The APEC Economic Leaders\u2019 Meeting And The G20 Summit In 2026; Xi Says New Trade Arrangement Between China, U.S. Good News For Global Economy; President Xi Stressed That The Economic And Trade Teams Of The Two Sides Held A New Round Of Consultations And Reached A New Joint Arrangement",
-      "source": "benzinga",
-      "symbols": [
-        "FXI",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61985197/trump-and-xi-confirmed-they-would-support-each-other-hosting-apec-economic-leaders-meeting-and-g20-s"
-    },
-    {
-      "created_at": "2026-09-24T20:15:30Z",
-      "headline": "Costco Wholesale Q4 EPS $6.75 Beats $6.52 Estimate, Sales $95.723B Beat $94.859B Estimate",
-      "source": "benzinga",
-      "symbols": [
-        "COST"
-      ],
-      "url": "https://www.benzinga.com/news/earnings/26/09/61984931/costco-wholesale-q4-eps-6-75-beats-6-52-estimate-sales-95-723b-beat-94-859b-estimate"
-    },
-    {
-      "created_at": "2026-09-24T20:13:22Z",
-      "headline": "'Xi calls on China, U.S. to keep AI technology under human control' - Xinhua",
-      "source": "benzinga",
-      "symbols": [
-        "FXI",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/61984860/xi-calls-china-u-s-keep-ai-technology-under-human-control-xinhua"
-    },
-    {
-      "created_at": "2026-09-24T20:12:12Z",
-      "headline": "Amazon Opens Seller Data to Claude Days After Blocking Meta\u2019s Muse",
+      "created_at": "2026-09-25T16:43:22Z",
+      "headline": "Nvidia GPU Demand Is So Extreme, Even Bad Cloud Infrastructure Is Selling, SemiAnalysis Says",
       "source": "benzinga",
       "symbols": [
         "AMZN",
-        "META"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61984835/amazon-claude-seller-data-meta-muse"
-    },
-    {
-      "created_at": "2026-09-24T20:08:54Z",
-      "headline": "S&P 500\u2019s Midterm Rally Setup Is Getting Interesting: These ETFs Could Hold the Clues",
-      "source": "benzinga",
-      "symbols": [
-        "RSP",
-        "SMH",
-        "SOXX",
-        "SPY",
-        "XLY"
-      ],
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/61984746/sampp-500s-midterm-rally-setup-is-getting-interesting-these-etfs-could-hold-clues"
-    },
-    {
-      "created_at": "2026-09-24T19:05:52Z",
-      "headline": "EXCLUSIVE: Micron's AI Earnings Could Break the Old Memory Cycle, PurePlay ETFs CEO Says",
-      "source": "benzinga",
-      "symbols": [
-        "ASML",
-        "MU",
+        "CRWV",
+        "GOOGL",
+        "MSFT",
+        "NBIS",
         "NVDA",
-        "NVPS",
-        "SKHY",
-        "TSM"
+        "ORCL"
       ],
-      "url": "https://www.benzinga.com/markets/tech/26/09/61982882/micron-earnings-break-memory-cycle-pureplay-etfs-nvps"
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/62002304/nvidia-gpu-demand-bad-cloud-infrastructure"
     }
   ],
   "regime": "RISK_ON",
-  "regime_score": 0.610811,
+  "regime_score": 0.659459,
   "top_candidates": [
     {
-      "news_score": 0.208333,
-      "price": 777.73,
-      "reason": "5d +14.1%; 20d +35.1%; vs SPY +34.7%; RSI 85; volume 1.7x; volatility 49.8%; news +0.21",
-      "relative_strength_20d": 0.34667,
-      "score": 0.868232,
+      "news_score": 0.0,
+      "price": 751.08,
+      "reason": "5d +13.0%; 20d +31.6%; vs SPY +31.4%; RSI 77; volume 0.8x; volatility 52.2%; news +0.00",
+      "relative_strength_20d": 0.314395,
+      "score": 0.703004,
       "symbol": "META"
     },
     {
-      "news_score": 0.166667,
-      "price": 377.99,
-      "reason": "5d +3.3%; 20d +9.3%; vs SPY +8.9%; RSI 71; volume 0.6x; volatility 44.2%; news +0.17",
-      "relative_strength_20d": 0.089032,
-      "score": 0.528172,
+      "news_score": 0.0,
+      "price": 515.525,
+      "reason": "5d +4.5%; 20d +2.1%; vs SPY +1.9%; RSI 64; volume 1.6x; volatility 25.5%; news +0.00",
+      "relative_strength_20d": 0.018932,
+      "score": 0.425464,
+      "symbol": "MSFT"
+    },
+    {
+      "news_score": 0.333333,
+      "price": 339.9,
+      "reason": "5d +1.2%; 20d +8.1%; vs SPY +7.9%; RSI 80; volume 0.4x; volatility 22.0%; news +0.33",
+      "relative_strength_20d": 0.078676,
+      "score": 0.42169,
+      "symbol": "AAPL"
+    },
+    {
+      "news_score": 0.333333,
+      "price": 196.62,
+      "reason": "5d +3.8%; 20d +4.4%; vs SPY +4.2%; RSI 68; volume 0.5x; volatility 19.5%; news +0.33",
+      "relative_strength_20d": 0.04157,
+      "score": 0.382453,
+      "symbol": "XLK"
+    },
+    {
+      "news_score": 0.0,
+      "price": 372.19,
+      "reason": "5d +2.2%; 20d +4.9%; vs SPY +4.7%; RSI 54; volume 1.3x; volatility 43.9%; news +0.00",
+      "relative_strength_20d": 0.047478,
+      "score": 0.331644,
       "symbol": "TSLA"
     },
     {
       "news_score": 0.166667,
-      "price": 194.7,
-      "reason": "5d +3.7%; 20d +6.6%; vs SPY +6.2%; RSI 66; volume 0.7x; volatility 22.0%; news +0.17",
-      "relative_strength_20d": 0.061715,
-      "score": 0.452989,
-      "symbol": "XLK"
-    },
-    {
-      "news_score": 0.111111,
-      "price": 740.47,
-      "reason": "5d +3.4%; 20d +4.2%; vs SPY +3.8%; RSI 64; volume 0.7x; volatility 16.5%; news +0.11",
-      "relative_strength_20d": 0.038098,
-      "score": 0.343488,
+      "price": 744.71,
+      "reason": "5d +3.3%; 20d +3.4%; vs SPY +3.2%; RSI 67; volume 0.5x; volatility 16.0%; news +0.17",
+      "relative_strength_20d": 0.031723,
+      "score": 0.300933,
       "symbol": "QQQ"
     },
     {
-      "news_score": 0.083333,
-      "price": 223.71,
-      "reason": "5d +2.0%; 20d +6.8%; vs SPY +6.4%; RSI 43; volume 0.7x; volatility 44.9%; news +0.08",
-      "relative_strength_20d": 0.0636,
-      "score": 0.281884,
-      "symbol": "NVDA"
-    },
-    {
       "news_score": 0.166667,
-      "price": 113.97,
-      "reason": "5d +1.8%; 20d +1.5%; vs SPY +1.1%; RSI 57; volume 1.7x; volatility 22.4%; news +0.17",
-      "relative_strength_20d": 0.011389,
-      "score": 0.280152,
+      "price": 112.935,
+      "reason": "5d +2.2%; 20d +1.7%; vs SPY +1.5%; RSI 55; volume 1.0x; volatility 22.3%; news +0.17",
+      "relative_strength_20d": 0.01475,
+      "score": 0.208786,
       "symbol": "XLC"
     },
     {
       "news_score": 0.0,
-      "price": 335.88,
-      "reason": "5d -0.4%; 20d +7.1%; vs SPY +6.7%; RSI 70; volume 0.6x; volatility 21.8%; news +0.00",
-      "relative_strength_20d": 0.067448,
-      "score": 0.252058,
-      "symbol": "AAPL"
-    },
-    {
-      "news_score": 0.166667,
-      "price": 1183.49,
-      "reason": "5d +2.7%; 20d -0.5%; vs SPY -0.9%; RSI 62; volume 1.4x; volatility 18.9%; news +0.17",
-      "relative_strength_20d": -0.008952,
-      "score": 0.235221,
-      "symbol": "LLY"
-    },
-    {
-      "news_score": 0.0,
-      "price": 107.55,
-      "reason": "5d +0.7%; 20d +3.1%; vs SPY +2.7%; RSI 51; volume 1.3x; volatility 21.4%; news +0.00",
-      "relative_strength_20d": 0.02674,
-      "score": 0.190763,
+      "price": 107.805,
+      "reason": "5d +1.1%; 20d +5.1%; vs SPY +4.9%; RSI 56; volume 0.6x; volatility 20.3%; news +0.00",
+      "relative_strength_20d": 0.048576,
+      "score": 0.196413,
       "symbol": "WMT"
     },
     {
+      "news_score": 0.148148,
+      "price": 914.045,
+      "reason": "5d +2.0%; 20d -2.2%; vs SPY -2.4%; RSI 52; volume 2.4x; volatility 15.9%; news +0.15",
+      "relative_strength_20d": -0.023744,
+      "score": 0.149617,
+      "symbol": "COST"
+    },
+    {
       "news_score": 0.333333,
-      "price": 162.115,
-      "reason": "5d -0.7%; 20d +2.5%; vs SPY +2.1%; RSI 55; volume 1.2x; volatility 26.9%; news +0.33",
-      "relative_strength_20d": 0.020787,
-      "score": 0.145053,
-      "symbol": "XOM"
+      "price": 169.94,
+      "reason": "5d +1.3%; 20d -0.6%; vs SPY -0.8%; RSI 67; volume 0.6x; volatility 13.2%; news +0.33",
+      "relative_strength_20d": -0.007858,
+      "score": 0.088894,
+      "symbol": "XLV"
     }
   ],
   "universe_size": 37
