@@ -1,19 +1,187 @@
 {
   "benchmark_above_20d_average": true,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 770.77,
+  "benchmark_price": 771.335,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.432432,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-09-25T17:39:35.885813+00:00",
-  "latest_market_timestamp": "2026-09-25T17:39:34.472901476Z",
-  "market_is_open": true,
+  "generated_at": "2026-09-25T20:45:06.565422+00:00",
+  "latest_market_timestamp": "2026-09-25T20:45:05.406093928Z",
+  "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
-  "next_close": "2026-09-25T16:00:00-04:00",
+  "next_close": "2026-09-28T16:00:00-04:00",
   "next_open": "2026-09-28T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-09-25T20:36:12Z",
+      "headline": "'OpenAI Says Its Agents Leaked Some User Images; openAI Still Working To Understand Scope Of Rogue Activity; Says OpenAI Had Identified About Two Dozen Rogue AI Incidents By Mid-September, Source Says'",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/62007998/openai-says-its-agents-leaked-some-user-images-openai-still-working-understand-scope-rogue-activity-"
+    },
+    {
+      "created_at": "2026-09-25T20:27:57Z",
+      "headline": "'FBI Data Allegedly Stolen By Hacking Group ShinyHunters Includes Detailed Medical Evaluation Records' - Reuters News",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62007872/fbi-data-allegedly-stolen-hacking-group-shinyhunters-includes-detailed-medical-evaluation-records-re"
+    },
+    {
+      "created_at": "2026-09-25T20:02:05Z",
+      "headline": "AMD Hits $1 Trillion, Muse Spooks Subscription Stocks: This Week on Wall Street",
+      "source": "benzinga",
+      "symbols": [
+        "AKAM",
+        "AMD",
+        "CMCSA",
+        "GDDY",
+        "GEN",
+        "LBTYA",
+        "META",
+        "MRK",
+        "MRNA",
+        "MU",
+        "NVDA",
+        "PLNT"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/09/62007539/amd-1-trillion-meta-muse-week-in-review"
+    },
+    {
+      "created_at": "2026-09-25T19:49:00Z",
+      "headline": "U.S. Appeals Court Rules Against Kalshi, Says States Can Regulate Its Event Contracts",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/62007279/u-s-appeals-court-rules-against-kalshi-says-states-can-regulate-its-event-contracts"
+    },
+    {
+      "created_at": "2026-09-25T19:43:01Z",
+      "headline": "Exclusive: Tesla Optimus Commercialization Next Year Is \u2018Very Realistic,\u2019 Faraday Chairman Says",
+      "source": "benzinga",
+      "symbols": [
+        "FFAI",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/62007129/tesla-optimus-commercialization-faraday-chairman"
+    },
+    {
+      "created_at": "2026-09-25T19:41:06Z",
+      "headline": "OpenAI Says It Carried Out Broader Review Of Actions After Hugging Face Incident; Vast Majority Of Actions Reviewed Were Completions Of Mundane Research Tasks; Most Cases Identified So Far Have Been Lower Severity, With Limited Or No Evidence Of Meaningful Impact To The Third-party Service; Review Anticipated To Take Months For Completion",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/62007056/openai-says-it-carried-out-broader-review-actions-after-hugging-face-incident-vast-majority-actions-"
+    },
+    {
+      "created_at": "2026-09-25T19:03:12Z",
+      "headline": "Fed's Hammack Says Is Mindful Of Financial Conditions, But Fed Is The Decision Maker On Monetary Policy; Fed Needs Flexibility In This Environment Which Limits Guidance",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62006255/fed-s-hammack-says-mindful-financial-conditions-fed-decision-maker-monetary-policy-fed-needs-flexibi"
+    },
+    {
+      "created_at": "2026-09-25T18:49:52Z",
+      "headline": "Fed's Hammack Says Rising Bond Yields Driven By A Number Of Factors; Good Economic Outlook Is Pressuring Up Bond Yields; Some Of What Bond Market Is Doing Is In Reaction To Fed, Government Policy; U.S. Is On An Unsustainable Fiscal Path; AI Investment Demand Is Competeing For Investors In Bond Market; Inflation Expectations Are Reasonably Well Anchored",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62006016/fed-s-hammack-says-rising-bond-yields-driven-number-factors-good-economic-outlook-pressuring-bond-yi"
+    },
+    {
+      "created_at": "2026-09-25T18:42:48Z",
+      "headline": "'White House Eyes Diesel Fuel Moves That Fall Short Of Export Ban' - Politico",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "USO"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62005877/white-house-eyes-diesel-fuel-moves-fall-short-export-ban-politico"
+    },
+    {
+      "created_at": "2026-09-25T18:33:51Z",
+      "headline": "Fed's Hammack Says Important For Fed To Deliver On Inflation Mandate; High Inflation Complicates Economic Planning; Fed Policy Is Not Restraining Activity Outside Of Housing",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62005625/fed-s-hammack-says-important-fed-deliver-inflation-mandate-high-inflation-complicates-economic-plann"
+    },
+    {
+      "created_at": "2026-09-25T18:28:58Z",
+      "headline": "Fed's Hammack Says Sides Of Fed Mandates Are Generally Not In Conflict; Persistently High Inflation Has 'Real Costs', Persistently High Inflation Pressures Wages",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62005478/fed-s-hammack-says-sides-fed-mandates-are-generally-not-conflict-persistently-high-inflation-has-rea"
+    },
+    {
+      "created_at": "2026-09-25T18:28:33Z",
+      "headline": "Why Is PayPal Stock Surging on Friday?",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "META",
+        "PYPL"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62005454/why-is-paypal-stock-surging-on-friday"
+    },
+    {
+      "created_at": "2026-09-25T18:26:13Z",
+      "headline": "Fed's Hammack Says Likely Underlying Inflation Is Above Target",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62005393/fed-s-hammack-says-likely-underlying-inflation-above-target"
+    },
+    {
+      "created_at": "2026-09-25T18:22:10Z",
+      "headline": "Fed's Hammack Says There Are Lots Of Long Term Questions What AI Will Mean For Inflation",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62005284/fed-s-hammack-says-there-are-lots-long-term-questions-what-ai-will-mean-inflation"
+    },
+    {
+      "created_at": "2026-09-25T18:09:20Z",
+      "headline": "Fed's Hammack Says The Biggest Risk With Inflation Is The Formation Of An Inflationary Mindset; Public Has Been Dealing With Above Target Inflation For Extended Period; Growth Has Held Up Well, Job Market Is Stable; Worries About Demand Related Pressure On Inflation; Capital Expenditures Will Pressure Inflation For A While; If We Don't Make Progress Lowering Inflation, Expectations Could Shift; Fed Needs To Make Sure Policy Is At A Restrictive Stance To Lower Inflation",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62004921/fed-s-hammack-says-biggest-risk-inflation-formation-inflationary-mindset-public-has-been-dealing-abo"
+    },
+    {
+      "created_at": "2026-09-25T18:03:44Z",
+      "headline": "Memory Inflation Is Hitting Costco\u2019s Electronics Business, and It Triggered a $152 Million Charge",
+      "source": "benzinga",
+      "symbols": [
+        "COST"
+      ],
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/09/62004798/memory-inflation-is-hitting-costcos-electronics-business-and-it-triggered-a-152-million-charge"
+    },
+    {
+      "created_at": "2026-09-25T17:45:19Z",
+      "headline": "'Meta Bolsters Muse Safety Warning After Security Vulnerability Found' - The Information Exclusive",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/62004212/meta-bolsters-muse-safety-warning-after-security-vulnerability-found-information-exclusive"
+    },
     {
       "created_at": "2026-09-25T17:36:29Z",
       "headline": "Costco Save Members $3.2 Billion for Gas this Fiscal Year: How Higher Gas Prices Could Help Retailer",
@@ -58,297 +226,90 @@
         "UNH"
       ],
       "url": "https://www.benzinga.com/markets/options/26/09/62003901/10-health-care-stocks-whale-alerts-today-s-session"
-    },
-    {
-      "created_at": "2026-09-25T17:35:11Z",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "CRWV",
-        "INTC",
-        "IREN",
-        "KEYS",
-        "NBIS",
-        "NOW",
-        "ORCL",
-        "PANW",
-        "RIOT"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/09/62003900/10-information-technology-stocks-whale-alerts-today-s-session"
-    },
-    {
-      "created_at": "2026-09-25T17:27:47Z",
-      "headline": "Jury Finds Meta Platforms Misled New Mexico Consumers In Cambridge Analytica Trial",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/62003723/jury-finds-meta-platforms-misled-new-mexico-consumers-cambridge-analytica-trial"
-    },
-    {
-      "created_at": "2026-09-25T17:19:37Z",
-      "headline": "President Trump Posts On Truth Social \"President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florida. Much has been, and will be, accomplished. I look forward to our next meeting!\"",
-      "source": "benzinga",
-      "symbols": [
-        "FXI",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62003509/president-trump-posts-truth-social-president-xi-and-madam-peng-have-just-left-d-c-heading-china-meet"
-    },
-    {
-      "created_at": "2026-09-25T17:18:20Z",
-      "headline": "FTC Chair Says Going To Continue As Long As I Am Chairman To Resist This Anthropomorphizing Of These (AI Agent) Tools;  If There Is Substantial Personal Data Being Used To Offer A Product Or Service Where That Has Not Been The Tradition, They Ought To Be Told That Is Happening; Says, Speaking For Himself, That He Is Most Concerned About Delivery, Rideshare And Airline Pricing",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62003480/ftc-chair-says-going-continue-long-i-am-chairman-resist-anthropomorphizing-these-ai-agent-tools-if-t"
-    },
-    {
-      "created_at": "2026-09-25T17:12:39Z",
-      "headline": "'JPMorgan Tweaks Data-Sharing Notices in Battle With Fintechs' - Bloomberg",
-      "source": "benzinga",
-      "symbols": [
-        "JPM"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/62003337/jpmorgan-tweaks-data-sharing-notices-battle-fintechs-bloomberg"
-    },
-    {
-      "created_at": "2026-09-25T17:06:07Z",
-      "headline": "U.S. Baker Hughes Oil Rig Count +3 To 455; U.S. Baker Hughes NatGas Rig Count +1 To 135; U.S. Baker Hughes Total Rig Count 599 Vs 595 Prior",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "UNG",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/quote/UNG"
-    },
-    {
-      "created_at": "2026-09-25T17:01:58Z",
-      "headline": "CNBC Halftime Report Final Trades: Hewlett Packard Enterprise, Natera, UnitedHealth Group",
-      "source": "benzinga",
-      "symbols": [
-        "HPE",
-        "NTRA",
-        "UNH"
-      ],
-      "url": "https://www.benzinga.com/quote/UNH"
-    },
-    {
-      "created_at": "2026-09-25T17:01:18Z",
-      "headline": "What Is Going on With Qualcomm Stock on Friday?",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "FTXL",
-        "QCOM",
-        "ROYA",
-        "SMHX",
-        "TSM"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/09/62002905/what-is-going-on-with-qualcomm-stock-on-friday"
-    },
-    {
-      "created_at": "2026-09-25T17:00:28Z",
-      "headline": "Reported Earlier: 'Germany's SCHMID Says It Is in Talks With Suppliers to Nvidia, Intel and AMD; Glass Boosts Speed and Cuts Power Use Compared With Plastic Substrates; Jensen Huang Discussed Glass Substrates With Chey Tae-won' - Seoul Economic Daily",
-      "source": "benzinga",
-      "symbols": [
-        "AMD",
-        "INTC",
-        "NVDA",
-        "SHMD"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/62002860/reported-earlier-germany-s-schmid-says-it-talks-suppliers-nvidia-intel-and-amd-glass-boosts-speed-an"
-    },
-    {
-      "created_at": "2026-09-25T16:55:35Z",
-      "headline": "U.S. Central Command Posts On X \"U.S. Marines assigned to the 11th Marine Expeditionary Unit train aboard USS Boxer (LHD 4) as the ship sails in regional waters and continues to support enforcement of the U.S. blockade against Iran. As of Sept. 25, CENTCOM forces have redirected 122 commercial vessels to ensure strict compliance.\"",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62002744/u-s-central-command-posts-x-u-s-marines-assigned-11th-marine-expeditionary-unit-train-aboard-uss-box"
-    },
-    {
-      "created_at": "2026-09-25T16:55:32Z",
-      "headline": "Raymond James Maintains Outperform on Costco Wholesale, Lowers Price Target to $1050",
-      "source": "benzinga",
-      "symbols": [
-        "COST"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/62002732/raymond-james-maintains-outperform-costco-wholesale-lowers-price-target-1050"
-    },
-    {
-      "created_at": "2026-09-25T16:54:16Z",
-      "headline": "President Trump Posts On Truth Social \"Scott Bessent will not be going to be Super Intelligence (SI) Czar. Number One, he doesn\u2019t want to. Number Two, he\u2019s doing such a great job at Treasury, and that\u2019s where I want to keep him! Why would I ever make such a change? Just more Fake News!\"",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62002696/president-trump-posts-truth-social-scott-bessent-will-not-be-going-be-super-intelligence-si-czar-num"
-    },
-    {
-      "created_at": "2026-09-25T16:53:40Z",
-      "headline": "FTC Chair Says Will Resist Anthropomorphizing Of AI Agent Tools As Long As Chairman; Says Use Of Substantial Personal Data In Non-Traditional Products Should Be Disclosed",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "GOOG",
-        "GOOGL",
-        "MSFT",
-        "ORCL",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/62002672/ftc-chair-says-will-resist-anthropomorphizing-ai-agent-tools-long-chairman-says-use-substantial-pers"
-    },
-    {
-      "created_at": "2026-09-25T16:53:06Z",
-      "headline": "Senior Iranian Official Tells Reuters Strait Of Hormuz Will Remain Closed, No Nuclear Talks With US Until Iran's Conditions Met; Iran Will Make No Nuclear Concessions",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/62002636/senior-iranian-official-tells-reuters-strait-hormuz-will-remain-closed-no-nuclear-talks-us-until-ira"
-    },
-    {
-      "created_at": "2026-09-25T16:51:19Z",
-      "headline": "Trump Administration To Meet September 30 Deadline To Commit To Spending $400M In Ukraine Military Aid, Sources Say",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "VGK"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62002559/trump-administration-meet-september-30-deadline-commit-spending-400m-ukraine-military-aid-sources-sa"
-    },
-    {
-      "created_at": "2026-09-25T16:48:32Z",
-      "headline": "Akamai Jumps on Anthropic Deal, 30-Year Yields Top 5.5%: Stock Market Today (CORRECTED)",
-      "source": "benzinga",
-      "symbols": [
-        "AKAM",
-        "CRWV",
-        "DELL",
-        "DIA",
-        "DKS",
-        "GME",
-        "IWM",
-        "META",
-        "MOS",
-        "NET",
-        "NKE",
-        "ONON",
-        "ORCL",
-        "QQQ",
-        "TWLO",
-        "VOO",
-        "XLC",
-        "XLY",
-        "ZS"
-      ],
-      "url": "https://www.benzinga.com/markets/equities/26/09/62001141/oil-slips-treasury-yields-19-year-high-akamai-anthropic-markets-friday"
-    },
-    {
-      "created_at": "2026-09-25T16:43:22Z",
-      "headline": "Nvidia GPU Demand Is So Extreme, Even Bad Cloud Infrastructure Is Selling, SemiAnalysis Says",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "CRWV",
-        "GOOGL",
-        "MSFT",
-        "NBIS",
-        "NVDA",
-        "ORCL"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/62002304/nvidia-gpu-demand-bad-cloud-infrastructure"
     }
   ],
   "regime": "RISK_ON",
   "regime_score": 0.659459,
   "top_candidates": [
     {
-      "news_score": 0.0,
-      "price": 751.08,
-      "reason": "5d +13.0%; 20d +31.6%; vs SPY +31.4%; RSI 77; volume 0.8x; volatility 52.2%; news +0.00",
-      "relative_strength_20d": 0.314395,
-      "score": 0.703004,
+      "news_score": -0.037037,
+      "price": 751.26,
+      "reason": "5d +13.0%; 20d +31.7%; vs SPY +31.4%; RSI 77; volume 1.2x; volatility 52.2%; news -0.04",
+      "relative_strength_20d": 0.313976,
+      "score": 0.742972,
       "symbol": "META"
     },
     {
-      "news_score": 0.0,
-      "price": 515.525,
-      "reason": "5d +4.5%; 20d +2.1%; vs SPY +1.9%; RSI 64; volume 1.6x; volatility 25.5%; news +0.00",
-      "relative_strength_20d": 0.018932,
-      "score": 0.425464,
-      "symbol": "MSFT"
-    },
-    {
       "news_score": 0.333333,
-      "price": 339.9,
-      "reason": "5d +1.2%; 20d +8.1%; vs SPY +7.9%; RSI 80; volume 0.4x; volatility 22.0%; news +0.33",
-      "relative_strength_20d": 0.078676,
-      "score": 0.42169,
+      "price": 341.02,
+      "reason": "5d +1.6%; 20d +8.4%; vs SPY +8.2%; RSI 81; volume 0.7x; volatility 22.2%; news +0.33",
+      "relative_strength_20d": 0.081502,
+      "score": 0.484861,
       "symbol": "AAPL"
     },
     {
-      "news_score": 0.333333,
-      "price": 196.62,
-      "reason": "5d +3.8%; 20d +4.4%; vs SPY +4.2%; RSI 68; volume 0.5x; volatility 19.5%; news +0.33",
-      "relative_strength_20d": 0.04157,
-      "score": 0.382453,
+      "news_score": -0.055556,
+      "price": 516.155,
+      "reason": "5d +4.7%; 20d +2.2%; vs SPY +1.9%; RSI 64; volume 2.3x; volatility 25.7%; news -0.06",
+      "relative_strength_20d": 0.019445,
+      "score": 0.44715,
+      "symbol": "MSFT"
+    },
+    {
+      "news_score": 0.0,
+      "price": 372.09,
+      "reason": "5d +2.1%; 20d +4.9%; vs SPY +4.6%; RSI 54; volume 1.5x; volatility 44.0%; news +0.00",
+      "relative_strength_20d": 0.046461,
+      "score": 0.364569,
+      "symbol": "TSLA"
+    },
+    {
+      "news_score": 0.0,
+      "price": 196.25,
+      "reason": "5d +3.6%; 20d +4.2%; vs SPY +3.9%; RSI 67; volume 0.8x; volatility 19.4%; news +0.00",
+      "relative_strength_20d": 0.038872,
+      "score": 0.354515,
       "symbol": "XLK"
     },
     {
       "news_score": 0.0,
-      "price": 372.19,
-      "reason": "5d +2.2%; 20d +4.9%; vs SPY +4.7%; RSI 54; volume 1.3x; volatility 43.9%; news +0.00",
-      "relative_strength_20d": 0.047478,
-      "score": 0.331644,
-      "symbol": "TSLA"
-    },
-    {
-      "news_score": 0.166667,
-      "price": 744.71,
-      "reason": "5d +3.3%; 20d +3.4%; vs SPY +3.2%; RSI 67; volume 0.5x; volatility 16.0%; news +0.17",
-      "relative_strength_20d": 0.031723,
-      "score": 0.300933,
+      "price": 745.055,
+      "reason": "5d +3.4%; 20d +3.4%; vs SPY +3.1%; RSI 67; volume 0.8x; volatility 16.0%; news +0.00",
+      "relative_strength_20d": 0.031468,
+      "score": 0.315762,
       "symbol": "QQQ"
     },
     {
-      "news_score": 0.166667,
+      "news_score": 0.333333,
+      "price": 922.76,
+      "reason": "5d +3.0%; 20d -1.2%; vs SPY -1.5%; RSI 56; volume 3.4x; volatility 17.1%; news +0.33",
+      "relative_strength_20d": -0.015152,
+      "score": 0.273461,
+      "symbol": "COST"
+    },
+    {
+      "news_score": 0.0,
+      "price": 107.975,
+      "reason": "5d +1.2%; 20d +5.2%; vs SPY +4.9%; RSI 57; volume 0.8x; volatility 20.4%; news +0.00",
+      "relative_strength_20d": 0.049498,
+      "score": 0.242662,
+      "symbol": "WMT"
+    },
+    {
+      "news_score": 0.0,
       "price": 112.935,
-      "reason": "5d +2.2%; 20d +1.7%; vs SPY +1.5%; RSI 55; volume 1.0x; volatility 22.3%; news +0.17",
-      "relative_strength_20d": 0.01475,
-      "score": 0.208786,
+      "reason": "5d +2.2%; 20d +1.7%; vs SPY +1.4%; RSI 55; volume 1.4x; volatility 22.3%; news +0.00",
+      "relative_strength_20d": 0.014015,
+      "score": 0.234468,
       "symbol": "XLC"
     },
     {
       "news_score": 0.0,
-      "price": 107.805,
-      "reason": "5d +1.1%; 20d +5.1%; vs SPY +4.9%; RSI 56; volume 0.6x; volatility 20.3%; news +0.00",
-      "relative_strength_20d": 0.048576,
-      "score": 0.196413,
-      "symbol": "WMT"
-    },
-    {
-      "news_score": 0.148148,
-      "price": 914.045,
-      "reason": "5d +2.0%; 20d -2.2%; vs SPY -2.4%; RSI 52; volume 2.4x; volatility 15.9%; news +0.15",
-      "relative_strength_20d": -0.023744,
-      "score": 0.149617,
-      "symbol": "COST"
-    },
-    {
-      "news_score": 0.333333,
-      "price": 169.94,
-      "reason": "5d +1.3%; 20d -0.6%; vs SPY -0.8%; RSI 67; volume 0.6x; volatility 13.2%; news +0.33",
-      "relative_strength_20d": -0.007858,
-      "score": 0.088894,
-      "symbol": "XLV"
+      "price": 1183.99,
+      "reason": "5d +2.7%; 20d +0.7%; vs SPY +0.4%; RSI 75; volume 0.9x; volatility 18.4%; news +0.00",
+      "relative_strength_20d": 0.004418,
+      "score": 0.231448,
+      "symbol": "LLY"
     }
   ],
   "universe_size": 37
