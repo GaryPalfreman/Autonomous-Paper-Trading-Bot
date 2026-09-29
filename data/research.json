@@ -1,338 +1,291 @@
 {
   "benchmark_above_20d_average": true,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 765.6,
+  "benchmark_price": 764.185,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.351351,
+  "breadth_above_20d_average": 0.297297,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-09-29T00:04:59.462103+00:00",
-  "latest_market_timestamp": "2026-09-28T20:58:10.5007823Z",
-  "market_is_open": false,
+  "generated_at": "2026-09-29T18:23:56.594940+00:00",
+  "latest_market_timestamp": "2026-09-29T18:23:56.00374052Z",
+  "market_is_open": true,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
   "next_close": "2026-09-29T16:00:00-04:00",
-  "next_open": "2026-09-29T09:30:00-04:00",
+  "next_open": "2026-09-30T09:30:00-04:00",
   "recent_news": [
     {
-      "created_at": "2026-09-28T23:16:05Z",
-      "headline": "$1000 Invested In Broadcom 10 Years Ago Would Be Worth This Much Today",
+      "created_at": "2026-09-29T18:20:52Z",
+      "headline": "What's Going On With the Drop in Alphabet Stock?",
       "source": "benzinga",
       "symbols": [
-        "AVGO"
+        "GOOG",
+        "GOOGL"
       ],
-      "url": "https://www.benzinga.com/news/26/09/62037631/1000-invested-broadcom-10-years-ago-would-be-worth-much-today"
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62061588/whats-going-on-with-the-drop-in-alphabet-stock"
     },
     {
-      "created_at": "2026-09-28T23:06:08Z",
-      "headline": "Hunterbrook Issues Report On Meta, Finds Meta\u2019s Muse AI Can Identify And Profile Real People",
+      "created_at": "2026-09-29T18:15:07Z",
+      "headline": "What's Going On With ExxonMobil Stock Tuesday?",
       "source": "benzinga",
       "symbols": [
-        "META"
+        "HDV",
+        "IGE",
+        "SLB",
+        "WR",
+        "XOM"
       ],
-      "url": "https://www.benzinga.com/news/26/09/62037507/hunterbrook-issues-report-meta-finds-meta-s-muse-ai-can-identify-and-profile-real-people"
+      "url": "https://www.benzinga.com/markets/large-cap/26/09/62061419/whats-going-on-with-exxonmobil-stock-tuesday"
     },
     {
-      "created_at": "2026-09-28T23:00:27Z",
-      "headline": "If You Invested $1000 In GE Aerospace Stock 5 Years Ago, You Would Have This Much Today",
-      "source": "benzinga",
-      "symbols": [
-        "GE"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/62037489/if-you-invested-1000-ge-aerospace-stock-5-years-ago-you-would-have-much-today"
-    },
-    {
-      "created_at": "2026-09-28T22:45:35Z",
-      "headline": "If You Invested $1000 In Eli Lilly Stock 10 Years Ago, You Would Have This Much Today",
-      "source": "benzinga",
-      "symbols": [
-        "LLY"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/62037462/if-you-invested-1000-eli-lilly-stock-10-years-ago-you-would-have-much-today"
-    },
-    {
-      "created_at": "2026-09-28T21:42:48Z",
-      "headline": "AI Bubble? Market Expert Says Yes \u2014 and this Event Could \u2018Drag Down the Entire Sector\u2019",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "GOOGL",
-        "META",
-        "MSFT",
-        "ORCL"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/09/62037201/ai-bubble-market-expert-says-yes-and-this-event-could-drag-down-the-entire-sector"
-    },
-    {
-      "created_at": "2026-09-28T21:40:35Z",
-      "headline": "President Trump On Truth Social Says He Did Not Offer Sanctions Relief To Iran",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/62037119/president-trump-truth-social-says-he-did-not-offer-sanctions-relief-iran"
-    },
-    {
-      "created_at": "2026-09-28T21:26:26Z",
-      "headline": "FDA Intends To Evaluate Changes To The PMTA Regulatory Framework",
+      "created_at": "2026-09-29T18:12:36Z",
+      "headline": "Fed's Musalem Says About Half Of Current Inflation Is From Persistent Demand Pressure; Says Case For Looking Through Supply Shocks Weakens When One Follows Another",
       "source": "benzinga",
       "symbols": [
         "SPY"
       ],
-      "url": "https://www.benzinga.com/news/26/09/62036973/fda-intends-evaluate-changes-pmta-regulatory-framework"
+      "url": "https://www.benzinga.com/general/macro-notification/26/09/62061337/fed-s-musalem-says-about-half-current-inflation-persistent-demand-pressure-says-case-looking-through"
     },
     {
-      "created_at": "2026-09-28T20:46:19Z",
-      "headline": "$44B Rush Back into Equity Funds: Are Investors Betting on AI ETFs Again?",
+      "created_at": "2026-09-29T18:06:05Z",
+      "headline": "Fed's Musalem Says Right Now The AI CAPEX Boom Is Resulting In Demand Pressure, With Productivity And Supply Relief Not Yet Apparent; The Economy Is Very Strong Now, But Predicated On Continued Growth",
       "source": "benzinga",
       "symbols": [
-        "IVV",
-        "QQQ",
-        "SMH",
         "SPY"
       ],
-      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/09/62036342/44b-rush-back-into-equity-funds-are-investors-betting-on-ai-etfs-again"
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62061095/fed-s-musalem-says-right-now-ai-capex-boom-resulting-demand-pressure-productivity-and-supply-relief-"
     },
     {
-      "created_at": "2026-09-28T20:32:45Z",
-      "headline": "'Meta elevates Tucker Bounds to lead communications; David Ginsberg shifts to new AI role' - Axios",
+      "created_at": "2026-09-29T18:05:52Z",
+      "headline": "Fed's Williams Says More Data Will Help Fed Decide Next Rate Move; Says Policy Can Ensure Supply Shock Impact Is Not Long-Lasting",
       "source": "benzinga",
       "symbols": [
-        "META"
+        "SPY"
       ],
-      "url": "https://www.benzinga.com/news/26/09/62035968/meta-elevates-tucker-bounds-lead-communications-david-ginsberg-shifts-new-ai-role-axios"
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62061079/fed-s-williams-says-more-data-will-help-fed-decide-next-rate-move-says-policy-can-ensure-supply-shoc"
     },
     {
-      "created_at": "2026-09-28T20:30:11Z",
-      "headline": "This Blue-Chip Defense Prime Lands on Piper Sandler's Rate-Risk List",
+      "created_at": "2026-09-29T18:05:26Z",
+      "headline": "Fed's Williams Sees US GDP At 2.25% This Year, Unemployment At 4% Over 2027; Says Economic Momentum Strong And May Be Strengthening",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/general/macro-notification/26/09/62061057/fed-s-williams-sees-us-gdp-2-25-year-unemployment-4-over-2027-says-economic-momentum-strong-and-may-"
+    },
+    {
+      "created_at": "2026-09-29T18:05:04Z",
+      "headline": "Fed's Williams Sees Inflation At 3.5% This Year, Hitting 2% Target In 2028; Says Fed Must Ensure High Inflation Does Not Become Entrenched",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/general/macro-notification/26/09/62061036/fed-s-williams-sees-inflation-3-5-year-hitting-2-target-2028-says-fed-must-ensure-high-inflation-doe"
+    },
+    {
+      "created_at": "2026-09-29T18:04:15Z",
+      "headline": "Fed's Williams Says No Need For Urgency After September Rate Hike; Sees One Further Hike Likely This Year If Economy Meets Expectations",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/general/macro-notification/26/09/62060999/fed-s-williams-says-no-need-urgency-after-september-rate-hike-sees-one-further-hike-likely-year-if-e"
+    },
+    {
+      "created_at": "2026-09-29T18:00:58Z",
+      "headline": "Fed's Goolsbee Says In Dot Plot I'm One Of More Optimstic Folks At Fed",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62060911/fed-s-goolsbee-says-dot-plot-i-m-one-more-optimstic-folks-fed"
+    },
+    {
+      "created_at": "2026-09-29T18:00:12Z",
+      "headline": "EXCLUSIVE: Greenland\u2019s Power Bet Is Bigger Than Microsoft\u2019s Nuclear Deal",
       "source": "benzinga",
       "symbols": [
         "CEG",
-        "CVX",
-        "F",
-        "GD",
-        "KDP",
-        "LMT",
-        "LYV",
-        "MS",
-        "MSI",
-        "NFLX",
-        "WFC"
-      ],
-      "url": "https://www.benzinga.com/markets/large-cap/26/09/62035892/this-blue-chip-defense-prime-lands-on-piper-sandlers-rate-risk-list"
-    },
-    {
-      "created_at": "2026-09-28T20:03:36Z",
-      "headline": "Watching Cerebras Systems; Traders Circulate The Company Will Be Hosting An Event Titled 'DevDay AfterParty By Cerebras x OpenAI' On Tuesday, September 29",
-      "source": "benzinga",
-      "symbols": [
-        "CBRS",
+        "GRML",
         "MSFT"
       ],
-      "url": "https://www.benzinga.com/news/26/09/62035252/watching-cerebras-systems-traders-circulate-company-will-be-hosting-event-titled-devday-afterparty-c"
+      "url": "https://www.benzinga.com/markets/commodities/26/09/62060858/greenland-hydropower-bet-bigger-than-microsoft-nuclear-deal"
     },
     {
-      "created_at": "2026-09-28T19:38:43Z",
-      "headline": "President Trump, Vice President JD Vance, Secretary Of State Marco Rubio, Huang And SpaceX And Tesla Executive Elon Musk Will Attend Event For America.gov, A New AI-Powered Government Website Intended To Consolidate Services And Information From Across Agencies\u2019 Websites",
+      "created_at": "2026-09-29T17:57:08Z",
+      "headline": "Fed's Goolsbee Says Massive Deficits Are A Form Of Stimulus, Can Overheat Economy",
       "source": "benzinga",
       "symbols": [
-        "AMZN",
-        "GOOG",
-        "GOOGL",
-        "META",
-        "MSFT",
-        "NVDA",
-        "SPCX",
-        "SPY",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/62034646/president-trump-vice-president-jd-vance-secretary-state-marco-rubio-huang-and-spacex-and-tesla-execu"
-    },
-    {
-      "created_at": "2026-09-28T19:36:28Z",
-      "headline": "'An Informed Iranian Official Has Told Press TV That Reports Published By Some News Outlets About Iran Showing Flexibility Over Its Nuclear Position Are False' - Press TV",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/news/26/09/62034590/informed-iranian-official-has-told-press-tv-reports-published-some-news-outlets-about-iran-showing-f"
-    },
-    {
-      "created_at": "2026-09-28T19:03:40Z",
-      "headline": "President Trump Says Canada Wants To Have A Deal With Us, They Call All The Time; Think A Deal Will Be Made On Canada Trade",
-      "source": "benzinga",
-      "symbols": [
-        "EWC",
         "SPY"
       ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62033860/president-trump-says-canada-wants-have-deal-us-they-call-all-time-think-deal-will-be-made-canada-tra"
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62060720/fed-s-goolsbee-says-massive-deficits-are-form-stimulus-can-overheat-economy"
     },
     {
-      "created_at": "2026-09-28T19:02:50Z",
-      "headline": "Tesla Posts On X \"Roadster event update. We've been tracking the weather closely with local meteorologists, but given the severe conditions predicted & because this event can only be held outdoors, we've made the difficult decision to reschedule. New date is October 15. Additional details to follow\"",
+      "created_at": "2026-09-29T17:51:04Z",
+      "headline": "Fed's Goolsbee Says Price Of Oil Could Go Down Relatively Quickly, But Deeper Problem Is Getting Refineries Back Online",
       "source": "benzinga",
       "symbols": [
-        "TSLA"
+        "SPY"
       ],
-      "url": "https://www.benzinga.com/news/26/09/62033837/tesla-posts-x-roadster-event-update-we-ve-been-tracking-weather-closely-local-meteorologists-given-s"
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62060528/fed-s-goolsbee-says-price-oil-could-go-down-relatively-quickly-deeper-problem-getting-refineries-bac"
     },
     {
-      "created_at": "2026-09-28T18:57:45Z",
-      "headline": "Meta's Muse Is a Smash Hit. But Is It Hoovering Up Your Personal Data?",
+      "created_at": "2026-09-29T17:50:12Z",
+      "headline": "Fed's Goolsbee Says The Fact We Have Been 5-1/2 Years Above Inflation Target Is Playing With Fire",
       "source": "benzinga",
       "symbols": [
-        "META"
+        "SPY"
       ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/62033709/meta-muse-privacy-data-collection"
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62060489/fed-s-goolsbee-says-fact-we-have-been-5-1-2-years-above-inflation-target-playing-fire"
     },
     {
-      "created_at": "2026-09-28T18:57:06Z",
-      "headline": "President Trump Says Will Win Iran War Very Soon And Gas Prices Will Come Tumbling; U.S. Officials Spoke With Iran Mediators Today",
+      "created_at": "2026-09-29T17:49:04Z",
+      "headline": "Fed's Goolsbee Says Need To Revisit The Logic Of Looking Through Supply Shocks",
       "source": "benzinga",
       "symbols": [
-        "SPY",
-        "USO"
+        "SPY"
       ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62033689/president-trump-says-will-win-iran-war-very-soon-and-gas-prices-will-come-tumbling-u-s-officials-spo"
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62060446/fed-s-goolsbee-says-need-revisit-logic-looking-through-supply-shocks"
     },
     {
-      "created_at": "2026-09-28T18:54:15Z",
-      "headline": "'OpenAI\u2019s AI agents need to catch up': OpenAI Rumored To Unveil 'Aeon' Consumer AI Agent At DevDay On Tuesday - The Verge",
+      "created_at": "2026-09-29T17:47:44Z",
+      "headline": "Galaxy CEO Mike Novogratz Warns AI Could End Humanity",
       "source": "benzinga",
       "symbols": [
-        "GOOG",
-        "GOOGL",
-        "META",
-        "SFTBY"
+        "CRWV",
+        "GLXY",
+        "NVDA"
       ],
-      "url": "https://www.benzinga.com/news/26/09/62033634/openai-s-ai-agents-need-catch-openai-rumored-unveil-aeon-consumer-ai-agent-devday-tuesday-verge"
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/62060400/mike-novogratz-ai-existential-risk"
     },
     {
-      "created_at": "2026-09-28T18:52:14Z",
-      "headline": "President Trump Says If We Don't Make Steel Ourselves, We Can't Defend Ourselves",
+      "created_at": "2026-09-29T17:47:36Z",
+      "headline": "Fed's Barr Says In Short Term Biggest Effect Of AI Right Now Is Driving Up Costs",
       "source": "benzinga",
       "symbols": [
-        "ASTL",
-        "CLF",
-        "CMC",
-        "CRS",
-        "GGB",
-        "MT",
-        "MTUS",
-        "NUE",
-        "PKX",
-        "RS",
-        "SLX",
-        "SPY",
-        "STLD",
-        "WS"
+        "SPY"
       ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62033597/president-trump-says-if-we-don-t-make-steel-ourselves-we-can-t-defend-ourselves"
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62060387/fed-s-barr-says-short-term-biggest-effect-ai-right-now-driving-costs"
     },
     {
-      "created_at": "2026-09-28T18:46:53Z",
-      "headline": "Alphabet To Rally More Than 16%? Here Are 10 Top Analyst Forecasts For Monday",
+      "created_at": "2026-09-29T17:44:29Z",
+      "headline": "Fed's Barr Says Economy Is Quite Strong Right Now; People Are Frustrated And Uncertain Because Inflation Has Been Too High",
       "source": "benzinga",
       "symbols": [
-        "AZO",
-        "CPRT",
-        "CWH",
-        "DAL",
-        "FISV",
-        "GOOG",
-        "GOOGL",
-        "MCD",
-        "OKTA",
-        "PCVX",
-        "VRTX"
+        "SPY"
       ],
-      "url": "https://www.benzinga.com/news/26/09/62033428/alphabet-to-rally-more-than-16-here-are-10-top-analyst-forecasts-for-monday"
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/62060215/fed-s-barr-says-economy-quite-strong-right-now-people-are-frustrated-and-uncertain-because-inflation"
+    },
+    {
+      "created_at": "2026-09-29T17:41:15Z",
+      "headline": "Morgan Stanley Reiterates Overweight on Apple, Maintains $360 Price Target",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/62060119/morgan-stanley-reiterates-overweight-apple-maintains-360-price-target"
+    },
+    {
+      "created_at": "2026-09-29T17:40:13Z",
+      "headline": "'OpenAI Targets $30 Billion in New Funding at $1.4 Trillion Value' - Bloomberg",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/62060071/openai-targets-30-billion-new-funding-1-4-trillion-value-bloomberg"
+    },
+    {
+      "created_at": "2026-09-29T17:38:50Z",
+      "headline": "'Hegseth to Cut Pentagon Posts Reserved for Generals, Admirals By 20%' - Bloomberg",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/news/26/09/62060010/hegseth-cut-pentagon-posts-reserved-generals-admirals-20-bloomberg"
     }
   ],
   "regime": "RISK_ON",
-  "regime_score": 0.610811,
+  "regime_score": 0.578378,
   "top_candidates": [
     {
-      "news_score": 0.222222,
-      "price": 228.89,
-      "reason": "5d +0.7%; 20d +5.3%; vs SPY +5.6%; RSI 57; volume 1.6x; volatility 27.7%; news +0.22",
-      "relative_strength_20d": 0.055643,
-      "score": 0.361169,
+      "news_score": 0.0,
+      "price": 732.6,
+      "reason": "5d -0.5%; 20d +28.1%; vs SPY +28.2%; RSI 67; volume 0.7x; volatility 56.2%; news +0.00",
+      "relative_strength_20d": 0.281728,
+      "score": 0.37238,
+      "symbol": "META"
+    },
+    {
+      "news_score": 0.166667,
+      "price": 1187.865,
+      "reason": "5d +1.5%; 20d +2.5%; vs SPY +2.6%; RSI 77; volume 0.6x; volatility 17.7%; news +0.17",
+      "relative_strength_20d": 0.026294,
+      "score": 0.224424,
+      "symbol": "LLY"
+    },
+    {
+      "news_score": 0.333333,
+      "price": 194.515,
+      "reason": "5d -0.9%; 20d +4.5%; vs SPY +4.6%; RSI 70; volume 0.9x; volatility 18.7%; news +0.33",
+      "relative_strength_20d": 0.045907,
+      "score": 0.217717,
+      "symbol": "XLK"
+    },
+    {
+      "news_score": 0.0,
+      "price": 823.41,
+      "reason": "5d +1.9%; 20d +3.2%; vs SPY +3.3%; RSI 58; volume 0.5x; volatility 25.5%; news +0.00",
+      "relative_strength_20d": 0.033179,
+      "score": 0.169784,
+      "symbol": "CAT"
+    },
+    {
+      "news_score": 0.0,
+      "price": 931.945,
+      "reason": "5d +3.6%; 20d -1.3%; vs SPY -1.2%; RSI 65; volume 0.8x; volatility 16.5%; news +0.00",
+      "relative_strength_20d": -0.011514,
+      "score": 0.160229,
+      "symbol": "COST"
+    },
+    {
+      "news_score": 0.111111,
+      "price": 227.99,
+      "reason": "5d -0.4%; 20d +3.3%; vs SPY +3.4%; RSI 64; volume 0.7x; volatility 27.4%; news +0.11",
+      "relative_strength_20d": 0.034479,
+      "score": 0.12442,
       "symbol": "NVDA"
     },
     {
       "news_score": 0.333333,
-      "price": 162.555,
-      "reason": "5d +2.7%; 20d +3.7%; vs SPY +4.0%; RSI 47; volume 1.1x; volatility 27.1%; news +0.33",
-      "relative_strength_20d": 0.039704,
-      "score": 0.322109,
-      "symbol": "XOM"
-    },
-    {
-      "news_score": 0.166667,
-      "price": 338.4,
-      "reason": "5d -0.2%; 20d +5.9%; vs SPY +6.1%; RSI 77; volume 0.9x; volatility 22.1%; news +0.17",
-      "relative_strength_20d": 0.061196,
-      "score": 0.30585,
-      "symbol": "AAPL"
-    },
-    {
-      "news_score": 0.0,
-      "price": 715.54,
-      "reason": "5d -3.5%; 20d +23.9%; vs SPY +24.1%; RSI 63; volume 1.4x; volatility 56.6%; news +0.00",
-      "relative_strength_20d": 0.241466,
-      "score": 0.300472,
-      "symbol": "META"
-    },
-    {
-      "news_score": 0.0,
-      "price": 108.735,
-      "reason": "5d +1.2%; 20d +5.5%; vs SPY +5.7%; RSI 60; volume 0.7x; volatility 20.4%; news +0.00",
-      "relative_strength_20d": 0.056962,
-      "score": 0.259372,
-      "symbol": "WMT"
-    },
-    {
-      "news_score": 0.111111,
-      "price": 1185.535,
-      "reason": "5d +1.8%; 20d +1.0%; vs SPY +1.2%; RSI 75; volume 0.9x; volatility 18.4%; news +0.11",
-      "relative_strength_20d": 0.012261,
-      "score": 0.222029,
-      "symbol": "LLY"
-    },
-    {
-      "news_score": 0.0,
-      "price": 194.52,
-      "reason": "5d -0.2%; 20d +4.9%; vs SPY +5.1%; RSI 63; volume 1.0x; volatility 18.7%; news +0.00",
-      "relative_strength_20d": 0.051441,
-      "score": 0.212582,
-      "symbol": "XLK"
+      "price": 170.5,
+      "reason": "5d +0.4%; 20d +0.3%; vs SPY +0.4%; RSI 76; volume 0.6x; volatility 13.4%; news +0.33",
+      "relative_strength_20d": 0.004499,
+      "score": 0.107472,
+      "symbol": "XLV"
     },
     {
       "news_score": 0.333333,
-      "price": 206.38,
-      "reason": "5d +1.3%; 20d +2.2%; vs SPY +2.5%; RSI 38; volume 1.3x; volatility 24.2%; news +0.33",
-      "relative_strength_20d": 0.0248,
-      "score": 0.201014,
-      "symbol": "CVX"
-    },
-    {
-      "news_score": 0.0,
-      "price": 736.43,
-      "reason": "5d -0.7%; 20d +2.9%; vs SPY +3.1%; RSI 62; volume 1.6x; volatility 16.3%; news +0.00",
-      "relative_strength_20d": 0.031286,
-      "score": 0.196318,
+      "price": 737.685,
+      "reason": "5d -1.3%; 20d +3.0%; vs SPY +3.1%; RSI 69; volume 0.4x; volatility 16.3%; news +0.33",
+      "relative_strength_20d": 0.031399,
+      "score": 0.076159,
       "symbol": "QQQ"
     },
     {
       "news_score": 0.0,
-      "price": 171.25,
-      "reason": "5d +1.3%; 20d +0.4%; vs SPY +0.7%; RSI 75; volume 1.1x; volatility 13.4%; news +0.00",
-      "relative_strength_20d": 0.006705,
-      "score": 0.176488,
-      "symbol": "XLV"
+      "price": 507.145,
+      "reason": "5d +1.8%; 20d +0.0%; vs SPY +0.1%; RSI 59; volume 0.6x; volatility 25.1%; news +0.00",
+      "relative_strength_20d": 0.001411,
+      "score": 0.071409,
+      "symbol": "MSFT"
+    },
+    {
+      "news_score": 0.333333,
+      "price": 161.335,
+      "reason": "5d +1.7%; 20d +0.2%; vs SPY +0.3%; RSI 42; volume 0.6x; volatility 25.5%; news +0.33",
+      "relative_strength_20d": 0.003045,
+      "score": 0.059414,
+      "symbol": "XOM"
     }
   ],
   "universe_size": 37
