@@ -8,7 +8,7 @@
       "average_price": 333.18650999999994,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +5.6%; 20d +7.4%; vs SPY +8.4%; RSI 68; volume 0.4x; volatility 23.5%; news +0.07",
       "highest_price": 341.58000000000004,
-      "last_price": 335.01,
+      "last_price": 333.05,
       "opened_at": "2026-09-16T17:24:06.129942+00:00",
       "quantity": 0.6002044020179644,
       "symbol": "AAPL"
@@ -17,7 +17,7 @@
       "average_price": 746.6781524999999,
       "entry_reason": "Risk-sized 15.9% position with approximately 1.0% portfolio risk; 5d +12.2%; 20d +35.9%; vs SPY +34.6%; RSI 87; volume 1.9x; volatility 49.8%; news +0.04",
       "highest_price": 777.73,
-      "last_price": 734.195,
+      "last_price": 726.47,
       "opened_at": "2026-09-21T18:24:28.527278+00:00",
       "quantity": 0.21904349808268095,
       "symbol": "META"
@@ -26,7 +26,7 @@
       "average_price": 228.56422499999996,
       "entry_reason": "Risk-sized 18.9% position with approximately 1.0% portfolio risk; 5d +0.5%; 20d +5.1%; vs SPY +5.4%; RSI 56; volume 1.5x; volatility 27.5%; news +0.19",
       "highest_price": 230.7,
-      "last_price": 230.7,
+      "last_price": 228.96,
       "opened_at": "2026-09-28T19:55:21.007515+00:00",
       "quantity": 0.824206803572652,
       "symbol": "NVDA"
@@ -35,7 +35,7 @@
       "average_price": 740.9402849999999,
       "entry_reason": "Risk-sized 4.5% position with approximately 1.0% portfolio risk; 5d +4.5%; 20d +3.9%; vs SPY +2.6%; RSI 72; volume 1.0x; volatility 16.3%; news +0.05",
       "highest_price": 746.895,
-      "last_price": 743.845,
+      "last_price": 741.0550000000001,
       "opened_at": "2026-09-21T18:24:28.527393+00:00",
       "quantity": 0.06254170189077651,
       "symbol": "QQQ"
@@ -44,7 +44,7 @@
       "average_price": 194.407155,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +5.6%; 20d +6.1%; vs SPY +4.8%; RSI 73; volume 1.1x; volatility 22.7%; news +0.00",
       "highest_price": 196.7,
-      "last_price": 196.7,
+      "last_price": 195.36,
       "opened_at": "2026-09-21T18:24:28.527360+00:00",
       "quantity": 1.0563633624319901,
       "symbol": "XLK"
@@ -52,5 +52,5 @@
   },
   "realized_pnl": 3.3585966203857787,
   "starting_cash": 1000.0,
-  "updated_at": "2026-09-30T18:13:28.733562+00:00"
+  "updated_at": "2026-09-30T22:16:35.144586+00:00"
 }
