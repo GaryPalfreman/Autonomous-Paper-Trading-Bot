@@ -1,19 +1,166 @@
 {
   "benchmark_above_20d_average": true,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 769.06,
+  "benchmark_price": 769.71,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.378378,
+  "breadth_above_20d_average": 0.351351,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-02T18:08:25.259084+00:00",
-  "latest_market_timestamp": "2026-10-02T18:08:24.206579765Z",
-  "market_is_open": true,
+  "generated_at": "2026-10-02T22:10:37.220662+00:00",
+  "latest_market_timestamp": "2026-10-02T20:54:33.372147692Z",
+  "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
-  "next_close": "2026-10-02T16:00:00-04:00",
+  "next_close": "2026-10-05T16:00:00-04:00",
   "next_open": "2026-10-05T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-10-02T21:00:11Z",
+      "headline": "SpaceX Stock Jumps 7% After 3 Launches in 13 Hours, Including Google's Orbital AI Experiment",
+      "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "NVDA",
+        "SPCX"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62149196/spacex-stock-three-launches-google-ai"
+    },
+    {
+      "created_at": "2026-10-02T20:48:11Z",
+      "headline": "'Trump Threatens South Korea Over Alaska LNG Project Dispute'- Bloomberg",
+      "source": "benzinga",
+      "symbols": [
+        "EWY",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62148982/trump-threatens-south-korea-over-alaska-lng-project-dispute-bloomberg"
+    },
+    {
+      "created_at": "2026-10-02T19:41:12Z",
+      "headline": "Fuel, Freight and Supplier Costs Bite: How Walmart, Costco, Target and Other Retailers Are Fighting Back",
+      "source": "benzinga",
+      "symbols": [
+        "BBY",
+        "COST",
+        "DG",
+        "HD",
+        "KR",
+        "LOW",
+        "ROST",
+        "TGT",
+        "TJX",
+        "ULTA",
+        "WMT",
+        "WSM"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62146637/fuel-freight-and-supplier-costs-bite-how-walmart-costco-target-and-other-retailers-are-fighting-back"
+    },
+    {
+      "created_at": "2026-10-02T19:34:03Z",
+      "headline": "Why Caterpillar Stock Is Trading Higher During Friday's Session",
+      "source": "benzinga",
+      "symbols": [
+        "CAT"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62146461/why-caterpillar-stock-is-trading-higher-during-fridays-session"
+    },
+    {
+      "created_at": "2026-10-02T19:33:58Z",
+      "headline": "Weak Jobs Lift Tech Stocks to Record Highs, Micron Confirms the AI Rally: This Week on Wall Street",
+      "source": "benzinga",
+      "symbols": [
+        "APP",
+        "CCL",
+        "FICO",
+        "IP",
+        "LITE",
+        "MU",
+        "NVDA",
+        "SNPS"
+      ],
+      "url": "https://www.benzinga.com/markets/market-summary/26/10/62146454/wall-street-this-week-weak-jobs-nasdaq-100-record-micron-ai-rally"
+    },
+    {
+      "created_at": "2026-10-02T19:29:36Z",
+      "headline": "'Nscale Hires Meta\u2019s Justin Osofsky to Be COO Ahead of IPO' - Bloomberg",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62146340/nscale-hires-meta-s-justin-osofsky-be-coo-ahead-ipo-bloomberg"
+    },
+    {
+      "created_at": "2026-10-02T19:09:37Z",
+      "headline": "Eli Lilly Says FDA Approves Additional Indication For Jaypirca, Non-Covalent BTK Inhibitor, For Treatment Of Adult Patients With Previously Untreated Chronic Lymphocytic Leukemia Or Small Lymphocytic Lymphoma",
+      "source": "benzinga",
+      "symbols": [
+        "LLY"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62145740/eli-lilly-says-fda-approves-additional-indication-jaypirca-non-covalent-btk-inhibitor-treatment-adul"
+    },
+    {
+      "created_at": "2026-10-02T19:00:47Z",
+      "headline": "The Joint U.S.-Ukrainian Reconstruction Investment Fund Has Sealed Its First Critical Minerals Deal Alongside Four Other New Projects",
+      "source": "benzinga",
+      "symbols": [
+        "ALOY",
+        "AREC",
+        "CRML",
+        "MP",
+        "NB",
+        "REMX",
+        "SPY",
+        "TMC",
+        "UAMY",
+        "USAR",
+        "UUUU",
+        "VGK"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62145487/joint-u-s-ukrainian-reconstruction-investment-fund-has-sealed-its-first-critical-minerals-deal-along"
+    },
+    {
+      "created_at": "2026-10-02T18:57:50Z",
+      "headline": "Former Tesla President Says Car Sales Are Funding the Longer Road to Robots and Cybercabs",
+      "source": "benzinga",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62145395/tesla-cars-fund-robotaxis-jon-mcneill"
+    },
+    {
+      "created_at": "2026-10-02T18:49:33Z",
+      "headline": "Why Is Planet Labs Stock Gaining Friday?",
+      "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "PL",
+        "SPCX"
+      ],
+      "url": "https://www.benzinga.com/news/space/26/10/62145131/why-is-planet-labs-stock-gaining-friday"
+    },
+    {
+      "created_at": "2026-10-02T18:06:31Z",
+      "headline": "Taiwan Semiconductor Stock Rises on Broadcom's $60 Billion Chip Deal",
+      "source": "benzinga",
+      "symbols": [
+        "AVGO",
+        "SSNLF",
+        "TSM"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62143884/taiwan-semiconductor-stock-rises-on-broadcoms-60-billion-chip-deal"
+    },
+    {
+      "created_at": "2026-10-02T18:04:19Z",
+      "headline": "'US-Ukrainian investment fund seals first critical minerals deal'- Reuters",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "VGK"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62143827/us-ukrainian-investment-fund-seals-first-critical-minerals-deal-reuters"
+    },
     {
       "created_at": "2026-10-02T17:52:37Z",
       "headline": "Saudi-Led Coalition Says It Intercepted And Destroyed Three Ballistic Missiles Launched By Houthis Toward Khamis Mushait",
@@ -113,246 +260,90 @@
         "NVDA"
       ],
       "url": "https://www.benzinga.com/markets/buybacks/26/10/62142510/nvidia-150-billion-buyback-record-high-shares"
-    },
-    {
-      "created_at": "2026-10-02T17:21:22Z",
-      "headline": "'Google Hikes Price of Budget Pixel 10a Phone to $599 on Memory Costs'- Bloomberg",
-      "source": "benzinga",
-      "symbols": [
-        "GOOG",
-        "GOOGL"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62142476/google-hikes-price-budget-pixel-10a-phone-599-memory-costs-bloomberg"
-    },
-    {
-      "created_at": "2026-10-02T17:07:48Z",
-      "headline": "Anthropic invests $100M to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "GOOG",
-        "GOOGL",
-        "MSFT"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62142049/anthropic-invests-100m-train-10-000-engineers-and-tackle-enterprise-ai-talent-gap"
-    },
-    {
-      "created_at": "2026-10-02T17:06:11Z",
-      "headline": "Chicago Fed President Austan Goolsbee Says On Fox Business Rate Hike Or Pause On The Table; Inflation Side Of Fed's Job More Important With Labor Market Steady",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/quote/SPY"
-    },
-    {
-      "created_at": "2026-10-02T17:02:58Z",
-      "headline": "U.S. Baker Hughes Oil Rig Count +1 To 456; U.S. Baker Hughes NatGas Rig Count -2 To 133; U.S. Baker Hughes Total Rig Count 598 Vs 599 Prior",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "UNG",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/quote/UNG"
-    },
-    {
-      "created_at": "2026-10-02T17:00:23Z",
-      "headline": "CNBC Halftime Report Final Trades: Nvidia, Okta, Cognex, Delta Air Lines",
-      "source": "benzinga",
-      "symbols": [
-        "CGNX",
-        "DAL",
-        "NVDA",
-        "OKTA"
-      ],
-      "url": "https://www.benzinga.com/quote/NVDA"
-    },
-    {
-      "created_at": "2026-10-02T16:52:39Z",
-      "headline": "Weak Jobs Report Lifts Nvidia, Nasdaq 100 to Record Highs: Stock Market Today",
-      "source": "benzinga",
-      "symbols": [
-        "ACN",
-        "ALGM",
-        "DIA",
-        "FICO",
-        "FRHC",
-        "GLD",
-        "INIO",
-        "IWM",
-        "MOD",
-        "MTSI",
-        "NKE",
-        "NVDA",
-        "ON",
-        "PBW",
-        "PL",
-        "QQQ",
-        "SMH",
-        "SPCX",
-        "STX",
-        "SYNA",
-        "TAN",
-        "TER",
-        "USO",
-        "VOO",
-        "WDC",
-        "XLB",
-        "XLE",
-        "XLF",
-        "XLK",
-        "XLV",
-        "XLY",
-        "XME"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62141603/nvidia-nasdaq-100-record-high-western-digital-sinks-soft-jobs-report-fed-hike-bets-markets-friday"
-    },
-    {
-      "created_at": "2026-10-02T16:44:47Z",
-      "headline": "Netflix Leans on Live TV as YouTube Competition Threatens Growth, Analysts Weigh In",
-      "source": "benzinga",
-      "symbols": [
-        "GOOG",
-        "GOOGL",
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/10/62141429/netflix-leans-on-live-tv-as-youtube-competition-threatens-growth-analysts-weigh-in"
-    },
-    {
-      "created_at": "2026-10-02T16:18:05Z",
-      "headline": "Live On CNBC, Stephanie Link Announces Bought Meta Platforms",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/quote/META"
-    },
-    {
-      "created_at": "2026-10-02T16:12:04Z",
-      "headline": "JP Morgan Maintains Overweight on Bank of America, Lowers Price Target to $62",
-      "source": "benzinga",
-      "symbols": [
-        "BAC"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62140136/jp-morgan-maintains-overweight-bank-america-lowers-price-target-62"
-    },
-    {
-      "created_at": "2026-10-02T16:00:05Z",
-      "headline": "Reported Oct. 1: Google Cloud Announces Availability Of Spanner Queues For Transactional Messaging In AI Agent Workloads",
-      "source": "benzinga",
-      "symbols": [
-        "GOOG",
-        "GOOGL"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62139774/reported-oct-1-google-cloud-announces-availability-spanner-queues-transactional-messaging-ai-agent-w"
-    },
-    {
-      "created_at": "2026-10-02T15:57:04Z",
-      "headline": "5.6 Million Downloads in Weeks: Meta Muse Outpaces Sorad ChatGPT in Early Rollout",
-      "source": "benzinga",
-      "symbols": [
-        "GOOG",
-        "GOOGL",
-        "META",
-        "SPCX"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62139697/5-6-million-downloads-in-weeks-meta-muse-outpaces-sorad-chatgpt-in-early-rollout"
-    },
-    {
-      "created_at": "2026-10-02T15:45:35Z",
-      "headline": "AI Debt Is a \u2018Brewing Crisis,\u2019 Ed Zitron Warns as Amazon, CoreWeave Turn to Complex Financing",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "CRWV",
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62139287/ai-debt-brewing-crisis-amazon-coreweave"
     }
   ],
   "regime": "RISK_ON",
-  "regime_score": 0.627027,
+  "regime_score": 0.610811,
   "top_candidates": [
     {
-      "news_score": 0.0,
-      "price": 848.0,
-      "reason": "5d +3.3%; 20d +6.0%; vs SPY +6.3%; RSI 75; volume 1.1x; volatility 26.6%; news +0.00",
-      "relative_strength_20d": 0.062881,
-      "score": 0.487125,
-      "symbol": "CAT"
-    },
-    {
       "news_score": 0.166667,
-      "price": 199.67,
-      "reason": "5d +1.7%; 20d +7.5%; vs SPY +7.7%; RSI 85; volume 1.0x; volatility 17.6%; news +0.17",
-      "relative_strength_20d": 0.077483,
-      "score": 0.482885,
+      "price": 199.86,
+      "reason": "5d +1.8%; 20d +7.6%; vs SPY +7.8%; RSI 86; volume 1.4x; volatility 17.7%; news +0.17",
+      "relative_strength_20d": 0.077663,
+      "score": 0.54954,
       "symbol": "XLK"
     },
     {
-      "news_score": 0.019608,
-      "price": 234.64,
-      "reason": "5d +4.3%; 20d +2.8%; vs SPY +3.1%; RSI 83; volume 1.2x; volatility 24.6%; news +0.02",
-      "relative_strength_20d": 0.030635,
-      "score": 0.442266,
+      "news_score": 0.0,
+      "price": 845.57,
+      "reason": "5d +3.0%; 20d +5.7%; vs SPY +5.9%; RSI 75; volume 1.6x; volatility 26.3%; news +0.00",
+      "relative_strength_20d": 0.059,
+      "score": 0.516902,
+      "symbol": "CAT"
+    },
+    {
+      "news_score": -0.02381,
+      "price": 234.0,
+      "reason": "5d +4.0%; 20d +2.5%; vs SPY +2.7%; RSI 82; volume 1.4x; volatility 24.4%; news -0.02",
+      "relative_strength_20d": 0.026989,
+      "score": 0.443938,
       "symbol": "NVDA"
     },
     {
       "news_score": 0.055556,
-      "price": 748.9,
-      "reason": "5d +0.6%; 20d +4.5%; vs SPY +4.7%; RSI 81; volume 0.6x; volatility 15.3%; news +0.06",
-      "relative_strength_20d": 0.047368,
-      "score": 0.245239,
+      "price": 749.055,
+      "reason": "5d +0.6%; 20d +4.5%; vs SPY +4.7%; RSI 80; volume 0.9x; volatility 15.3%; news +0.06",
+      "relative_strength_20d": 0.046741,
+      "score": 0.286109,
       "symbol": "QQQ"
     },
     {
       "news_score": -0.047619,
-      "price": 730.84,
-      "reason": "5d -2.7%; 20d +19.8%; vs SPY +20.0%; RSI 62; volume 0.3x; volatility 57.2%; news -0.05",
-      "relative_strength_20d": 0.200481,
-      "score": 0.183394,
+      "price": 728.09,
+      "reason": "5d -3.1%; 20d +19.3%; vs SPY +19.5%; RSI 61; volume 0.5x; volatility 57.2%; news -0.05",
+      "relative_strength_20d": 0.195131,
+      "score": 0.189048,
       "symbol": "META"
     },
     {
-      "news_score": 0.166667,
-      "price": 164.37,
-      "reason": "5d +2.4%; 20d +1.3%; vs SPY +1.6%; RSI 39; volume 0.4x; volatility 24.2%; news +0.17",
-      "relative_strength_20d": 0.015966,
-      "score": 0.084458,
+      "news_score": 0.333333,
+      "price": 164.11,
+      "reason": "5d +2.2%; 20d +1.2%; vs SPY +1.4%; RSI 38; volume 0.7x; volatility 24.1%; news +0.33",
+      "relative_strength_20d": 0.013521,
+      "score": 0.128412,
       "symbol": "XOM"
     },
     {
-      "news_score": 0.083333,
-      "price": 354.07,
-      "reason": "5d +0.4%; 20d -0.7%; vs SPY -0.4%; RSI 61; volume 0.8x; volatility 32.7%; news +0.08",
-      "relative_strength_20d": -0.004153,
-      "score": 0.025549,
+      "news_score": 0.111111,
+      "price": 355.125,
+      "reason": "5d +0.7%; 20d -0.4%; vs SPY -0.2%; RSI 61; volume 1.2x; volatility 33.1%; news +0.11",
+      "relative_strength_20d": -0.002037,
+      "score": 0.097121,
       "symbol": "AVGO"
     },
     {
-      "news_score": -0.055556,
-      "price": 515.16,
-      "reason": "5d -0.2%; 20d +1.0%; vs SPY +1.3%; RSI 63; volume 0.6x; volatility 22.7%; news -0.06",
-      "relative_strength_20d": 0.012596,
-      "score": 0.015068,
+      "news_score": -0.066667,
+      "price": 517.32,
+      "reason": "5d +0.2%; 20d +1.4%; vs SPY +1.6%; RSI 64; volume 0.9x; volatility 22.8%; news -0.07",
+      "relative_strength_20d": 0.015987,
+      "score": 0.08515,
       "symbol": "MSFT"
     },
     {
-      "news_score": 0.0,
-      "price": 371.74,
-      "reason": "5d -0.1%; 20d -1.2%; vs SPY -0.9%; RSI 60; volume 1.1x; volatility 39.5%; news +0.00",
-      "relative_strength_20d": -0.009448,
-      "score": 0.008059,
-      "symbol": "TSLA"
+      "news_score": 0.02381,
+      "price": 769.71,
+      "reason": "5d -0.2%; 20d -0.2%; vs SPY +0.0%; RSI 64; volume 1.1x; volatility 10.4%; news +0.02",
+      "relative_strength_20d": 0.0,
+      "score": 0.051215,
+      "symbol": "SPY"
     },
     {
-      "news_score": 0.022222,
-      "price": 769.06,
-      "reason": "5d -0.3%; 20d -0.3%; vs SPY +0.0%; RSI 63; volume 0.8x; volatility 10.3%; news +0.02",
-      "relative_strength_20d": 0.0,
-      "score": -0.005838,
-      "symbol": "SPY"
+      "news_score": 0.166667,
+      "price": 920.83,
+      "reason": "5d -0.2%; 20d -0.5%; vs SPY -0.3%; RSI 62; volume 1.0x; volatility 16.9%; news +0.17",
+      "relative_strength_20d": -0.002834,
+      "score": 0.045407,
+      "symbol": "COST"
     }
   ],
   "universe_size": 37
