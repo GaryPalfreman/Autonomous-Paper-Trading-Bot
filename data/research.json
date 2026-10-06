@@ -1,19 +1,257 @@
 {
   "benchmark_above_20d_average": true,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 779.86,
+  "benchmark_price": 779.34,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.594595,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-06T18:42:50.573477+00:00",
-  "latest_market_timestamp": "2026-10-06T18:42:49.470935603Z",
-  "market_is_open": true,
+  "generated_at": "2026-10-06T22:48:11.900150+00:00",
+  "latest_market_timestamp": "2026-10-06T20:59:00.500780612Z",
+  "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
-  "next_close": "2026-10-06T16:00:00-04:00",
+  "next_close": "2026-10-07T16:00:00-04:00",
   "next_open": "2026-10-07T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-10-06T22:30:31Z",
+      "headline": "$1000 Invested In NVIDIA 15 Years Ago Would Be Worth This Much Today",
+      "source": "benzinga",
+      "symbols": [
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62207393/1000-invested-nvidia-15-years-ago-would-be-worth-much-today"
+    },
+    {
+      "created_at": "2026-10-06T22:10:59Z",
+      "headline": "SpaceX Reclaims its Debut Close, but Options Are Pricing a Slow Grind Ahead",
+      "source": "benzinga",
+      "symbols": [
+        "NVDA",
+        "SPCX"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62207226/spacex-reclaims-its-debut-close-but-options-are-pricing-a-slow-grind-ahead"
+    },
+    {
+      "created_at": "2026-10-06T21:45:49Z",
+      "headline": "$100 Invested In Meta Platforms 5 Years Ago Would Be Worth This Much Today",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62207073/100-invested-meta-platforms-5-years-ago-would-be-worth-much-today"
+    },
+    {
+      "created_at": "2026-10-06T21:17:36Z",
+      "headline": "Chevron To Divest Its Ownership Interests In Hess Midstream And DJ Basin Crude Midstream Assets;   Revised Agreements Expected To Reduce Bakken Unit Midstream Costs By About 50%;  To Transfer Hess Midstream Interests And DJ Basin Assets For $200M Cash",
+      "source": "benzinga",
+      "symbols": [
+        "CVX",
+        "HESM"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62206672/chevron-divest-its-ownership-interests-hess-midstream-and-dj-basin-crude-midstream-assets-revised-ag"
+    },
+    {
+      "created_at": "2026-10-06T21:11:46Z",
+      "headline": "'Apple\u2019s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG'- Bloomberg",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62206566/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-lg-bloomberg"
+    },
+    {
+      "created_at": "2026-10-06T21:04:21Z",
+      "headline": "API Crude Oil Stock 2.09M Barrel Draw Vs 1.019M Barrel Build Prior",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "UNG",
+        "USO"
+      ],
+      "url": "https://www.benzinga.com/quote/SPY"
+    },
+    {
+      "created_at": "2026-10-06T20:56:04Z",
+      "headline": "Warren Buffett is Addicted to YouTube Just Like the Rest of Us: You Won't Believe What He's Watching",
+      "source": "benzinga",
+      "symbols": [
+        "BRK",
+        "BRK/A",
+        "BRK/B",
+        "GOOG",
+        "GOOGL",
+        "PSKY",
+        "VSNT"
+      ],
+      "url": "https://www.benzinga.com/news/entertainment/26/10/62206229/warren-buffett-is-addicted-to-youtube-just-like-the-rest-of-us-you-wont-believe-what-hes-watching"
+    },
+    {
+      "created_at": "2026-10-06T20:45:36Z",
+      "headline": "$1000 Invested In Costco Wholesale 5 Years Ago Would Be Worth This Much Today",
+      "source": "benzinga",
+      "symbols": [
+        "COST"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62205981/1000-invested-costco-wholesale-5-years-ago-would-be-worth-much-today"
+    },
+    {
+      "created_at": "2026-10-06T20:25:53Z",
+      "headline": "QUICK SPARK: Booking Holdings Stock Eyes 9th Straight Week of Losses, Worst Streak Ever",
+      "source": "benzinga",
+      "symbols": [
+        "BKNG",
+        "XLY"
+      ],
+      "url": "https://www.benzinga.com/markets/large-cap/26/10/62205480/booking-holdings-stock-ninth-weekly-loss-record-streak"
+    },
+    {
+      "created_at": "2026-10-06T20:20:15Z",
+      "headline": "FuelCell Energy Stock Gains 14% Today \u2014 Here's Why",
+      "source": "benzinga",
+      "symbols": [
+        "BE",
+        "CEG",
+        "FCEL",
+        "GNRC",
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62205376/fuelcell-energy-stock-gains-14-today-heres-why"
+    },
+    {
+      "created_at": "2026-10-06T20:15:00Z",
+      "headline": "Black Hills Signs Definitive Agreements Effective Sept. 30, 2026, With Terms Through 2048, To Serve A Planned Google Data Center To Be Constructed In Cheyenne, Wyoming; Investing $1.8B In New Company-Owned Natural Gas Generation; Project Is Expected To Deliver ~$2.4B Of Unlevered Free Cash Flow, Net Of $1.8B Of Generation Capital Investment",
+      "source": "benzinga",
+      "symbols": [
+        "BKH",
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62205028/black-hills-signs-definitive-agreements-effective-sept-30-2026-terms-through-2048-serve-planned-goog"
+    },
+    {
+      "created_at": "2026-10-06T20:06:57Z",
+      "headline": "Meta Stock Up 21% in One Month: New Movie About \u2018Antihero\u2019 Mark Zuckerberg Could Hurt Momentum",
+      "source": "benzinga",
+      "symbols": [
+        "META",
+        "SONY"
+      ],
+      "url": "https://www.benzinga.com/news/entertainment/26/10/62204664/meta-stock-up-21-in-one-month-new-movie-about-antihero-mark-zuckerberg-could-hurt-momentum"
+    },
+    {
+      "created_at": "2026-10-06T19:43:06Z",
+      "headline": "Nvidia Announces Telecom Operators Building Their AI Strategies On Open Models; Open Models Offer Control, Tailored AI Throughout Most Critical Workloads",
+      "source": "benzinga",
+      "symbols": [
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62203696/nvidia-announces-telecom-operators-building-their-ai-strategies-open-models-open-models-offer-contro"
+    },
+    {
+      "created_at": "2026-10-06T19:41:23Z",
+      "headline": "Nvidia Strength Is Masking \u2018A Whole Lot of Pain\u2019 in the Broader Market, David Rosenberg Says",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "AVGO",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "NVDA",
+        "SOXX"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62203648/nvidia-strength-masks-market-pain"
+    },
+    {
+      "created_at": "2026-10-06T19:29:38Z",
+      "headline": "The S&P 500 Is Partying at Record Highs: Only 3% of Its Stocks Were Invited",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "AMD",
+        "AMZN",
+        "APH",
+        "AVGO",
+        "CRWD",
+        "FFIV",
+        "FTNT",
+        "GOOGL",
+        "HPE",
+        "JCI",
+        "KEYS",
+        "LITE",
+        "META",
+        "MSFT",
+        "NVDA",
+        "P",
+        "PANW",
+        "RSP",
+        "SPY",
+        "TMO",
+        "TSLA",
+        "VLO",
+        "WAT"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/10/62203364/sp-500-record-high-only-3-percent-stocks-invited"
+    },
+    {
+      "created_at": "2026-10-06T19:28:25Z",
+      "headline": "'Waymo Boosts Private Debt Deal to $5 Billion in Push for Growth' - Bloomberg",
+      "source": "benzinga",
+      "symbols": [
+        "BX",
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62203335/waymo-boosts-private-debt-deal-5-billion-push-growth-bloomberg"
+    },
+    {
+      "created_at": "2026-10-06T19:06:15Z",
+      "headline": "Anthropic Expands Cyber Verification Program With Three-Tier Access To Advanced AI Models For Security Professionals",
+      "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62202755/anthropic-expands-cyber-verification-program-three-tier-access-advanced-ai-models-security-professio"
+    },
+    {
+      "created_at": "2026-10-06T19:00:08Z",
+      "headline": "Jamie Dimon Says AI Boom Is Competing With Government Borrowing for Capital: \u2018Rates Are Going Up\u2019",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "GOOGL",
+        "JPM",
+        "MSFT",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62202607/jamie-dimon-ai-capital-crunch-rates"
+    },
+    {
+      "created_at": "2026-10-06T18:56:43Z",
+      "headline": "Warren Buffett Said Buy the S&P 500 \u2014 But This ETF Is Secretly an AI Powerhouse",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "AVGO",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "RSP",
+        "TSLA",
+        "VOO"
+      ],
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62202508/warren-buffett-said-buy-the-sp-500-but-this-etf-is-secretly-an-ai-powerhouse"
+    },
     {
       "created_at": "2026-10-06T18:36:14Z",
       "headline": "What's Going On With Vistra Stock Today?",
@@ -32,345 +270,90 @@
         "XLV"
       ],
       "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62202028/whats-going-on-with-vistra-stock-today"
-    },
-    {
-      "created_at": "2026-10-06T18:35:25Z",
-      "headline": "Nassim Taleb and Scott Bessent Clash Over Trump Economy Numbers: Who\u2019s Right?",
-      "source": "benzinga",
-      "symbols": [
-        "QQQ",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62201991/taleb-bessent-trump-economy-numbers"
-    },
-    {
-      "created_at": "2026-10-06T18:29:36Z",
-      "headline": "Federal Aviation Administration Proposes Streamlining, Modernizing Commercial Space Launch And Reentry Regulations",
-      "source": "benzinga",
-      "symbols": [
-        "KTOS",
-        "LUNR",
-        "RDW",
-        "RKLB",
-        "SPCE",
-        "SPCX",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62201824/federal-aviation-administration-proposes-streamlining-modernizing-commercial-space-launch-and-reentr"
-    },
-    {
-      "created_at": "2026-10-06T18:16:33Z",
-      "headline": "Texas AG Targets UnitedHealth: Probe Examines Alleged Bribes, Care Delays and Coverage Denials",
-      "source": "benzinga",
-      "symbols": [
-        "UNH"
-      ],
-      "url": "https://www.benzinga.com/news/health-care/26/10/62201393/texas-ag-targets-unitedhealth-probe-examines-alleged-bribes-care-delays-and-coverage-denials"
-    },
-    {
-      "created_at": "2026-10-06T18:12:06Z",
-      "headline": "Tigress Financial Maintains Buy on Amazon.com, Raises Price Target to $385",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62201277/tigress-financial-maintains-buy-amazon-com-raises-price-target-385"
-    },
-    {
-      "created_at": "2026-10-06T18:11:46Z",
-      "headline": "Waymo Posts On X \"Detroit, we\u2019re starting fully autonomous driving! This week, you may start seeing our vehicles on the road without a human driver. We aren\u2019t picking up riders quite yet, but stay tuned.\"",
-      "source": "benzinga",
-      "symbols": [
-        "GOOG",
-        "GOOGL"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62201259/waymo-posts-x-detroit-we-re-starting-fully-autonomous-driving-week-you-may-start-seeing-our-vehicles"
-    },
-    {
-      "created_at": "2026-10-06T18:01:16Z",
-      "headline": "Anthropic Announces Claude Now Works With Google Docs, Sheets, And Slides",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "GOOG",
-        "GOOGL",
-        "MSFT"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62200877/anthropic-announces-claude-now-works-google-docs-sheets-and-slides"
-    },
-    {
-      "created_at": "2026-10-06T17:57:01Z",
-      "headline": "Former TD Bank Employee Pleads Guilty To Accepting Bribes, Laundering $4.8M To Colombia",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "TD"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62200766/former-td-bank-employee-pleads-guilty-accepting-bribes-laundering-4-8m-colombia"
-    },
-    {
-      "created_at": "2026-10-06T17:34:34Z",
-      "headline": "S&P Eyes Record High, Yet Concentration Risk Looms",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "AMD",
-        "AMZN",
-        "BTCUSD",
-        "CEG",
-        "GOOG",
-        "GOOGL",
-        "META",
-        "QQQ",
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/Opinion/26/10/62200112/sp-eyes-record-high-yet-concentration-risk-looms"
-    },
-    {
-      "created_at": "2026-10-06T17:46:54Z",
-      "headline": "OpenAI Announces Advancing Computer Use With Ironclad",
-      "source": "benzinga",
-      "symbols": [
-        "DOCU",
-        "MSFT"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62200416/openai-announces-advancing-computer-use-ironclad"
-    },
-    {
-      "created_at": "2026-10-06T17:40:45Z",
-      "headline": "'ExxonMobil looks to offshore projects in Trinidad and Tobago for next boom' - Financial Times",
-      "source": "benzinga",
-      "symbols": [
-        "XOM"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62200268/exxonmobil-looks-offshore-projects-trinidad-and-tobago-next-boom-financial-times"
-    },
-    {
-      "created_at": "2026-10-06T17:35:29Z",
-      "headline": "Challenging Nvidia's Dominance: Broadcom Pairs Custom TPU Chips with $60 Billion Debt Package",
-      "source": "benzinga",
-      "symbols": [
-        "AVGO",
-        "GOOG",
-        "GOOGL",
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62200140/challenging-nvidias-dominance-broadcom-pairs-custom-tpu-chips-with-60-billion-debt-package"
-    },
-    {
-      "created_at": "2026-10-06T17:35:22Z",
-      "headline": "6 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "BKNG",
-        "GTX",
-        "HD",
-        "NKE",
-        "STLA",
-        "VIK"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62200137/6-consumer-discretionary-stocks-whale-activity-today-s-session"
-    },
-    {
-      "created_at": "2026-10-06T17:35:22Z",
-      "headline": "8 Industrials Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "AGX",
-        "BE",
-        "CAT",
-        "GE",
-        "HON",
-        "NOC",
-        "RKLB",
-        "SYM"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62200136/8-industrials-stocks-whale-alerts-today-s-session"
-    },
-    {
-      "created_at": "2026-10-06T17:34:23Z",
-      "headline": "Nvidia, Apple, Microsoft Now Drive 21% of S&P 500: Here\u2019s How Much ETF Investors Own",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "IBM",
-        "MSFT",
-        "NVDA",
-        "QQQ",
-        "RSP",
-        "SPY",
-        "T",
-        "VOO",
-        "XOM"
-      ],
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62200101/nvidia-apple-microsoft-now-drive-21-of-sp-500-heres-how-much-etf-investors-own"
-    },
-    {
-      "created_at": "2026-10-06T17:13:13Z",
-      "headline": "Amazon Stock Moves Higher: What's Happening?",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62199434/amazon-stock-moves-higher-whats-happening"
-    },
-    {
-      "created_at": "2026-10-06T17:12:05Z",
-      "headline": "Nvidia Partner Boost Run Tops $2.6B in Contracts with New AI Deal",
-      "source": "benzinga",
-      "symbols": [
-        "BRUN",
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62199404/nvidia-partner-boost-run-tops-2-6b-in-contracts-with-new-ai-deal"
-    },
-    {
-      "created_at": "2026-10-06T17:11:12Z",
-      "headline": "S&P 500, Nasdaq Hit Records, Power Stocks Rally on Google's Nuclear Deal: Stock Market Today",
-      "source": "benzinga",
-      "symbols": [
-        "BTCUSD",
-        "CAI",
-        "CEG",
-        "CTVA",
-        "DIA",
-        "FDN",
-        "GH",
-        "GLD",
-        "IBB",
-        "ITB",
-        "IWM",
-        "LW",
-        "OIH",
-        "QQQ",
-        "SLV",
-        "SMH",
-        "STX",
-        "TEM",
-        "TLN",
-        "UWMC",
-        "VOO",
-        "VST",
-        "WDC",
-        "XLB",
-        "XLC",
-        "XLE",
-        "XLF",
-        "XLI",
-        "XLK",
-        "XLP",
-        "XLRE",
-        "XLU",
-        "XLV",
-        "XLY"
-      ],
-      "url": "https://www.benzinga.com/markets/equities/26/10/62199369/sp-500-nasdaq-100-record-highs-treasury-yields-ease-stock-market-today"
-    },
-    {
-      "created_at": "2026-10-06T17:01:09Z",
-      "headline": "CNBC Halftime Report Final Trades: UnitedHealth Group, EQT, Clearway Energy, Goldman Sachs Nasdaq-100 Premium Income ETF",
-      "source": "benzinga",
-      "symbols": [
-        "CWEN",
-        "EQT",
-        "GPIQ",
-        "UNH"
-      ],
-      "url": "https://www.benzinga.com/quote/EQT"
-    },
-    {
-      "created_at": "2026-10-06T17:01:00Z",
-      "headline": "'Prediction market providers and the US derivatives regulator secured a win in Illinois federal court over sports event contracts, bucking a recent losing streak' - Bloomberg Law",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62198951/prediction-market-providers-and-us-derivatives-regulator-secured-win-illinois-federal-court-over-spo"
     }
   ],
   "regime": "RISK_ON",
   "regime_score": 0.756757,
   "top_candidates": [
     {
-      "news_score": 0.060606,
-      "price": 240.165,
-      "reason": "5d +5.7%; 20d +6.5%; vs SPY +4.4%; RSI 82; volume 0.8x; volatility 24.1%; news +0.06",
-      "relative_strength_20d": 0.044157,
-      "score": 0.536835,
-      "symbol": "NVDA"
-    },
-    {
       "news_score": 0.0,
-      "price": 202.37,
-      "reason": "5d +4.1%; 20d +7.8%; vs SPY +5.8%; RSI 84; volume 0.8x; volatility 17.7%; news +0.00",
-      "relative_strength_20d": 0.057611,
-      "score": 0.522914,
+      "price": 201.97,
+      "reason": "5d +3.9%; 20d +7.6%; vs SPY +5.6%; RSI 84; volume 1.1x; volatility 17.6%; news +0.00",
+      "relative_strength_20d": 0.056161,
+      "score": 0.554114,
       "symbol": "XLK"
     },
     {
       "news_score": 0.047619,
-      "price": 531.34,
-      "reason": "5d +4.4%; 20d +7.6%; vs SPY +5.5%; RSI 74; volume 0.6x; volatility 21.4%; news +0.05",
-      "relative_strength_20d": 0.055216,
-      "score": 0.496541,
+      "price": 239.22,
+      "reason": "5d +5.3%; 20d +6.1%; vs SPY +4.1%; RSI 81; volume 1.0x; volatility 24.1%; news +0.05",
+      "relative_strength_20d": 0.040648,
+      "score": 0.546483,
+      "symbol": "NVDA"
+    },
+    {
+      "news_score": 0.066667,
+      "price": 529.385,
+      "reason": "5d +4.0%; 20d +7.2%; vs SPY +5.2%; RSI 73; volume 0.8x; volatility 21.3%; news +0.07",
+      "relative_strength_20d": 0.051938,
+      "score": 0.485323,
       "symbol": "MSFT"
     },
     {
       "news_score": 0.0,
-      "price": 872.19,
-      "reason": "5d +5.5%; 20d +6.0%; vs SPY +4.0%; RSI 77; volume 0.8x; volatility 26.4%; news +0.00",
-      "relative_strength_20d": 0.039707,
-      "score": 0.492293,
+      "price": 863.77,
+      "reason": "5d +4.5%; 20d +5.0%; vs SPY +3.0%; RSI 75; volume 1.0x; volatility 26.2%; news +0.00",
+      "relative_strength_20d": 0.030152,
+      "score": 0.45904,
       "symbol": "CAT"
     },
     {
-      "news_score": 0.0,
-      "price": 378.5,
-      "reason": "5d +6.6%; 20d +2.9%; vs SPY +0.8%; RSI 68; volume 1.1x; volatility 35.7%; news +0.00",
-      "relative_strength_20d": 0.008015,
-      "score": 0.399513,
-      "symbol": "AVGO"
-    },
-    {
-      "news_score": 0.066667,
-      "price": 760.565,
-      "reason": "5d +3.1%; 20d +6.0%; vs SPY +3.9%; RSI 80; volume 0.6x; volatility 15.5%; news +0.07",
-      "relative_strength_20d": 0.03921,
-      "score": 0.397278,
+      "news_score": 0.083333,
+      "price": 760.17,
+      "reason": "5d +3.0%; 20d +5.9%; vs SPY +3.9%; RSI 80; volume 0.9x; volatility 15.4%; news +0.08",
+      "relative_strength_20d": 0.03934,
+      "score": 0.4356,
       "symbol": "QQQ"
     },
     {
-      "news_score": 0.095238,
-      "price": 742.97,
-      "reason": "5d +0.5%; 20d +21.2%; vs SPY +19.2%; RSI 62; volume 0.3x; volatility 57.1%; news +0.10",
-      "relative_strength_20d": 0.191715,
-      "score": 0.364162,
+      "news_score": 0.0,
+      "price": 377.22,
+      "reason": "5d +6.2%; 20d +2.5%; vs SPY +0.5%; RSI 67; volume 1.4x; volatility 34.7%; news +0.00",
+      "relative_strength_20d": 0.005217,
+      "score": 0.419934,
+      "symbol": "AVGO"
+    },
+    {
+      "news_score": 0.047619,
+      "price": 739.175,
+      "reason": "5d +0.0%; 20d +20.6%; vs SPY +18.6%; RSI 61; volume 0.4x; volatility 57.2%; news +0.05",
+      "relative_strength_20d": 0.186203,
+      "score": 0.340015,
       "symbol": "META"
     },
     {
       "news_score": 0.111111,
-      "price": 379.43,
-      "reason": "5d +7.5%; 20d +3.1%; vs SPY +1.0%; RSI 59; volume 0.4x; volatility 29.7%; news +0.11",
-      "relative_strength_20d": 0.01001,
-      "score": 0.30182,
+      "price": 380.68,
+      "reason": "5d +7.9%; 20d +3.4%; vs SPY +1.4%; RSI 60; volume 0.6x; volatility 29.7%; news +0.11",
+      "relative_strength_20d": 0.014086,
+      "score": 0.337328,
       "symbol": "TSLA"
     },
     {
-      "news_score": 0.166667,
-      "price": 333.565,
-      "reason": "5d +1.2%; 20d +5.5%; vs SPY +3.4%; RSI 45; volume 0.5x; volatility 20.3%; news +0.17",
-      "relative_strength_20d": 0.034172,
-      "score": 0.161577,
+      "news_score": 0.133333,
+      "price": 335.13,
+      "reason": "5d +1.7%; 20d +6.0%; vs SPY +4.0%; RSI 47; volume 0.6x; volatility 20.3%; news +0.13",
+      "relative_strength_20d": 0.039801,
+      "score": 0.228616,
       "symbol": "AAPL"
     },
     {
-      "news_score": 0.047619,
-      "price": 256.175,
-      "reason": "5d +3.9%; 20d -0.3%; vs SPY -2.4%; RSI 58; volume 0.7x; volatility 22.2%; news +0.05",
-      "relative_strength_20d": -0.023581,
-      "score": 0.143062,
-      "symbol": "AMZN"
+      "news_score": 0.0,
+      "price": 935.96,
+      "reason": "5d +1.2%; 20d +2.8%; vs SPY +0.8%; RSI 75; volume 0.9x; volatility 17.0%; news +0.00",
+      "relative_strength_20d": 0.008086,
+      "score": 0.204578,
+      "symbol": "COST"
     }
   ],
   "universe_size": 37
