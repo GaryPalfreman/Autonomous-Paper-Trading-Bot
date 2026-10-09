@@ -1,37 +1,37 @@
 # Autonomous Paper Portfolio — Latest Update
 
-Generated: 2026-10-08T23:44:06.805190+00:00
-Market open: No
-Portfolio value: **$989.79** (-1.02%)
+Generated: 2026-10-09T18:36:08.882279+00:00
+Market open: Yes
+Portfolio value: **$987.65** (-1.23%)
 Cash: **$197.79**
-Invested: **$792.00**
+Invested: **$789.86**
 Realised P/L: **$-9.84**
-SPY benchmark: **$1,017.80** (+1.78%)
-Excess return vs SPY: **-2.80%**
-Long-term simulated goal: **$1,000,000** (0.0990% complete; 1,010.3x remaining)
+SPY benchmark: **$1,023.46** (+2.35%)
+Excess return vs SPY: **-3.58%**
+Long-term simulated goal: **$1,000,000** (0.0988% complete; 1,012.5x remaining)
 
 ## Market research
-- Regime: **RISK_ON** (breadth above 20-day average: 62%)
+- Regime: **RISK_ON** (breadth above 20-day average: 70%)
 - Source: Alpaca Market Data / iex feed; 37 liquid symbols; 50 recent articles
 - New entries allowed: **Yes**
 
 ## Positions
 | Symbol | Quantity | Average | Latest | Value | Unrealised P/L |
 |---|---:|---:|---:|---:|---:|
-| COST | 0.19821 | $952.14 | $947.68 | $187.84 | $-0.88 |
-| META | 0.21904 | $746.68 | $720.98 | $157.93 | $-5.63 |
-| NVDA | 0.82421 | $228.56 | $230.70 | $190.14 | $+1.76 |
-| QQQ | 0.06254 | $740.94 | $748.51 | $46.81 | $+0.47 |
-| XLK | 1.05636 | $194.41 | $198.11 | $209.28 | $+3.91 |
+| COST | 0.19821 | $952.14 | $939.01 | $186.12 | $-2.60 |
+| META | 0.21904 | $746.68 | $718.90 | $157.47 | $-6.08 |
+| NVDA | 0.82421 | $228.56 | $229.61 | $189.25 | $+0.86 |
+| QQQ | 0.06254 | $740.94 | $751.08 | $46.97 | $+0.63 |
+| XLK | 1.05636 | $194.41 | $198.84 | $210.05 | $+4.68 |
 
 ## Trades this cycle
 - No trades. Holding cash or existing positions was the highest-ranked decision.
 
 ## Highest-ranked signals
-- **WMT +0.42** — 5d +6.1%; 20d +4.6%; vs SPY +2.2%; RSI 58; volume 1.1x; volatility 23.4%; news +0.00
-- **COST +0.42** — 5d +3.6%; 20d +5.0%; vs SPY +2.6%; RSI 77; volume 1.1x; volatility 16.6%; news +0.00
-- **V +0.39** — 5d +4.2%; 20d +2.1%; vs SPY -0.3%; RSI 57; volume 1.5x; volatility 17.4%; news +0.33
-- **MSFT +0.36** — 5d +2.0%; 20d +6.1%; vs SPY +3.7%; RSI 67; volume 1.1x; volatility 21.9%; news +0.00
-- **MA +0.35** — 5d +4.5%; 20d +1.7%; vs SPY -0.8%; RSI 55; volume 1.7x; volatility 16.2%; news +0.00
+- **MSFT +0.44** — 5d +3.4%; 20d +7.9%; vs SPY +5.7%; RSI 76; volume 0.5x; volatility 23.0%; news +0.00
+- **MA +0.44** — 5d +6.6%; 20d +3.4%; vs SPY +1.3%; RSI 74; volume 0.7x; volatility 18.2%; news +0.33
+- **V +0.42** — 5d +6.8%; 20d +4.0%; vs SPY +1.8%; RSI 77; volume 0.8x; volatility 19.6%; news +0.00
+- **WMT +0.35** — 5d +6.8%; 20d +4.0%; vs SPY +1.8%; RSI 54; volume 0.4x; volatility 23.2%; news +0.33
+- **UNH +0.32** — 5d +3.1%; 20d +1.8%; vs SPY -0.3%; RSI 60; volume 2.3x; volatility 21.3%; news +0.00
 
 > Educational simulation only. It cannot submit real brokerage orders.

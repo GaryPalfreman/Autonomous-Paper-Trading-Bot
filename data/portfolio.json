@@ -1,14 +1,14 @@
 {
   "cash": 197.79043890151513,
   "created_at": "2026-09-15T00:00:00+00:00",
-  "cycle_count": 18,
+  "cycle_count": 19,
   "high_water_mark": 1028.1334236813466,
   "positions": {
     "COST": {
       "average_price": 952.1408324999999,
       "entry_reason": "Risk-sized 19.1% position with approximately 1.0% portfolio risk; 5d +4.0%; 20d +5.5%; vs SPY +3.2%; RSI 77; volume 0.8x; volatility 16.8%; news +0.00",
       "highest_price": 951.665,
-      "last_price": 947.68,
+      "last_price": 939.01,
       "opened_at": "2026-10-08T19:05:25.628515+00:00",
       "quantity": 0.1982114755147207,
       "symbol": "COST"
@@ -17,7 +17,7 @@
       "average_price": 746.6781524999999,
       "entry_reason": "Risk-sized 15.9% position with approximately 1.0% portfolio risk; 5d +12.2%; 20d +35.9%; vs SPY +34.6%; RSI 87; volume 1.9x; volatility 49.8%; news +0.04",
       "highest_price": 777.73,
-      "last_price": 720.98,
+      "last_price": 718.9,
       "opened_at": "2026-09-21T18:24:28.527278+00:00",
       "quantity": 0.21904349808268095,
       "symbol": "META"
@@ -26,7 +26,7 @@
       "average_price": 228.56422499999996,
       "entry_reason": "Risk-sized 18.9% position with approximately 1.0% portfolio risk; 5d +0.5%; 20d +5.1%; vs SPY +5.4%; RSI 56; volume 1.5x; volatility 27.5%; news +0.19",
       "highest_price": 240.165,
-      "last_price": 230.7,
+      "last_price": 229.61,
       "opened_at": "2026-09-28T19:55:21.007515+00:00",
       "quantity": 0.824206803572652,
       "symbol": "NVDA"
@@ -35,7 +35,7 @@
       "average_price": 740.9402849999999,
       "entry_reason": "Risk-sized 4.5% position with approximately 1.0% portfolio risk; 5d +4.5%; 20d +3.9%; vs SPY +2.6%; RSI 72; volume 1.0x; volatility 16.3%; news +0.05",
       "highest_price": 760.565,
-      "last_price": 748.51,
+      "last_price": 751.08,
       "opened_at": "2026-09-21T18:24:28.527393+00:00",
       "quantity": 0.06254170189077651,
       "symbol": "QQQ"
@@ -44,7 +44,7 @@
       "average_price": 194.407155,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +5.6%; 20d +6.1%; vs SPY +4.8%; RSI 73; volume 1.1x; volatility 22.7%; news +0.00",
       "highest_price": 202.37,
-      "last_price": 198.11,
+      "last_price": 198.84,
       "opened_at": "2026-09-21T18:24:28.527360+00:00",
       "quantity": 1.0563633624319901,
       "symbol": "XLK"
@@ -52,5 +52,5 @@
   },
   "realized_pnl": -9.840875667047351,
   "starting_cash": 1000.0,
-  "updated_at": "2026-10-08T23:44:06.804677+00:00"
+  "updated_at": "2026-10-09T18:36:08.881360+00:00"
 }
