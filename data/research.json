@@ -1,19 +1,135 @@
 {
   "benchmark_above_20d_average": true,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 778.605,
+  "benchmark_price": 778.57,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.702703,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-09T18:36:08.877563+00:00",
-  "latest_market_timestamp": "2026-10-09T18:36:05.20434418Z",
-  "market_is_open": true,
+  "generated_at": "2026-10-09T22:54:01.604303+00:00",
+  "latest_market_timestamp": "2026-10-09T20:58:00.001099108Z",
+  "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
-  "next_close": "2026-10-09T16:00:00-04:00",
+  "next_close": "2026-10-12T16:00:00-04:00",
   "next_open": "2026-10-12T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-10-09T21:18:10Z",
+      "headline": "Special Envoy Steve Witkoff On Ukraine Talks Says The Exchange Was Productive And Helped Identify Areas For Further Exploration; Participants Reaffirmed Their Shared Commitment To Continuing Diplomatic Efforts",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "VGK"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62286122/special-envoy-steve-witkoff-ukraine-talks-says-exchange-was-productive-and-helped-identify-areas-fur"
+    },
+    {
+      "created_at": "2026-10-09T21:03:11Z",
+      "headline": "Apple's iPhone Order Cut Is a Fall Tradition \u2014 And So Is the Stock Rebound",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62285904/apples-iphone-order-cut-is-a-fall-tradition-and-so-is-the-stock-rebound"
+    },
+    {
+      "created_at": "2026-10-09T20:00:48Z",
+      "headline": "President Trump Posts On Truth Social \"It is my Great Honor to have just appointed, as Press Secretary, Katie Zacharia. Katie currently serves as Senior Communications Advisor to Truth Social (Trump Media & Technology Group), where she has been outstanding! A native of California, Katie previously served as Spokesperson and Deputy Assistant Secretary for Public Affairs at the Department of Homeland Security....\"",
+      "source": "benzinga",
+      "symbols": [
+        "DJT",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62284257/president-trump-posts-truth-social-it-my-great-honor-have-just-appointed-press-secretary-katie-zacha"
+    },
+    {
+      "created_at": "2026-10-09T19:59:25Z",
+      "headline": "Russia's Putin Says Russia Confirms Readiness To Supply Oil And Petroleum Products To The Us And Global Markets; The Entry Of Russian Oil Into The U.S. Market Will Have A Positive Impact On The Global Economy As A Whole; Putin-Trump Phone Call Focused On Prospects For Resolving Ukraine Crisis, Also Touched On Iran",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "UNG",
+        "USO",
+        "VGK"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62284189/russia-s-putin-says-russia-confirms-readiness-supply-oil-and-petroleum-products-us-and-global-market"
+    },
+    {
+      "created_at": "2026-10-09T19:36:46Z",
+      "headline": "Meta Muse Downloads Are Slowing \u2014 And Hunterbrook is Short",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62283588/meta-muse-downloads-are-slowing-and-hunterbrook-is-short"
+    },
+    {
+      "created_at": "2026-10-09T19:05:08Z",
+      "headline": "Treasury Yields Reach 24-Year Highs, Telecom Stocks Sell Off: This Week On Wall Street",
+      "source": "benzinga",
+      "symbols": [
+        "BAC",
+        "CCI",
+        "CEG",
+        "DAL",
+        "GOOGL",
+        "GS",
+        "JPM",
+        "MU",
+        "PTC",
+        "SBGSY",
+        "SPCX",
+        "T",
+        "TMUS",
+        "VZ"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/10/62282867/treasury-yields-reach-24-year-highs-telecom-stocks-sell-off-this-week-on-wall-street"
+    },
+    {
+      "created_at": "2026-10-09T19:04:10Z",
+      "headline": "U.S. Issues General License Authorizing Transactions Related To Sale, Delivery, Offloading, And Importation Of Diesel Fuel Of Russian Origin Through April 7, 2027",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "UNG",
+        "USO",
+        "VGK"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62282835/u-s-issues-general-license-authorizing-transactions-related-sale-delivery-offloading-and-importation"
+    },
+    {
+      "created_at": "2026-10-09T19:00:11Z",
+      "headline": "Richest Americans Gained 19% in Wealth as Poorest Lost 56% Since 2022",
+      "source": "benzinga",
+      "symbols": [
+        "AXP",
+        "WMT"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62282745/us-wealth-inequality-richest-poorest-fed"
+    },
+    {
+      "created_at": "2026-10-09T18:49:46Z",
+      "headline": "President Trump Posts On Truth Social \"I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, wherein it was agreed that Russia will immediately supply over 300,000 Tons of Diesel Fuel to the American and Global Marketplace, another 500,000 Tons during the month of November, and 1,000,000 Tons immediately thereafter. Additionally, based on the condition of their Diesel Refineries, Russia will then deliver, within a short period of time, 3,000,000 Tons of Diesel Fuel.\"",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "UNG",
+        "USO",
+        "VGK"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62282517/president-trump-posts-truth-social-i-have-just-concluded-highly-successful-discussion-president-vlad"
+    },
+    {
+      "created_at": "2026-10-09T18:45:17Z",
+      "headline": "Tesla's China Retail Sales Fall 9% Even as Shanghai Exports Surge 58%",
+      "source": "benzinga",
+      "symbols": [
+        "BYDDY",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62282404/tesla-china-sales-exports-september"
+    },
     {
       "created_at": "2026-10-09T18:27:15Z",
       "headline": "Heating Oil Hits $6 A Gallon As Global Supply Shocks Threaten Consumer Spending",
@@ -142,174 +258,6 @@
         "ZTS"
       ],
       "url": "https://www.benzinga.com/markets/options/26/10/62279968/10-health-care-stocks-whale-activity-today-s-session"
-    },
-    {
-      "created_at": "2026-10-09T17:35:10Z",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "AMD",
-        "AVGO",
-        "CRCL",
-        "CRWV",
-        "INTC",
-        "MRVL",
-        "MSTR",
-        "NVDA",
-        "ORCL",
-        "PLTR"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62279967/10-information-technology-stocks-whale-alerts-today-s-session"
-    },
-    {
-      "created_at": "2026-10-09T17:34:25Z",
-      "headline": "President Trump To Issue Directive To U.S. Officials That Seeks To Control Cost Of Diesel; Directive On Diesel Will Push U.S. Department Heads To Find Ways To Bypass Local, State Regulations Blocking Energy Production; Directive Will Push U.S. Officials To Use Defense Production Act To Find Ways To Increase Production Of Oil And Fuel",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "UNG",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62279938/president-trump-issue-directive-u-s-officials-seeks-control-cost-diesel-directive-diesel-will-push-u"
-    },
-    {
-      "created_at": "2026-10-09T17:32:49Z",
-      "headline": "'Donald Trump pressures Mexico for energy deals in crunch trade talks' - Financial Times",
-      "source": "benzinga",
-      "symbols": [
-        "EWW",
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62279877/donald-trump-pressures-mexico-energy-deals-crunch-trade-talks-financial-times"
-    },
-    {
-      "created_at": "2026-10-09T17:30:13Z",
-      "headline": "Strategy Faces \u2018Dilution Drag\u2019 as TD Cowen Raises Bitcoin Forecast to $109,000",
-      "source": "benzinga",
-      "symbols": [
-        "BTCUSD",
-        "CRCL",
-        "MSTR",
-        "NVDA",
-        "STRC",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62279760/strategy-faces-dilution-drag-as-td-cowen-raises-bitcoin-forecast-to-109000"
-    },
-    {
-      "created_at": "2026-10-09T17:27:07Z",
-      "headline": "Stock Market Today: Nasdaq 100 Rebounds From OpenAI Scare, T-Mobile Tumbles 12%",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "AMT",
-        "AMZN",
-        "ASTS",
-        "AUGO",
-        "BTCUSD",
-        "CCI",
-        "CHTR",
-        "CMCSA",
-        "DIA",
-        "GDX",
-        "GLD",
-        "GOOGL",
-        "HUM",
-        "IGV",
-        "IWM",
-        "MRNA",
-        "MSFT",
-        "NVDA",
-        "QQQ",
-        "SBAC",
-        "SLV",
-        "SMH",
-        "SPCX",
-        "T",
-        "TIGO",
-        "TMUS",
-        "TSLA",
-        "VOO",
-        "VZ",
-        "XLC",
-        "XLE",
-        "XLF",
-        "XLK",
-        "XLP",
-        "XLRE",
-        "XLV",
-        "XLY"
-      ],
-      "url": "https://www.benzinga.com/markets/equities/26/10/62279599/stock-market-today-nasdaq-100-rebounds-t-mobile-tumbles"
-    },
-    {
-      "created_at": "2026-10-09T17:14:03Z",
-      "headline": "What's Going On With Snap Stock Friday?",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "CRM",
-        "ISHP",
-        "NVDA",
-        "SNAP",
-        "SPCX",
-        "VERS"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62279162/whats-going-on-with-snap-stock-friday-3"
-    },
-    {
-      "created_at": "2026-10-09T17:02:26Z",
-      "headline": "U.S. Baker Hughes Oil Rig Count +6 To 462; U.S. Baker Hughes NatGas Rig Count -1 To 132; U.S. Baker Hughes Total Rig Count 603 Vs 598 Prior",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "UNG",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/quote/UNG"
-    },
-    {
-      "created_at": "2026-10-09T17:00:58Z",
-      "headline": "CNBC Halftime Report Final Trades: UnitedHealth Group, Arista Networks, Hewlett Packard Enterprise, Wells Fargo & Company",
-      "source": "benzinga",
-      "symbols": [
-        "ANET",
-        "HPE",
-        "UNH",
-        "WFC"
-      ],
-      "url": "https://www.benzinga.com/quote/ANET"
-    },
-    {
-      "created_at": "2026-10-09T16:57:28Z",
-      "headline": "U.S. Gulf Shuts Down 72% Of Oil Production, ~1.5M Barrels/Day; The U.S. Gulf Of Mexico Has Shut In 71.5% Of Daily Oil Production And 58.8% Of Natural Gas Output, According To The Marine Minerals Administration;",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "UNG",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62278669/u-s-gulf-shuts-down-72-oil-production-1-5m-barrels-day-u-s-gulf-mexico-has-shut-71-5-daily-oil-produ"
-    },
-    {
-      "created_at": "2026-10-09T16:28:55Z",
-      "headline": "Nvidia-Backed Data Center IPO Collapses\u2014OpenAI Revenue Questions\u2014Apple customers Are Not Price Insensitive",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "BTCUSD",
-        "GOOG",
-        "META",
-        "MSFT",
-        "NVDA",
-        "QQQ",
-        "SPY",
-        "TSLA",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/Opinion/26/10/62277859/nvidia-backed-data-center-ipo-collapses-openai-revenue-questions-apple-customers-are-not-price-insensitive"
     }
   ],
   "regime": "RISK_ON",
@@ -317,83 +265,83 @@
   "top_candidates": [
     {
       "news_score": 0.0,
-      "price": 534.7,
-      "reason": "5d +3.4%; 20d +7.9%; vs SPY +5.7%; RSI 76; volume 0.5x; volatility 23.0%; news +0.00",
-      "relative_strength_20d": 0.057482,
-      "score": 0.441879,
-      "symbol": "MSFT"
-    },
-    {
-      "news_score": 0.333333,
-      "price": 588.07,
-      "reason": "5d +6.6%; 20d +3.4%; vs SPY +1.3%; RSI 74; volume 0.7x; volatility 18.2%; news +0.33",
-      "relative_strength_20d": 0.012822,
-      "score": 0.43503,
-      "symbol": "MA"
-    },
-    {
-      "news_score": 0.0,
-      "price": 385.245,
-      "reason": "5d +6.8%; 20d +4.0%; vs SPY +1.8%; RSI 77; volume 0.8x; volatility 19.6%; news +0.00",
-      "relative_strength_20d": 0.018426,
-      "score": 0.420865,
+      "price": 385.475,
+      "reason": "5d +6.9%; 20d +4.1%; vs SPY +1.9%; RSI 78; volume 1.4x; volatility 19.7%; news +0.00",
+      "relative_strength_20d": 0.019092,
+      "score": 0.501929,
       "symbol": "V"
     },
     {
       "news_score": 0.333333,
-      "price": 111.355,
-      "reason": "5d +6.8%; 20d +4.0%; vs SPY +1.8%; RSI 54; volume 0.4x; volatility 23.2%; news +0.33",
-      "relative_strength_20d": 0.018079,
-      "score": 0.347517,
+      "price": 589.175,
+      "reason": "5d +6.8%; 20d +3.6%; vs SPY +1.5%; RSI 74; volume 1.1x; volatility 18.5%; news +0.33",
+      "relative_strength_20d": 0.014812,
+      "score": 0.49114,
+      "symbol": "MA"
+    },
+    {
+      "news_score": 0.0,
+      "price": 535.195,
+      "reason": "5d +3.5%; 20d +8.0%; vs SPY +5.9%; RSI 76; volume 0.8x; volatility 23.1%; news +0.00",
+      "relative_strength_20d": 0.058526,
+      "score": 0.481991,
+      "symbol": "MSFT"
+    },
+    {
+      "news_score": 0.222222,
+      "price": 111.36,
+      "reason": "5d +6.8%; 20d +4.0%; vs SPY +1.8%; RSI 54; volume 0.7x; volatility 23.2%; news +0.22",
+      "relative_strength_20d": 0.018171,
+      "score": 0.371539,
       "symbol": "WMT"
     },
     {
-      "news_score": 0.0,
-      "price": 383.38,
-      "reason": "5d +3.1%; 20d +1.8%; vs SPY -0.3%; RSI 60; volume 2.3x; volatility 21.3%; news +0.00",
-      "relative_strength_20d": -0.003318,
-      "score": 0.320564,
-      "symbol": "UNH"
+      "news_score": 0.166667,
+      "price": 946.73,
+      "reason": "5d +2.8%; 20d +4.6%; vs SPY +2.5%; RSI 76; volume 0.8x; volatility 16.7%; news +0.17",
+      "relative_strength_20d": 0.024897,
+      "score": 0.361376,
+      "symbol": "COST"
     },
     {
-      "news_score": 0.047619,
-      "price": 383.725,
-      "reason": "5d +3.5%; 20d +5.0%; vs SPY +2.8%; RSI 53; volume 0.8x; volatility 30.8%; news +0.05",
-      "relative_strength_20d": 0.02845,
-      "score": 0.317168,
+      "news_score": 0.095238,
+      "price": 382.5,
+      "reason": "5d +3.2%; 20d +4.7%; vs SPY +2.5%; RSI 53; volume 1.0x; volatility 30.4%; news +0.10",
+      "relative_strength_20d": 0.025144,
+      "score": 0.314323,
       "symbol": "TSLA"
     },
     {
+      "news_score": 0.066667,
+      "price": 262.42,
+      "reason": "5d +4.4%; 20d +2.2%; vs SPY +0.0%; RSI 60; volume 0.9x; volatility 25.2%; news +0.07",
+      "relative_strength_20d": 0.000474,
+      "score": 0.291634,
+      "symbol": "AMZN"
+    },
+    {
       "news_score": 0.0,
-      "price": 1175.8,
-      "reason": "5d +2.8%; 20d +5.5%; vs SPY +3.3%; RSI 51; volume 0.4x; volatility 21.0%; news +0.00",
-      "relative_strength_20d": 0.033238,
-      "score": 0.232912,
+      "price": 1178.185,
+      "reason": "5d +3.0%; 20d +5.7%; vs SPY +3.5%; RSI 52; volume 0.7x; volatility 21.1%; news +0.00",
+      "relative_strength_20d": 0.035424,
+      "score": 0.286088,
       "symbol": "LLY"
     },
     {
       "news_score": 0.166667,
-      "price": 939.01,
-      "reason": "5d +2.0%; 20d +3.8%; vs SPY +1.6%; RSI 70; volume 0.5x; volatility 16.7%; news +0.17",
-      "relative_strength_20d": 0.016319,
-      "score": 0.228056,
-      "symbol": "COST"
-    },
-    {
-      "news_score": 0.166667,
-      "price": 169.02,
-      "reason": "5d +3.0%; 20d +1.8%; vs SPY -0.3%; RSI 81; volume 0.4x; volatility 23.8%; news +0.17",
-      "relative_strength_20d": -0.003171,
-      "score": 0.227106,
+      "price": 169.015,
+      "reason": "5d +3.0%; 20d +1.8%; vs SPY -0.3%; RSI 81; volume 0.5x; volatility 23.8%; news +0.17",
+      "relative_strength_20d": -0.003156,
+      "score": 0.243594,
       "symbol": "XOM"
     },
     {
-      "news_score": 0.083333,
-      "price": 65.265,
-      "reason": "5d +3.9%; 20d +0.8%; vs SPY -1.3%; RSI 76; volume 0.5x; volatility 22.2%; news +0.08",
-      "relative_strength_20d": -0.013347,
-      "score": 0.226439,
-      "symbol": "XLE"
+      "news_score": 0.166667,
+      "price": 718.12,
+      "reason": "5d -1.4%; 20d +10.9%; vs SPY +8.8%; RSI 45; volume 0.7x; volatility 54.2%; news +0.17",
+      "relative_strength_20d": 0.087724,
+      "score": 0.242983,
+      "symbol": "META"
     }
   ],
   "universe_size": 37
