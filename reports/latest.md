@@ -1,14 +1,14 @@
 # Autonomous Paper Portfolio — Latest Update
 
-Generated: 2026-10-13T19:41:21.583419+00:00
-Market open: Yes
-Portfolio value: **$994.59** (-0.54%)
+Generated: 2026-10-13T23:26:08.941461+00:00
+Market open: No
+Portfolio value: **$995.68** (-0.43%)
 Cash: **$198.93**
-Invested: **$795.67**
+Invested: **$796.75**
 Realised P/L: **$-4.00**
-SPY benchmark: **$1,023.35** (+2.34%)
-Excess return vs SPY: **-2.88%**
-Long-term simulated goal: **$1,000,000** (0.0995% complete; 1,005.4x remaining)
+SPY benchmark: **$1,022.95** (+2.30%)
+Excess return vs SPY: **-2.73%**
+Long-term simulated goal: **$1,000,000** (0.0996% complete; 1,004.3x remaining)
 
 ## Market research
 - Regime: **RISK_ON** (breadth above 20-day average: 81%)
@@ -18,25 +18,20 @@ Long-term simulated goal: **$1,000,000** (0.0995% complete; 1,005.4x remaining)
 ## Positions
 | Symbol | Quantity | Average | Latest | Value | Unrealised P/L |
 |---|---:|---:|---:|---:|---:|
-| COST | 0.19821 | $952.14 | $948.50 | $188.00 | $-0.72 |
-| NVDA | 0.82421 | $228.56 | $227.99 | $187.91 | $-0.47 |
-| MSFT | 0.36446 | $545.90 | $545.62 | $198.86 | $-0.10 |
-| META | 0.18621 | $766.21 | $765.83 | $142.61 | $-0.07 |
-| MA | 0.12991 | $602.91 | $602.61 | $78.29 | $-0.04 |
+| COST | 0.19821 | $952.14 | $954.54 | $189.20 | $+0.48 |
+| MA | 0.12991 | $602.91 | $604.75 | $78.56 | $+0.24 |
+| META | 0.18621 | $766.21 | $762.51 | $141.99 | $-0.69 |
+| MSFT | 0.36446 | $545.90 | $543.51 | $198.09 | $-0.87 |
+| NVDA | 0.82421 | $228.56 | $229.20 | $188.91 | $+0.52 |
 
 ## Trades this cycle
-- **SELL META** — $167.67 at $765.44: Time exit after 22 days
-- **SELL QQQ** — $46.47 at $743.08: Time exit after 22 days
-- **SELL XLK** — $206.96 at $195.92: Time exit after 22 days
-- **BUY MSFT** — $198.96 at $545.90: Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +3.1%; 20d +9.8%; vs SPY +6.7%; RSI 81; volume 1.1x; volatility 21.2%; news +0.06
-- **BUY META** — $142.68 at $766.21: Risk-sized 14.3% position with approximately 1.0% portfolio risk; 5d +3.6%; 20d +14.3%; vs SPY +11.3%; RSI 47; volume 1.1x; volatility 55.3%; news +0.04
-- **BUY MA** — $78.32 at $602.91: Risk-sized 7.9% position with approximately 1.0% portfolio risk; 5d +6.5%; 20d +5.3%; vs SPY +2.3%; RSI 76; volume 1.1x; volatility 18.9%; news +0.00
+- No trades. Holding cash or existing positions was the highest-ranked decision.
 
 ## Highest-ranked signals
-- **MSFT +0.58** — 5d +3.1%; 20d +9.8%; vs SPY +6.7%; RSI 81; volume 1.1x; volatility 21.2%; news +0.06
-- **META +0.57** — 5d +3.6%; 20d +14.3%; vs SPY +11.3%; RSI 47; volume 1.1x; volatility 55.3%; news +0.04
-- **MA +0.50** — 5d +6.5%; 20d +5.3%; vs SPY +2.3%; RSI 76; volume 1.1x; volatility 18.9%; news +0.00
-- **V +0.49** — 5d +6.1%; 20d +4.8%; vs SPY +1.7%; RSI 80; volume 1.1x; volatility 19.7%; news +0.00
-- **WMT +0.38** — 5d +5.2%; 20d +4.3%; vs SPY +1.3%; RSI 67; volume 0.7x; volatility 22.7%; news +0.00
+- **META +0.56** — 5d +3.2%; 20d +13.8%; vs SPY +10.8%; RSI 46; volume 1.2x; volatility 55.1%; news +0.06
+- **MSFT +0.55** — 5d +2.7%; 20d +9.3%; vs SPY +6.3%; RSI 81; volume 1.3x; volatility 21.1%; news -0.06
+- **V +0.55** — 5d +6.9%; 20d +5.5%; vs SPY +2.5%; RSI 81; volume 1.3x; volatility 20.2%; news +0.00
+- **MA +0.54** — 5d +6.9%; 20d +5.7%; vs SPY +2.7%; RSI 76; volume 1.4x; volatility 19.2%; news +0.00
+- **XLE +0.39** — 5d +5.3%; 20d +2.4%; vs SPY -0.6%; RSI 78; volume 1.1x; volatility 22.1%; news +0.00
 
 > Educational simulation only. It cannot submit real brokerage orders.

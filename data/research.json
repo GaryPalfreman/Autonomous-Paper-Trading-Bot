@@ -1,19 +1,202 @@
 {
   "benchmark_above_20d_average": true,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 778.52,
+  "benchmark_price": 778.215,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.810811,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-13T19:41:21.578193+00:00",
-  "latest_market_timestamp": "2026-10-13T19:41:19.741213628Z",
-  "market_is_open": true,
+  "generated_at": "2026-10-13T23:26:08.938556+00:00",
+  "latest_market_timestamp": "2026-10-13T20:58:01.50078911Z",
+  "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
-  "next_close": "2026-10-13T16:00:00-04:00",
+  "next_close": "2026-10-14T16:00:00-04:00",
   "next_open": "2026-10-14T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-10-13T22:43:34Z",
+      "headline": "Elon Musk Agrees: GTA VI Could Be 'Swan Song for the Big Studio Era'",
+      "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "TTWO"
+      ],
+      "url": "https://www.benzinga.com/news/gaming/26/10/62343265/elon-musk-agrees-gta-vi-could-be-swan-song-for-the-big-studio-era"
+    },
+    {
+      "created_at": "2026-10-13T22:26:11Z",
+      "headline": "Apple Stock Hits All-Time Highs \u2014 And There Could Be Good News About iPhone Duo",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62343167/apple-stock-hits-all-time-highs-and-there-could-be-good-news-about-iphone-duo"
+    },
+    {
+      "created_at": "2026-10-13T22:16:18Z",
+      "headline": "Someone Bugged OpenAI's Boardroom: ChatGPT's Maker Says its Own AI Found Out Who",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "CRWD",
+        "MSFT",
+        "OKTA",
+        "PANW"
+      ],
+      "url": "https://www.benzinga.com/news/legal/26/10/62343135/someone-bugged-openais-boardroom-chatgpts-maker-says-its-own-ai-found-out-who"
+    },
+    {
+      "created_at": "2026-10-13T21:39:16Z",
+      "headline": "'Chancellor targets online marketplaces in \u00a31B tax crackdown; Amazon, eBay and Temu will be forced to collect VAT to fund business rate cuts for high street shops'- The Times",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "EBAY",
+        "PDD"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62342665/chancellor-targets-online-marketplaces-1b-tax-crackdown-amazon-ebay-and-temu-will-be-forced-collect-"
+    },
+    {
+      "created_at": "2026-10-13T21:00:43Z",
+      "headline": "Bank of America Hit with $1.2 Billion Treasury Penalties on Eve of Earnings",
+      "source": "benzinga",
+      "symbols": [
+        "BAC",
+        "JPM"
+      ],
+      "url": "https://www.benzinga.com/news/legal/26/10/62341717/bank-of-america-hit-with-1-2-billion-treasury-penalties-on-eve-of-earnings"
+    },
+    {
+      "created_at": "2026-10-13T20:51:37Z",
+      "headline": "Applied Materials Stock Sinks for 6th Day, but Cantor Sees 85% Upside",
+      "source": "benzinga",
+      "symbols": [
+        "AMAT",
+        "ASML",
+        "AVGO",
+        "KLAC",
+        "LRCX",
+        "MU",
+        "SKHY",
+        "SSNLF"
+      ],
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/10/62341492/applied-materials-stock-sinks-sixth-day-cantor-850-target"
+    },
+    {
+      "created_at": "2026-10-13T20:46:04Z",
+      "headline": "DOJ Says Saudi National Arrested For Installing Surreptitious Audio Recording Device At OpenAI; An Employee Of OpenAI Has Been Arrested For And Charged With Using Or Endeavoring To Use An Electronic, Mechanical, Or Other Device To Intercept Oral Communications",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62341348/doj-says-saudi-national-arrested-installing-surreptitious-audio-recording-device-openai-employee-ope"
+    },
+    {
+      "created_at": "2026-10-13T20:41:42Z",
+      "headline": "U.S. Department Of The Treasury Announced Enforcement Actions Imposing More Than $1.21B In Penalties Against Bank Of America",
+      "source": "benzinga",
+      "symbols": [
+        "BAC"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62341241/u-s-department-treasury-announced-enforcement-actions-imposing-more-1-21b-penalties-against-bank-ame"
+    },
+    {
+      "created_at": "2026-10-13T20:36:47Z",
+      "headline": "Dan Ives Says AI Stock Selloff \u2018Opportunity to Own the Winners\u2019: Here Are 7 Companies He Named",
+      "source": "benzinga",
+      "symbols": [
+        "CRM",
+        "CRWD",
+        "META",
+        "MSFT",
+        "NOW",
+        "NVDA",
+        "PLTR"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62340990/dan-ives-says-ai-stock-selloff-opportunity-to-own-the-winners-here-are-7-companies-he-named"
+    },
+    {
+      "created_at": "2026-10-13T20:31:01Z",
+      "headline": "Boston Fed\u2019s Collins Says She Is Very Focused On Inflation Data, Watching How Broad Price Pressures Are, Economic Uncertainty Elevated",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62340757/boston-fed-s-collins-says-she-very-focused-inflation-data-watching-how-broad-price-pressures-are-eco"
+    },
+    {
+      "created_at": "2026-10-13T20:24:58Z",
+      "headline": "Bank Of America Says Q3 Results Will Include Non-Tax-Deductible Charge Of $1.2B Impacting Net Income By About $0.17 Per Share; Our Team Is Far Along With & Committed To Completing Work Required To Address Issues Raised By Our Regulators; Dedicated Substantial Personnel & Resources To Ongoing Remediation Efforts, & Those Costs Are In Current Expense BASE",
+      "source": "benzinga",
+      "symbols": [
+        "BAC"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62340545/bank-america-says-q3-results-will-include-non-tax-deductible-charge-1-2b-impacting-net-income-about-"
+    },
+    {
+      "created_at": "2026-10-13T20:22:00Z",
+      "headline": "Flex Amends Warrant With Amazon To Purchase 3,859,851 Shares At $51.29 Per Share",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "FLEX"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62340503/flex-amends-warrant-amazon-purchase-3-859-851-shares-51-29-share"
+    },
+    {
+      "created_at": "2026-10-13T20:11:43Z",
+      "headline": "U.S. Treasury's OFAC Announces Settlement Agreement With Bank Of America; Bank Of America To Pay $11.66M Settlement For 475 Apparent Sanctions Violations Involving Russia, Iran And Other Sanctioned Parties",
+      "source": "benzinga",
+      "symbols": [
+        "BAC",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62340097/u-s-treasury-s-ofac-announces-settlement-agreement-bank-america-bank-america-pay-11-66m-settlement-4"
+    },
+    {
+      "created_at": "2026-10-13T20:03:53Z",
+      "headline": "'Federal Reserve Bank Of Boston President Susan Collins Said Interest Rates Will Likely Need To Rise More Before The End Of The Year To Help Rein In Inflation' - Bloomberg News",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62339730/federal-reserve-bank-boston-president-susan-collins-said-interest-rates-will-likely-need-rise-more-e"
+    },
+    {
+      "created_at": "2026-10-13T19:56:43Z",
+      "headline": "OpenAI Posts On X \"We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we\u2019re grateful to the agents and prosecutors who moved quickly to make an arrest. The FBI\u2019s investigation is ongoing and we will continue to support their work...\"",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62339422/openai-posts-x-we-discovered-sophisticated-recording-device-was-hidden-inside-one-our-offices-we-use"
+    },
+    {
+      "created_at": "2026-10-13T19:39:57Z",
+      "headline": "QUICK SPARK: UnitedHealth Calls 2026 the Bottom for Medicaid Margins",
+      "source": "benzinga",
+      "symbols": [
+        "CLOV",
+        "CVS",
+        "HUM",
+        "UNH"
+      ],
+      "url": "https://www.benzinga.com/markets/earnings/26/10/62339000/unitedhealth-calls-2026-the-bottom-for-medicaid-margins"
+    },
+    {
+      "created_at": "2026-10-13T19:38:06Z",
+      "headline": "Buffett Successor Sold Visa Stock in Q1: Why That May Have Been an $823M Mistake",
+      "source": "benzinga",
+      "symbols": [
+        "BRK",
+        "BRK/A",
+        "BRK/B",
+        "V"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62338944/buffett-successor-sold-visa-stock-in-q1-why-that-may-have-been-an-823m-mistake"
+    },
     {
       "created_at": "2026-10-13T19:30:09Z",
       "headline": "ASML Could Swing $34.8 Billion After Earnings",
@@ -49,192 +232,6 @@
         "USO"
       ],
       "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62337570/israeli-prime-minister-benjamin-netanyahu-and-president-trump-last-week-discussed-possibility-launch"
-    },
-    {
-      "created_at": "2026-10-13T18:36:55Z",
-      "headline": "EXCLUSIVE: Micron Is Not Close to Peak Earnings, Jordi Visser Says. But He Prefers Optics and Crypto",
-      "source": "benzinga",
-      "symbols": [
-        "BTCUSD",
-        "COHR",
-        "LITE",
-        "MU",
-        "NVDA",
-        "SKHY",
-        "SSNLF"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62337220/jordi-visser-micron-peak-earnings-optics-crypto-exclusive"
-    },
-    {
-      "created_at": "2026-10-13T18:26:29Z",
-      "headline": "'Zuckerberg Admits Meta Lacked AI Certainty on $200 Billion Bet' - Bloomberg News",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62336936/zuckerberg-admits-meta-lacked-ai-certainty-200-billion-bet-bloomberg-news"
-    },
-    {
-      "created_at": "2026-10-13T18:23:33Z",
-      "headline": "QUICK SPARK: J&J Eyes Worst Day Since April 2025 with MedTech Miss",
-      "source": "benzinga",
-      "symbols": [
-        "JNJ",
-        "XLV"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62336881/jnj-stock-worst-day-since-april-2025-medtech-miss"
-    },
-    {
-      "created_at": "2026-10-13T18:20:53Z",
-      "headline": "BZ Analysis: The S&P 500 Now Has The Highest Number Of Stocks With A Negative Beta In History",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/26/10/62336835/bz-analysis-s-p-500-now-has-highest-number-stocks-negative-beta-history"
-    },
-    {
-      "created_at": "2026-10-13T18:16:41Z",
-      "headline": "U.S. Treasury Yields Briefly Move Lower After Comments From Fed's Williams; Yield On 10-Year Treasury Note Last Down 2.51 Basis Points At 5.219%; Yield On 30-Year U.S. Treasury Bonds Down 3.42 Basis Points At 5.565%; 2-Year U.S. Treasury Yields Last Flat At 4.795%",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/quote/SPY"
-    },
-    {
-      "created_at": "2026-10-13T18:15:12Z",
-      "headline": "Guyana May Scale Back LNG Plans As Exxon Needs More Gas For Its Wells, Sources Say",
-      "source": "benzinga",
-      "symbols": [
-        "CVX",
-        "TTE",
-        "XOM"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62336646/guyana-may-scale-back-lng-plans-exxon-needs-more-gas-its-wells-sources-say"
-    },
-    {
-      "created_at": "2026-10-13T18:13:37Z",
-      "headline": "'Fed's Williams Said There Are Still Signs Inflation Will Slow \"Quite A Bit\u201d And Approach The Fed\u2019s 2% Target Next Year' - Bloomberg News",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62336593/fed-s-williams-said-there-are-still-signs-inflation-will-slow-quite-bit-and-approach-fed-s-2-target-"
-    },
-    {
-      "created_at": "2026-10-13T18:10:44Z",
-      "headline": "'Fed\u2019s Williams Currently Sees No Need For Rate Hike In 2027' - Bloomberg News",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62336484/fed-s-williams-currently-sees-no-need-rate-hike-2027-bloomberg-news"
-    },
-    {
-      "created_at": "2026-10-13T18:05:47Z",
-      "headline": "Elon Musk Says Robot Hands Are 'Shockingly Difficult'",
-      "source": "benzinga",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62336306/tesla-optimus-robot-hands-difficult"
-    },
-    {
-      "created_at": "2026-10-13T17:51:07Z",
-      "headline": "Netflix Stock Is Trending: What's Going On?",
-      "source": "benzinga",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62335772/netflix-stock-is-trending-whats-going-on"
-    },
-    {
-      "created_at": "2026-10-13T17:46:25Z",
-      "headline": "JPMorgan Sees Deal Delays, Not Cancellations, During Market Uncertainty",
-      "source": "benzinga",
-      "symbols": [
-        "JPM"
-      ],
-      "url": "https://www.benzinga.com/markets/large-cap/26/10/62335569/jpmorgan-sees-deal-delays-not-cancellations-during-market-uncertainty"
-    },
-    {
-      "created_at": "2026-10-13T17:35:11Z",
-      "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "ANF",
-        "CCL",
-        "GTX",
-        "JMKE",
-        "LULU",
-        "MCD",
-        "NKE",
-        "PLAY",
-        "RIVN"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62335265/10-consumer-discretionary-stocks-whale-activity-today-s-session"
-    },
-    {
-      "created_at": "2026-10-13T17:35:11Z",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "INTC",
-        "LITE",
-        "MSFT",
-        "MU",
-        "NVDA",
-        "ORCL",
-        "PLTR",
-        "SNDK",
-        "TXN"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62335264/10-information-technology-stocks-whale-alerts-today-s-session"
-    },
-    {
-      "created_at": "2026-10-13T17:11:47Z",
-      "headline": "Ben Affleck Says Holding AI Companies Accountable Is Simple. 'If You Have A Company That Hurts People, You're Liable For That'",
-      "source": "benzinga",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/opinion/26/10/62334486/ben-affleck-says-holding-ai-companies-accountable-is-simple-if-you-have-a-company-that-hurts-people-youre-liable-for-that"
-    },
-    {
-      "created_at": "2026-10-13T17:11:06Z",
-      "headline": "UnitedHealth Raises Guidance: What It Means for XLV and Other Healthcare ETFs",
-      "source": "benzinga",
-      "symbols": [
-        "IHF",
-        "UNH",
-        "VHT",
-        "XLV"
-      ],
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62334461/unitedhealth-raises-guidance-what-it-means-for-xlv-and-other-healthcare-etfs"
-    },
-    {
-      "created_at": "2026-10-13T17:10:42Z",
-      "headline": "Netanyahu Discusses New Military Operation In Iran With Trump - Even Before The Election",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62334449/netanyahu-discusses-new-military-operation-iran-trump-even-election"
-    },
-    {
-      "created_at": "2026-10-13T17:07:37Z",
-      "headline": "Paul Tudor Jones Says Oil Can Rally Another $25, Warns 2027 Will Be 'Really Challenging' for Stocks",
-      "source": "benzinga",
-      "symbols": [
-        "SPCX",
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62334315/paul-tudor-jones-oil-stocks-2027"
     }
   ],
   "regime": "RISK_ON",
@@ -242,83 +239,83 @@
   "top_candidates": [
     {
       "news_score": 0.055556,
-      "price": 545.625,
-      "reason": "5d +3.1%; 20d +9.8%; vs SPY +6.7%; RSI 81; volume 1.1x; volatility 21.2%; news +0.06",
-      "relative_strength_20d": 0.06719,
-      "score": 0.577636,
-      "symbol": "MSFT"
-    },
-    {
-      "news_score": 0.037037,
-      "price": 765.825,
-      "reason": "5d +3.6%; 20d +14.3%; vs SPY +11.3%; RSI 47; volume 1.1x; volatility 55.3%; news +0.04",
-      "relative_strength_20d": 0.112675,
-      "score": 0.570147,
+      "price": 762.51,
+      "reason": "5d +3.2%; 20d +13.8%; vs SPY +10.8%; RSI 46; volume 1.2x; volatility 55.1%; news +0.06",
+      "relative_strength_20d": 0.108131,
+      "score": 0.563405,
       "symbol": "META"
     },
     {
-      "news_score": 0.0,
-      "price": 602.605,
-      "reason": "5d +6.5%; 20d +5.3%; vs SPY +2.3%; RSI 76; volume 1.1x; volatility 18.9%; news +0.00",
-      "relative_strength_20d": 0.022611,
-      "score": 0.496426,
-      "symbol": "MA"
+      "news_score": -0.055556,
+      "price": 543.51,
+      "reason": "5d +2.7%; 20d +9.3%; vs SPY +6.3%; RSI 81; volume 1.3x; volatility 21.1%; news -0.06",
+      "relative_strength_20d": 0.063339,
+      "score": 0.548656,
+      "symbol": "MSFT"
     },
     {
       "news_score": 0.0,
-      "price": 393.375,
-      "reason": "5d +6.1%; 20d +4.8%; vs SPY +1.7%; RSI 80; volume 1.1x; volatility 19.7%; news +0.00",
-      "relative_strength_20d": 0.017397,
-      "score": 0.492702,
+      "price": 396.13,
+      "reason": "5d +6.9%; 20d +5.5%; vs SPY +2.5%; RSI 81; volume 1.3x; volatility 20.2%; news +0.00",
+      "relative_strength_20d": 0.025139,
+      "score": 0.546206,
       "symbol": "V"
     },
     {
       "news_score": 0.0,
-      "price": 112.775,
-      "reason": "5d +5.2%; 20d +4.3%; vs SPY +1.3%; RSI 67; volume 0.7x; volatility 22.7%; news +0.00",
-      "relative_strength_20d": 0.012832,
-      "score": 0.382184,
-      "symbol": "WMT"
+      "price": 604.745,
+      "reason": "5d +6.9%; 20d +5.7%; vs SPY +2.7%; RSI 76; volume 1.4x; volatility 19.2%; news +0.00",
+      "relative_strength_20d": 0.026755,
+      "score": 0.543127,
+      "symbol": "MA"
     },
     {
       "news_score": 0.0,
-      "price": 67.115,
-      "reason": "5d +5.3%; 20d +2.4%; vs SPY -0.7%; RSI 78; volume 0.9x; volatility 22.0%; news +0.00",
-      "relative_strength_20d": -0.00654,
-      "score": 0.378133,
+      "price": 67.1,
+      "reason": "5d +5.3%; 20d +2.4%; vs SPY -0.6%; RSI 78; volume 1.1x; volatility 22.1%; news +0.00",
+      "relative_strength_20d": -0.006366,
+      "score": 0.392826,
       "symbol": "XLE"
     },
     {
       "news_score": 0.0,
-      "price": 174.45,
-      "reason": "5d +6.1%; 20d +3.1%; vs SPY +0.0%; RSI 83; volume 0.7x; volatility 23.2%; news +0.00",
-      "relative_strength_20d": 0.000187,
-      "score": 0.374316,
+      "price": 174.08,
+      "reason": "5d +5.9%; 20d +2.8%; vs SPY -0.2%; RSI 83; volume 0.8x; volatility 23.1%; news +0.00",
+      "relative_strength_20d": -0.001596,
+      "score": 0.384138,
       "symbol": "XOM"
     },
     {
       "news_score": 0.0,
-      "price": 218.49,
-      "reason": "5d +5.2%; 20d +0.4%; vs SPY -2.7%; RSI 75; volume 1.2x; volatility 22.6%; news +0.00",
-      "relative_strength_20d": -0.026833,
-      "score": 0.327367,
+      "price": 112.29,
+      "reason": "5d +4.7%; 20d +3.9%; vs SPY +0.9%; RSI 65; volume 1.0x; volatility 22.8%; news +0.00",
+      "relative_strength_20d": 0.008749,
+      "score": 0.380454,
+      "symbol": "WMT"
+    },
+    {
+      "news_score": 0.0,
+      "price": 217.825,
+      "reason": "5d +4.9%; 20d +0.1%; vs SPY -2.9%; RSI 75; volume 1.3x; volatility 22.5%; news +0.00",
+      "relative_strength_20d": -0.029483,
+      "score": 0.32976,
       "symbol": "CVX"
     },
     {
       "news_score": 0.0,
-      "price": 84.275,
-      "reason": "5d +3.1%; 20d +1.3%; vs SPY -1.7%; RSI 69; volume 1.0x; volatility 13.0%; news +0.00",
-      "relative_strength_20d": -0.017251,
-      "score": 0.221267,
-      "symbol": "XLP"
+      "price": 954.54,
+      "reason": "5d +2.0%; 20d +5.9%; vs SPY +2.9%; RSI 80; volume 0.5x; volatility 14.8%; news +0.00",
+      "relative_strength_20d": 0.029053,
+      "score": 0.294039,
+      "symbol": "COST"
     },
     {
       "news_score": 0.0,
-      "price": 948.5,
-      "reason": "5d +1.3%; 20d +5.2%; vs SPY +2.2%; RSI 75; volume 0.3x; volatility 14.7%; news +0.00",
-      "relative_strength_20d": 0.021948,
-      "score": 0.205599,
-      "symbol": "COST"
+      "price": 341.33,
+      "reason": "5d +2.3%; 20d +3.0%; vs SPY +0.0%; RSI 56; volume 1.2x; volatility 16.9%; news +0.00",
+      "relative_strength_20d": 0.000154,
+      "score": 0.227331,
+      "symbol": "AAPL"
     }
   ],
   "universe_size": 37
