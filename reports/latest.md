@@ -1,6 +1,6 @@
 # Autonomous Paper Portfolio — Latest Update
 
-Generated: 2026-10-12T21:29:26.719978+00:00
+Generated: 2026-10-13T02:41:09.544450+00:00
 Market open: No
 Portfolio value: **$991.34** (-0.87%)
 Cash: **$197.79**
@@ -28,8 +28,8 @@ Long-term simulated goal: **$1,000,000** (0.0991% complete; 1,008.7x remaining)
 - No trades. Holding cash or existing positions was the highest-ranked decision.
 
 ## Highest-ranked signals
+- **V +0.46** — 5d +5.3%; 20d +3.7%; vs SPY +1.2%; RSI 81; volume 0.9x; volatility 19.5%; news +0.17
 - **MA +0.46** — 5d +5.6%; 20d +3.8%; vs SPY +1.3%; RSI 75; volume 1.2x; volatility 18.6%; news +0.00
-- **V +0.45** — 5d +5.3%; 20d +3.7%; vs SPY +1.2%; RSI 81; volume 0.9x; volatility 19.5%; news +0.11
 - **XOM +0.45** — 5d +5.0%; 20d +4.3%; vs SPY +1.8%; RSI 82; volume 0.9x; volatility 24.5%; news +0.00
 - **MSFT +0.44** — 5d +3.1%; 20d +7.0%; vs SPY +4.5%; RSI 77; volume 0.8x; volatility 22.5%; news +0.05
 - **META +0.40** — 5d +0.2%; 20d +11.7%; vs SPY +9.2%; RSI 50; volume 1.2x; volatility 54.7%; news +0.00

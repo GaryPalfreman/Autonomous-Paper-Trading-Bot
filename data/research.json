@@ -6,7 +6,7 @@
   "breadth_above_20d_average": 0.675676,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-12T21:29:26.717616+00:00",
+  "generated_at": "2026-10-13T02:41:09.542560+00:00",
   "latest_market_timestamp": "2026-10-12T20:56:47.214414689Z",
   "market_is_open": false,
   "new_entries_allowed": true,
@@ -14,6 +14,42 @@
   "next_close": "2026-10-13T16:00:00-04:00",
   "next_open": "2026-10-13T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-10-13T02:13:23Z",
+      "headline": "Elon Musk Says China Can Out-Scale the World, but Advanced Memory \u2018Will Be Harder to Solve\u2019 \u2014 Micron, SK Hynix, SanDisk Drop After-Hours",
+      "source": "benzinga",
+      "symbols": [
+        "MU",
+        "SKHY",
+        "SNDK",
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62313489/elon-musk-china-advanced-memory-micron-sk-hynix-sandisk-stocks"
+    },
+    {
+      "created_at": "2026-10-13T01:41:42Z",
+      "headline": "Jim Cramer Is \u2018Monster Long\u2019 On Mark Zuckerberg\u2019s Meta On Muse Retention, But Cathie Wood Trims $3.36 Million Stake",
+      "source": "benzinga",
+      "symbols": [
+        "ARKK",
+        "META"
+      ],
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/10/62313341/jim-cramer-is-monster-long-on-mark-zuckerbergs-meta-on-muse-retention-but-cathie-wood-trims-3-36-million-stake"
+    },
+    {
+      "created_at": "2026-10-13T01:10:34Z",
+      "headline": "Micron, Cerebras Systems, SanDisk, Meta and SoundHound AI: Why These 5 Stocks Are on Investors' Radars Today",
+      "source": "benzinga",
+      "symbols": [
+        "CBRS",
+        "META",
+        "MU",
+        "SNDK",
+        "SOUN"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/10/62313285/micron-cerebras-systems-sandisk-meta-and-soundhound-ai-why-these-5-stocks-are-on-investors-radars-today"
+    },
     {
       "created_at": "2026-10-12T20:45:20Z",
       "headline": "Here\u2019s How Much You Would Have Made Owning Alphabet Stock In The Last 10 Years",
@@ -227,60 +263,19 @@
         "USO"
       ],
       "url": "https://www.benzinga.com/Opinion/26/10/62308565/chinas-4f%c2%b2-threat-to-micron-houthis-deadly-attack-on-saudi-arabia-eclipses-trumps-russian-diesel-deal"
-    },
-    {
-      "created_at": "2026-10-12T18:04:07Z",
-      "headline": "'The Pentagon And The Small Business Administration Signed A New Agreement On Monday That Will Expand Access To Strategic Capital For Small Businesses In The U.S. Defense Industrial Base' - The Hill",
-      "source": "benzinga",
-      "symbols": [
-        "BA",
-        "CACI",
-        "DRS",
-        "GD",
-        "HII",
-        "J",
-        "KBR",
-        "LDOS",
-        "LHX",
-        "LMT",
-        "MRCY",
-        "NOC",
-        "OSK",
-        "PSN",
-        "RTX",
-        "SAIC",
-        "SPY",
-        "TDG",
-        "TXT"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62308219/pentagon-and-small-business-administration-signed-new-agreement-monday-will-expand-access-strategic-"
-    },
-    {
-      "created_at": "2026-10-12T18:02:36Z",
-      "headline": "JPMorgan, Goldman Sachs Earnings Could Move This Dow ETF\u2014Here\u2019s the Portfolio Math",
-      "source": "benzinga",
-      "symbols": [
-        "C",
-        "DIA",
-        "GS",
-        "JPM",
-        "WFC"
-      ],
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62308172/jpmorgan-goldman-sachs-earnings-could-move-this-dow-etf-heres-the-portfolio-math"
-    },
-    {
-      "created_at": "2026-10-12T17:44:43Z",
-      "headline": "Fed's Hammack Says There Is More Restraint That Is Needed; If Monetary Policy Does Nothing Market Conditions Would Change; Comments From Low Income Workers Was First About Trading Down, Now They Are Beginning To Juggle What Bills To Pay",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/quote/SPY"
     }
   ],
   "regime": "RISK_ON",
   "regime_score": 0.805405,
   "top_candidates": [
+    {
+      "news_score": 0.166667,
+      "price": 389.31,
+      "reason": "5d +5.3%; 20d +3.7%; vs SPY +1.2%; RSI 81; volume 0.9x; volatility 19.5%; news +0.17",
+      "relative_strength_20d": 0.012073,
+      "score": 0.462374,
+      "symbol": "V"
+    },
     {
       "news_score": 0.0,
       "price": 595.325,
@@ -288,14 +283,6 @@
       "relative_strength_20d": 0.012872,
       "score": 0.455638,
       "symbol": "MA"
-    },
-    {
-      "news_score": 0.111111,
-      "price": 389.31,
-      "reason": "5d +5.3%; 20d +3.7%; vs SPY +1.2%; RSI 81; volume 0.9x; volatility 19.5%; news +0.11",
-      "relative_strength_20d": 0.012073,
-      "score": 0.454041,
-      "symbol": "V"
     },
     {
       "news_score": 0.0,
