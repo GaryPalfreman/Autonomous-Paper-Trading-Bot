@@ -1,14 +1,14 @@
 {
-  "cash": 198.92644487468135,
+  "cash": 197.01771749315088,
   "created_at": "2026-09-15T00:00:00+00:00",
-  "cycle_count": 20,
+  "cycle_count": 21,
   "high_water_mark": 1028.1334236813466,
   "positions": {
     "COST": {
       "average_price": 952.1408324999999,
       "entry_reason": "Risk-sized 19.1% position with approximately 1.0% portfolio risk; 5d +4.0%; 20d +5.5%; vs SPY +3.2%; RSI 77; volume 0.8x; volatility 16.8%; news +0.00",
-      "highest_price": 959.49,
-      "last_price": 954.54,
+      "highest_price": 976.6,
+      "last_price": 976.6,
       "opened_at": "2026-10-08T19:05:25.628515+00:00",
       "quantity": 0.1982114755147207,
       "symbol": "COST"
@@ -17,7 +17,7 @@
       "average_price": 602.9063025,
       "entry_reason": "Risk-sized 7.9% position with approximately 1.0% portfolio risk; 5d +6.5%; 20d +5.3%; vs SPY +2.3%; RSI 76; volume 1.1x; volatility 18.9%; news +0.00",
       "highest_price": 604.745,
-      "last_price": 604.745,
+      "last_price": 604.13,
       "opened_at": "2026-10-13T19:41:21.580485+00:00",
       "quantity": 0.12991108325142747,
       "symbol": "MA"
@@ -26,7 +26,7 @@
       "average_price": 766.2079125,
       "entry_reason": "Risk-sized 14.3% position with approximately 1.0% portfolio risk; 5d +3.6%; 20d +14.3%; vs SPY +11.3%; RSI 47; volume 1.1x; volatility 55.3%; news +0.04",
       "highest_price": 765.825,
-      "last_price": 762.51,
+      "last_price": 735.7,
       "opened_at": "2026-10-13T19:41:21.580413+00:00",
       "quantity": 0.18621214241885384,
       "symbol": "META"
@@ -35,22 +35,22 @@
       "average_price": 545.8978125,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +3.1%; 20d +9.8%; vs SPY +6.7%; RSI 81; volume 1.1x; volatility 21.2%; news +0.06",
       "highest_price": 545.625,
-      "last_price": 543.51,
+      "last_price": 534.865,
       "opened_at": "2026-10-13T19:41:21.580335+00:00",
       "quantity": 0.3644648998885269,
       "symbol": "MSFT"
     },
-    "NVDA": {
-      "average_price": 228.56422499999996,
-      "entry_reason": "Risk-sized 18.9% position with approximately 1.0% portfolio risk; 5d +0.5%; 20d +5.1%; vs SPY +5.4%; RSI 56; volume 1.5x; volatility 27.5%; news +0.19",
-      "highest_price": 240.165,
-      "last_price": 229.2,
-      "opened_at": "2026-09-28T19:55:21.007515+00:00",
-      "quantity": 0.824206803572652,
-      "symbol": "NVDA"
+    "XOM": {
+      "average_price": 177.4436775,
+      "entry_reason": "Risk-sized 18.7% position with approximately 1.0% portfolio risk; 5d +8.1%; 20d +8.6%; vs SPY +6.5%; RSI 92; volume 0.7x; volatility 19.3%; news +0.00",
+      "highest_price": 177.35500000000002,
+      "last_price": 177.35500000000002,
+      "opened_at": "2026-10-14T17:41:55.663824+00:00",
+      "quantity": 1.0373915317654234,
+      "symbol": "XOM"
     }
   },
-  "realized_pnl": -4.002107155399878,
+  "realized_pnl": -10.216455431425914,
   "starting_cash": 1000.0,
-  "updated_at": "2026-10-13T23:26:08.940496+00:00"
+  "updated_at": "2026-10-14T17:41:55.665831+00:00"
 }
