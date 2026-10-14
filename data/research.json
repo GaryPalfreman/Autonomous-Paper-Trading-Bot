@@ -1,337 +1,305 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 768.04,
+  "benchmark_price": 768.84,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.540541,
+  "breadth_above_20d_average": 0.648649,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-14T17:41:55.661818+00:00",
-  "latest_market_timestamp": "2026-10-14T17:41:54.835807418Z",
-  "market_is_open": true,
+  "generated_at": "2026-10-14T20:58:15.846825+00:00",
+  "latest_market_timestamp": "2026-10-14T20:58:00.001142664Z",
+  "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
-  "next_close": "2026-10-14T16:00:00-04:00",
+  "next_close": "2026-10-15T16:00:00-04:00",
   "next_open": "2026-10-15T09:30:00-04:00",
   "recent_news": [
     {
-      "created_at": "2026-10-14T17:35:11Z",
-      "headline": "10 Communication Services Stocks Whale Activity In Today\u2019s Session",
+      "created_at": "2026-10-14T20:56:10Z",
+      "headline": "API Crude Oil Stock 11.12M Barrel Draw Vs 1.90M Barrel Build Est.",
       "source": "benzinga",
       "symbols": [
-        "APP",
-        "ASTS",
-        "GOOGL",
-        "LUMN",
-        "META",
-        "NFLX",
-        "SNAP",
-        "SPCX",
-        "SPOT",
-        "T"
+        "SPY",
+        "USO"
       ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62364245/10-communication-services-stocks-whale-activity-today-s-session"
+      "url": "https://www.benzinga.com/quote/SPY"
     },
     {
-      "created_at": "2026-10-14T17:35:11Z",
-      "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
+      "created_at": "2026-10-14T20:42:03Z",
+      "headline": "'The White House Is Exploring Ways To Acquire Bitcoin Through Existing Federal Government Fund Inflows To Expand The U.S. Strategic Bitcoin Reserve' - Binance",
       "source": "benzinga",
       "symbols": [
-        "AZO",
-        "CVNA",
-        "DFH",
-        "EXPE",
-        "FLUT",
-        "GME",
-        "GRBK",
-        "KSS",
-        "LEN",
-        "TSLA"
+        "BTCUSD",
+        "SPY"
       ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62364244/10-consumer-discretionary-stocks-whale-activity-today-s-session"
+      "url": "https://www.benzinga.com/markets/cryptocurrency/26/10/62370258/white-house-exploring-ways-acquire-bitcoin-through-existing-federal-government-fund-inflows-expand-u"
     },
     {
-      "created_at": "2026-10-14T17:35:11Z",
-      "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "BMNR",
-        "CRWV",
-        "INTC",
-        "IONQ",
-        "IREN",
-        "NBIS",
-        "NVDA",
-        "SMCI",
-        "SNDK",
-        "STRC"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62364243/10-information-technology-stocks-whale-activity-today-s-session"
-    },
-    {
-      "created_at": "2026-10-14T17:34:57Z",
-      "headline": "Truist Securities Maintains Hold on JPMorgan Chase, Raises Price Target to $361",
-      "source": "benzinga",
-      "symbols": [
-        "JPM"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62364232/truist-securities-maintains-hold-jpmorgan-chase-raises-price-target-361"
-    },
-    {
-      "created_at": "2026-10-14T17:32:36Z",
-      "headline": "Meta Gains on Anthropic in AI Race: Guggenheim",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62364146/meta-gains-on-anthropic-in-ai-race-guggenheim"
-    },
-    {
-      "created_at": "2026-10-14T17:08:44Z",
-      "headline": "Michael Dell Warns Memory Shortage Could Be a 'Four-Year Problem'",
-      "source": "benzinga",
-      "symbols": [
-        "ASML",
-        "DELL",
-        "NVDA",
-        "TSM"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62363313/michael-dell-memory-shortage-four-years"
-    },
-    {
-      "created_at": "2026-10-14T17:02:18Z",
-      "headline": "Oppenheimer Maintains Outperform on Caterpillar, Lowers Price Target to $1009",
-      "source": "benzinga",
-      "symbols": [
-        "CAT"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62363085/oppenheimer-maintains-outperform-caterpillar-lowers-price-target-1009"
-    },
-    {
-      "created_at": "2026-10-14T17:00:06Z",
-      "headline": "Nasdaq Dips Over 400 Points; Bank of America Shares Tumble After Q3 Results",
+      "created_at": "2026-10-14T20:40:33Z",
+      "headline": "Potential $100 Billion Anthropic IPO Could Boost Wall Street Banks: Which ETFs Stand to Benefit?",
       "source": "benzinga",
       "symbols": [
         "BAC",
-        "BSP",
-        "CDT",
-        "HTT",
-        "LQDA",
-        "TGL",
-        "YFOR"
+        "GABF",
+        "GS",
+        "JPM",
+        "KBE",
+        "MS",
+        "WFC",
+        "XLF"
       ],
-      "url": "https://www.benzinga.com/markets/market-summary/26/10/62363006/nasdaq-dips-over-400-points-bank-of-america-shares-tumble-after-q3-results"
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62370149/potential-100-billion-anthropic-ipo-could-boost-wall-street-banks-which-etfs-stand-to-benefit"
     },
     {
-      "created_at": "2026-10-14T16:57:05Z",
-      "headline": "FDA Launches The Rare Disease Framework Initiative To Develop A Holistic, Fit-For-Purpose Framework For Rare Disease Drug Development",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62362904/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease-d"
-    },
-    {
-      "created_at": "2026-10-14T16:39:04Z",
-      "headline": "ASML Earnings Signal Strong AI Demand Yet Stock Falls, Emphasizing Market Character Shift\u2014CPI Squashes Hopium",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "ASML",
-        "BTCUSD",
-        "GOOG",
-        "META",
-        "MSFT",
-        "NVDA",
-        "QQQ",
-        "SPY",
-        "TSLA",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/Opinion/26/10/62362386/asml-earnings-signal-strong-ai-demand-yet-stock-falls-emphasizing-market-character-shift-cpi-squashes-hopium"
-    },
-    {
-      "created_at": "2026-10-14T16:42:05Z",
-      "headline": "Amazon High-Bids for Live Sports Rights to Drive Prime Engagement",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "SKYD"
-      ],
-      "url": "https://www.benzinga.com/markets/large-cap/26/10/62362552/amazon-high-bids-for-live-sports-rights-to-drive-prime-engagement"
-    },
-    {
-      "created_at": "2026-10-14T16:41:25Z",
-      "headline": "Live On CNBC, Steve Weiss Announces Sold Netflix",
-      "source": "benzinga",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/quote/NFLX"
-    },
-    {
-      "created_at": "2026-10-14T16:40:56Z",
-      "headline": "Piper Sandler Maintains Overweight on UnitedHealth Group, Raises Price Target to $504",
-      "source": "benzinga",
-      "symbols": [
-        "UNH"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62362488/piper-sandler-maintains-overweight-unitedhealth-group-raises-price-target-504"
-    },
-    {
-      "created_at": "2026-10-14T16:39:36Z",
-      "headline": "AEP Unveils $4 Billion Fuel Cell Investment Backed By Long-Term Google Deal",
-      "source": "benzinga",
-      "symbols": [
-        "AEP",
-        "BE",
-        "GOOG",
-        "GOOGL"
-      ],
-      "url": "https://www.benzinga.com/markets/large-cap/26/10/62362413/aep-unveils-4-billion-fuel-cell-investment-backed-by-long-term-google-deal"
-    },
-    {
-      "created_at": "2026-10-14T16:39:17Z",
-      "headline": "President Trump, On Social Media, Announces U.S. Secures Offtake Commitment From Taiwan For $70B - $80B For Alaska LNG; Taiwan To Also Invest $4.4B In Alaska LNG Project As Equity",
-      "source": "benzinga",
-      "symbols": [
-        "EWT",
-        "SPY",
-        "UNG"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62362388/president-trump-social-media-announces-u-s-secures-offtake-commitment-taiwan-70b-80b-alaska-lng-taiw"
-    },
-    {
-      "created_at": "2026-10-14T16:32:48Z",
-      "headline": "Reported Earlier: 'Container ship sinks near Hormuz after being hit by projectile' - Reuters",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62362231/reported-earlier-container-ship-sinks-near-hormuz-after-being-hit-projectile-reuters"
-    },
-    {
-      "created_at": "2026-10-14T16:30:35Z",
-      "headline": "If You Invested $100 In Home Depot Stock 15 Years Ago, You Would Have This Much Today",
-      "source": "benzinga",
-      "symbols": [
-        "HD"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62362130/if-you-invested-100-home-depot-stock-15-years-ago-you-would-have-much-today"
-    },
-    {
-      "created_at": "2026-10-14T16:12:59Z",
-      "headline": "NVIDIA Expands CUDA-X AI Tools For Semiconductor Manufacturing, Delivering 2\u20133x Faster Atom-Level Simulations And 30x Faster Chipmaking Simulations",
-      "source": "benzinga",
-      "symbols": [
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62361565/nvidia-expands-cuda-x-ai-tools-semiconductor-manufacturing-delivering-2-3x-faster-atom-level-simulat"
-    },
-    {
-      "created_at": "2026-10-14T16:10:34Z",
-      "headline": "Live On CNBC, Stephanie Link Announces Trimmed Bank of America Position",
+      "created_at": "2026-10-14T20:30:37Z",
+      "headline": "$100 Invested In Bank of America 15 Years Ago Would Be Worth This Much Today",
       "source": "benzinga",
       "symbols": [
         "BAC"
       ],
-      "url": "https://www.benzinga.com/quote/BAC"
+      "url": "https://www.benzinga.com/news/26/10/62369797/100-invested-bank-america-15-years-ago-would-be-worth-much-today"
     },
     {
-      "created_at": "2026-10-14T16:08:06Z",
-      "headline": "Big Bank Succession Talk Heats Up as CEOs Stay Firmly in Charge",
+      "created_at": "2026-10-14T20:23:04Z",
+      "headline": "OpenAI Accuses Apple Hire Of Taking 100+ Confidential Files Tied to Unreleased Product",
       "source": "benzinga",
       "symbols": [
-        "BAC",
-        "GS",
+        "AAPL"
+      ],
+      "url": "https://www.benzinga.com/markets/private-markets/26/10/62369689/openai-accuses-apple-hire-of-taking-100-confidential-files-tied-to-unreleased-product"
+    },
+    {
+      "created_at": "2026-10-14T20:01:45Z",
+      "headline": "JPMorgan\u2019s Chase Holds AI Scam Awareness Event Streamed To ~700 Branches",
+      "source": "benzinga",
+      "symbols": [
         "JPM"
       ],
-      "url": "https://www.benzinga.com/markets/large-cap/26/10/62361283/big-bank-succession-talk-heats-up-as-ceos-stay-firmly-in-charge"
+      "url": "https://www.benzinga.com/quote/JPM"
+    },
+    {
+      "created_at": "2026-10-14T19:54:55Z",
+      "headline": "'Apple Prepares To Debut First AI Features In China In December' - Bloomberg News",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62368689/apple-prepares-debut-first-ai-features-china-december-bloomberg-news"
+    },
+    {
+      "created_at": "2026-10-14T19:52:40Z",
+      "headline": "QUICK SPARK: This New ETF Goes Beyond Eli Lilly, Novo Nordisk and Targets the Peptide Boom",
+      "source": "benzinga",
+      "symbols": [
+        "LLY",
+        "NVO",
+        "PEPT"
+      ],
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/10/62368625/quick-spark-this-new-etf-goes-beyond-eli-lilly-novo-nordisk-and-targets-the-peptide-boom"
+    },
+    {
+      "created_at": "2026-10-14T19:46:34Z",
+      "headline": "BofA Shares Rise Nearly 4% After Key Trading Signal",
+      "source": "benzinga",
+      "symbols": [
+        "BAC"
+      ],
+      "url": "https://www.benzinga.com/Opinion/26/10/62368450/bofa-shares-rise-nearly-4-percent-after-key-trading-signal"
+    },
+    {
+      "created_at": "2026-10-14T19:35:57Z",
+      "headline": "Anthropic Says Later This Month, Claude To Integrate Official Voting Information From Democracy Works For U.S. Users; Claude Will Begin Showing Up-To-Date Results On Election Night In The U.S. And In The Days That Follow; Claude Will Begin Showing Live Election Results & Vote Counts In U.S. Conversations",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62368141/anthropic-says-later-this-month-claude-to-integrate-official-voting-information-from-democracy-works-for-u-s-users-claude-will-begin-showing-up-to-date-results-on-election-night-in-the-us-and-in-th-4"
+    },
+    {
+      "created_at": "2026-10-14T19:22:34Z",
+      "headline": "Live On Yahoo Finance, Fed's Goolsbee Says Doesn't Want To Tie Hands On Monetary Policy Outlook; If Current Inflation Levels Hold Policy Would Need To Address That; Consumers, GDP And Investment Levels Have Been Strong; AI Hype Could Cause Even More Tech Sector Investment, Would Risk Overheating, Slowdown In AI Investment Doesn't Have To Mean Recession; Want To Keep Eye On Financial Stability Implications Of AI Investment",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62367788/live-yahoo-finance-fed-s-goolsbee-says-doesn-t-want-tie-hands-monetary-policy-outlook-if-current-inf"
+    },
+    {
+      "created_at": "2026-10-14T19:15:58Z",
+      "headline": "Live On Yahoo Finance, Fed's Goolsbee Says Is Not A Fan Of Telegraphing Fed Moves Ahead Of Meetings; There Is No Ambiguity For Fed If Economy Is Solid And Inflation Is High; Fed Must Prevent The Build Up Of Overheating; Is More Optimistic About Outlook Relative To Other Fed Officials; Evidence Building Inflation Hasn't Been Transitory Amid Continued Shocks; Need To Keep A Close Eye On Service Sector Inflation; More Bad Months Of Inflation Would Unacceptable; Fed Will Get Inflation Back To 2%",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62367621/live-yahoo-finance-fed-s-goolsbee-says-not-fan-telegraphing-fed-moves-ahead-meetings-there-no-ambigu"
+    },
+    {
+      "created_at": "2026-10-14T19:12:16Z",
+      "headline": "Live On Yahoo Finance, Fed's Goolsbee Says CPI Data Was 'Discouraging'; Service Inflation In CPI Was A Concern; Key To Focus On Trend Of Inflation, Not One Report; Hearing About Cost And Prices From Contacts, Not Hearing About Worries About Recession; Hopes Energy Will Fade Soon From Inflation Data; The Economy Has Work To Do The Inflation Side",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62367498/live-yahoo-finance-fed-s-goolsbee-says-cpi-data-was-discouraging-service-inflation-cpi-was-concern-k"
+    },
+    {
+      "created_at": "2026-10-14T19:04:36Z",
+      "headline": "Elon Musk Posts On X \"Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS.\n\nStarlink is a commercial service owned and controlled by SpaceX. Usage of Starlink is limited to civilian or defensive activities and cannot be used for offensive military action, as doing so would be inappropriate for a commercial company.\"",
+      "source": "benzinga",
+      "symbols": [
+        "SPCX",
+        "SPY",
+        "VGK"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62367263/elon-musk-posts-x-starshield-systems-are-owned-and-controlled-us-government-any-limits-speed-or-usag"
+    },
+    {
+      "created_at": "2026-10-14T18:50:03Z",
+      "headline": "'Eight U.S. States Sue OpenAI, Claiming ChatGPT Harms Children' - Reuters News",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62366831/eight-u-s-states-sue-openai-claiming-chatgpt-harms-children-reuters-news"
+    },
+    {
+      "created_at": "2026-10-14T18:43:42Z",
+      "headline": "Netflix Hasn't Cut This Many Jobs Since Its Subscriber Scare. So Why Now?",
+      "source": "benzinga",
+      "symbols": [
+        "DIS",
+        "NFLX",
+        "SKYD"
+      ],
+      "url": "https://www.benzinga.com/markets/large-cap/26/10/62366651/netflix-hasnt-cut-this-many-jobs-since-its-subscriber-scare-so-why-now"
+    },
+    {
+      "created_at": "2026-10-14T18:39:49Z",
+      "headline": "Why Is AMD Stock Falling on Wednesday?",
+      "source": "benzinga",
+      "symbols": [
+        "AMD",
+        "AVGO",
+        "INTC"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62366533/why-is-amd-stock-falling-on-wednesday"
+    },
+    {
+      "created_at": "2026-10-14T18:34:23Z",
+      "headline": "QUICK SPARK: Berkshire Stock Is Doing Something It Hasn\u2019t Done Since January 2018",
+      "source": "benzinga",
+      "symbols": [
+        "BRK",
+        "BSP",
+        "XLF"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/10/62366355/berkshire-hathaway-stock-10-day-winning-streak"
+    },
+    {
+      "created_at": "2026-10-14T18:29:01Z",
+      "headline": "BlackRock Expects Strong Fourth Quarter as AI Investment, Fundraising Grow",
+      "source": "benzinga",
+      "symbols": [
+        "BLK",
+        "META"
+      ],
+      "url": "https://www.benzinga.com/markets/large-cap/26/10/62366206/blackrock-expects-strong-fourth-quarter-as-ai-investment-fundraising-grow"
+    },
+    {
+      "created_at": "2026-10-14T18:09:40Z",
+      "headline": "Why Is Broadcom Stock Falling on Wednesday?",
+      "source": "benzinga",
+      "symbols": [
+        "AVGO"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62365582/why-is-broadcom-stock-falling-on-wednesday"
     }
   ],
   "regime": "NEUTRAL",
-  "regime_score": 0.024324,
+  "regime_score": 0.089189,
   "top_candidates": [
     {
       "news_score": 0.0,
-      "price": 177.355,
-      "reason": "5d +8.1%; 20d +8.6%; vs SPY +6.5%; RSI 92; volume 0.7x; volatility 19.3%; news +0.00",
-      "relative_strength_20d": 0.064584,
-      "score": 0.585163,
-      "symbol": "XOM"
-    },
-    {
-      "news_score": 0.0,
-      "price": 393.095,
-      "reason": "5d +5.7%; 20d +6.0%; vs SPY +3.9%; RSI 76; volume 1.1x; volatility 20.0%; news +0.00",
-      "relative_strength_20d": 0.038527,
-      "score": 0.537947,
-      "symbol": "V"
-    },
-    {
-      "news_score": 0.0,
-      "price": 115.28,
-      "reason": "5d +6.6%; 20d +7.2%; vs SPY +5.1%; RSI 70; volume 0.9x; volatility 24.3%; news +0.00",
-      "relative_strength_20d": 0.051187,
-      "score": 0.534348,
+      "price": 116.2,
+      "reason": "5d +7.5%; 20d +8.1%; vs SPY +5.9%; RSI 71; volume 1.6x; volatility 25.4%; news +0.00",
+      "relative_strength_20d": 0.058681,
+      "score": 0.659523,
       "symbol": "WMT"
     },
     {
       "news_score": 0.0,
-      "price": 976.6,
-      "reason": "5d +3.7%; 20d +9.3%; vs SPY +7.2%; RSI 78; volume 0.6x; volatility 16.0%; news +0.00",
-      "relative_strength_20d": 0.071834,
-      "score": 0.526316,
+      "price": 982.375,
+      "reason": "5d +4.3%; 20d +9.9%; vs SPY +7.7%; RSI 80; volume 1.0x; volatility 16.8%; news +0.00",
+      "relative_strength_20d": 0.077233,
+      "score": 0.641708,
       "symbol": "COST"
     },
     {
       "news_score": 0.0,
-      "price": 604.13,
-      "reason": "5d +6.1%; 20d +6.5%; vs SPY +4.4%; RSI 75; volume 0.6x; volatility 18.7%; news +0.00",
-      "relative_strength_20d": 0.044024,
-      "score": 0.48489,
-      "symbol": "MA"
+      "price": 176.97,
+      "reason": "5d +7.9%; 20d +8.3%; vs SPY +6.1%; RSI 92; volume 1.0x; volatility 19.3%; news +0.00",
+      "relative_strength_20d": 0.061164,
+      "score": 0.614721,
+      "symbol": "XOM"
     },
     {
       "news_score": 0.0,
-      "price": 67.505,
-      "reason": "5d +6.5%; 20d +6.0%; vs SPY +3.9%; RSI 85; volume 0.6x; volatility 19.0%; news +0.00",
-      "relative_strength_20d": 0.039147,
-      "score": 0.483336,
-      "symbol": "XLE"
+      "price": 391.42,
+      "reason": "5d +5.2%; 20d +5.5%; vs SPY +3.3%; RSI 74; volume 1.8x; volatility 20.3%; news +0.00",
+      "relative_strength_20d": 0.032948,
+      "score": 0.594379,
+      "symbol": "V"
     },
     {
       "news_score": 0.0,
-      "price": 221.575,
-      "reason": "5d +8.0%; 20d +4.7%; vs SPY +2.6%; RSI 81; volume 0.9x; volatility 20.8%; news +0.00",
-      "relative_strength_20d": 0.026303,
-      "score": 0.475743,
+      "price": 395.695,
+      "reason": "5d +5.3%; 20d +5.4%; vs SPY +3.2%; RSI 65; volume 1.7x; volatility 24.3%; news +0.00",
+      "relative_strength_20d": 0.032054,
+      "score": 0.558507,
+      "symbol": "UNH"
+    },
+    {
+      "news_score": 0.0,
+      "price": 222.09,
+      "reason": "5d +8.2%; 20d +5.0%; vs SPY +2.8%; RSI 82; volume 1.4x; volatility 20.9%; news +0.00",
+      "relative_strength_20d": 0.027674,
+      "score": 0.547979,
       "symbol": "CVX"
     },
     {
       "news_score": 0.0,
-      "price": 85.565,
-      "reason": "5d +4.7%; 20d +3.3%; vs SPY +1.2%; RSI 72; volume 0.9x; volatility 14.1%; news +0.00",
-      "relative_strength_20d": 0.012059,
-      "score": 0.377704,
+      "price": 603.29,
+      "reason": "5d +6.0%; 20d +6.4%; vs SPY +4.1%; RSI 74; volume 1.1x; volatility 18.8%; news +0.00",
+      "relative_strength_20d": 0.041479,
+      "score": 0.535301,
+      "symbol": "MA"
+    },
+    {
+      "news_score": 0.0,
+      "price": 67.62,
+      "reason": "5d +6.7%; 20d +6.2%; vs SPY +4.0%; RSI 86; volume 0.9x; volatility 19.0%; news +0.00",
+      "relative_strength_20d": 0.03989,
+      "score": 0.525972,
+      "symbol": "XLE"
+    },
+    {
+      "news_score": 0.0,
+      "price": 86.06,
+      "reason": "5d +5.3%; 20d +3.9%; vs SPY +1.7%; RSI 74; volume 1.3x; volatility 15.0%; news +0.00",
+      "relative_strength_20d": 0.016972,
+      "score": 0.477533,
       "symbol": "XLP"
     },
     {
-      "news_score": 0.133333,
-      "price": 389.525,
-      "reason": "5d +3.6%; 20d +3.8%; vs SPY +1.7%; RSI 61; volume 1.0x; volatility 20.8%; news +0.13",
-      "relative_strength_20d": 0.016679,
-      "score": 0.348538,
-      "symbol": "UNH"
-    },
-    {
-      "news_score": -0.095238,
-      "price": 534.865,
-      "reason": "5d +1.0%; 20d +9.1%; vs SPY +6.9%; RSI 64; volume 0.6x; volatility 21.4%; news -0.10",
-      "relative_strength_20d": 0.069474,
-      "score": 0.319799,
+      "news_score": 0.166667,
+      "price": 534.04,
+      "reason": "5d +0.8%; 20d +8.9%; vs SPY +6.7%; RSI 64; volume 1.1x; volatility 21.6%; news +0.17",
+      "relative_strength_20d": 0.066729,
+      "score": 0.408075,
       "symbol": "MSFT"
     }
   ],

@@ -1,38 +1,37 @@
 # Autonomous Paper Portfolio — Latest Update
 
-Generated: 2026-10-14T17:41:55.666816+00:00
-Market open: Yes
-Portfolio value: **$985.00** (-1.50%)
+Generated: 2026-10-14T20:58:15.848643+00:00
+Market open: No
+Portfolio value: **$985.66** (-1.43%)
 Cash: **$197.02**
-Invested: **$787.98**
+Invested: **$788.64**
 Realised P/L: **$-10.22**
-SPY benchmark: **$1,009.58** (+0.96%)
-Excess return vs SPY: **-2.46%**
-Long-term simulated goal: **$1,000,000** (0.0985% complete; 1,015.2x remaining)
+SPY benchmark: **$1,010.63** (+1.06%)
+Excess return vs SPY: **-2.50%**
+Long-term simulated goal: **$1,000,000** (0.0986% complete; 1,014.5x remaining)
 
 ## Market research
-- Regime: **NEUTRAL** (breadth above 20-day average: 54%)
+- Regime: **NEUTRAL** (breadth above 20-day average: 65%)
 - Source: Alpaca Market Data / iex feed; 37 liquid symbols; 50 recent articles
 - New entries allowed: **Yes**
 
 ## Positions
 | Symbol | Quantity | Average | Latest | Value | Unrealised P/L |
 |---|---:|---:|---:|---:|---:|
-| COST | 0.19821 | $952.14 | $976.60 | $193.57 | $+4.85 |
-| MA | 0.12991 | $602.91 | $604.13 | $78.48 | $+0.16 |
-| META | 0.18621 | $766.21 | $735.70 | $137.00 | $-5.68 |
-| MSFT | 0.36446 | $545.90 | $534.87 | $194.94 | $-4.02 |
-| XOM | 1.03739 | $177.44 | $177.36 | $183.99 | $-0.09 |
+| COST | 0.19821 | $952.14 | $982.38 | $194.72 | $+5.99 |
+| MA | 0.12991 | $602.91 | $603.29 | $78.37 | $+0.05 |
+| META | 0.18621 | $766.21 | $737.46 | $137.32 | $-5.35 |
+| MSFT | 0.36446 | $545.90 | $534.04 | $194.64 | $-4.32 |
+| XOM | 1.03739 | $177.44 | $176.97 | $183.59 | $-0.49 |
 
 ## Trades this cycle
-- **SELL NVDA** — $182.17 at $221.02: Signal exit: score declined to -0.20; 5d -6.9%; 20d +3.4%; vs SPY +1.3%; RSI 45; volume 0.7x; volatility 25.4%; news +0.11
-- **BUY XOM** — $184.08 at $177.44: Risk-sized 18.7% position with approximately 1.0% portfolio risk; 5d +8.1%; 20d +8.6%; vs SPY +6.5%; RSI 92; volume 0.7x; volatility 19.3%; news +0.00
+- No trades. Holding cash or existing positions was the highest-ranked decision.
 
 ## Highest-ranked signals
-- **XOM +0.59** — 5d +8.1%; 20d +8.6%; vs SPY +6.5%; RSI 92; volume 0.7x; volatility 19.3%; news +0.00
-- **V +0.54** — 5d +5.7%; 20d +6.0%; vs SPY +3.9%; RSI 76; volume 1.1x; volatility 20.0%; news +0.00
-- **WMT +0.53** — 5d +6.6%; 20d +7.2%; vs SPY +5.1%; RSI 70; volume 0.9x; volatility 24.3%; news +0.00
-- **COST +0.53** — 5d +3.7%; 20d +9.3%; vs SPY +7.2%; RSI 78; volume 0.6x; volatility 16.0%; news +0.00
-- **MA +0.48** — 5d +6.1%; 20d +6.5%; vs SPY +4.4%; RSI 75; volume 0.6x; volatility 18.7%; news +0.00
+- **WMT +0.66** — 5d +7.5%; 20d +8.1%; vs SPY +5.9%; RSI 71; volume 1.6x; volatility 25.4%; news +0.00
+- **COST +0.64** — 5d +4.3%; 20d +9.9%; vs SPY +7.7%; RSI 80; volume 1.0x; volatility 16.8%; news +0.00
+- **XOM +0.61** — 5d +7.9%; 20d +8.3%; vs SPY +6.1%; RSI 92; volume 1.0x; volatility 19.3%; news +0.00
+- **V +0.59** — 5d +5.2%; 20d +5.5%; vs SPY +3.3%; RSI 74; volume 1.8x; volatility 20.3%; news +0.00
+- **UNH +0.56** — 5d +5.3%; 20d +5.4%; vs SPY +3.2%; RSI 65; volume 1.7x; volatility 24.3%; news +0.00
 
 > Educational simulation only. It cannot submit real brokerage orders.
