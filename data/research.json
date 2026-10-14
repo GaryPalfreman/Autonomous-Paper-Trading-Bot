@@ -6,7 +6,7 @@
   "breadth_above_20d_average": 0.648649,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-14T20:58:15.846825+00:00",
+  "generated_at": "2026-10-14T23:43:22.682045+00:00",
   "latest_market_timestamp": "2026-10-14T20:58:00.001142664Z",
   "market_is_open": false,
   "new_entries_allowed": true,
@@ -14,6 +14,26 @@
   "next_close": "2026-10-15T16:00:00-04:00",
   "next_open": "2026-10-15T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-10-14T22:29:25Z",
+      "headline": "'Anthropic Q3 Revenue Hit $16.8B, According To People Familiar With The Matter' - Bloomberg News",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/news/earnings/26/10/62371393/anthropic-q3-revenue-hit-16-8b-according-people-familiar-matter-bloomberg-news"
+    },
+    {
+      "created_at": "2026-10-14T21:46:57Z",
+      "headline": "'Fed's Daly says rate hikes likely needed, but not urgently'- Reuters Exclusive",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62371178/fed-s-daly-says-rate-hikes-likely-needed-not-urgently-reuters-exclusive"
+    },
     {
       "created_at": "2026-10-14T20:56:10Z",
       "headline": "API Crude Oil Stock 11.12M Barrel Draw Vs 1.90M Barrel Build Est.",
@@ -198,25 +218,6 @@
         "XLF"
       ],
       "url": "https://www.benzinga.com/markets/equities/26/10/62366355/berkshire-hathaway-stock-10-day-winning-streak"
-    },
-    {
-      "created_at": "2026-10-14T18:29:01Z",
-      "headline": "BlackRock Expects Strong Fourth Quarter as AI Investment, Fundraising Grow",
-      "source": "benzinga",
-      "symbols": [
-        "BLK",
-        "META"
-      ],
-      "url": "https://www.benzinga.com/markets/large-cap/26/10/62366206/blackrock-expects-strong-fourth-quarter-as-ai-investment-fundraising-grow"
-    },
-    {
-      "created_at": "2026-10-14T18:09:40Z",
-      "headline": "Why Is Broadcom Stock Falling on Wednesday?",
-      "source": "benzinga",
-      "symbols": [
-        "AVGO"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62365582/why-is-broadcom-stock-falling-on-wednesday"
     }
   ],
   "regime": "NEUTRAL",
