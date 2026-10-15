@@ -6,14 +6,83 @@
   "breadth_above_20d_average": 0.72973,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-15T20:32:09.261178+00:00",
-  "latest_market_timestamp": "2026-10-15T20:32:07.766842822Z",
+  "generated_at": "2026-10-15T23:17:27.557830+00:00",
+  "latest_market_timestamp": "2026-10-15T20:56:45.031440213Z",
   "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
   "next_close": "2026-10-16T16:00:00-04:00",
   "next_open": "2026-10-16T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-10-15T22:02:14Z",
+      "headline": "UBS Maintains Buy on Microsoft, Raises Price Target to $675",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62401758/ubs-maintains-buy-microsoft-raises-price-target-675"
+    },
+    {
+      "created_at": "2026-10-15T21:46:59Z",
+      "headline": "Peter Rice Named Netflix Chief Content Officer",
+      "source": "benzinga",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62401612/peter-rice-named-netflix-chief-content-officer"
+    },
+    {
+      "created_at": "2026-10-15T21:18:12Z",
+      "headline": "Tigress Financial Maintains Buy on Costco Wholesale, Raises Price Target to $1250",
+      "source": "benzinga",
+      "symbols": [
+        "COST"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62401286/tigress-financial-maintains-buy-costco-wholesale-raises-price-target-1250"
+    },
+    {
+      "created_at": "2026-10-15T21:07:07Z",
+      "headline": "'Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say'- Reuters Exclusive",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62401077/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-reute"
+    },
+    {
+      "created_at": "2026-10-15T20:41:25Z",
+      "headline": "Google Rolls Out Universal Cart In U.S. Across Google Search, Gemini",
+      "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62400507/google-rolls-out-universal-cart-u-s-across-google-search-gemini"
+    },
+    {
+      "created_at": "2026-10-15T20:40:21Z",
+      "headline": "\ud835\udd4f Product Creator Allegra Jacchia Posts \"We\u2019re doubling down on video on \ud835\udd4f. Today, we're piloting Video Kickstart Bonus, an invite-only program that rewards creators for posting their video content here...\"",
+      "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "SPCX"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62400487/product-creator-allegra-jacchia-posts-we-re-doubling-down-video-today-we-re-piloting-video-kickstart"
+    },
+    {
+      "created_at": "2026-10-15T20:31:01Z",
+      "headline": "$100 Invested In UnitedHealth Group 20 Years Ago Would Be Worth This Much Today",
+      "source": "benzinga",
+      "symbols": [
+        "UNH"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62400110/100-invested-unitedhealth-group-20-years-ago-would-be-worth-much-today"
+    },
     {
       "created_at": "2026-10-15T20:27:19Z",
       "headline": "QUICK SPARK: DRAM ETF Extends Losing Streak, But CEO Sees Long-Term Upside",
@@ -167,116 +236,11 @@
         "GOOGL"
       ],
       "url": "https://www.benzinga.com/news/26/10/62395544/google-quantum-ai-achieves-40-fold-error-reduction-magic-state-cultivation-advancing-practical-quant"
-    },
-    {
-      "created_at": "2026-10-15T18:08:14Z",
-      "headline": "Google's $4 Billion Fuel-Cell Project Puts Bloom Energy's AI Power Backlog to the Test",
-      "source": "benzinga",
-      "symbols": [
-        "BE",
-        "GOOG",
-        "GOOGL"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62395420/google-bloom-energy-ai-power"
-    },
-    {
-      "created_at": "2026-10-15T18:04:31Z",
-      "headline": "Michael Burry's 'Red October' Warning: Why QQQ and SMH Could Face More Pain",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "DIA",
-        "GOOGL",
-        "META",
-        "MSFT",
-        "NVDA",
-        "QQQ",
-        "SMH",
-        "SPY",
-        "TSLA",
-        "TSM"
-      ],
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62395307/michael-burry-red-october-warning-qqq-smh-pain"
-    },
-    {
-      "created_at": "2026-10-15T18:02:51Z",
-      "headline": "Visa Shares Near 52-Week High as Stablecoin Payments Expand",
-      "source": "benzinga",
-      "symbols": [
-        "BCFN",
-        "KYC",
-        "V",
-        "XLF"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62395255/visa-shares-near-52-week-high-as-stablecoin-payments-expand"
-    },
-    {
-      "created_at": "2026-10-15T17:40:49Z",
-      "headline": "Mizuho Maintains Outperform on Microsoft, Raises Price Target to $600",
-      "source": "benzinga",
-      "symbols": [
-        "MSFT"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62394480/mizuho-maintains-outperform-microsoft-raises-price-target-600"
-    },
-    {
-      "created_at": "2026-10-15T17:40:44Z",
-      "headline": "UnitedHealth Stock Moves Higher: What's Going On?",
-      "source": "benzinga",
-      "symbols": [
-        "UNH"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62394476/unitedhealth-stock-moves-higher-whats-going-on"
-    },
-    {
-      "created_at": "2026-10-15T17:35:10Z",
-      "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "BBY",
-        "BKNG",
-        "ETSY",
-        "LVS",
-        "MCD",
-        "MELI",
-        "NKE",
-        "SGI",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62394208/10-consumer-discretionary-stocks-whale-activity-today-s-session"
-    },
-    {
-      "created_at": "2026-10-15T17:35:10Z",
-      "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "CIFR",
-        "CLS",
-        "CRWV",
-        "IREN",
-        "MU",
-        "NBIS",
-        "NVDA",
-        "SKHY",
-        "TSM",
-        "WULF"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62394207/10-information-technology-stocks-whale-activity-today-s-session"
     }
   ],
   "regime": "RISK_ON",
   "regime_score": 0.837838,
   "top_candidates": [
-    {
-      "news_score": 0.333333,
-      "price": 406.66,
-      "reason": "5d +9.7%; 20d +8.4%; vs SPY +6.9%; RSI 70; volume 1.9x; volatility 25.8%; news +0.33",
-      "relative_strength_20d": 0.068563,
-      "score": 0.741826,
-      "symbol": "UNH"
-    },
     {
       "news_score": 0.0,
       "price": 117.84,
@@ -284,6 +248,14 @@
       "relative_strength_20d": 0.088742,
       "score": 0.738705,
       "symbol": "WMT"
+    },
+    {
+      "news_score": 0.166667,
+      "price": 406.66,
+      "reason": "5d +9.7%; 20d +8.4%; vs SPY +6.9%; RSI 70; volume 1.9x; volatility 25.8%; news +0.17",
+      "relative_strength_20d": 0.068563,
+      "score": 0.716826,
+      "symbol": "UNH"
     },
     {
       "news_score": 0.0,
@@ -334,11 +306,11 @@
       "symbol": "XLP"
     },
     {
-      "news_score": 0.033333,
+      "news_score": 0.055556,
       "price": 539.36,
-      "reason": "5d +3.2%; 20d +8.4%; vs SPY +6.9%; RSI 73; volume 0.8x; volatility 21.4%; news +0.03",
+      "reason": "5d +3.2%; 20d +8.4%; vs SPY +6.9%; RSI 73; volume 0.8x; volatility 21.4%; news +0.06",
       "relative_strength_20d": 0.068831,
-      "score": 0.49666,
+      "score": 0.499994,
       "symbol": "MSFT"
     },
     {
