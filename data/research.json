@@ -1,19 +1,96 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": false,
-  "benchmark_price": 763.085,
+  "benchmark_price": 764.05,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.621622,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-16T19:55:54.434735+00:00",
-  "latest_market_timestamp": "2026-10-16T19:55:51.718560307Z",
-  "market_is_open": true,
+  "generated_at": "2026-10-16T22:22:55.676309+00:00",
+  "latest_market_timestamp": "2026-10-16T20:59:00.038660009Z",
+  "market_is_open": false,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
-  "next_close": "2026-10-16T16:00:00-04:00",
+  "next_close": "2026-10-19T16:00:00-04:00",
   "next_open": "2026-10-19T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-10-16T21:57:46Z",
+      "headline": "'Anthropic quietly pitches its own AI safety bill to lawmakers'- Politico",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62426440/anthropic-quietly-pitches-its-own-ai-safety-bill-lawmakers-politico"
+    },
+    {
+      "created_at": "2026-10-16T20:41:11Z",
+      "headline": "Meta's AI Spending Could Hit $205 Billion in 2027: Why Magnificent 7 ETFs Face a Crucial Test",
+      "source": "benzinga",
+      "symbols": [
+        "FDN",
+        "MAGS",
+        "META",
+        "QQQ"
+      ],
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62425494/metas-ai-spending-could-hit-205-billion-in-2027-why-magnificent-7-etfs-face-a-crucial-test"
+    },
+    {
+      "created_at": "2026-10-16T20:23:40Z",
+      "headline": "Eli Lilly Takes 19.9% Stake In TRex Bio With 5.48M Shares, Investing $12.3M In IPO",
+      "source": "benzinga",
+      "symbols": [
+        "LLY",
+        "TRXB"
+      ],
+      "url": "https://www.benzinga.com/m/26/10/62425124/eli-lilly-takes-19-9-stake-trex-bio-5-48m-shares-investing-12-3m-ipo"
+    },
+    {
+      "created_at": "2026-10-16T20:14:35Z",
+      "headline": "Semis And Bonds At Inflection Points; Bonds Become Correlated With AI Trade; Musk Shows Flying Roadster",
+      "source": "benzinga",
+      "symbols": [
+        "CRWV",
+        "SOXL",
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/Opinion/26/10/62424859/semis-and-bonds-at-inflection-points-bonds-become-correlated-with-ai-trade-musk-shows-flying-roadster"
+    },
+    {
+      "created_at": "2026-10-16T20:02:54Z",
+      "headline": "Chip Stocks Endure Longest Losing Streak Since 2006 as CoreWeave Credit Concerns Mount: This Week on Wall Street",
+      "source": "benzinga",
+      "symbols": [
+        "AMAT",
+        "AVGO",
+        "CBRS",
+        "CIEN",
+        "COHR",
+        "CRDO",
+        "CRWD",
+        "CRWV",
+        "CSCO",
+        "DRAM",
+        "LITE",
+        "LRCX",
+        "MTSI",
+        "MU",
+        "NBIS",
+        "NVDA",
+        "PANW",
+        "RKLB",
+        "SKHY",
+        "SNDK",
+        "SOXX",
+        "SSNLF",
+        "TER"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/10/62424485/chip-stocks-endure-longest-losing-streak-since-2006-as-coreweave-credit-concerns-mount-this-week-on-wall-street"
+    },
     {
       "created_at": "2026-10-16T19:52:16Z",
       "headline": "'State Department Warns Travelers To China They Risk \"Wrongful Detention\u201d' - Semafor",
@@ -180,60 +257,6 @@
         "SPY"
       ],
       "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62418723/president-trump-says-maybe-white-house-spokeswoman-role-not-zacharia-will-talk-her-told-her-she-shou"
-    },
-    {
-      "created_at": "2026-10-16T17:09:29Z",
-      "headline": "France's Macron Says President Trump Diesel Deal Not Useful, Creates Doubts And Defiance",
-      "source": "benzinga",
-      "symbols": [
-        "EWQ",
-        "SPY",
-        "USO",
-        "VGK"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62418362/france-s-macron-says-president-trump-diesel-deal-not-useful-creates-doubts-and-defiance"
-    },
-    {
-      "created_at": "2026-10-16T17:05:26Z",
-      "headline": "Bernstein Maintains Outperform on UnitedHealth Group, Lowers Price Target to $500",
-      "source": "benzinga",
-      "symbols": [
-        "UNH"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62418178/bernstein-maintains-outperform-unitedhealth-group-lowers-price-target-500"
-    },
-    {
-      "created_at": "2026-10-16T17:01:01Z",
-      "headline": "CNBC Halftime Report Final Trades: ServiceNow, Eaton, SentinelOne, JP Morgan Chase",
-      "source": "benzinga",
-      "symbols": [
-        "ETN",
-        "JPM",
-        "NOW",
-        "S"
-      ],
-      "url": "https://www.benzinga.com/quote/S"
-    },
-    {
-      "created_at": "2026-10-16T16:54:54Z",
-      "headline": "PayPal Teams Up with Glance to Turn AI Shopping Discovery into Instant Purchases",
-      "source": "benzinga",
-      "symbols": [
-        "META",
-        "PYPL"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62417892/paypal-teams-up-with-glance-to-turn-ai-shopping-discovery-into-instant-purchases"
-    },
-    {
-      "created_at": "2026-10-16T16:50:59Z",
-      "headline": "The Hormuz Letter Posts On X \"BREAKING: Multiple mobile bomb shelters are now being rapidly deployed in Tel Aviv, Israel. There are also movements of Iron Dome, US THAAD and David's Sling air defense batteries today, and in the past few days. Similar preparations occurred in the days before February 28, when the war began.\"",
-      "source": "benzinga",
-      "symbols": [
-        "EIS",
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62417788/hormuz-letter-posts-x-breaking-multiple-mobile-bomb-shelters-are-now-being-rapidly-deployed-tel-aviv"
     }
   ],
   "regime": "DEFENSIVE",
@@ -241,82 +264,82 @@
   "top_candidates": [
     {
       "news_score": 0.0,
-      "price": 118.63,
-      "reason": "5d +6.5%; 20d +11.2%; vs SPY +11.0%; RSI 81; volume 1.1x; volatility 25.2%; news +0.00",
-      "relative_strength_20d": 0.110094,
-      "score": 0.747006,
+      "price": 118.79,
+      "reason": "5d +6.7%; 20d +11.4%; vs SPY +11.0%; RSI 81; volume 1.2x; volatility 25.2%; news +0.00",
+      "relative_strength_20d": 0.110326,
+      "score": 0.766821,
       "symbol": "WMT"
     },
     {
       "news_score": 0.0,
-      "price": 178.86,
-      "reason": "5d +5.8%; 20d +9.6%; vs SPY +9.4%; RSI 88; volume 1.1x; volatility 21.3%; news +0.00",
-      "relative_strength_20d": 0.0941,
-      "score": 0.70846,
+      "price": 179.01,
+      "reason": "5d +5.9%; 20d +9.7%; vs SPY +9.4%; RSI 88; volume 1.3x; volatility 21.4%; news +0.00",
+      "relative_strength_20d": 0.093752,
+      "score": 0.735807,
       "symbol": "XOM"
     },
     {
       "news_score": 0.0,
-      "price": 403.295,
-      "reason": "5d +4.6%; 20d +9.7%; vs SPY +9.5%; RSI 81; volume 1.1x; volatility 20.8%; news +0.00",
-      "relative_strength_20d": 0.09509,
-      "score": 0.682864,
+      "price": 402.66,
+      "reason": "5d +4.5%; 20d +9.5%; vs SPY +9.2%; RSI 81; volume 1.1x; volatility 20.8%; news +0.00",
+      "relative_strength_20d": 0.092095,
+      "score": 0.679086,
       "symbol": "V"
     },
     {
       "news_score": 0.0,
-      "price": 87.625,
-      "reason": "5d +5.0%; 20d +6.5%; vs SPY +6.3%; RSI 81; volume 2.3x; volatility 14.9%; news +0.00",
-      "relative_strength_20d": 0.063038,
-      "score": 0.679892,
+      "price": 87.63,
+      "reason": "5d +5.0%; 20d +6.5%; vs SPY +6.2%; RSI 81; volume 2.4x; volatility 14.9%; news +0.00",
+      "relative_strength_20d": 0.061831,
+      "score": 0.678209,
       "symbol": "XLP"
     },
     {
       "news_score": 0.166667,
-      "price": 401.26,
-      "reason": "5d +5.8%; 20d +6.5%; vs SPY +6.3%; RSI 67; volume 1.8x; volatility 26.5%; news +0.17",
-      "relative_strength_20d": 0.062596,
-      "score": 0.660828,
+      "price": 401.455,
+      "reason": "5d +5.8%; 20d +6.5%; vs SPY +6.2%; RSI 67; volume 1.9x; volatility 26.5%; news +0.17",
+      "relative_strength_20d": 0.061846,
+      "score": 0.661425,
       "symbol": "UNH"
     },
     {
       "news_score": 0.0,
-      "price": 988.565,
-      "reason": "5d +4.4%; 20d +10.4%; vs SPY +10.2%; RSI 78; volume 0.6x; volatility 17.2%; news +0.00",
-      "relative_strength_20d": 0.1017,
-      "score": 0.629287,
-      "symbol": "COST"
-    },
-    {
-      "news_score": 0.0,
-      "price": 225.12,
-      "reason": "5d +6.2%; 20d +7.5%; vs SPY +7.3%; RSI 82; volume 1.1x; volatility 22.7%; news +0.00",
-      "relative_strength_20d": 0.073148,
-      "score": 0.628463,
-      "symbol": "CVX"
-    },
-    {
-      "news_score": 0.0,
-      "price": 1257.86,
-      "reason": "5d +6.8%; 20d +9.1%; vs SPY +9.0%; RSI 66; volume 1.0x; volatility 26.4%; news +0.00",
-      "relative_strength_20d": 0.089533,
-      "score": 0.627801,
-      "symbol": "LLY"
-    },
-    {
-      "news_score": 0.0,
-      "price": 615.935,
-      "reason": "5d +4.5%; 20d +9.2%; vs SPY +9.0%; RSI 82; volume 0.7x; volatility 19.7%; news +0.00",
-      "relative_strength_20d": 0.089734,
-      "score": 0.612427,
+      "price": 617.51,
+      "reason": "5d +4.8%; 20d +9.4%; vs SPY +9.1%; RSI 82; volume 0.8x; volatility 19.6%; news +0.00",
+      "relative_strength_20d": 0.091258,
+      "score": 0.651421,
       "symbol": "MA"
     },
     {
       "news_score": 0.0,
-      "price": 68.245,
-      "reason": "5d +4.9%; 20d +6.8%; vs SPY +6.6%; RSI 84; volume 1.1x; volatility 21.7%; news +0.00",
-      "relative_strength_20d": 0.065739,
-      "score": 0.592995,
+      "price": 989.335,
+      "reason": "5d +4.5%; 20d +10.4%; vs SPY +10.1%; RSI 79; volume 0.7x; volatility 17.2%; news +0.00",
+      "relative_strength_20d": 0.101292,
+      "score": 0.650197,
+      "symbol": "COST"
+    },
+    {
+      "news_score": 0.0,
+      "price": 224.99,
+      "reason": "5d +6.1%; 20d +7.4%; vs SPY +7.1%; RSI 82; volume 1.3x; volatility 22.6%; news +0.00",
+      "relative_strength_20d": 0.07126,
+      "score": 0.648687,
+      "symbol": "CVX"
+    },
+    {
+      "news_score": 0.0,
+      "price": 1257.32,
+      "reason": "5d +6.7%; 20d +9.1%; vs SPY +8.8%; RSI 66; volume 1.0x; volatility 26.4%; news +0.00",
+      "relative_strength_20d": 0.087797,
+      "score": 0.631323,
+      "symbol": "LLY"
+    },
+    {
+      "news_score": 0.0,
+      "price": 68.235,
+      "reason": "5d +4.9%; 20d +6.8%; vs SPY +6.4%; RSI 84; volume 1.2x; volatility 21.7%; news +0.00",
+      "relative_strength_20d": 0.064316,
+      "score": 0.605407,
       "symbol": "XLE"
     }
   ],
