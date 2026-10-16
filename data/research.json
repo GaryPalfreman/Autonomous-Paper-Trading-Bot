@@ -1,13 +1,13 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": false,
-  "benchmark_price": 764.46,
+  "benchmark_price": 763.085,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.621622,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-16T17:06:47.089290+00:00",
-  "latest_market_timestamp": "2026-10-16T17:06:43.547137259Z",
+  "generated_at": "2026-10-16T19:55:54.434735+00:00",
+  "latest_market_timestamp": "2026-10-16T19:55:51.718560307Z",
   "market_is_open": true,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
@@ -15,15 +15,192 @@
   "next_open": "2026-10-19T09:30:00-04:00",
   "recent_news": [
     {
+      "created_at": "2026-10-16T19:52:16Z",
+      "headline": "'State Department Warns Travelers To China They Risk \"Wrongful Detention\u201d' - Semafor",
+      "source": "benzinga",
+      "symbols": [
+        "FXI",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62424089/state-department-warns-travelers-china-they-risk-wrongful-detention-semafor"
+    },
+    {
+      "created_at": "2026-10-16T19:30:09Z",
+      "headline": "Lam Research Could Swing $28.6 Billion After Earnings",
+      "source": "benzinga",
+      "symbols": [
+        "DHR",
+        "IBM",
+        "ISRG",
+        "LRCX",
+        "NFLX",
+        "SPOT",
+        "TMO",
+        "TXN",
+        "WDC"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/10/62423468/lam-research-could-swing-28-6-billion-after-earnings"
+    },
+    {
+      "created_at": "2026-10-16T19:22:45Z",
+      "headline": "QQQ vs. Cheaper Nasdaq-100 ETFs: Why BlackRock And State Street Aren't Winning Investors Yet",
+      "source": "benzinga",
+      "symbols": [
+        "IQQ",
+        "QNDX",
+        "QQQ",
+        "QQQM"
+      ],
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62423242/qqq-vs-cheaper-nasdaq-100-etfs-why-blackrock-and-state-street-arent-winning-investors-yet"
+    },
+    {
+      "created_at": "2026-10-16T19:16:33Z",
+      "headline": "The Hormuz Letter Posts On X \"BREAKING: UKMTO says the majority of vessels struck by Iran are refusing to report to it, meaning the true number of attacks on vessels is at least double what has been recorded...\" \"That puts the floor at nearly 60 vessels struck by Iran since October 1, against the roughly 30 UKMTO has confirmed. The strength of the language points to a real figure in the 70 to 100 range. October was already the highest month of the war on the reported number alone.\"",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "USO"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62423009/hormuz-letter-posts-x-breaking-ukmto-says-majority-vessels-struck-iran-are-refusing-report-it-meanin"
+    },
+    {
+      "created_at": "2026-10-16T18:48:09Z",
+      "headline": "Super Micro Finally Names a CFO, Nearly Two Years After an Accounting Review Prompted the Search",
+      "source": "benzinga",
+      "symbols": [
+        "NVDA",
+        "SMCI",
+        "WDC"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62422037/super-micro-finally-names-a-cfo-nearly-two-years-after-an-accounting-review-prompted-the-search"
+    },
+    {
+      "created_at": "2026-10-16T18:34:01Z",
+      "headline": "SemiAnalysis Pots On X \"SHOCKING: We have confirmed that multiple Neoclouds have been refused access to GTC Berlin due to them adding AMD GPUs, TPUs, and other chips to their cloud offerings. Note that this doesn't apply to hyperscalers, as they have more buying power. But for neoclouds, executives feel NVIDIA has been using high-pressure tactics to keep them NVIDIA-only....\"",
+      "source": "benzinga",
+      "symbols": [
+        "AMD",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62421700/semianalysis-pots-x-shocking-we-have-confirmed-multiple-neoclouds-have-been-refused-access-gtc-berli"
+    },
+    {
+      "created_at": "2026-10-16T18:20:44Z",
+      "headline": "Shopify Price Hikes Signal Pricing Power as JPMorgan Keeps $200 Bullish Target",
+      "source": "benzinga",
+      "symbols": [
+        "META",
+        "SHOP"
+      ],
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/10/62421218/shopify-price-hikes-signal-pricing-power-as-jpmorgan-keeps-200-bullish-target"
+    },
+    {
+      "created_at": "2026-10-16T18:19:42Z",
+      "headline": "Tesla's Flying Roadster Sends Delivery Odds Tumbling Despite Spectacular Demo",
+      "source": "benzinga",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62421188/tesla-roadster-delivery-odds-flying-demo"
+    },
+    {
+      "created_at": "2026-10-16T17:36:57Z",
+      "headline": "BMO Capital Maintains Outperform on Netflix, Lowers Price Target to $125",
+      "source": "benzinga",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62419591/bmo-capital-maintains-outperform-netflix-lowers-price-target-125"
+    },
+    {
+      "created_at": "2026-10-16T17:35:08Z",
+      "headline": "3 Communication Services Stocks Whale Activity In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "ASTS",
+        "GOOG",
+        "META"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/10/62419492/3-communication-services-stocks-whale-activity-today-s-session"
+    },
+    {
+      "created_at": "2026-10-16T17:35:07Z",
+      "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "AMKR",
+        "CRWV",
+        "FIG",
+        "IREN",
+        "MSFT",
+        "ORCL",
+        "S",
+        "SMCI",
+        "SNOW",
+        "TSM"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/10/62419489/10-information-technology-stocks-whale-activity-today-s-session"
+    },
+    {
       "created_at": "2026-10-16T17:01:58Z",
-      "headline": "U.S. Baker Hughes Oil Rig Count -3 To 459; U.S. Baker Hughes NatGas Rig Count +1 To 133; U.S. Baker Hughes Total Rig Count 601 Vs 603 Prior",
+      "headline": "UPDATED: U.S. Baker Hughes Oil Rig Count -3 To 459; U.S. Baker Hughes NatGas Rig Count +1 To 133; U.S. Baker Hughes Total Rig Count 603 Vs 603 Prior",
       "source": "benzinga",
       "symbols": [
         "SPY",
         "UNG",
         "USO"
       ],
-      "url": "https://www.benzinga.com/quote/UNG"
+      "url": "https://www.benzinga.com/news/26/10/62418099/u-s-baker-hughes-oil-rig-count-3-to-459-u-s-baker-hughes-natgas-rig-count-1-to-133-u-s-baker-hughes-total-rig-count-601-vs-603-prior"
+    },
+    {
+      "created_at": "2026-10-16T17:26:24Z",
+      "headline": "Fox News, Citing White House Official Says Katie Zacharia 'Transitioning Out' Of Job As Trump's Press Secretary",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/quote/SPY"
+    },
+    {
+      "created_at": "2026-10-16T17:17:04Z",
+      "headline": "President Trump Stated In A Newsmax Interview That Washington Is Actively Talking To Both Moscow And Beijing About Potential Routes To Denuclearize",
+      "source": "benzinga",
+      "symbols": [
+        "FXI",
+        "SPY",
+        "VGK"
+      ],
+      "url": "https://www.benzinga.com/quote/VGK"
+    },
+    {
+      "created_at": "2026-10-16T17:16:05Z",
+      "headline": "President Trump Says Maybe White House Spokeswoman Role Is Not For Zacharia; Will Talk To Her; Told Her She Should Reconsider Role",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62418723/president-trump-says-maybe-white-house-spokeswoman-role-not-zacharia-will-talk-her-told-her-she-shou"
+    },
+    {
+      "created_at": "2026-10-16T17:09:29Z",
+      "headline": "France's Macron Says President Trump Diesel Deal Not Useful, Creates Doubts And Defiance",
+      "source": "benzinga",
+      "symbols": [
+        "EWQ",
+        "SPY",
+        "USO",
+        "VGK"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62418362/france-s-macron-says-president-trump-diesel-deal-not-useful-creates-doubts-and-defiance"
+    },
+    {
+      "created_at": "2026-10-16T17:05:26Z",
+      "headline": "Bernstein Maintains Outperform on UnitedHealth Group, Lowers Price Target to $500",
+      "source": "benzinga",
+      "symbols": [
+        "UNH"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62418178/bernstein-maintains-outperform-unitedhealth-group-lowers-price-target-500"
     },
     {
       "created_at": "2026-10-16T17:01:01Z",
@@ -57,206 +234,6 @@
         "USO"
       ],
       "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62417788/hormuz-letter-posts-x-breaking-multiple-mobile-bomb-shelters-are-now-being-rapidly-deployed-tel-aviv"
-    },
-    {
-      "created_at": "2026-10-16T16:50:19Z",
-      "headline": "'U.S. Presses China On MasterCard, Citigroup Market Access In Bilateral Bangkok Talks, Official Says' - CNBC",
-      "source": "benzinga",
-      "symbols": [
-        "C",
-        "FXI",
-        "MA",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62417759/u-s-presses-china-mastercard-citigroup-market-access-bilateral-bangkok-talks-official-says-cnbc"
-    },
-    {
-      "created_at": "2026-10-16T16:45:16Z",
-      "headline": "Tesla's Roadster Just Made SpaceX More Valuable. Does Tesla Get Any Credit?",
-      "source": "benzinga",
-      "symbols": [
-        "SPCX",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62417594/tesla-roadster-spacex-value"
-    },
-    {
-      "created_at": "2026-10-16T16:44:50Z",
-      "headline": "Why Is U.S. Bancorp Stock Gaining Friday?",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "USB"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/10/62417573/why-is-u-s-bancorp-stock-gaining-friday"
-    },
-    {
-      "created_at": "2026-10-16T16:33:06Z",
-      "headline": "Nasdaq 100 Slides As Micron, SanDisk, CoreWeave Sink: Stock Market Today",
-      "source": "benzinga",
-      "symbols": [
-        "AA",
-        "APLD",
-        "BTCUSD",
-        "CAVA",
-        "CRWD",
-        "CRWV",
-        "DIA",
-        "DOCN",
-        "IREN",
-        "IWM",
-        "MRNA",
-        "MSTR",
-        "MU",
-        "OIH",
-        "OKTA",
-        "PANW",
-        "PLNT",
-        "QQQ",
-        "SMCI",
-        "SMH",
-        "SNDK",
-        "SNOW",
-        "SOXX",
-        "TWLO",
-        "VOO",
-        "XLB",
-        "XLC",
-        "XLE",
-        "XLF",
-        "XLK",
-        "XLP",
-        "XLRE",
-        "XLU",
-        "XLV",
-        "XME",
-        "XOP"
-      ],
-      "url": "https://www.benzinga.com/markets/equities/26/10/62417145/nasdaq-100-slides-micron-sandisk-coreweave-sink-warsh-keeps-fed-hike-open-stock-market-today-friday"
-    },
-    {
-      "created_at": "2026-10-16T16:27:03Z",
-      "headline": "ExxonMobil Sees $4.5 Billion Boost from Higher Refining Margins",
-      "source": "benzinga",
-      "symbols": [
-        "XOM"
-      ],
-      "url": "https://www.benzinga.com/markets/large-cap/26/10/62416970/exxonmobil-sees-4-5-billion-boost-from-higher-refining-margins"
-    },
-    {
-      "created_at": "2026-10-16T16:00:49Z",
-      "headline": "Here\u2019s How Much You Would Have Made Owning Walmart Stock In The Last 20 Years",
-      "source": "benzinga",
-      "symbols": [
-        "WMT"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62415937/here-s-how-much-you-would-have-made-owning-walmart-stock-last-20-years"
-    },
-    {
-      "created_at": "2026-10-16T15:59:24Z",
-      "headline": "Meta's AI Bet Could Deliver Another Earnings Surprise, Analyst Says",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62415867/metas-ai-bet-could-deliver-another-earnings-surprise-analyst-says"
-    },
-    {
-      "created_at": "2026-10-16T15:39:42Z",
-      "headline": "Barclays Expects U.S. Fed To Deliver A 25 BP Rate Hike Each In December And January Vs Prior Forecast Of A Hike In December This Year",
-      "source": "benzinga",
-      "symbols": [
-        "BCS",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62415179/barclays-expects-u-s-fed-deliver-25-bp-rate-hike-each-december-and-january-vs-prior-forecast-hike-de"
-    },
-    {
-      "created_at": "2026-10-16T15:33:56Z",
-      "headline": "'Apple Set For UK Legal Fight Over iPhone Tap-To-Pay Rules' - Financial Times",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "EWU"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62414980/apple-set-uk-legal-fight-over-iphone-tap-pay-rules-financial-times"
-    },
-    {
-      "created_at": "2026-10-16T15:30:45Z",
-      "headline": "JP Morgan Maintains Overweight on UnitedHealth Group, Raises Price Target to $524",
-      "source": "benzinga",
-      "symbols": [
-        "UNH"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62414833/jp-morgan-maintains-overweight-unitedhealth-group-raises-price-target-524"
-    },
-    {
-      "created_at": "2026-10-16T15:21:11Z",
-      "headline": "Why Is Applied Digital Stock Falling Friday?",
-      "source": "benzinga",
-      "symbols": [
-        "APLD",
-        "CRWV",
-        "GOOG",
-        "GOOGL",
-        "ORCL",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62414535/why-is-applied-digital-stock-falling-friday"
-    },
-    {
-      "created_at": "2026-10-16T15:19:23Z",
-      "headline": "'PayPal And Epic Games Have Discussed Concerns With The Justice Department That A Settlement With Apple Could Fail To Meaningfully Curb Its Restrictions On Rival Apps And Devices' - The Information",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "PYPL"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62414478/paypal-and-epic-games-have-discussed-concerns-justice-department-settlement-apple-could-fail-meaning"
-    },
-    {
-      "created_at": "2026-10-16T15:07:26Z",
-      "headline": "Nvidia, Micron and Broadcom Already Trade Like Cisco Post Dot-Com Burst: Bank of America",
-      "source": "benzinga",
-      "symbols": [
-        "AVGO",
-        "CRWV",
-        "CSCO",
-        "MU",
-        "NBIS",
-        "NVDA",
-        "SOXQ"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62414052/nvidia-micron-broadcom-cisco-dot-com-bank-of-america"
-    },
-    {
-      "created_at": "2026-10-16T15:06:29Z",
-      "headline": "'In internal messages, Meta admits that Lula's accounts were compromised; engineers mention technical failures' - Folha",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62414020/internal-messages-meta-admits-lula-s-accounts-were-compromised-engineers-mention-technical-failures-"
-    },
-    {
-      "created_at": "2026-10-16T15:04:31Z",
-      "headline": "Eli Lilly's GLP-1 Pill Wins Key European Backing for Obesity and Diabetes",
-      "source": "benzinga",
-      "symbols": [
-        "LLY"
-      ],
-      "url": "https://www.benzinga.com/news/health-care/26/10/62413941/eli-lillys-glp-1-pill-wins-key-european-backing-for-obesity-and-diabetes"
-    },
-    {
-      "created_at": "2026-10-16T15:03:33Z",
-      "headline": "Jack Henry To Provide Tokenized Deposits Under Expanded Partnership With Google Cloud Through Universal Ledger",
-      "source": "benzinga",
-      "symbols": [
-        "GOOG",
-        "GOOGL",
-        "JKHY"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62413877/jack-henry-provide-tokenized-deposits-under-expanded-partnership-google-cloud-through-universal-ledg"
     }
   ],
   "regime": "DEFENSIVE",
@@ -264,82 +241,82 @@
   "top_candidates": [
     {
       "news_score": 0.0,
-      "price": 118.72,
-      "reason": "5d +6.6%; 20d +11.3%; vs SPY +10.9%; RSI 81; volume 0.5x; volatility 25.2%; news +0.00",
-      "relative_strength_20d": 0.109132,
-      "score": 0.673682,
+      "price": 118.63,
+      "reason": "5d +6.5%; 20d +11.2%; vs SPY +11.0%; RSI 81; volume 1.1x; volatility 25.2%; news +0.00",
+      "relative_strength_20d": 0.110094,
+      "score": 0.747006,
       "symbol": "WMT"
     },
     {
       "news_score": 0.0,
-      "price": 87.43,
-      "reason": "5d +4.8%; 20d +6.3%; vs SPY +5.9%; RSI 81; volume 1.7x; volatility 14.8%; news +0.00",
-      "relative_strength_20d": 0.058862,
-      "score": 0.649973,
-      "symbol": "XLP"
-    },
-    {
-      "news_score": 0.0,
-      "price": 993.39,
-      "reason": "5d +4.9%; 20d +10.9%; vs SPY +10.5%; RSI 79; volume 0.2x; volatility 17.3%; news +0.00",
-      "relative_strength_20d": 0.105281,
-      "score": 0.621615,
-      "symbol": "COST"
-    },
-    {
-      "news_score": 0.0,
-      "price": 402.895,
-      "reason": "5d +4.5%; 20d +9.6%; vs SPY +9.2%; RSI 81; volume 0.5x; volatility 20.8%; news +0.00",
-      "relative_strength_20d": 0.092196,
-      "score": 0.600331,
-      "symbol": "V"
-    },
-    {
-      "news_score": 0.0,
-      "price": 177.21,
-      "reason": "5d +4.8%; 20d +8.6%; vs SPY +8.2%; RSI 87; volume 0.5x; volatility 20.5%; news +0.00",
-      "relative_strength_20d": 0.082183,
-      "score": 0.58415,
+      "price": 178.86,
+      "reason": "5d +5.8%; 20d +9.6%; vs SPY +9.4%; RSI 88; volume 1.1x; volatility 21.3%; news +0.00",
+      "relative_strength_20d": 0.0941,
+      "score": 0.70846,
       "symbol": "XOM"
     },
     {
       "news_score": 0.0,
-      "price": 1259.225,
-      "reason": "5d +6.9%; 20d +9.3%; vs SPY +8.9%; RSI 66; volume 0.6x; volatility 26.4%; news +0.00",
-      "relative_strength_20d": 0.088912,
-      "score": 0.577581,
-      "symbol": "LLY"
+      "price": 403.295,
+      "reason": "5d +4.6%; 20d +9.7%; vs SPY +9.5%; RSI 81; volume 1.1x; volatility 20.8%; news +0.00",
+      "relative_strength_20d": 0.09509,
+      "score": 0.682864,
+      "symbol": "V"
     },
     {
       "news_score": 0.0,
-      "price": 615.36,
-      "reason": "5d +4.4%; 20d +9.1%; vs SPY +8.7%; RSI 81; volume 0.4x; volatility 19.7%; news +0.00",
-      "relative_strength_20d": 0.08691,
-      "score": 0.567184,
-      "symbol": "MA"
+      "price": 87.625,
+      "reason": "5d +5.0%; 20d +6.5%; vs SPY +6.3%; RSI 81; volume 2.3x; volatility 14.9%; news +0.00",
+      "relative_strength_20d": 0.063038,
+      "score": 0.679892,
+      "symbol": "XLP"
     },
     {
-      "news_score": 0.0,
-      "price": 400.12,
-      "reason": "5d +5.5%; 20d +6.1%; vs SPY +5.8%; RSI 66; volume 1.3x; volatility 26.7%; news +0.00",
-      "relative_strength_20d": 0.057766,
-      "score": 0.56466,
+      "news_score": 0.166667,
+      "price": 401.26,
+      "reason": "5d +5.8%; 20d +6.5%; vs SPY +6.3%; RSI 67; volume 1.8x; volatility 26.5%; news +0.17",
+      "relative_strength_20d": 0.062596,
+      "score": 0.660828,
       "symbol": "UNH"
     },
     {
       "news_score": 0.0,
-      "price": 223.4,
-      "reason": "5d +5.4%; 20d +6.7%; vs SPY +6.3%; RSI 81; volume 0.5x; volatility 21.8%; news +0.00",
-      "relative_strength_20d": 0.063129,
-      "score": 0.52212,
+      "price": 988.565,
+      "reason": "5d +4.4%; 20d +10.4%; vs SPY +10.2%; RSI 78; volume 0.6x; volatility 17.2%; news +0.00",
+      "relative_strength_20d": 0.1017,
+      "score": 0.629287,
+      "symbol": "COST"
+    },
+    {
+      "news_score": 0.0,
+      "price": 225.12,
+      "reason": "5d +6.2%; 20d +7.5%; vs SPY +7.3%; RSI 82; volume 1.1x; volatility 22.7%; news +0.00",
+      "relative_strength_20d": 0.073148,
+      "score": 0.628463,
       "symbol": "CVX"
     },
     {
       "news_score": 0.0,
-      "price": 67.795,
-      "reason": "5d +4.2%; 20d +6.1%; vs SPY +5.7%; RSI 83; volume 0.7x; volatility 20.9%; news +0.00",
-      "relative_strength_20d": 0.056894,
-      "score": 0.479736,
+      "price": 1257.86,
+      "reason": "5d +6.8%; 20d +9.1%; vs SPY +9.0%; RSI 66; volume 1.0x; volatility 26.4%; news +0.00",
+      "relative_strength_20d": 0.089533,
+      "score": 0.627801,
+      "symbol": "LLY"
+    },
+    {
+      "news_score": 0.0,
+      "price": 615.935,
+      "reason": "5d +4.5%; 20d +9.2%; vs SPY +9.0%; RSI 82; volume 0.7x; volatility 19.7%; news +0.00",
+      "relative_strength_20d": 0.089734,
+      "score": 0.612427,
+      "symbol": "MA"
+    },
+    {
+      "news_score": 0.0,
+      "price": 68.245,
+      "reason": "5d +4.9%; 20d +6.8%; vs SPY +6.6%; RSI 84; volume 1.1x; volatility 21.7%; news +0.00",
+      "relative_strength_20d": 0.065739,
+      "score": 0.592995,
       "symbol": "XLE"
     }
   ],
