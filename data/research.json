@@ -1,19 +1,203 @@
 {
   "benchmark_above_20d_average": false,
-  "benchmark_above_50d_average": true,
-  "benchmark_price": 767.37,
+  "benchmark_above_50d_average": false,
+  "benchmark_price": 766.84,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.594595,
+  "breadth_above_20d_average": 0.567568,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-19T18:55:32.353094+00:00",
-  "latest_market_timestamp": "2026-10-19T18:55:30.012118466Z",
-  "market_is_open": true,
-  "new_entries_allowed": true,
+  "generated_at": "2026-10-19T22:42:19.484139+00:00",
+  "latest_market_timestamp": "2026-10-19T20:58:00.001100951Z",
+  "market_is_open": false,
+  "new_entries_allowed": false,
   "news_articles_reviewed": 50,
-  "next_close": "2026-10-19T16:00:00-04:00",
+  "next_close": "2026-10-20T16:00:00-04:00",
   "next_open": "2026-10-20T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-10-19T22:19:15Z",
+      "headline": "Congressman Sells Nvidia Stock Again: 7 Sales in 2026 Add to Trades Since 2022",
+      "source": "benzinga",
+      "symbols": [
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/news/politics/26/10/62456282/congressman-sells-nvidia-stock-again-7-sales-in-2026-add-to-trades-since-2022"
+    },
+    {
+      "created_at": "2026-10-19T21:29:25Z",
+      "headline": "'Eric Schmidt\u2019s 1% Anthropic Stake Set to Pay Massive Windfall'- Bloomberg",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62455730/eric-schmidt-s-1-anthropic-stake-set-pay-massive-windfall-bloomberg"
+    },
+    {
+      "created_at": "2026-10-19T20:52:47Z",
+      "headline": "Tesla Q3 Earnings Preview: Can the Company Reverse Recent EPS, Revenue Misses?",
+      "source": "benzinga",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/previews/26/10/62454857/tesla-q3-earnings-preview-can-the-company-reverse-recent-eps-revenue-misses"
+    },
+    {
+      "created_at": "2026-10-19T20:23:22Z",
+      "headline": "Netflix Stock Has Fallen After 5 Straight Reports: Will Q3 Break the Streak?",
+      "source": "benzinga",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/previews/26/10/62453726/netflix-stock-fallen-5-straight-reports-will-q3-break-the-streak"
+    },
+    {
+      "created_at": "2026-10-19T20:05:43Z",
+      "headline": "Amazon Just Found a Way Around Nvidia\u2019s Biggest Moat",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62452876/amazon-trainium-nvidia-cuda"
+    },
+    {
+      "created_at": "2026-10-19T20:05:15Z",
+      "headline": "U.S. Energy Secretary Wright Says Yet To Be Seen If Russia Will Release Diesel",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "UNG",
+        "VGK"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62452842/u-s-energy-secretary-wright-says-yet-be-seen-if-russia-will-release-diesel"
+    },
+    {
+      "created_at": "2026-10-19T19:56:06Z",
+      "headline": "TIPS Now Pay 2.8% Above Inflation. Here's The Hurdle That Sets For S&P 500 Investors",
+      "source": "benzinga",
+      "symbols": [
+        "MU",
+        "NVDA",
+        "SPY",
+        "TIP"
+      ],
+      "url": "https://www.benzinga.com/Opinion/26/10/62452412/tips-now-pay-2-8-above-inflation-heres-the-hurdle-that-sets-for-sp500-investors"
+    },
+    {
+      "created_at": "2026-10-19T19:52:58Z",
+      "headline": "NVIDIA CEO Jensen Huang Announces New Planned Investments In Germany's Agile Robots, Avelios Medical, Mirelo And Reflex Aerospace",
+      "source": "benzinga",
+      "symbols": [
+        "EWG",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62452291/nvidia-ceo-jensen-huang-announces-new-planned-investments-germany-s-agile-robots-avelios-medical-mir"
+    },
+    {
+      "created_at": "2026-10-19T19:52:40Z",
+      "headline": "SpaceX, GE Aerospace On Deck Tuesday As Growth, Aerospace Demand Face Test",
+      "source": "benzinga",
+      "symbols": [
+        "ADC",
+        "ALK",
+        "ALLY",
+        "AMX",
+        "AUB",
+        "CB",
+        "CBSH",
+        "COF",
+        "EFX",
+        "ELS",
+        "EWBC",
+        "GE",
+        "GM",
+        "GPC",
+        "HAL",
+        "HAS",
+        "HWC",
+        "ISRG",
+        "KEY",
+        "MMM",
+        "MSCI",
+        "NFLX",
+        "NLY",
+        "NOC",
+        "NP",
+        "OZK",
+        "PEGA",
+        "RTX",
+        "SPCX",
+        "SYF",
+        "UAL",
+        "VICR",
+        "VMI"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62452286/spacex-ge-aerospace-on-deck-tuesday-as-growth-aerospace-demand-face-test"
+    },
+    {
+      "created_at": "2026-10-19T19:33:58Z",
+      "headline": "'Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal' - Bloomberg News",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62451753/nscale-anthropic-talks-45-billion-cloud-computing-deal-bloomberg-news"
+    },
+    {
+      "created_at": "2026-10-19T19:30:55Z",
+      "headline": "SpaceX Could Swing $128 Billion After Earnings",
+      "source": "benzinga",
+      "symbols": [
+        "GE",
+        "GM",
+        "HAL",
+        "IBM",
+        "ISRG",
+        "LMT",
+        "META",
+        "MMM",
+        "NFLX",
+        "RTX",
+        "SPCX",
+        "SPOT",
+        "TSLA",
+        "UAL",
+        "WDC"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/10/62451603/spacex-could-swing-128-billion-after-earnings"
+    },
+    {
+      "created_at": "2026-10-19T19:19:47Z",
+      "headline": "Barclays Maintains Overweight on ExxonMobil Holdings, Raises Price Target to $200",
+      "source": "benzinga",
+      "symbols": [
+        "XOM"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62451108/barclays-maintains-overweight-exxonmobil-holdings-raises-price-target-200"
+    },
+    {
+      "created_at": "2026-10-19T19:15:01Z",
+      "headline": "\u2018CoreWeave Is the Canary in the Coal Mine\u2019: Expert Warns More AI Debt Will Slide into Distress",
+      "source": "benzinga",
+      "symbols": [
+        "APLD",
+        "CRWV",
+        "HOOD",
+        "IREN",
+        "NBIS",
+        "NVDA",
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62450943/coreweave-is-the-canary-in-the-coal-mine-expert-warns-more-ai-debt-will-slide-into-distress"
+    },
     {
       "created_at": "2026-10-19T18:46:39Z",
       "headline": "Billionaire Investor Took a Stake in Bausch + Lomb Before Its CEO Shake-Up",
@@ -96,265 +280,90 @@
         "TSLA"
       ],
       "url": "https://www.benzinga.com/markets/options/26/10/62448003/10-consumer-discretionary-stocks-whale-alerts-today-s-session"
-    },
-    {
-      "created_at": "2026-10-19T17:35:12Z",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "CORZ",
-        "CRWV",
-        "IREN",
-        "MRVL",
-        "NBIS",
-        "NVDA",
-        "ORCL",
-        "PATH",
-        "SNDK"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62448000/10-information-technology-stocks-whale-alerts-today-s-session"
-    },
-    {
-      "created_at": "2026-10-19T17:34:18Z",
-      "headline": "Dow Jones Industrial Average in Spotlight: 5 Stocks Report This Week, Including 2 of the Worst Performing",
-      "source": "benzinga",
-      "symbols": [
-        "AXP",
-        "DIA",
-        "HON",
-        "IBM",
-        "MMM",
-        "PG",
-        "QQQ",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/previews/26/10/62447975/dow-jones-industrial-average-spotlight-5-stocks-worst-performing"
-    },
-    {
-      "created_at": "2026-10-19T17:27:54Z",
-      "headline": "What's Going On With Exxon Stock On Monday?",
-      "source": "benzinga",
-      "symbols": [
-        "FTXN",
-        "HDV",
-        "JPM",
-        "WR",
-        "XOM"
-      ],
-      "url": "https://www.benzinga.com/markets/large-cap/26/10/62447738/whats-going-on-with-exxon-stock-on-monday"
-    },
-    {
-      "created_at": "2026-10-19T17:17:13Z",
-      "headline": "Analyst Sees Billions in Walmart's Next Big Advertising Opportunity",
-      "source": "benzinga",
-      "symbols": [
-        "META",
-        "WMT"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/10/62447386/analyst-sees-billions-in-walmarts-next-big-advertising-opportunity"
-    },
-    {
-      "created_at": "2026-10-19T17:08:51Z",
-      "headline": "Morgan Stanley Maintains Overweight on Meta Platforms, Raises Price Target to $820",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62447082/morgan-stanley-maintains-overweight-meta-platforms-raises-price-target-820"
-    },
-    {
-      "created_at": "2026-10-19T17:00:53Z",
-      "headline": "CNBC Halftime Report Final Trades: UnitedHealth Group, Twilio, Transocean",
-      "source": "benzinga",
-      "symbols": [
-        "RIG",
-        "TWLO",
-        "UNH"
-      ],
-      "url": "https://www.benzinga.com/quote/UNH"
-    },
-    {
-      "created_at": "2026-10-19T16:58:22Z",
-      "headline": "Stock Market Today: Nasdaq 100 Rises as AI Chip Rout Reverses, SanDisk Jumps 7%",
-      "source": "benzinga",
-      "symbols": [
-        "ALM",
-        "AMZN",
-        "APLD",
-        "AVGO",
-        "CLF",
-        "DIA",
-        "FIGR",
-        "FORM",
-        "GDX",
-        "IGV",
-        "INTC",
-        "IREN",
-        "IWM",
-        "LRCX",
-        "MPT",
-        "MRVL",
-        "MU",
-        "QNT",
-        "QQQ",
-        "RBA",
-        "SKHY",
-        "SMH",
-        "SNDK",
-        "TER",
-        "VOO",
-        "WULF",
-        "XLE",
-        "XLF",
-        "XLK",
-        "XLRE",
-        "XLU",
-        "XLV",
-        "XLY",
-        "XME"
-      ],
-      "url": "https://www.benzinga.com/markets/equities/26/10/62446593/stock-market-today-sandisk-jumps-nasdaq-100-rises-ai-chip-rout-reverses"
-    },
-    {
-      "created_at": "2026-10-19T16:52:13Z",
-      "headline": "Can Meta\u2019s Fiber Partner Corning Capitalize On Rising AI Fiber Prices?",
-      "source": "benzinga",
-      "symbols": [
-        "GLW",
-        "META"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62446382/corning-optical-fiber-prices-ai"
-    },
-    {
-      "created_at": "2026-10-19T16:50:46Z",
-      "headline": "Waymo Is Bringing Robotaxis to Canada in 2028 \u2014 Toronto\u2019s Winter Weather Will Put Them to the Test",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/markets/private-markets/26/10/62446343/waymo-is-bringing-robotaxis-to-canada-in-2028-torontos-winter-weather-will-put-them-to-the-test"
-    },
-    {
-      "created_at": "2026-10-19T16:49:59Z",
-      "headline": "'Apple Announces Oct. 28 Event for Touch-Screen MacBook Pro' - Bloomberg",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62446313/apple-announces-oct-28-event-touch-screen-macbook-pro-bloomberg"
-    },
-    {
-      "created_at": "2026-10-19T16:45:11Z",
-      "headline": "Live On CNBC, Bill Baruch Announces Bought More Walmart",
-      "source": "benzinga",
-      "symbols": [
-        "WMT"
-      ],
-      "url": "https://www.benzinga.com/quote/WMT"
-    },
-    {
-      "created_at": "2026-10-19T16:42:00Z",
-      "headline": "Morgan Stanley Maintains Overweight on Amazon.com, Raises Price Target to $350",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62445922/morgan-stanley-maintains-overweight-amazon-com-raises-price-target-350"
-    },
-    {
-      "created_at": "2026-10-19T16:40:25Z",
-      "headline": "Apple SVP Marketing Greg Joswiak, On Social Media, Hints At New Product Announcement Next Week",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62445873/apple-svp-marketing-greg-joswiak-social-media-hints-new-product-announcement-next-week"
     }
   ],
-  "regime": "NEUTRAL",
-  "regime_score": 0.056757,
+  "regime": "DEFENSIVE",
+  "regime_score": -0.659459,
   "top_candidates": [
     {
       "news_score": 0.0,
-      "price": 225.075,
-      "reason": "5d +4.7%; 20d +10.5%; vs SPY +11.3%; RSI 82; volume 1.1x; volatility 19.5%; news +0.00",
-      "relative_strength_20d": 0.11283,
-      "score": 0.709536,
+      "price": 224.485,
+      "reason": "5d +4.4%; 20d +10.2%; vs SPY +11.1%; RSI 81; volume 1.6x; volatility 19.6%; news +0.00",
+      "relative_strength_20d": 0.110619,
+      "score": 0.756766,
       "symbol": "CVX"
     },
     {
-      "news_score": 0.166667,
-      "price": 178.76,
-      "reason": "5d +3.8%; 20d +12.9%; vs SPY +13.7%; RSI 86; volume 0.7x; volatility 17.3%; news +0.17",
-      "relative_strength_20d": 0.137199,
-      "score": 0.678448,
-      "symbol": "XOM"
-    },
-    {
       "news_score": 0.0,
-      "price": 119.22,
-      "reason": "5d +5.4%; 20d +10.9%; vs SPY +11.7%; RSI 95; volume 0.6x; volatility 25.2%; news +0.00",
-      "relative_strength_20d": 0.117387,
-      "score": 0.669866,
+      "price": 118.71,
+      "reason": "5d +5.0%; 20d +10.5%; vs SPY +11.3%; RSI 95; volume 0.8x; volatility 25.3%; news +0.00",
+      "relative_strength_20d": 0.113326,
+      "score": 0.690224,
       "symbol": "WMT"
     },
     {
       "news_score": 0.0,
-      "price": 995.285,
-      "reason": "5d +3.7%; 20d +10.8%; vs SPY +11.6%; RSI 90; volume 0.8x; volatility 17.2%; news +0.00",
-      "relative_strength_20d": 0.11586,
-      "score": 0.628299,
+      "price": 995.75,
+      "reason": "5d +3.8%; 20d +10.8%; vs SPY +11.7%; RSI 90; volume 1.1x; volatility 17.2%; news +0.00",
+      "relative_strength_20d": 0.117063,
+      "score": 0.676508,
       "symbol": "COST"
     },
     {
-      "news_score": 0.333333,
-      "price": 87.485,
-      "reason": "5d +3.7%; 20d +6.8%; vs SPY +7.6%; RSI 92; volume 1.0x; volatility 14.8%; news +0.33",
-      "relative_strength_20d": 0.076078,
-      "score": 0.595289,
-      "symbol": "XLP"
-    },
-    {
-      "news_score": 0.166667,
-      "price": 67.885,
-      "reason": "5d +2.8%; 20d +8.7%; vs SPY +9.5%; RSI 81; volume 1.0x; volatility 19.6%; news +0.17",
-      "relative_strength_20d": 0.095154,
-      "score": 0.585444,
-      "symbol": "XLE"
+      "news_score": 0.0,
+      "price": 178.22,
+      "reason": "5d +3.5%; 20d +12.6%; vs SPY +13.4%; RSI 84; volume 0.9x; volatility 17.5%; news +0.00",
+      "relative_strength_20d": 0.134473,
+      "score": 0.665527,
+      "symbol": "XOM"
     },
     {
       "news_score": 0.0,
-      "price": 405.36,
-      "reason": "5d +7.2%; 20d +7.4%; vs SPY +8.2%; RSI 76; volume 0.8x; volatility 26.6%; news +0.00",
-      "relative_strength_20d": 0.081667,
-      "score": 0.585309,
+      "price": 406.92,
+      "reason": "5d +7.6%; 20d +7.8%; vs SPY +8.6%; RSI 77; volume 1.1x; volatility 26.7%; news +0.00",
+      "relative_strength_20d": 0.086484,
+      "score": 0.639012,
       "symbol": "UNH"
     },
     {
       "news_score": 0.0,
-      "price": 403.58,
-      "reason": "5d +3.7%; 20d +9.1%; vs SPY +9.9%; RSI 91; volume 0.7x; volatility 20.8%; news +0.00",
-      "relative_strength_20d": 0.099017,
-      "score": 0.57875,
+      "price": 616.35,
+      "reason": "5d +3.5%; 20d +8.7%; vs SPY +9.6%; RSI 95; volume 1.1x; volatility 19.7%; news +0.00",
+      "relative_strength_20d": 0.095865,
+      "score": 0.621963,
+      "symbol": "MA"
+    },
+    {
+      "news_score": 0.0,
+      "price": 403.12,
+      "reason": "5d +3.5%; 20d +9.0%; vs SPY +9.8%; RSI 91; volume 1.0x; volatility 20.8%; news +0.00",
+      "relative_strength_20d": 0.098459,
+      "score": 0.616316,
       "symbol": "V"
     },
     {
       "news_score": 0.0,
-      "price": 1250.725,
-      "reason": "5d +5.8%; 20d +7.4%; vs SPY +8.2%; RSI 72; volume 0.4x; volatility 26.5%; news +0.00",
-      "relative_strength_20d": 0.081746,
-      "score": 0.524567,
-      "symbol": "LLY"
+      "price": 67.8,
+      "reason": "5d +2.7%; 20d +8.6%; vs SPY +9.4%; RSI 81; volume 1.2x; volatility 19.7%; news +0.00",
+      "relative_strength_20d": 0.094478,
+      "score": 0.580361,
+      "symbol": "XLE"
     },
     {
       "news_score": 0.0,
-      "price": 611.935,
-      "reason": "5d +2.8%; 20d +7.9%; vs SPY +8.7%; RSI 89; volume 0.9x; volatility 19.7%; news +0.00",
-      "relative_strength_20d": 0.087391,
-      "score": 0.519662,
-      "symbol": "MA"
+      "price": 87.24,
+      "reason": "5d +3.4%; 20d +6.5%; vs SPY +7.4%; RSI 89; volume 1.3x; volatility 14.9%; news +0.00",
+      "relative_strength_20d": 0.073772,
+      "score": 0.552856,
+      "symbol": "XLP"
+    },
+    {
+      "news_score": 0.0,
+      "price": 1240.62,
+      "reason": "5d +4.9%; 20d +6.5%; vs SPY +7.4%; RSI 69; volume 0.6x; volatility 27.0%; news +0.00",
+      "relative_strength_20d": 0.073756,
+      "score": 0.499362,
+      "symbol": "LLY"
     }
   ],
   "universe_size": 37
