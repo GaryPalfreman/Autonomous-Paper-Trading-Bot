@@ -6,14 +6,99 @@
   "breadth_above_20d_average": 0.621622,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-20T20:52:27.658888+00:00",
-  "latest_market_timestamp": "2026-10-20T20:52:19.473776844Z",
+  "generated_at": "2026-10-20T23:33:02.002580+00:00",
+  "latest_market_timestamp": "2026-10-20T20:56:17.549138313Z",
   "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
   "next_close": "2026-10-21T16:00:00-04:00",
   "next_open": "2026-10-21T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-10-20T23:01:50Z",
+      "headline": "Netflix Reports Q3 2026 Financial Results",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://michaelwest.com.au/netflix-revenue-and-profit-grows-in-third-quarter/"
+    },
+    {
+      "created_at": "2026-10-20T23:01:34Z",
+      "headline": "Tesla and SpaceX Explore Potential Merger",
+      "source": "fiscal.ai",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.morningstar.com/news/marketwatch/20261020419/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger"
+    },
+    {
+      "created_at": "2026-10-20T22:07:34Z",
+      "headline": "Elon Musk Says AI Could Be a Threat, but He Can\u2019t Stop It: \u2018Be Participant or be a Spectator\u2019",
+      "source": "benzinga",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62484767/elon-musk-says-ai-could-be-a-threat-but-he-cant-stop-it-be-participant-or-be-a-spectator"
+    },
+    {
+      "created_at": "2026-10-20T21:55:45Z",
+      "headline": "Elon Musk Confirms SpaceX, Tesla Merger Committees, Calls Deal \u2018A Good Idea\u2019",
+      "source": "benzinga",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62484678/elon-musk-confirms-spacex-tesla-merger-committees-calls-deal-a-good-idea"
+    },
+    {
+      "created_at": "2026-10-20T21:34:03Z",
+      "headline": "Netflix Q3 2026 Earnings Call Transcript",
+      "source": "benzinga",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62484446/netflix-q3-2026-earnings-call-transcript"
+    },
+    {
+      "created_at": "2026-10-20T21:25:54Z",
+      "headline": "SpaceX CEO Musk Says He Thinks A Merger With Tesla Would Be A Good Idea",
+      "source": "benzinga",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62484355/spacex-ceo-musk-says-he-thinks-merger-tesla-would-be-good-idea"
+    },
+    {
+      "created_at": "2026-10-20T21:23:45Z",
+      "headline": "SpaceX CEO Musk Says Co And Tesla Have Formed Special Committees To Discuss Merger",
+      "source": "benzinga",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62484324/spacex-ceo-musk-says-co-and-tesla-have-formed-special-committees-discuss-merger"
+    },
+    {
+      "created_at": "2026-10-20T21:05:33Z",
+      "headline": "Netflix Executive Says We Expect To Deliver Strong Revenue Growth Into 2027",
+      "source": "benzinga",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62483892/netflix-executive-says-we-expect-deliver-strong-revenue-growth-2027"
+    },
+    {
+      "created_at": "2026-10-20T20:58:39Z",
+      "headline": "Netflix Co\u2011CEO Ted Sarandos Says We Do Need Better Execution In The US",
+      "source": "benzinga",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62483722/netflix-co-ceo-ted-sarandos-says-we-do-need-better-execution-us"
+    },
     {
       "created_at": "2026-10-20T20:49:17Z",
       "headline": "API Crude Oil Stock 4.93M Barrel Draw Vs 1.30M Barrel Draw Est.",
@@ -34,6 +119,24 @@
       "url": "https://www.benzinga.com/markets/earnings/26/10/62482952/netflix-q3-highlights-shares-slide-as-earnings-beat-overshadowed-by-weak-q4-guidance"
     },
     {
+      "created_at": "2026-10-20T20:31:35Z",
+      "headline": "Reported Departure of Netflix Film Head Dan Lin",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.avclub.com/article-type/news"
+    },
+    {
+      "created_at": "2026-10-20T20:31:30Z",
+      "headline": "JPMorgan Forecasts Bitcoin to Outperform Stocks Over Next Decade",
+      "source": "fiscal.ai",
+      "symbols": [
+        "JPM"
+      ],
+      "url": "https://www.baystreet.ca/cryptonews/1412/JPMorgan-Expects-Bitcoin-To-Outperform-Stocks-Over-The-Next-Decade"
+    },
+    {
       "created_at": "2026-10-20T20:31:14Z",
       "headline": "'Musk Ordered Starlink Slowdown That Blindsided Ukraine' - Wall Street Journal",
       "source": "benzinga",
@@ -42,6 +145,15 @@
         "VGK"
       ],
       "url": "https://www.benzinga.com/news/26/10/62482922/musk-ordered-starlink-slowdown-blindsided-ukraine-wall-street-journal"
+    },
+    {
+      "created_at": "2026-10-20T20:31:11Z",
+      "headline": "Jury Verdict in Mazza v. ExxonMobil Litigation",
+      "source": "fiscal.ai",
+      "symbols": [
+        "XOM"
+      ],
+      "url": "https://dailycallernewsfoundation.org/2026/10/20/exxon-defeats-gasoline-cancer-claim-as-oil-companies-fend-off-sprawling-lawfare-push/"
     },
     {
       "created_at": "2026-10-20T20:30:28Z",
@@ -88,139 +200,6 @@
         "NFLX"
       ],
       "url": "https://www.benzinga.com/news/earnings/26/10/62481632/netflix-q3-eps-0-59-misses-0-82-estimate-sales-11-510b-miss-12-876b-estimate"
-    },
-    {
-      "created_at": "2026-10-20T20:03:20Z",
-      "headline": "Netflix Sees Q4 GAAP EPS $0.67 vs $0.73 Est; Sees Sales $13.442B vs $13.517B Est",
-      "source": "benzinga",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62481592/netflix-sees-q4-gaap-eps-0-67-vs-0-73-est-sees-sales-13-442b-vs-13-517b-est"
-    },
-    {
-      "created_at": "2026-10-20T19:39:55Z",
-      "headline": "'Anthropic S-1 Shows Red-Hot Growth, Risks and Massive Computing Costs; In A New Draft Prospectus Viewed By The Journal, The AI Giant Disclosed An $80.7 Billion Net Loss For The First Half Of 2026 And A Long List Of Risk Factors' - WSJ Exclusive",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "GOOG",
-        "GOOGL",
-        "MSFT",
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62480903/anthropic-s-1-shows-red-hot-growth-risks-and-massive-computing-costs-new-draft-prospectus-viewed-jou"
-    },
-    {
-      "created_at": "2026-10-20T19:30:21Z",
-      "headline": "Meta Platforms, Tesla Could Swing More Than $100 Billion After Earnings",
-      "source": "benzinga",
-      "symbols": [
-        "DHR",
-        "IBM",
-        "LRCX",
-        "META",
-        "PM",
-        "T",
-        "TMO",
-        "TSLA",
-        "TXN"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62480628/meta-platforms-tesla-could-swing-more-than-100-billion-after-earnings"
-    },
-    {
-      "created_at": "2026-10-20T19:27:03Z",
-      "headline": "Claude Opus 5.5, Claude Sonnet 5.5 Are Now Available In Google Antigravity",
-      "source": "benzinga",
-      "symbols": [
-        "GOOG",
-        "GOOGL"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62480532/claude-opus-5-5-claude-sonnet-5-5-are-now-available-google-antigravity"
-    },
-    {
-      "created_at": "2026-10-20T19:16:23Z",
-      "headline": "AI\u2019s Most Watched Cooling Stock Has Fallen for 11 Straight Days: Analysts Now See a 50% Upside",
-      "source": "benzinga",
-      "symbols": [
-        "CAT",
-        "CRWV",
-        "EME",
-        "PWR",
-        "VRT"
-      ],
-      "url": "https://www.benzinga.com/markets/equities/26/10/62480190/vertiv-stock-longest-losing-streak-analysts-upside"
-    },
-    {
-      "created_at": "2026-10-20T19:15:22Z",
-      "headline": "GE Aerospace Turns To AI To Ease Engine Maintenance Bottlenecks",
-      "source": "benzinga",
-      "symbols": [
-        "GE"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62480151/ge-aerospace-ai-engine-maintenance"
-    },
-    {
-      "created_at": "2026-10-20T19:14:25Z",
-      "headline": "President Trump, On Endorsing Vance In 2028, Says It Is Very Early Right Now And That He Does Not Think They Ever Talked About A Vance 2028 Run",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62480126/president-trump-endorsing-vance-2028-says-it-very-early-right-now-and-he-does-not-think-they-ever-ta"
-    },
-    {
-      "created_at": "2026-10-20T19:12:35Z",
-      "headline": "'Big Short' Trader Danny Moses Calls CoreWeave the WeWork of AI",
-      "source": "benzinga",
-      "symbols": [
-        "BLK",
-        "CRWV",
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62480073/big-short-trader-danny-moses-calls-coreweave-the-wework-of-ai"
-    },
-    {
-      "created_at": "2026-10-20T18:47:01Z",
-      "headline": "'Amazon Is Buying Billions In NVIDIA AI Systems It Can't Yet Turn On' - Business Insider",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62479295/amazon-buying-billions-nvidia-ai-systems-it-can-t-yet-turn-business-insider"
-    },
-    {
-      "created_at": "2026-10-20T18:40:10Z",
-      "headline": "President Trump And Vice President JD Vance Make An Announcement; President Trump Says We'll Have More Growth This Year; Will Be Very Strong On Budget This Year",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62479085/president-trump-and-vice-president-jd-vance-make-announcement-president-trump-says-we-ll-have-more-g"
-    },
-    {
-      "created_at": "2026-10-20T18:15:09Z",
-      "headline": "Mastercard Taps Coinbase, Cloudflare as AI Agents Learn to Pay",
-      "source": "benzinga",
-      "symbols": [
-        "COIN",
-        "MA"
-      ],
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62478403/mastercard-taps-coinbase-cloudflare-as-ai-agents-learn-to-pay"
-    },
-    {
-      "created_at": "2026-10-20T18:11:26Z",
-      "headline": "SpaceX Prepares for Q3 Earnings with Focus on Starship, AI Spending",
-      "source": "benzinga",
-      "symbols": [
-        "NVDA",
-        "SPCX",
-        "T",
-        "TMUS",
-        "VZ"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62478257/spacex-prepares-for-q3-earnings-with-focus-on-starship-ai-spending"
     }
   ],
   "regime": "NEUTRAL",
@@ -259,14 +238,6 @@
       "symbol": "COST"
     },
     {
-      "news_score": 0.333333,
-      "price": 67.96,
-      "reason": "5d +1.2%; 20d +10.0%; vs SPY +10.4%; RSI 78; volume 1.5x; volatility 18.9%; news +0.33",
-      "relative_strength_20d": 0.103844,
-      "score": 0.63272,
-      "symbol": "XLE"
-    },
-    {
       "news_score": 0.0,
       "price": 620.52,
       "reason": "5d +2.6%; 20d +11.7%; vs SPY +12.1%; RSI 97; volume 1.0x; volatility 17.4%; news +0.00",
@@ -291,20 +262,28 @@
       "symbol": "XOM"
     },
     {
-      "news_score": 0.333333,
-      "price": 179.8,
-      "reason": "5d +5.9%; 20d +5.8%; vs SPY +6.2%; RSI 79; volume 1.0x; volatility 18.3%; news +0.33",
-      "relative_strength_20d": 0.061903,
-      "score": 0.613915,
-      "symbol": "XLV"
-    },
-    {
       "news_score": 0.0,
       "price": 117.9,
       "reason": "5d +5.0%; 20d +7.1%; vs SPY +7.4%; RSI 90; volume 0.9x; volatility 24.5%; news +0.00",
       "relative_strength_20d": 0.074186,
       "score": 0.601294,
       "symbol": "WMT"
+    },
+    {
+      "news_score": 0.0,
+      "price": 67.96,
+      "reason": "5d +1.2%; 20d +10.0%; vs SPY +10.4%; RSI 78; volume 1.5x; volatility 18.9%; news +0.00",
+      "relative_strength_20d": 0.103844,
+      "score": 0.58272,
+      "symbol": "XLE"
+    },
+    {
+      "news_score": 0.0,
+      "price": 179.8,
+      "reason": "5d +5.9%; 20d +5.8%; vs SPY +6.2%; RSI 79; volume 1.0x; volatility 18.3%; news +0.00",
+      "relative_strength_20d": 0.061903,
+      "score": 0.563915,
+      "symbol": "XLV"
     }
   ],
   "universe_size": 37
