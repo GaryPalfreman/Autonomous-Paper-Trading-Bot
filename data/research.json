@@ -1,284 +1,200 @@
 {
   "benchmark_above_20d_average": true,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 773.925,
+  "benchmark_price": 773.19,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.675676,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-21T17:48:10.390201+00:00",
-  "latest_market_timestamp": "2026-10-21T17:48:08.642627189Z",
-  "market_is_open": true,
+  "generated_at": "2026-10-21T21:04:20.401210+00:00",
+  "latest_market_timestamp": "2026-10-21T20:57:30.999466379Z",
+  "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
-  "next_close": "2026-10-21T16:00:00-04:00",
+  "next_close": "2026-10-22T16:00:00-04:00",
   "next_open": "2026-10-22T09:30:00-04:00",
   "recent_news": [
     {
-      "created_at": "2026-10-21T17:37:33Z",
-      "headline": "What's Driving Zscaler Stock Higher Wednesday?",
-      "source": "benzinga",
-      "symbols": [
-        "BUG",
-        "CIBR",
-        "IBM",
-        "IHAK",
-        "NVDA",
-        "ZS"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62505913/whats-driving-zscaler-stock-higher-wednesday"
-    },
-    {
-      "created_at": "2026-10-21T17:35:15Z",
-      "headline": "9 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "BABA",
-        "FUN",
-        "MCD",
-        "MELI",
-        "POOL",
-        "STLA",
-        "TJX",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62505789/9-consumer-discretionary-stocks-whale-activity-today-s-session"
-    },
-    {
-      "created_at": "2026-10-21T17:35:14Z",
-      "headline": "10 Industrials Stocks Whale Activity In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "BA",
-        "BE",
-        "CAT",
-        "FIX",
-        "GE",
-        "GEV",
-        "KTOS",
-        "RKLB",
-        "UPS",
-        "URI"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62505788/10-industrials-stocks-whale-activity-today-s-session"
-    },
-    {
-      "created_at": "2026-10-21T17:35:14Z",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "CIFR",
-        "INTC",
-        "IREN",
-        "LRCX",
-        "MSTR",
-        "NET",
-        "NVDA",
-        "ORCL",
-        "TEAM"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62505787/10-information-technology-stocks-whale-alerts-today-s-session"
-    },
-    {
-      "created_at": "2026-10-21T17:23:24Z",
-      "headline": "BNP Paribas Maintains Underperform on GE Aerospace, Lowers Price Target to $280",
-      "source": "benzinga",
-      "symbols": [
-        "GE"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62505471/bnp-paribas-maintains-underperform-ge-aerospace-lowers-price-target-280"
-    },
-    {
-      "created_at": "2026-10-21T17:20:08Z",
-      "headline": "Vertiv, Nvidia Target 30% More AI Token Output",
-      "source": "benzinga",
-      "symbols": [
-        "AIPO",
-        "BUIL",
-        "NVDA",
-        "TCAI",
-        "VRT"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62505366/vertiv-nvidia-target-30-more-ai-token-output"
-    },
-    {
-      "created_at": "2026-10-21T17:18:22Z",
-      "headline": "Meta Must Pay $25B In Penalties, New Mexico Judge Rules After Jury Found Company Misled Consumers About Privacy",
+      "created_at": "2026-10-21T21:00:12Z",
+      "headline": "Meta Platforms CFO Says Advertiser Adoption Of Our Video Generation Features Grew 25% Q/Q; Muse's Compute Intensity Means That Expanding Its User BASE Will Require Significant Investment, Expect Total Serving Costs To Rise",
       "source": "benzinga",
       "symbols": [
         "META"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62505308/meta-must-pay-25b-penalties-new-mexico-judge-rules-after-jury-found-company-misled-consumers-about-p"
+      "url": "https://www.benzinga.com/news/26/10/62513646/meta-platforms-cfo-says-advertiser-adoption-our-video-generation-features-grew-25-q-q-muse-s-compute"
     },
     {
-      "created_at": "2026-10-21T17:06:43Z",
-      "headline": "Oppenheimer Maintains Outperform on Netflix, Lowers Price Target to $80",
-      "source": "benzinga",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62504915/oppenheimer-maintains-outperform-netflix-lowers-price-target-80"
-    },
-    {
-      "created_at": "2026-10-21T17:05:04Z",
-      "headline": "Watching S&P, Oil Futures; Volume Surges As Traders Circulate U.S. Authorizes Offloading Cargo Involving Some Blocked Vessels",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62504799/watching-s-p-oil-futures-volume-surges-traders-circulate-u-s-authorizes-offloading-cargo-involving-s"
-    },
-    {
-      "created_at": "2026-10-21T17:02:19Z",
-      "headline": "SpaceX Jumps 10%, Nasdaq 100 Rises as AI Trade Returns: Stock Market Today",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "ABT",
-        "AMZN",
-        "BRKR",
-        "BROS",
-        "BTCUSD",
-        "CMG",
-        "CRL",
-        "DIA",
-        "DXCM",
-        "DY",
-        "ECHO",
-        "GLXY",
-        "GOOGL",
-        "IBM",
-        "IGV",
-        "ILMN",
-        "IWM",
-        "JETS",
-        "LRCX",
-        "MEDP",
-        "META",
-        "MSFT",
-        "MSTR",
-        "NFLX",
-        "NVDA",
-        "OIH",
-        "QQQ",
-        "SMCI",
-        "SMH",
-        "SPCX",
-        "T",
-        "TSLA",
-        "TXN",
-        "VOO",
-        "WING",
-        "XLC",
-        "XLK",
-        "XLV"
-      ],
-      "url": "https://www.benzinga.com/markets/equities/26/10/62504696/spacex-jumps-nasdaq-100-ai-trade-netflix-att-stock-market-today"
-    },
-    {
-      "created_at": "2026-10-21T17:00:51Z",
-      "headline": "UPDATE: Charles Gasparino Says \"Speculation is growing that Meta will issue new stock to finance a massive buildout of AI infrastructure \u2013 even as Wall Street grows increasingly skittish over whether the big bets will pay off, On The Money has learned.\" - NY POST",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62504618/update-charles-gasparino-says-speculation-growing-meta-will-issue-new-stock-finance-massive-buildout"
-    },
-    {
-      "created_at": "2026-10-21T16:50:47Z",
-      "headline": "U.S. Treasury Sanctions Iran-Linked Shipping Network, Issues New Iran And Russia General Licenses",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62504293/u-s-treasury-sanctions-iran-linked-shipping-network-issues-new-iran-and-russia-general-licenses"
-    },
-    {
-      "created_at": "2026-10-21T16:31:43Z",
-      "headline": "'Senators Express \u2018Grave Concerns,\u2019 Launch Inquiry Into Google\u2019s AI Push In Schools; Sens. Richard Blumenthal And Josh Hawley Wrote To CEO Sundar Pichai Following A Wall Street Journal Investigation' - WSJ Exclusive",
+      "created_at": "2026-10-21T20:55:51Z",
+      "headline": "'Google Stops Using Nondisclosure Agreements For Data Centers' - The Information",
       "source": "benzinga",
       "symbols": [
         "GOOG",
         "GOOGL"
       ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62503584/senators-express-grave-concerns-launch-inquiry-google-s-ai-push-schools-sens-richard-blumenthal-and-"
+      "url": "https://www.benzinga.com/news/26/10/62513317/google-stops-using-nondisclosure-agreements-data-centers-information"
     },
     {
-      "created_at": "2026-10-21T16:12:48Z",
-      "headline": "Tesla\u2019s China Business Could Be the Biggest Obstacle to a SpaceX Merger",
-      "source": "benzinga",
-      "symbols": [
-        "SPCX",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/m-a/26/10/62502869/tesla-china-spacex-merger"
-    },
-    {
-      "created_at": "2026-10-21T16:09:10Z",
-      "headline": "Netflix Stock Hits 2-Year Lows: Dan Ives Says Streamer Cut \u2018Two of the Numbers That Matter Most\u2019",
-      "source": "benzinga",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/10/62502631/netflix-stock-hits-2-year-lows-dan-ives-says-streamer-cut-two-of-the-numbers-that-matter-most"
-    },
-    {
-      "created_at": "2026-10-21T16:03:27Z",
-      "headline": "Meta's AI Engine Is Firing Up \u2014 Will Earnings Show It's Worth the Billions?",
+      "created_at": "2026-10-21T20:49:47Z",
+      "headline": "Meta CFO Says In Conference Call Instagram Global Time Spent Per User Hit Record In Q3, Up Double Digits Year-Over-Year; Facebook Reels Time Spent At Record Highs",
       "source": "benzinga",
       "symbols": [
         "META"
       ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62502442/metas-ai-engine-is-firing-up-will-earnings-show-its-worth-the-billions"
+      "url": "https://www.benzinga.com/content/62513114/meta-cfo-says-conference-call-instagram-global-time-spent-user-hit-record-q3-double-digits-year-over"
     },
     {
-      "created_at": "2026-10-21T15:52:45Z",
-      "headline": "'JPMorgan\u2019s Turkey Securities Unit Plans to Cease Operations' - Bloomberg",
+      "created_at": "2026-10-21T20:48:31Z",
+      "headline": "Meta Platform Announces Under Founder Alignment Agreement, 20% Of Shares Of Class C Common Stock To Be Issued To Holder Group In Stock Dividend Will Be Freely Saleable; Other 80% Of Shares Of Class C Common Stock Will Be Subject To Sale And Transfer Restrictions",
       "source": "benzinga",
       "symbols": [
-        "JPM"
+        "META"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62501996/jpmorgan-s-turkey-securities-unit-plans-cease-operations-bloomberg"
+      "url": "https://www.benzinga.com/news/26/10/62513065/meta-platform-announces-under-founder-alignment-agreement-20-shares-class-c-common-stock-be-issued-h"
     },
     {
-      "created_at": "2026-10-21T15:45:17Z",
-      "headline": "Here's How Much $1000 Invested In Broadcom 15 Years Ago Would Be Worth Today",
+      "created_at": "2026-10-21T20:46:55Z",
+      "headline": "Tesla Says Q3 Automotive Gross Margin Excluding Regulatory Credit Sales On Non-GAAP Basis Of 18.1%",
       "source": "benzinga",
       "symbols": [
-        "AVGO"
+        "TSLA"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62501776/here-s-how-much-1000-invested-broadcom-15-years-ago-would-be-worth-today"
+      "url": "https://www.benzinga.com/quote/TSLA"
     },
     {
-      "created_at": "2026-10-21T15:44:50Z",
-      "headline": "Trump to Tout Crypto Scam Crackdown at White House Event Wednesday",
+      "created_at": "2026-10-21T20:46:45Z",
+      "headline": "Congressman Could Be Down 2.65x Annual Salary by Betting on Netflix Stock: Here\u2019s the Math",
       "source": "benzinga",
       "symbols": [
-        "COIN",
-        "GOOGL",
-        "META",
-        "MSFT",
-        "TRUMPUSD"
+        "NFLX"
       ],
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62501746/trump-to-tout-crypto-scam-crackdown-at-white-house-event-wednesday"
+      "url": "https://www.benzinga.com/news/politics/26/10/62513022/congressman-could-be-down-2-65x-annual-salary-by-betting-on-netflix-stock-heres-the-math"
     },
     {
-      "created_at": "2026-10-21T15:37:57Z",
-      "headline": "Supermicro AI-RAN Deal Targets 5G Efficiency and Future 6G Networks",
+      "created_at": "2026-10-21T20:45:43Z",
+      "headline": "Tesla On AI Compute Says Continued Construction For Austin Fab, Where We Plan To Start Commissioning Equipment In 2027",
       "source": "benzinga",
       "symbols": [
-        "ENTR",
-        "NOK",
-        "NVDA",
-        "RISN",
-        "SMCI",
-        "SMCY"
+        "TSLA"
       ],
-      "url": "https://www.benzinga.com/markets/large-cap/26/10/62501526/supermicro-ai-ran-deal-targets-5g-efficiency-and-future-6g-networks"
+      "url": "https://www.benzinga.com/quote/TSLA"
+    },
+    {
+      "created_at": "2026-10-21T20:44:33Z",
+      "headline": "Meta CEO Says We Are Also Working On New Smaller Models That Are Coming Out Soon And Will Deliver Muse Wonder Level Intelligence More Efficiently; Glasses Sales Continue To Grow Rapidly; Now With Muse, We Expect Paid Subscriptions Will Increase",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62512962/meta-ceo-says-we-are-also-working-new-smaller-models-are-coming-out-soon-and-will-deliver-muse-wonde"
+    },
+    {
+      "created_at": "2026-10-21T20:44:10Z",
+      "headline": "Tesla Says Production Has Begun For Tesla Semi In Nevada And Optimus In Fremont",
+      "source": "benzinga",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/quote/TSLA"
+    },
+    {
+      "created_at": "2026-10-21T20:38:20Z",
+      "headline": "Meta Platforms CEO Says More Than 10M People In U.S., Canada Have Set Up Muse Personal Agents In Just A Month And A Half; We Expect To Grow Muse To Serve Billions Of People; Sees Muse AI Potentially Generating Higher Revenue Per User Than Family Of Apps",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62512694/meta-platforms-ceo-says-more-10m-people-u-s-canada-have-set-muse-personal-agents-just-month-and-half"
+    },
+    {
+      "created_at": "2026-10-21T20:33:34Z",
+      "headline": "Meta Platforms Says Co. Entered Into A Founder Alignment Agreement With Mark Zuckerberg",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62512511/meta-platforms-says-co-entered-founder-alignment-agreement-mark-zuckerberg"
+    },
+    {
+      "created_at": "2026-10-21T20:31:57Z",
+      "headline": "Meta Platforms Says AI Investments Benefits Delivering To Core Business Position Us To Sustain Strong Overall Revenue Growth Throughout 2027; Beyond 2026, Expect To Continue Investing Aggressively To Support Both Our Core Business And Emerging AI Initiatives",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62512409/meta-platforms-says-ai-investments-benefits-delivering-core-business-position-us-sustain-strong-over"
+    },
+    {
+      "created_at": "2026-10-21T20:31:36Z",
+      "headline": "Apple Confirms Apple Pencil Support for iPhone Duo via iOS 27.2",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://appleosophy.com/wire/396es5h/"
+    },
+    {
+      "created_at": "2026-10-21T20:31:34Z",
+      "headline": "Bank of America Declares Quarterly Dividends",
+      "source": "fiscal.ai",
+      "symbols": [
+        "BAC"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-fourth-quarter-2026-stock-dividends-302915305.html"
+    },
+    {
+      "created_at": "2026-10-21T20:31:33Z",
+      "headline": "Meta Platforms, Inc. Reports Third Quarter 2026 Financial Results",
+      "source": "fiscal.ai",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html"
+    },
+    {
+      "created_at": "2026-10-21T20:31:08Z",
+      "headline": "Tesla Q3 Highlights: Double Beat, Highest Passenger Vehicle Backlog in Four Years",
+      "source": "benzinga",
+      "symbols": [
+        "BTCUSD",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/markets/earnings/26/10/62512363/tesla-q3-highlights-double-beat-highest-passenger-vehicle-backlog-in-four-years"
+    },
+    {
+      "created_at": "2026-10-21T20:30:26Z",
+      "headline": "If You Invested $100 In Eli Lilly Stock 20 Years Ago, You Would Have This Much Today",
+      "source": "benzinga",
+      "symbols": [
+        "LLY"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62512329/if-you-invested-100-eli-lilly-stock-20-years-ago-you-would-have-much-today"
+    },
+    {
+      "created_at": "2026-10-21T20:30:23Z",
+      "headline": "Meta Platforms Says  Family Daily Active People Was 3.64B On Average For September 2026;  Headcount Was 66,775 As Of September 30, 2026, A Decrease Of 15% YoY; Co.  Not Providing A FY 2027 Revenue Outlook",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62512328/meta-platforms-says-family-daily-active-people-was-3-64b-average-september-2026-headcount-was-66-775"
+    },
+    {
+      "created_at": "2026-10-21T20:21:34Z",
+      "headline": "Meta Posts Q3 Double Beat: 'We're Seeing Velocity Across the Board'",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/markets/earnings/26/10/62511966/meta-posts-q3-double-beat-were-seeing-velocity-across-the-board"
+    },
+    {
+      "created_at": "2026-10-21T20:04:02Z",
+      "headline": "Meta Platforms Board Approves Creation Of New Public Class C Common Shares, Effective Jan. 19, 2027",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62510623/meta-platforms-board-approves-creation-of-new-public-class-c-common-shares-effective-january-2027"
     }
   ],
   "regime": "RISK_ON",
@@ -286,83 +202,83 @@
   "top_candidates": [
     {
       "news_score": 0.0,
-      "price": 409.475,
-      "reason": "5d +4.6%; 20d +13.3%; vs SPY +12.5%; RSI 92; volume 0.7x; volatility 18.3%; news +0.00",
-      "relative_strength_20d": 0.125077,
-      "score": 0.686986,
+      "price": 407.83,
+      "reason": "5d +4.2%; 20d +12.8%; vs SPY +12.1%; RSI 92; volume 1.0x; volatility 18.4%; news +0.00",
+      "relative_strength_20d": 0.121483,
+      "score": 0.704625,
       "symbol": "V"
     },
     {
-      "news_score": 0.0,
-      "price": 415.64,
-      "reason": "5d +5.0%; 20d +12.0%; vs SPY +11.2%; RSI 77; volume 0.6x; volatility 27.9%; news +0.00",
-      "relative_strength_20d": 0.111702,
-      "score": 0.683668,
+      "news_score": -0.333333,
+      "price": 416.86,
+      "reason": "5d +5.3%; 20d +12.3%; vs SPY +11.6%; RSI 78; volume 0.8x; volatility 27.7%; news -0.33",
+      "relative_strength_20d": 0.115945,
+      "score": 0.665688,
       "symbol": "UNH"
     },
     {
       "news_score": 0.0,
-      "price": 1270.675,
-      "reason": "5d +4.9%; 20d +10.3%; vs SPY +9.6%; RSI 75; volume 0.4x; volatility 28.9%; news +0.00",
-      "relative_strength_20d": 0.095617,
-      "score": 0.607541,
+      "price": 1270.89,
+      "reason": "5d +5.0%; 20d +10.4%; vs SPY +9.7%; RSI 75; volume 0.6x; volatility 28.9%; news +0.00",
+      "relative_strength_20d": 0.096761,
+      "score": 0.641134,
       "symbol": "LLY"
     },
     {
       "news_score": 0.0,
-      "price": 623.115,
-      "reason": "5d +3.3%; 20d +11.4%; vs SPY +10.7%; RSI 96; volume 0.5x; volatility 17.4%; news +0.00",
-      "relative_strength_20d": 0.10665,
-      "score": 0.584612,
+      "price": 622.565,
+      "reason": "5d +3.2%; 20d +11.3%; vs SPY +10.7%; RSI 97; volume 0.9x; volatility 17.4%; news +0.00",
+      "relative_strength_20d": 0.106623,
+      "score": 0.628425,
       "symbol": "MA"
     },
     {
       "news_score": 0.0,
-      "price": 1002.705,
-      "reason": "5d +2.1%; 20d +10.9%; vs SPY +10.1%; RSI 89; volume 0.3x; volatility 17.3%; news +0.00",
-      "relative_strength_20d": 0.100816,
-      "score": 0.491689,
+      "price": 226.76,
+      "reason": "5d +2.1%; 20d +10.4%; vs SPY +9.7%; RSI 81; volume 0.8x; volatility 18.8%; news +0.00",
+      "relative_strength_20d": 0.096713,
+      "score": 0.542893,
+      "symbol": "CVX"
+    },
+    {
+      "news_score": 0.0,
+      "price": 998.59,
+      "reason": "5d +1.7%; 20d +10.4%; vs SPY +9.7%; RSI 88; volume 0.7x; volatility 17.3%; news +0.00",
+      "relative_strength_20d": 0.097224,
+      "score": 0.50597,
       "symbol": "COST"
     },
     {
       "news_score": 0.0,
-      "price": 315.285,
-      "reason": "5d +6.7%; 20d +6.2%; vs SPY +5.4%; RSI 83; volume 0.3x; volatility 24.9%; news +0.00",
-      "relative_strength_20d": 0.054403,
-      "score": 0.463054,
+      "price": 314.095,
+      "reason": "5d +6.3%; 20d +5.8%; vs SPY +5.1%; RSI 82; volume 0.5x; volatility 24.9%; news +0.00",
+      "relative_strength_20d": 0.051351,
+      "score": 0.47719,
       "symbol": "HD"
     },
     {
       "news_score": 0.0,
-      "price": 225.36,
-      "reason": "5d +1.5%; 20d +9.7%; vs SPY +8.9%; RSI 79; volume 0.4x; volatility 18.8%; news +0.00",
-      "relative_strength_20d": 0.088942,
-      "score": 0.427496,
-      "symbol": "CVX"
-    },
-    {
-      "news_score": 0.166667,
-      "price": 264.22,
-      "reason": "5d +3.9%; 20d +6.0%; vs SPY +5.2%; RSI 63; volume 0.7x; volatility 27.7%; news +0.17",
-      "relative_strength_20d": 0.051701,
-      "score": 0.423259,
-      "symbol": "AMZN"
-    },
-    {
-      "news_score": 0.0,
-      "price": 177.48,
-      "reason": "5d +0.3%; 20d +10.0%; vs SPY +9.3%; RSI 81; volume 0.6x; volatility 17.4%; news +0.00",
-      "relative_strength_20d": 0.09264,
-      "score": 0.403459,
+      "price": 178.08,
+      "reason": "5d +0.6%; 20d +10.4%; vs SPY +9.7%; RSI 82; volume 0.8x; volatility 17.3%; news +0.00",
+      "relative_strength_20d": 0.097317,
+      "score": 0.473001,
       "symbol": "XOM"
     },
     {
       "news_score": 0.0,
-      "price": 178.455,
-      "reason": "5d +2.6%; 20d +5.7%; vs SPY +4.9%; RSI 75; volume 0.9x; volatility 18.3%; news +0.00",
-      "relative_strength_20d": 0.049391,
-      "score": 0.398091,
+      "price": 178.915,
+      "reason": "5d +2.9%; 20d +6.0%; vs SPY +5.3%; RSI 77; volume 1.2x; volatility 18.2%; news +0.00",
+      "relative_strength_20d": 0.053073,
+      "score": 0.466359,
       "symbol": "XLV"
+    },
+    {
+      "news_score": 0.0,
+      "price": 68.16,
+      "reason": "5d +0.8%; 20d +9.3%; vs SPY +8.6%; RSI 79; volume 0.9x; volatility 18.8%; news +0.00",
+      "relative_strength_20d": 0.085808,
+      "score": 0.450143,
+      "symbol": "XLE"
     }
   ],
   "universe_size": 37
