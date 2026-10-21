@@ -1,288 +1,367 @@
 {
-  "benchmark_above_20d_average": false,
+  "benchmark_above_20d_average": true,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 770.63,
+  "benchmark_price": 773.925,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.621622,
+  "breadth_above_20d_average": 0.675676,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-20T23:33:02.002580+00:00",
-  "latest_market_timestamp": "2026-10-20T20:56:17.549138313Z",
-  "market_is_open": false,
+  "generated_at": "2026-10-21T17:48:10.390201+00:00",
+  "latest_market_timestamp": "2026-10-21T17:48:08.642627189Z",
+  "market_is_open": true,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
   "next_close": "2026-10-21T16:00:00-04:00",
-  "next_open": "2026-10-21T09:30:00-04:00",
+  "next_open": "2026-10-22T09:30:00-04:00",
   "recent_news": [
     {
-      "created_at": "2026-10-20T23:01:50Z",
-      "headline": "Netflix Reports Q3 2026 Financial Results",
-      "source": "fiscal.ai",
+      "created_at": "2026-10-21T17:37:33Z",
+      "headline": "What's Driving Zscaler Stock Higher Wednesday?",
+      "source": "benzinga",
+      "symbols": [
+        "BUG",
+        "CIBR",
+        "IBM",
+        "IHAK",
+        "NVDA",
+        "ZS"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62505913/whats-driving-zscaler-stock-higher-wednesday"
+    },
+    {
+      "created_at": "2026-10-21T17:35:15Z",
+      "headline": "9 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "BABA",
+        "FUN",
+        "MCD",
+        "MELI",
+        "POOL",
+        "STLA",
+        "TJX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/10/62505789/9-consumer-discretionary-stocks-whale-activity-today-s-session"
+    },
+    {
+      "created_at": "2026-10-21T17:35:14Z",
+      "headline": "10 Industrials Stocks Whale Activity In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "BA",
+        "BE",
+        "CAT",
+        "FIX",
+        "GE",
+        "GEV",
+        "KTOS",
+        "RKLB",
+        "UPS",
+        "URI"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/10/62505788/10-industrials-stocks-whale-activity-today-s-session"
+    },
+    {
+      "created_at": "2026-10-21T17:35:14Z",
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "CIFR",
+        "INTC",
+        "IREN",
+        "LRCX",
+        "MSTR",
+        "NET",
+        "NVDA",
+        "ORCL",
+        "TEAM"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/10/62505787/10-information-technology-stocks-whale-alerts-today-s-session"
+    },
+    {
+      "created_at": "2026-10-21T17:23:24Z",
+      "headline": "BNP Paribas Maintains Underperform on GE Aerospace, Lowers Price Target to $280",
+      "source": "benzinga",
+      "symbols": [
+        "GE"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62505471/bnp-paribas-maintains-underperform-ge-aerospace-lowers-price-target-280"
+    },
+    {
+      "created_at": "2026-10-21T17:20:08Z",
+      "headline": "Vertiv, Nvidia Target 30% More AI Token Output",
+      "source": "benzinga",
+      "symbols": [
+        "AIPO",
+        "BUIL",
+        "NVDA",
+        "TCAI",
+        "VRT"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62505366/vertiv-nvidia-target-30-more-ai-token-output"
+    },
+    {
+      "created_at": "2026-10-21T17:18:22Z",
+      "headline": "Meta Must Pay $25B In Penalties, New Mexico Judge Rules After Jury Found Company Misled Consumers About Privacy",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62505308/meta-must-pay-25b-penalties-new-mexico-judge-rules-after-jury-found-company-misled-consumers-about-p"
+    },
+    {
+      "created_at": "2026-10-21T17:06:43Z",
+      "headline": "Oppenheimer Maintains Outperform on Netflix, Lowers Price Target to $80",
+      "source": "benzinga",
       "symbols": [
         "NFLX"
       ],
-      "url": "https://michaelwest.com.au/netflix-revenue-and-profit-grows-in-third-quarter/"
+      "url": "https://www.benzinga.com/news/26/10/62504915/oppenheimer-maintains-outperform-netflix-lowers-price-target-80"
     },
     {
-      "created_at": "2026-10-20T23:01:34Z",
-      "headline": "Tesla and SpaceX Explore Potential Merger",
-      "source": "fiscal.ai",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.morningstar.com/news/marketwatch/20261020419/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger"
-    },
-    {
-      "created_at": "2026-10-20T22:07:34Z",
-      "headline": "Elon Musk Says AI Could Be a Threat, but He Can\u2019t Stop It: \u2018Be Participant or be a Spectator\u2019",
-      "source": "benzinga",
-      "symbols": [
-        "SPCX",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62484767/elon-musk-says-ai-could-be-a-threat-but-he-cant-stop-it-be-participant-or-be-a-spectator"
-    },
-    {
-      "created_at": "2026-10-20T21:55:45Z",
-      "headline": "Elon Musk Confirms SpaceX, Tesla Merger Committees, Calls Deal \u2018A Good Idea\u2019",
-      "source": "benzinga",
-      "symbols": [
-        "SPCX",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62484678/elon-musk-confirms-spacex-tesla-merger-committees-calls-deal-a-good-idea"
-    },
-    {
-      "created_at": "2026-10-20T21:34:03Z",
-      "headline": "Netflix Q3 2026 Earnings Call Transcript",
-      "source": "benzinga",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62484446/netflix-q3-2026-earnings-call-transcript"
-    },
-    {
-      "created_at": "2026-10-20T21:25:54Z",
-      "headline": "SpaceX CEO Musk Says He Thinks A Merger With Tesla Would Be A Good Idea",
-      "source": "benzinga",
-      "symbols": [
-        "SPCX",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62484355/spacex-ceo-musk-says-he-thinks-merger-tesla-would-be-good-idea"
-    },
-    {
-      "created_at": "2026-10-20T21:23:45Z",
-      "headline": "SpaceX CEO Musk Says Co And Tesla Have Formed Special Committees To Discuss Merger",
-      "source": "benzinga",
-      "symbols": [
-        "SPCX",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62484324/spacex-ceo-musk-says-co-and-tesla-have-formed-special-committees-discuss-merger"
-    },
-    {
-      "created_at": "2026-10-20T21:05:33Z",
-      "headline": "Netflix Executive Says We Expect To Deliver Strong Revenue Growth Into 2027",
-      "source": "benzinga",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62483892/netflix-executive-says-we-expect-deliver-strong-revenue-growth-2027"
-    },
-    {
-      "created_at": "2026-10-20T20:58:39Z",
-      "headline": "Netflix Co\u2011CEO Ted Sarandos Says We Do Need Better Execution In The US",
-      "source": "benzinga",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62483722/netflix-co-ceo-ted-sarandos-says-we-do-need-better-execution-us"
-    },
-    {
-      "created_at": "2026-10-20T20:49:17Z",
-      "headline": "API Crude Oil Stock 4.93M Barrel Draw Vs 1.30M Barrel Draw Est.",
+      "created_at": "2026-10-21T17:05:04Z",
+      "headline": "Watching S&P, Oil Futures; Volume Surges As Traders Circulate U.S. Authorizes Offloading Cargo Involving Some Blocked Vessels",
       "source": "benzinga",
       "symbols": [
         "SPY",
         "USO"
       ],
-      "url": "https://www.benzinga.com/quote/SPY"
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62504799/watching-s-p-oil-futures-volume-surges-traders-circulate-u-s-authorizes-offloading-cargo-involving-s"
     },
     {
-      "created_at": "2026-10-20T20:32:29Z",
-      "headline": "Netflix Q3 Highlights: Shares Slide As Earnings Beat Overshadowed by Weak Q4 Guidance",
+      "created_at": "2026-10-21T17:02:19Z",
+      "headline": "SpaceX Jumps 10%, Nasdaq 100 Rises as AI Trade Returns: Stock Market Today",
       "source": "benzinga",
       "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/markets/earnings/26/10/62482952/netflix-q3-highlights-shares-slide-as-earnings-beat-overshadowed-by-weak-q4-guidance"
-    },
-    {
-      "created_at": "2026-10-20T20:31:35Z",
-      "headline": "Reported Departure of Netflix Film Head Dan Lin",
-      "source": "fiscal.ai",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.avclub.com/article-type/news"
-    },
-    {
-      "created_at": "2026-10-20T20:31:30Z",
-      "headline": "JPMorgan Forecasts Bitcoin to Outperform Stocks Over Next Decade",
-      "source": "fiscal.ai",
-      "symbols": [
-        "JPM"
-      ],
-      "url": "https://www.baystreet.ca/cryptonews/1412/JPMorgan-Expects-Bitcoin-To-Outperform-Stocks-Over-The-Next-Decade"
-    },
-    {
-      "created_at": "2026-10-20T20:31:14Z",
-      "headline": "'Musk Ordered Starlink Slowdown That Blindsided Ukraine' - Wall Street Journal",
-      "source": "benzinga",
-      "symbols": [
-        "TSLA",
-        "VGK"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62482922/musk-ordered-starlink-slowdown-blindsided-ukraine-wall-street-journal"
-    },
-    {
-      "created_at": "2026-10-20T20:31:11Z",
-      "headline": "Jury Verdict in Mazza v. ExxonMobil Litigation",
-      "source": "fiscal.ai",
-      "symbols": [
-        "XOM"
-      ],
-      "url": "https://dailycallernewsfoundation.org/2026/10/20/exxon-defeats-gasoline-cancer-claim-as-oil-companies-fend-off-sprawling-lawfare-push/"
-    },
-    {
-      "created_at": "2026-10-20T20:30:28Z",
-      "headline": "Jamie Dimon Once Called Bitcoin a 'Fraud'\u2014Now JP Morgan Projects 10% Annualized Returns",
-      "source": "benzinga",
-      "symbols": [
+        "AAPL",
+        "ABT",
+        "AMZN",
+        "BRKR",
+        "BROS",
         "BTCUSD",
+        "CMG",
+        "CRL",
+        "DIA",
+        "DXCM",
+        "DY",
+        "ECHO",
+        "GLXY",
+        "GOOGL",
+        "IBM",
+        "IGV",
+        "ILMN",
+        "IWM",
+        "JETS",
+        "LRCX",
+        "MEDP",
+        "META",
+        "MSFT",
+        "MSTR",
+        "NFLX",
+        "NVDA",
+        "OIH",
+        "QQQ",
+        "SMCI",
+        "SMH",
+        "SPCX",
+        "T",
+        "TSLA",
+        "TXN",
+        "VOO",
+        "WING",
+        "XLC",
+        "XLK",
+        "XLV"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/10/62504696/spacex-jumps-nasdaq-100-ai-trade-netflix-att-stock-market-today"
+    },
+    {
+      "created_at": "2026-10-21T17:00:51Z",
+      "headline": "UPDATE: Charles Gasparino Says \"Speculation is growing that Meta will issue new stock to finance a massive buildout of AI infrastructure \u2013 even as Wall Street grows increasingly skittish over whether the big bets will pay off, On The Money has learned.\" - NY POST",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62504618/update-charles-gasparino-says-speculation-growing-meta-will-issue-new-stock-finance-massive-buildout"
+    },
+    {
+      "created_at": "2026-10-21T16:50:47Z",
+      "headline": "U.S. Treasury Sanctions Iran-Linked Shipping Network, Issues New Iran And Russia General Licenses",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "USO"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62504293/u-s-treasury-sanctions-iran-linked-shipping-network-issues-new-iran-and-russia-general-licenses"
+    },
+    {
+      "created_at": "2026-10-21T16:31:43Z",
+      "headline": "'Senators Express \u2018Grave Concerns,\u2019 Launch Inquiry Into Google\u2019s AI Push In Schools; Sens. Richard Blumenthal And Josh Hawley Wrote To CEO Sundar Pichai Following A Wall Street Journal Investigation' - WSJ Exclusive",
+      "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62503584/senators-express-grave-concerns-launch-inquiry-google-s-ai-push-schools-sens-richard-blumenthal-and-"
+    },
+    {
+      "created_at": "2026-10-21T16:12:48Z",
+      "headline": "Tesla\u2019s China Business Could Be the Biggest Obstacle to a SpaceX Merger",
+      "source": "benzinga",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/m-a/26/10/62502869/tesla-china-spacex-merger"
+    },
+    {
+      "created_at": "2026-10-21T16:09:10Z",
+      "headline": "Netflix Stock Hits 2-Year Lows: Dan Ives Says Streamer Cut \u2018Two of the Numbers That Matter Most\u2019",
+      "source": "benzinga",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/10/62502631/netflix-stock-hits-2-year-lows-dan-ives-says-streamer-cut-two-of-the-numbers-that-matter-most"
+    },
+    {
+      "created_at": "2026-10-21T16:03:27Z",
+      "headline": "Meta's AI Engine Is Firing Up \u2014 Will Earnings Show It's Worth the Billions?",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62502442/metas-ai-engine-is-firing-up-will-earnings-show-its-worth-the-billions"
+    },
+    {
+      "created_at": "2026-10-21T15:52:45Z",
+      "headline": "'JPMorgan\u2019s Turkey Securities Unit Plans to Cease Operations' - Bloomberg",
+      "source": "benzinga",
+      "symbols": [
         "JPM"
       ],
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62482863/jamie-dimon-once-called-bitcoin-a-fraud-now-jp-morgan-projects-10-annualized-returns"
+      "url": "https://www.benzinga.com/news/26/10/62501996/jpmorgan-s-turkey-securities-unit-plans-cease-operations-bloomberg"
     },
     {
-      "created_at": "2026-10-20T20:20:25Z",
-      "headline": "Netflix Will Introduce Advertising Tier To 15 New Countries In 2027; Adjusted Expected 2026 FCF Forecast To ~$12B Vs. Prior Projection Of $12.5B",
+      "created_at": "2026-10-21T15:45:17Z",
+      "headline": "Here's How Much $1000 Invested In Broadcom 15 Years Ago Would Be Worth Today",
       "source": "benzinga",
       "symbols": [
-        "NFLX"
+        "AVGO"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62482535/netflix-will-introduce-advertising-tier-15-new-countries-2027-adjusted-expected-2026-fcf-forecast-12"
+      "url": "https://www.benzinga.com/news/26/10/62501776/here-s-how-much-1000-invested-broadcom-15-years-ago-would-be-worth-today"
     },
     {
-      "created_at": "2026-10-20T20:10:39Z",
-      "headline": "CORRECTION: Netflix Q3 EPS $0.87 Beats $0.82 Estimate, Sales $12.874B Miss $12.876B Estimate",
+      "created_at": "2026-10-21T15:44:50Z",
+      "headline": "Trump to Tout Crypto Scam Crackdown at White House Event Wednesday",
       "source": "benzinga",
       "symbols": [
-        "NFLX"
+        "COIN",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "TRUMPUSD"
       ],
-      "url": "https://www.benzinga.com/news/earnings/26/10/62482083/correction-netflix-q3-eps-0-87-beats-0-82-estimate-sales-12-874b-miss-12-876b-estimate"
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62501746/trump-to-tout-crypto-scam-crackdown-at-white-house-event-wednesday"
     },
     {
-      "created_at": "2026-10-20T20:03:57Z",
-      "headline": "Netflix Narrows FY2026 Sales Guidance from $51.000B-$51.400B to $51.100B vs $51.230B Est",
+      "created_at": "2026-10-21T15:37:57Z",
+      "headline": "Supermicro AI-RAN Deal Targets 5G Efficiency and Future 6G Networks",
       "source": "benzinga",
       "symbols": [
-        "NFLX"
+        "ENTR",
+        "NOK",
+        "NVDA",
+        "RISN",
+        "SMCI",
+        "SMCY"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62481638/netflix-narrows-fy2026-sales-guidance-51-000b-51-400b-51-100b-vs-51-230b-est"
-    },
-    {
-      "created_at": "2026-10-20T20:03:54Z",
-      "headline": "Netflix Q3 EPS $0.59 Misses $0.82 Estimate, Sales $11.510B Miss $12.876B Estimate",
-      "source": "benzinga",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/news/earnings/26/10/62481632/netflix-q3-eps-0-59-misses-0-82-estimate-sales-11-510b-miss-12-876b-estimate"
+      "url": "https://www.benzinga.com/markets/large-cap/26/10/62501526/supermicro-ai-ran-deal-targets-5g-efficiency-and-future-6g-networks"
     }
   ],
-  "regime": "NEUTRAL",
-  "regime_score": 0.072973,
+  "regime": "RISK_ON",
+  "regime_score": 0.805405,
   "top_candidates": [
     {
       "news_score": 0.0,
-      "price": 419.47,
-      "reason": "5d +11.1%; 20d +12.5%; vs SPY +12.9%; RSI 82; volume 1.5x; volatility 27.6%; news +0.00",
-      "relative_strength_20d": 0.128519,
-      "score": 0.814572,
-      "symbol": "UNH"
-    },
-    {
-      "news_score": 0.0,
-      "price": 1284.9,
-      "reason": "5d +10.1%; 20d +9.7%; vs SPY +10.1%; RSI 77; volume 1.7x; volatility 29.3%; news +0.00",
-      "relative_strength_20d": 0.101032,
-      "score": 0.785446,
-      "symbol": "LLY"
-    },
-    {
-      "news_score": 0.0,
-      "price": 406.9,
-      "reason": "5d +2.7%; 20d +12.4%; vs SPY +12.7%; RSI 92; volume 1.6x; volatility 18.6%; news +0.00",
-      "relative_strength_20d": 0.127356,
-      "score": 0.716815,
+      "price": 409.475,
+      "reason": "5d +4.6%; 20d +13.3%; vs SPY +12.5%; RSI 92; volume 0.7x; volatility 18.3%; news +0.00",
+      "relative_strength_20d": 0.125077,
+      "score": 0.686986,
       "symbol": "V"
     },
     {
       "news_score": 0.0,
-      "price": 994.325,
-      "reason": "5d +4.2%; 20d +10.6%; vs SPY +10.9%; RSI 88; volume 1.0x; volatility 17.3%; news +0.00",
-      "relative_strength_20d": 0.109243,
-      "score": 0.674471,
-      "symbol": "COST"
+      "price": 415.64,
+      "reason": "5d +5.0%; 20d +12.0%; vs SPY +11.2%; RSI 77; volume 0.6x; volatility 27.9%; news +0.00",
+      "relative_strength_20d": 0.111702,
+      "score": 0.683668,
+      "symbol": "UNH"
     },
     {
       "news_score": 0.0,
-      "price": 620.52,
-      "reason": "5d +2.6%; 20d +11.7%; vs SPY +12.1%; RSI 97; volume 1.0x; volatility 17.4%; news +0.00",
-      "relative_strength_20d": 0.121103,
-      "score": 0.623761,
+      "price": 1270.675,
+      "reason": "5d +4.9%; 20d +10.3%; vs SPY +9.6%; RSI 75; volume 0.4x; volatility 28.9%; news +0.00",
+      "relative_strength_20d": 0.095617,
+      "score": 0.607541,
+      "symbol": "LLY"
+    },
+    {
+      "news_score": 0.0,
+      "price": 623.115,
+      "reason": "5d +3.3%; 20d +11.4%; vs SPY +10.7%; RSI 96; volume 0.5x; volatility 17.4%; news +0.00",
+      "relative_strength_20d": 0.10665,
+      "score": 0.584612,
       "symbol": "MA"
     },
     {
       "news_score": 0.0,
-      "price": 225.66,
-      "reason": "5d +3.6%; 20d +11.5%; vs SPY +11.8%; RSI 80; volume 0.7x; volatility 19.1%; news +0.00",
-      "relative_strength_20d": 0.118224,
-      "score": 0.623306,
-      "symbol": "CVX"
+      "price": 1002.705,
+      "reason": "5d +2.1%; 20d +10.9%; vs SPY +10.1%; RSI 89; volume 0.3x; volatility 17.3%; news +0.00",
+      "relative_strength_20d": 0.100816,
+      "score": 0.491689,
+      "symbol": "COST"
     },
     {
       "news_score": 0.0,
-      "price": 177.88,
-      "reason": "5d +2.2%; 20d +12.1%; vs SPY +12.5%; RSI 82; volume 1.0x; volatility 17.7%; news +0.00",
-      "relative_strength_20d": 0.124631,
-      "score": 0.614986,
+      "price": 315.285,
+      "reason": "5d +6.7%; 20d +6.2%; vs SPY +5.4%; RSI 83; volume 0.3x; volatility 24.9%; news +0.00",
+      "relative_strength_20d": 0.054403,
+      "score": 0.463054,
+      "symbol": "HD"
+    },
+    {
+      "news_score": 0.0,
+      "price": 225.36,
+      "reason": "5d +1.5%; 20d +9.7%; vs SPY +8.9%; RSI 79; volume 0.4x; volatility 18.8%; news +0.00",
+      "relative_strength_20d": 0.088942,
+      "score": 0.427496,
+      "symbol": "CVX"
+    },
+    {
+      "news_score": 0.166667,
+      "price": 264.22,
+      "reason": "5d +3.9%; 20d +6.0%; vs SPY +5.2%; RSI 63; volume 0.7x; volatility 27.7%; news +0.17",
+      "relative_strength_20d": 0.051701,
+      "score": 0.423259,
+      "symbol": "AMZN"
+    },
+    {
+      "news_score": 0.0,
+      "price": 177.48,
+      "reason": "5d +0.3%; 20d +10.0%; vs SPY +9.3%; RSI 81; volume 0.6x; volatility 17.4%; news +0.00",
+      "relative_strength_20d": 0.09264,
+      "score": 0.403459,
       "symbol": "XOM"
     },
     {
       "news_score": 0.0,
-      "price": 117.9,
-      "reason": "5d +5.0%; 20d +7.1%; vs SPY +7.4%; RSI 90; volume 0.9x; volatility 24.5%; news +0.00",
-      "relative_strength_20d": 0.074186,
-      "score": 0.601294,
-      "symbol": "WMT"
-    },
-    {
-      "news_score": 0.0,
-      "price": 67.96,
-      "reason": "5d +1.2%; 20d +10.0%; vs SPY +10.4%; RSI 78; volume 1.5x; volatility 18.9%; news +0.00",
-      "relative_strength_20d": 0.103844,
-      "score": 0.58272,
-      "symbol": "XLE"
-    },
-    {
-      "news_score": 0.0,
-      "price": 179.8,
-      "reason": "5d +5.9%; 20d +5.8%; vs SPY +6.2%; RSI 79; volume 1.0x; volatility 18.3%; news +0.00",
-      "relative_strength_20d": 0.061903,
-      "score": 0.563915,
+      "price": 178.455,
+      "reason": "5d +2.6%; 20d +5.7%; vs SPY +4.9%; RSI 75; volume 0.9x; volatility 18.3%; news +0.00",
+      "relative_strength_20d": 0.049391,
+      "score": 0.398091,
       "symbol": "XLV"
     }
   ],
