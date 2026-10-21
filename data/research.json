@@ -6,7 +6,7 @@
   "breadth_above_20d_average": 0.675676,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-21T21:04:20.401210+00:00",
+  "generated_at": "2026-10-21T23:59:38.116280+00:00",
   "latest_market_timestamp": "2026-10-21T20:57:30.999466379Z",
   "market_is_open": false,
   "new_entries_allowed": true,
@@ -15,6 +15,180 @@
   "next_open": "2026-10-22T09:30:00-04:00",
   "recent_news": [
     {
+      "created_at": "2026-10-21T23:15:20Z",
+      "headline": "Here\u2019s How Much You Would Have Made Owning Visa Stock In The Last 15 Years",
+      "source": "benzinga",
+      "symbols": [
+        "V"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62515305/here-s-how-much-you-would-have-made-owning-visa-stock-last-15-years"
+    },
+    {
+      "created_at": "2026-10-21T23:01:39Z",
+      "headline": "Tesla Reports Third-Quarter 2026 Financial Results",
+      "source": "fiscal.ai",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.manilatimes.net/2026/10/22/world/americas-emea/tesla-profits-drop-but-top-analyst-estimates/2451296"
+    },
+    {
+      "created_at": "2026-10-21T23:01:32Z",
+      "headline": "Vincent Renovatio Launches 'An Apple A Day' at Walmart",
+      "source": "fiscal.ai",
+      "symbols": [
+        "WMT"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/on-national-apple-day-vincent-renovatio-launches-an-apple-a-day-at-walmart-aussie-apple-doc-vincent-candrawinata-reveals-secrets-about-the-apple-302915529.html"
+    },
+    {
+      "created_at": "2026-10-21T23:01:29Z",
+      "headline": "3M and Amazon Web Services Announce Strategic Collaboration on Optical Connectivity",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AMZN"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/3m-and-aws-collaborate-to-advance-optical-connectivity-innovation-302915596.html"
+    },
+    {
+      "created_at": "2026-10-21T23:00:11Z",
+      "headline": "Kevin O\u2019Leary Says Tesla-SpaceX Merger Is Inevitable After Flying Roadster Demo \u2014  \u2018If You Own Tesla, You\u2019re Gonna Own New Company\u2019",
+      "source": "benzinga",
+      "symbols": [
+        "META",
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62515178/kevin-oleary-tesla-spacex-merger"
+    },
+    {
+      "created_at": "2026-10-21T22:40:23Z",
+      "headline": "Tesla Q3 2026 Earnings Call Transcript",
+      "source": "benzinga",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62515021/tesla-q3-2026-earnings-call-transcript"
+    },
+    {
+      "created_at": "2026-10-21T22:00:12Z",
+      "headline": "Tesla Executive Says Expect Around Q2 Next Year To Turn On Some Customer Cars To Be Part Of Robotaxi Fleet; Trying To To Get Cybercabs To Customers By The End Of This Year",
+      "source": "benzinga",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62514738/tesla-executive-says-expect-around-q2-next-year-turn-some-customer-cars-be-part-robotaxi-fleet-tryin"
+    },
+    {
+      "created_at": "2026-10-21T21:55:54Z",
+      "headline": "Tesla Executive Says Launching Cybercabs In Dallas Next Month",
+      "source": "benzinga",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62514687/tesla-executive-says-launching-cybercabs-dallas-next-month"
+    },
+    {
+      "created_at": "2026-10-21T21:51:43Z",
+      "headline": "Tesla CFO Says Revising CAPEX Guidance To $20B This Year; Energy Gross Margins Improved From 20.4% To 33.1% Primarily Attributed To Tariff Refunds And Warranty True Downs",
+      "source": "benzinga",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62514651/tesla-cfo-says-revising-capex-guidance-20b-year-energy-gross-margins-improved-20-4-33-1-primarily-at"
+    },
+    {
+      "created_at": "2026-10-21T21:44:50Z",
+      "headline": "Tesla CEO Musk Says With Regard To Potential Merger With SpaceX, I Think I Said Everything That Should Be Said Yesterday",
+      "source": "benzinga",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62514546/tesla-ceo-musk-says-regard-potential-merger-spacex-i-think-i-said-everything-should-be-said-yesterda"
+    },
+    {
+      "created_at": "2026-10-21T21:37:41Z",
+      "headline": "Meta Platforms Q3 2026 Earnings Call Transcript",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62514401/meta-platforms-q3-2026-earnings-call-transcript"
+    },
+    {
+      "created_at": "2026-10-21T21:35:12Z",
+      "headline": "Tesla CEO Musk Says Aiming For 5M Vehicles A Year By ~ 2030",
+      "source": "benzinga",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62514372/tesla-ceo-musk-says-aiming-5m-vehicles-year-2030"
+    },
+    {
+      "created_at": "2026-10-21T21:34:12Z",
+      "headline": "Tesla CEO Elon Musk Says Ramping Production To Meet Demand",
+      "source": "benzinga",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62514355/tesla-ceo-elon-musk-says-ramping-production-meet-demand"
+    },
+    {
+      "created_at": "2026-10-21T21:33:26Z",
+      "headline": "Meta Platforms CEO Says Co To Work On Muse Monetization Sooner Than Normal Playbook;  Reason We're Not Charging Everyone For Muse Is That We Want To Establish A Network Of People And Businesses Using It At Scale",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62514334/meta-platforms-ceo-says-co-work-muse-monetization-sooner-normal-playbook-reason-we-re-not-charging-e"
+    },
+    {
+      "created_at": "2026-10-21T21:32:04Z",
+      "headline": "Amazon's Blink Brand Launches Five New Security Cameras",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AMZN"
+      ],
+      "url": "https://www.moomoo.com/stock/AMZN-US/news?chain_id=Name1K9-3FXPhg.1ldg040&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A39,%22f%22%3A%22www.moomoo.com%2Fus%2Flearn%2Fcommon-mistakes-to-avoid-when-investing-in-etfs%22%7D"
+    },
+    {
+      "created_at": "2026-10-21T21:31:47Z",
+      "headline": "Bank of America Appoints Two New Directors to Board",
+      "source": "fiscal.ai",
+      "symbols": [
+        "BAC"
+      ],
+      "url": "https://www.tradingview.com/news/tradingview:a41a974569680:0-bank-of-america-corporation-bac-adds-two-directors/"
+    },
+    {
+      "created_at": "2026-10-21T21:31:42Z",
+      "headline": "Walmart Business Expands Payment Options with TreviPay",
+      "source": "fiscal.ai",
+      "symbols": [
+        "WMT"
+      ],
+      "url": "https://www.businesswire.com/newsroom"
+    },
+    {
+      "created_at": "2026-10-21T21:23:39Z",
+      "headline": "Meta Platforms CFO Says We Feel Good That AI Is Going To Become A Meaningful Source Of Revenue Diversification Over Time",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62514166/meta-platforms-cfo-says-we-feel-good-ai-going-become-meaningful-source-revenue-diversification-over-"
+    },
+    {
+      "created_at": "2026-10-21T21:20:58Z",
+      "headline": "Meta Platfroms CFO Says We Expect Our New AI Businesses Can Begin Contributing Incremental Revenue In 2027",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62514117/meta-platfroms-cfo-says-we-expect-our-new-ai-businesses-can-begin-contributing-incremental-revenue-2"
+    },
+    {
       "created_at": "2026-10-21T21:00:12Z",
       "headline": "Meta Platforms CFO Says Advertiser Adoption Of Our Video Generation Features Grew 25% Q/Q; Muse's Compute Intensity Means That Expanding Its User BASE Will Require Significant Investment, Expect Total Serving Costs To Rise",
       "source": "benzinga",
@@ -22,179 +196,6 @@
         "META"
       ],
       "url": "https://www.benzinga.com/news/26/10/62513646/meta-platforms-cfo-says-advertiser-adoption-our-video-generation-features-grew-25-q-q-muse-s-compute"
-    },
-    {
-      "created_at": "2026-10-21T20:55:51Z",
-      "headline": "'Google Stops Using Nondisclosure Agreements For Data Centers' - The Information",
-      "source": "benzinga",
-      "symbols": [
-        "GOOG",
-        "GOOGL"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62513317/google-stops-using-nondisclosure-agreements-data-centers-information"
-    },
-    {
-      "created_at": "2026-10-21T20:49:47Z",
-      "headline": "Meta CFO Says In Conference Call Instagram Global Time Spent Per User Hit Record In Q3, Up Double Digits Year-Over-Year; Facebook Reels Time Spent At Record Highs",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/content/62513114/meta-cfo-says-conference-call-instagram-global-time-spent-user-hit-record-q3-double-digits-year-over"
-    },
-    {
-      "created_at": "2026-10-21T20:48:31Z",
-      "headline": "Meta Platform Announces Under Founder Alignment Agreement, 20% Of Shares Of Class C Common Stock To Be Issued To Holder Group In Stock Dividend Will Be Freely Saleable; Other 80% Of Shares Of Class C Common Stock Will Be Subject To Sale And Transfer Restrictions",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62513065/meta-platform-announces-under-founder-alignment-agreement-20-shares-class-c-common-stock-be-issued-h"
-    },
-    {
-      "created_at": "2026-10-21T20:46:55Z",
-      "headline": "Tesla Says Q3 Automotive Gross Margin Excluding Regulatory Credit Sales On Non-GAAP Basis Of 18.1%",
-      "source": "benzinga",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/quote/TSLA"
-    },
-    {
-      "created_at": "2026-10-21T20:46:45Z",
-      "headline": "Congressman Could Be Down 2.65x Annual Salary by Betting on Netflix Stock: Here\u2019s the Math",
-      "source": "benzinga",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/news/politics/26/10/62513022/congressman-could-be-down-2-65x-annual-salary-by-betting-on-netflix-stock-heres-the-math"
-    },
-    {
-      "created_at": "2026-10-21T20:45:43Z",
-      "headline": "Tesla On AI Compute Says Continued Construction For Austin Fab, Where We Plan To Start Commissioning Equipment In 2027",
-      "source": "benzinga",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/quote/TSLA"
-    },
-    {
-      "created_at": "2026-10-21T20:44:33Z",
-      "headline": "Meta CEO Says We Are Also Working On New Smaller Models That Are Coming Out Soon And Will Deliver Muse Wonder Level Intelligence More Efficiently; Glasses Sales Continue To Grow Rapidly; Now With Muse, We Expect Paid Subscriptions Will Increase",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62512962/meta-ceo-says-we-are-also-working-new-smaller-models-are-coming-out-soon-and-will-deliver-muse-wonde"
-    },
-    {
-      "created_at": "2026-10-21T20:44:10Z",
-      "headline": "Tesla Says Production Has Begun For Tesla Semi In Nevada And Optimus In Fremont",
-      "source": "benzinga",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/quote/TSLA"
-    },
-    {
-      "created_at": "2026-10-21T20:38:20Z",
-      "headline": "Meta Platforms CEO Says More Than 10M People In U.S., Canada Have Set Up Muse Personal Agents In Just A Month And A Half; We Expect To Grow Muse To Serve Billions Of People; Sees Muse AI Potentially Generating Higher Revenue Per User Than Family Of Apps",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62512694/meta-platforms-ceo-says-more-10m-people-u-s-canada-have-set-muse-personal-agents-just-month-and-half"
-    },
-    {
-      "created_at": "2026-10-21T20:33:34Z",
-      "headline": "Meta Platforms Says Co. Entered Into A Founder Alignment Agreement With Mark Zuckerberg",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62512511/meta-platforms-says-co-entered-founder-alignment-agreement-mark-zuckerberg"
-    },
-    {
-      "created_at": "2026-10-21T20:31:57Z",
-      "headline": "Meta Platforms Says AI Investments Benefits Delivering To Core Business Position Us To Sustain Strong Overall Revenue Growth Throughout 2027; Beyond 2026, Expect To Continue Investing Aggressively To Support Both Our Core Business And Emerging AI Initiatives",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62512409/meta-platforms-says-ai-investments-benefits-delivering-core-business-position-us-sustain-strong-over"
-    },
-    {
-      "created_at": "2026-10-21T20:31:36Z",
-      "headline": "Apple Confirms Apple Pencil Support for iPhone Duo via iOS 27.2",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://appleosophy.com/wire/396es5h/"
-    },
-    {
-      "created_at": "2026-10-21T20:31:34Z",
-      "headline": "Bank of America Declares Quarterly Dividends",
-      "source": "fiscal.ai",
-      "symbols": [
-        "BAC"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-fourth-quarter-2026-stock-dividends-302915305.html"
-    },
-    {
-      "created_at": "2026-10-21T20:31:33Z",
-      "headline": "Meta Platforms, Inc. Reports Third Quarter 2026 Financial Results",
-      "source": "fiscal.ai",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html"
-    },
-    {
-      "created_at": "2026-10-21T20:31:08Z",
-      "headline": "Tesla Q3 Highlights: Double Beat, Highest Passenger Vehicle Backlog in Four Years",
-      "source": "benzinga",
-      "symbols": [
-        "BTCUSD",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/markets/earnings/26/10/62512363/tesla-q3-highlights-double-beat-highest-passenger-vehicle-backlog-in-four-years"
-    },
-    {
-      "created_at": "2026-10-21T20:30:26Z",
-      "headline": "If You Invested $100 In Eli Lilly Stock 20 Years Ago, You Would Have This Much Today",
-      "source": "benzinga",
-      "symbols": [
-        "LLY"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62512329/if-you-invested-100-eli-lilly-stock-20-years-ago-you-would-have-much-today"
-    },
-    {
-      "created_at": "2026-10-21T20:30:23Z",
-      "headline": "Meta Platforms Says  Family Daily Active People Was 3.64B On Average For September 2026;  Headcount Was 66,775 As Of September 30, 2026, A Decrease Of 15% YoY; Co.  Not Providing A FY 2027 Revenue Outlook",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62512328/meta-platforms-says-family-daily-active-people-was-3-64b-average-september-2026-headcount-was-66-775"
-    },
-    {
-      "created_at": "2026-10-21T20:21:34Z",
-      "headline": "Meta Posts Q3 Double Beat: 'We're Seeing Velocity Across the Board'",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/markets/earnings/26/10/62511966/meta-posts-q3-double-beat-were-seeing-velocity-across-the-board"
-    },
-    {
-      "created_at": "2026-10-21T20:04:02Z",
-      "headline": "Meta Platforms Board Approves Creation Of New Public Class C Common Shares, Effective Jan. 19, 2027",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62510623/meta-platforms-board-approves-creation-of-new-public-class-c-common-shares-effective-january-2027"
     }
   ],
   "regime": "RISK_ON",
@@ -202,19 +203,19 @@
   "top_candidates": [
     {
       "news_score": 0.0,
+      "price": 416.86,
+      "reason": "5d +5.3%; 20d +12.3%; vs SPY +11.6%; RSI 78; volume 0.8x; volatility 27.7%; news +0.00",
+      "relative_strength_20d": 0.115945,
+      "score": 0.715688,
+      "symbol": "UNH"
+    },
+    {
+      "news_score": 0.0,
       "price": 407.83,
       "reason": "5d +4.2%; 20d +12.8%; vs SPY +12.1%; RSI 92; volume 1.0x; volatility 18.4%; news +0.00",
       "relative_strength_20d": 0.121483,
       "score": 0.704625,
       "symbol": "V"
-    },
-    {
-      "news_score": -0.333333,
-      "price": 416.86,
-      "reason": "5d +5.3%; 20d +12.3%; vs SPY +11.6%; RSI 78; volume 0.8x; volatility 27.7%; news -0.33",
-      "relative_strength_20d": 0.115945,
-      "score": 0.665688,
-      "symbol": "UNH"
     },
     {
       "news_score": 0.0,
