@@ -6,7 +6,7 @@
   "breadth_above_20d_average": 0.567568,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-22T21:01:26.172913+00:00",
+  "generated_at": "2026-10-22T23:58:36.121780+00:00",
   "latest_market_timestamp": "2026-10-22T20:48:37.320267802Z",
   "market_is_open": false,
   "new_entries_allowed": false,
@@ -14,6 +14,71 @@
   "next_close": "2026-10-23T16:00:00-04:00",
   "next_open": "2026-10-23T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-10-22T23:01:48Z",
+      "headline": "Netflix Releases 'My Sad Dead' Community Project",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://about.netflix.com/newsroom"
+    },
+    {
+      "created_at": "2026-10-22T23:01:40Z",
+      "headline": "ExxonMobil Joliet Refinery Experiences Operational Disruption",
+      "source": "fiscal.ai",
+      "symbols": [
+        "XOM"
+      ],
+      "url": "https://dailycallernewsfoundation.org/2026/10/22/exxonmobil-joliet-refinery-gas-prices-michigan-ohio-indiana-tom-kloza/"
+    },
+    {
+      "created_at": "2026-10-22T23:01:36Z",
+      "headline": "Mastercard Expands First-Party Trust Program in Europe",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MA"
+      ],
+      "url": "https://glenbrook.com/payments-news/all-payments-news/"
+    },
+    {
+      "created_at": "2026-10-22T21:31:32Z",
+      "headline": "Urban Remedy Launches Chocolate Protein Collagen Shake at Select Costco Warehouses",
+      "source": "fiscal.ai",
+      "symbols": [
+        "COST"
+      ],
+      "url": "https://www.bevnet.com/pr/2026/10/22/urban-remedy-now-available-at-select-costco-warehouses-in-the-la-area"
+    },
+    {
+      "created_at": "2026-10-22T21:31:30Z",
+      "headline": "Wall Street Analysts Update Ratings and Price Targets for GE Aerospace",
+      "source": "fiscal.ai",
+      "symbols": [
+        "GE"
+      ],
+      "url": "https://www.moomoo.com/hans/news/post/1002028551/a-quick-look-at-today-s-ratings-for-ge-aerospace"
+    },
+    {
+      "created_at": "2026-10-22T21:27:44Z",
+      "headline": "AI Sell-Off Spreads to Industrials: Caterpillar, GE Vernova, Vertiv Trapped in Bear Market",
+      "source": "benzinga",
+      "symbols": [
+        "CAT",
+        "GEV",
+        "VRT"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/10/62548779/ai-sell-off-spreads-to-industrials-caterpillar-ge-vernova-vertiv-trapped-in-bear-market"
+    },
+    {
+      "created_at": "2026-10-22T21:15:12Z",
+      "headline": "Bill Ackman Says Meta Can Finance 'Whatever They Want,' Points to $82 Billion Cash",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62548583/meta-ai-spending-bill-ackman-cash"
+    },
     {
       "created_at": "2026-10-22T20:45:43Z",
       "headline": "SpaceX Says Any Potential Tesla Combination Would Be Subject To Further Approval By Our Special Committee, Board & Controlling Shareholder",
@@ -186,93 +251,6 @@
         "META"
       ],
       "url": "https://www.benzinga.com/news/26/10/62544136/ubs-maintains-buy-meta-platforms-raises-price-target-892"
-    },
-    {
-      "created_at": "2026-10-22T19:40:30Z",
-      "headline": "OpenAI Makes The Decisions API Generally Available",
-      "source": "benzinga",
-      "symbols": [
-        "MSFT"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62544124/openai-makes-decisions-api-generally-available"
-    },
-    {
-      "created_at": "2026-10-22T19:38:07Z",
-      "headline": "Adjusting Imports Of Wind Turbines And Their Parts And Components Into The United States",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/government/26/10/62544017/adjusting-imports-wind-turbines-and-their-parts-and-components-united-states"
-    },
-    {
-      "created_at": "2026-10-22T19:36:24Z",
-      "headline": "Meta Analysts Revise Price Target After Q3 Core Ad Strength, Muse Concerns Remain",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "GOOGL",
-        "META"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62543931/meta-analysts-revise-price-target-after-q3-core-ad-strength-muse-concerns-remain"
-    },
-    {
-      "created_at": "2026-10-22T19:31:32Z",
-      "headline": "President Donald J. Trump Decreases Housing Costs For Americans; Executive Order To Cut Mortgage Costs, Eliminate Qualifying Insurance Premiums And Expand Affordable Housing Options",
-      "source": "benzinga",
-      "symbols": [
-        "BZH",
-        "CCS",
-        "FMCC",
-        "FNMA",
-        "HOV",
-        "KBH",
-        "LC",
-        "LDI",
-        "LEN",
-        "LGIH",
-        "MBB",
-        "MDC",
-        "MHO",
-        "NVR",
-        "PFSI",
-        "PHM",
-        "REM",
-        "RKT",
-        "SPY",
-        "TOL",
-        "UWMC",
-        "XHB"
-      ],
-      "url": "https://www.benzinga.com/content/62543777/president-donald-j-trump-decreases-housing-costs-americans-executive-order-cut-mortgage-costs-elimin"
-    },
-    {
-      "created_at": "2026-10-22T19:11:20Z",
-      "headline": "Citigroup Maintains Buy on Meta Platforms, Raises Price Target to $905",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62543030/citigroup-maintains-buy-meta-platforms-raises-price-target-905"
-    },
-    {
-      "created_at": "2026-10-22T19:01:38Z",
-      "headline": "Nutanix Announces Collaboration with NVIDIA, Supermicro, and Netris to Simplify AI Infrastructure",
-      "source": "fiscal.ai",
-      "symbols": [
-        "NVDA"
-      ],
-      "url": "https://gecnewswire.com/nutanix-partners-with-nvidia-supermicro-and-netris-to-speed-up-ai/"
-    },
-    {
-      "created_at": "2026-10-22T19:01:33Z",
-      "headline": "New Zealand Commerce Commission Caps Commercial Credit Card Interchange Fees",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MA"
-      ],
-      "url": "https://newswire.co.nz/2026/10/commerce-commission-caps-business-credit-card-fees-new-zealand-april-2027/"
     }
   ],
   "regime": "DEFENSIVE",
