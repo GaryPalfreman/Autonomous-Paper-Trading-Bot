@@ -998,3 +998,40 @@ timestamp,symbol,action,score,price,reason
 2026-10-21T17:48:10.404081+00:00,NFLX,WATCH,-0.48484,65.565,5d -7.1%; 20d -8.1%; vs SPY -8.9%; RSI 45; volume 1.6x; volatility 31.0%; news +0.07
 2026-10-21T17:48:10.404108+00:00,CAT,WATCH,-0.50248,740.6,5d -1.0%; 20d -8.8%; vs SPY -9.6%; RSI 21; volume 0.8x; volatility 33.7%; news +0.00
 2026-10-21T17:48:10.404135+00:00,BAC,WATCH,-0.52154,51.004999999999995,5d -0.8%; 20d -8.9%; vs SPY -9.7%; RSI 31; volume 0.3x; volatility 22.0%; news +0.00
+2026-10-22T17:46:11.706355+00:00,HD,RISK_BLOCKED,0.70746,325.42,New entry blocked by defensive market regime; 5d +5.6%; 20d +11.4%; vs SPY +11.9%; RSI 88; volume 0.8x; volatility 26.5%; news +0.00
+2026-10-22T17:46:11.706418+00:00,LLY,RISK_BLOCKED,0.70103,1314.27,New entry blocked by defensive market regime; 5d +5.0%; 20d +11.1%; vs SPY +11.6%; RSI 78; volume 0.8x; volatility 29.6%; news +0.00
+2026-10-22T17:46:11.706484+00:00,V,RISK_BLOCKED,0.66193,414.125,New entry blocked by defensive market regime; 5d +3.7%; 20d +12.6%; vs SPY +13.1%; RSI 91; volume 0.8x; volatility 18.2%; news +0.00
+2026-10-22T17:46:11.706520+00:00,UNH,RISK_BLOCKED,0.62768,423.21500000000003,New entry blocked by defensive market regime; 5d +4.1%; 20d +12.8%; vs SPY +13.3%; RSI 77; volume 0.5x; volatility 28.1%; news +0.00
+2026-10-22T17:46:11.706553+00:00,COST,HOLD,0.6231,1012.6,5d +3.6%; 20d +12.9%; vs SPY +13.5%; RSI 89; volume 0.6x; volatility 16.8%; news +0.00
+2026-10-22T17:46:11.706583+00:00,MA,HOLD,0.59864,632.55,5d +2.6%; 20d +11.9%; vs SPY +12.4%; RSI 96; volume 0.8x; volatility 17.8%; news +0.00
+2026-10-22T17:46:11.706614+00:00,XLP,RISK_BLOCKED,0.58183,89.41499999999999,New entry blocked by defensive market regime; 5d +3.2%; 20d +9.4%; vs SPY +9.9%; RSI 88; volume 0.9x; volatility 16.6%; news -0.11
+2026-10-22T17:46:11.706644+00:00,WMT,RISK_BLOCKED,0.55584,120.205,New entry blocked by defensive market regime; 5d +2.0%; 20d +11.8%; vs SPY +12.3%; RSI 90; volume 1.1x; volatility 22.6%; news -0.33
+2026-10-22T17:46:11.706674+00:00,CVX,HOLD,0.54818,226.075,5d +3.1%; 20d +9.9%; vs SPY +10.5%; RSI 80; volume 0.5x; volatility 19.0%; news +0.00
+2026-10-22T17:46:11.706703+00:00,XOM,HOLD,0.44456,177.14,5d +1.4%; 20d +9.3%; vs SPY +9.8%; RSI 79; volume 0.5x; volatility 17.7%; news +0.00
+2026-10-22T17:46:11.706732+00:00,XLE,RISK_BLOCKED,0.43888,67.32499999999999,New entry blocked by defensive market regime; 5d +1.2%; 20d +7.5%; vs SPY +8.0%; RSI 70; volume 1.3x; volatility 19.7%; news +0.00
+2026-10-22T17:46:11.706764+00:00,XLV,RISK_BLOCKED,0.43773,181.0,New entry blocked by defensive market regime; 5d +2.2%; 20d +6.5%; vs SPY +7.1%; RSI 77; volume 1.0x; volatility 18.4%; news +0.00
+2026-10-22T17:46:11.706793+00:00,XLU,RISK_BLOCKED,0.43102,42.545,New entry blocked by defensive market regime; 5d +2.2%; 20d +8.1%; vs SPY +8.6%; RSI 76; volume 0.5x; volatility 16.0%; news +0.00
+2026-10-22T17:46:11.706823+00:00,XLF,WATCH,0.28692,56.535,5d +2.3%; 20d +3.7%; vs SPY +4.2%; RSI 76; volume 0.6x; volatility 12.1%; news +0.00
+2026-10-22T17:46:11.706852+00:00,TSLA,WATCH,0.2492,377.095,5d +4.0%; 20d -0.2%; vs SPY +0.3%; RSI 49; volume 1.3x; volatility 35.9%; news +0.11
+2026-10-22T17:46:11.706886+00:00,XLB,WATCH,0.24571,51.405,5d +1.6%; 20d +3.5%; vs SPY +4.0%; RSI 77; volume 0.6x; volatility 12.0%; news +0.00
+2026-10-22T17:46:11.706916+00:00,XLY,WATCH,0.22427,115.07499999999999,5d +1.5%; 20d +4.3%; vs SPY +4.8%; RSI 71; volume 0.8x; volatility 13.5%; news -0.33
+2026-10-22T17:46:11.706944+00:00,DIA,WATCH,0.2162,527.095,5d +1.2%; 20d +2.8%; vs SPY +3.3%; RSI 74; volume 0.8x; volatility 9.3%; news +0.00
+2026-10-22T17:46:11.706972+00:00,XLRE,WATCH,0.18373,42.33,5d +0.8%; 20d +1.6%; vs SPY +2.1%; RSI 66; volume 1.2x; volatility 15.0%; news +0.00
+2026-10-22T17:46:11.707000+00:00,AAPL,WATCH,0.1825,346.15999999999997,5d +1.2%; 20d +3.1%; vs SPY +3.6%; RSI 71; volume 0.5x; volatility 16.7%; news +0.00
+2026-10-22T17:46:11.707029+00:00,MSFT,HOLD,0.03196,524.745,5d -2.7%; 20d +5.5%; vs SPY +6.0%; RSI 50; volume 0.6x; volatility 22.7%; news +0.13
+2026-10-22T17:46:11.707056+00:00,AMZN,WATCH,-0.04417,250.85,5d -1.5%; 20d +0.6%; vs SPY +1.1%; RSI 50; volume 0.9x; volatility 32.3%; news +0.08
+2026-10-22T17:46:11.707085+00:00,JPM,WATCH,-0.06786,334.755,5d -0.2%; 20d -0.6%; vs SPY -0.1%; RSI 58; volume 0.5x; volatility 14.5%; news +0.00
+2026-10-22T17:46:11.707113+00:00,SPY,WATCH,-0.13037,763.345,5d -1.1%; 20d -0.5%; vs SPY +0.0%; RSI 39; volume 0.7x; volatility 9.9%; news +0.06
+2026-10-22T17:46:11.707141+00:00,IWM,WATCH,-0.1636,276.07,5d +0.4%; 20d -2.0%; vs SPY -1.5%; RSI 38; volume 0.4x; volatility 14.5%; news +0.00
+2026-10-22T17:46:11.707169+00:00,XLI,WATCH,-0.17608,165.76,5d -1.2%; 20d -1.8%; vs SPY -1.3%; RSI 35; volume 0.9x; volatility 14.3%; news +0.00
+2026-10-22T17:46:11.707197+00:00,NVDA,WATCH,-0.35287,212.51999999999998,5d -2.2%; 20d -5.4%; vs SPY -4.9%; RSI 22; volume 1.0x; volatility 28.7%; news +0.19
+2026-10-22T17:46:11.707225+00:00,QQQ,WATCH,-0.37817,706.265,5d -3.0%; 20d -4.7%; vs SPY -4.2%; RSI 24; volume 0.9x; volatility 18.1%; news +0.17
+2026-10-22T17:46:11.707253+00:00,XLK,WATCH,-0.4677,182.64,5d -3.4%; 20d -6.2%; vs SPY -5.7%; RSI 23; volume 1.1x; volatility 23.1%; news +0.00
+2026-10-22T17:46:11.707280+00:00,NFLX,WATCH,-0.48505,67.265,5d -7.4%; 20d -6.2%; vs SPY -5.7%; RSI 49; volume 0.9x; volatility 35.2%; news +0.00
+2026-10-22T17:46:11.707308+00:00,GOOGL,WATCH,-0.48608,326.52,5d -6.5%; 20d -4.6%; vs SPY -4.1%; RSI 30; volume 0.9x; volatility 19.6%; news +0.00
+2026-10-22T17:46:11.707335+00:00,XLC,WATCH,-0.52467,107.295,5d -4.6%; 20d -5.9%; vs SPY -5.3%; RSI 34; volume 0.7x; volatility 16.0%; news +0.00
+2026-10-22T17:46:11.707363+00:00,BAC,WATCH,-0.53803,50.935,5d -1.4%; 20d -9.1%; vs SPY -8.6%; RSI 28; volume 0.5x; volatility 21.8%; news +0.00
+2026-10-22T17:46:11.707391+00:00,AVGO,WATCH,-0.59046,324.84000000000003,5d -5.6%; 20d -7.3%; vs SPY -6.8%; RSI 30; volume 0.9x; volatility 38.0%; news +0.00
+2026-10-22T17:46:11.707420+00:00,META,WATCH,-0.62831,647.245,5d -12.1%; 20d -16.8%; vs SPY -16.3%; RSI 25; volume 1.6x; volatility 43.5%; news +0.14
+2026-10-22T17:46:11.707462+00:00,GE,WATCH,-0.63501,290.2,5d -7.0%; 20d -9.1%; vs SPY -8.6%; RSI 33; volume 0.9x; volatility 23.5%; news +0.00
+2026-10-22T17:46:11.707492+00:00,CAT,WATCH,-0.7467,701.765,5d -4.6%; 20d -12.8%; vs SPY -12.3%; RSI 16; volume 0.9x; volatility 37.6%; news +0.00

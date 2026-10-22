@@ -1,285 +1,367 @@
 {
-  "benchmark_above_20d_average": true,
-  "benchmark_above_50d_average": true,
-  "benchmark_price": 773.19,
+  "benchmark_above_20d_average": false,
+  "benchmark_above_50d_average": false,
+  "benchmark_price": 763.345,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.675676,
+  "breadth_above_20d_average": 0.567568,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-21T23:59:38.116280+00:00",
-  "latest_market_timestamp": "2026-10-21T20:57:30.999466379Z",
-  "market_is_open": false,
-  "new_entries_allowed": true,
+  "generated_at": "2026-10-22T17:46:11.704644+00:00",
+  "latest_market_timestamp": "2026-10-22T17:46:09.19082857Z",
+  "market_is_open": true,
+  "new_entries_allowed": false,
   "news_articles_reviewed": 50,
   "next_close": "2026-10-22T16:00:00-04:00",
-  "next_open": "2026-10-22T09:30:00-04:00",
+  "next_open": "2026-10-23T09:30:00-04:00",
   "recent_news": [
     {
-      "created_at": "2026-10-21T23:15:20Z",
-      "headline": "Here\u2019s How Much You Would Have Made Owning Visa Stock In The Last 15 Years",
+      "created_at": "2026-10-22T17:43:02Z",
+      "headline": "'Intel Plus Elon' Could Pose Bigger Threat to TSMC Than Musk Alone, Chip Analyst Says",
       "source": "benzinga",
       "symbols": [
-        "V"
+        "INTC",
+        "SPCX",
+        "TSLA",
+        "TSM"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62515305/here-s-how-much-you-would-have-made-owning-visa-stock-last-15-years"
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62539826/intel-elon-terafab-tsmc-threat"
     },
     {
-      "created_at": "2026-10-21T23:01:39Z",
-      "headline": "Tesla Reports Third-Quarter 2026 Financial Results",
-      "source": "fiscal.ai",
+      "created_at": "2026-10-22T17:39:43Z",
+      "headline": "Morgan Stanley Maintains Equal-Weight on Tesla, Raises Price Target to $410",
+      "source": "benzinga",
       "symbols": [
         "TSLA"
       ],
-      "url": "https://www.manilatimes.net/2026/10/22/world/americas-emea/tesla-profits-drop-but-top-analyst-estimates/2451296"
+      "url": "https://www.benzinga.com/news/26/10/62539623/morgan-stanley-maintains-equal-weight-tesla-raises-price-target-410"
     },
     {
-      "created_at": "2026-10-21T23:01:32Z",
-      "headline": "Vincent Renovatio Launches 'An Apple A Day' at Walmart",
-      "source": "fiscal.ai",
-      "symbols": [
-        "WMT"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/on-national-apple-day-vincent-renovatio-launches-an-apple-a-day-at-walmart-aussie-apple-doc-vincent-candrawinata-reveals-secrets-about-the-apple-302915529.html"
-    },
-    {
-      "created_at": "2026-10-21T23:01:29Z",
-      "headline": "3M and Amazon Web Services Announce Strategic Collaboration on Optical Connectivity",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/3m-and-aws-collaborate-to-advance-optical-connectivity-innovation-302915596.html"
-    },
-    {
-      "created_at": "2026-10-21T23:00:11Z",
-      "headline": "Kevin O\u2019Leary Says Tesla-SpaceX Merger Is Inevitable After Flying Roadster Demo \u2014  \u2018If You Own Tesla, You\u2019re Gonna Own New Company\u2019",
+      "created_at": "2026-10-22T17:35:12Z",
+      "headline": "10 Industrials Stocks With Whale Alerts In Today\u2019s Session",
       "source": "benzinga",
       "symbols": [
+        "BE",
+        "CAT",
+        "GEV",
+        "JBLU",
+        "NOC",
+        "PH",
+        "SWK",
+        "UAL",
+        "UBER",
+        "WCN"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/10/62539413/10-industrials-stocks-whale-alerts-today-s-session"
+    },
+    {
+      "created_at": "2026-10-22T17:35:12Z",
+      "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "ABG",
+        "AMZN",
+        "BABA",
+        "GME",
+        "KMX",
+        "LULU",
+        "MCD",
+        "RH",
+        "SGHC",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/10/62539412/10-consumer-discretionary-stocks-whale-activity-today-s-session"
+    },
+    {
+      "created_at": "2026-10-22T17:35:12Z",
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "AMD",
+        "AXTI",
+        "CBRS",
+        "CRWV",
+        "IREN",
+        "MSTR",
+        "ORCL",
+        "SNDK",
+        "SNOW"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/10/62539411/10-information-technology-stocks-whale-alerts-today-s-session"
+    },
+    {
+      "created_at": "2026-10-22T17:33:10Z",
+      "headline": "The Israel Defense Forces, U.S. Military Have Drawn Up Plans To Renew Joint Strikes On Iran In The Coming Weeks After The U.S. Midterm Elections",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "USO"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62539302/israel-defense-forces-u-s-military-have-drawn-plans-renew-joint-strikes-iran-coming-weeks-after-u-s-"
+    },
+    {
+      "created_at": "2026-10-22T17:32:44Z",
+      "headline": "SpaceX Analyst Sees an Empire Taking Shape in Orbit",
+      "source": "benzinga",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62539273/spacex-analyst-sees-an-empire-taking-shape-in-orbit"
+    },
+    {
+      "created_at": "2026-10-22T17:32:08Z",
+      "headline": "What's Going On With Micron Technology Stock Thursday?",
+      "source": "benzinga",
+      "symbols": [
+        "MU",
+        "XLK"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62539246/whats-going-on-with-micron-technology-stock-thursday-8"
+    },
+    {
+      "created_at": "2026-10-22T17:31:56Z",
+      "headline": "QUICK SPARK: Procter & Gamble Stock Eyes Best Day Since 2020 \u2013 The Rally Is Hiding Something Bigger",
+      "source": "benzinga",
+      "symbols": [
+        "PG",
+        "XLK",
+        "XLP"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/10/62539221/procter-gamble-stock-best-day-since-2020"
+    },
+    {
+      "created_at": "2026-10-22T17:28:41Z",
+      "headline": "BMO Capital Maintains Market Perform on Meta Platforms, Raises Price Target to $685",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62539113/bmo-capital-maintains-market-perform-meta-platforms-raises-price-target-685"
+    },
+    {
+      "created_at": "2026-10-22T17:26:37Z",
+      "headline": "Meta Tumbles 6% on AI Spending Fears, 10-Year Yield Falls Below 5%: Stock Market Today",
+      "source": "benzinga",
+      "symbols": [
+        "ALLE",
+        "AMD",
+        "AMZN",
+        "BTCUSD",
+        "CAT",
+        "CRS",
+        "CRWV",
+        "DECK",
+        "DIA",
+        "FPS",
+        "GDX",
+        "GGG",
+        "ITB",
+        "IWM",
+        "JNJ",
+        "LEN",
+        "LRCX",
         "META",
-        "SPCX",
-        "TSLA"
+        "MU",
+        "NEM",
+        "NVDA",
+        "PG",
+        "PHM",
+        "POOL",
+        "QQQ",
+        "ROP",
+        "SMH",
+        "SPOT",
+        "TTMI",
+        "VIAV",
+        "VOO",
+        "WDC",
+        "XLK",
+        "XLP",
+        "XLV",
+        "Z"
       ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62515178/kevin-oleary-tesla-spacex-merger"
+      "url": "https://www.benzinga.com/markets/equities/26/10/62539017/meta-ai-spending-10-year-yield-below-5-stock-market-today"
     },
     {
-      "created_at": "2026-10-21T22:40:23Z",
-      "headline": "Tesla Q3 2026 Earnings Call Transcript",
-      "source": "benzinga",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62515021/tesla-q3-2026-earnings-call-transcript"
-    },
-    {
-      "created_at": "2026-10-21T22:00:12Z",
-      "headline": "Tesla Executive Says Expect Around Q2 Next Year To Turn On Some Customer Cars To Be Part Of Robotaxi Fleet; Trying To To Get Cybercabs To Customers By The End Of This Year",
-      "source": "benzinga",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62514738/tesla-executive-says-expect-around-q2-next-year-turn-some-customer-cars-be-part-robotaxi-fleet-tryin"
-    },
-    {
-      "created_at": "2026-10-21T21:55:54Z",
-      "headline": "Tesla Executive Says Launching Cybercabs In Dallas Next Month",
-      "source": "benzinga",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62514687/tesla-executive-says-launching-cybercabs-dallas-next-month"
-    },
-    {
-      "created_at": "2026-10-21T21:51:43Z",
-      "headline": "Tesla CFO Says Revising CAPEX Guidance To $20B This Year; Energy Gross Margins Improved From 20.4% To 33.1% Primarily Attributed To Tariff Refunds And Warranty True Downs",
-      "source": "benzinga",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62514651/tesla-cfo-says-revising-capex-guidance-20b-year-energy-gross-margins-improved-20-4-33-1-primarily-at"
-    },
-    {
-      "created_at": "2026-10-21T21:44:50Z",
-      "headline": "Tesla CEO Musk Says With Regard To Potential Merger With SpaceX, I Think I Said Everything That Should Be Said Yesterday",
-      "source": "benzinga",
-      "symbols": [
-        "SPCX",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62514546/tesla-ceo-musk-says-regard-potential-merger-spacex-i-think-i-said-everything-should-be-said-yesterda"
-    },
-    {
-      "created_at": "2026-10-21T21:37:41Z",
-      "headline": "Meta Platforms Q3 2026 Earnings Call Transcript",
+      "created_at": "2026-10-22T17:17:22Z",
+      "headline": "Evercore ISI Group Maintains Outperform on Meta Platforms, Raises Price Target to $870",
       "source": "benzinga",
       "symbols": [
         "META"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62514401/meta-platforms-q3-2026-earnings-call-transcript"
+      "url": "https://www.benzinga.com/news/26/10/62538593/evercore-isi-group-maintains-outperform-meta-platforms-raises-price-target-870"
     },
     {
-      "created_at": "2026-10-21T21:35:12Z",
-      "headline": "Tesla CEO Musk Says Aiming For 5M Vehicles A Year By ~ 2030",
+      "created_at": "2026-10-22T17:07:14Z",
+      "headline": "Wolfe Research Downgrades Netflix to Peer Perform",
+      "source": "benzinga",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62538128/wolfe-research-downgrades-netflix-peer-perform"
+    },
+    {
+      "created_at": "2026-10-22T17:06:28Z",
+      "headline": "Mizuho Maintains Outperform on Meta Platforms, Raises Price Target to $950",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62538097/mizuho-maintains-outperform-meta-platforms-raises-price-target-950"
+    },
+    {
+      "created_at": "2026-10-22T17:02:08Z",
+      "headline": "'Israeli Senior Officers Says No Reason To Strike Iran Before U.S. Elections' - Ynet Global",
+      "source": "benzinga",
+      "symbols": [
+        "EIS",
+        "SPY",
+        "USO"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62537860/israeli-senior-officers-says-no-reason-strike-iran-u-s-elections-ynet-global"
+    },
+    {
+      "created_at": "2026-10-22T17:00:07Z",
+      "headline": "Elon Musk\u2019s Mom Says a Tunnel \u2018Makes Your Life Happier\u2019 as Boring Company Brings 900,000-Pound Machine to San Antonio",
       "source": "benzinga",
       "symbols": [
         "TSLA"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62514372/tesla-ceo-musk-says-aiming-5m-vehicles-year-2030"
+      "url": "https://www.benzinga.com/news/space/26/10/62537759/elon-musks-mom-says-a-tunnel-makes-your-life-happier-as-boring-company-brings-900000-pound-machine-to-san-antonio"
     },
     {
-      "created_at": "2026-10-21T21:34:12Z",
-      "headline": "Tesla CEO Elon Musk Says Ramping Production To Meet Demand",
+      "created_at": "2026-10-22T16:57:56Z",
+      "headline": "Netflix Stock Moves Higher: What's Going On?",
+      "source": "benzinga",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62537637/netflix-stock-moves-higher-whats-going-on"
+    },
+    {
+      "created_at": "2026-10-22T16:54:23Z",
+      "headline": "Is A War Imminent? Concerns Overshadow Strong Meta, Tesla Earnings",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "BTCUSD",
+        "GLD",
+        "GOOG",
+        "META",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "SLV",
+        "SPY",
+        "TSLA",
+        "USO"
+      ],
+      "url": "https://www.benzinga.com/opinion/26/10/62537507/is-a-war-imminent-concerns-overshadow-strong-meta-tesla-earnings"
+    },
+    {
+      "created_at": "2026-10-22T16:44:20Z",
+      "headline": "BNP Paribas Upgrades Tesla to Neutral, Raises Price Target to $420",
       "source": "benzinga",
       "symbols": [
         "TSLA"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62514355/tesla-ceo-elon-musk-says-ramping-production-meet-demand"
+      "url": "https://www.benzinga.com/news/26/10/62537083/bnp-paribas-upgrades-tesla-neutral-raises-price-target-420"
     },
     {
-      "created_at": "2026-10-21T21:33:26Z",
-      "headline": "Meta Platforms CEO Says Co To Work On Muse Monetization Sooner Than Normal Playbook;  Reason We're Not Charging Everyone For Muse Is That We Want To Establish A Network Of People And Businesses Using It At Scale",
+      "created_at": "2026-10-22T16:44:08Z",
+      "headline": "Walmart Stock Eyes Best Monthly Rally Since 2014: Is This an Early Recession Warning?",
       "source": "benzinga",
       "symbols": [
-        "META"
+        "WMT",
+        "XLP",
+        "XLY"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62514334/meta-platforms-ceo-says-co-work-muse-monetization-sooner-normal-playbook-reason-we-re-not-charging-e"
-    },
-    {
-      "created_at": "2026-10-21T21:32:04Z",
-      "headline": "Amazon's Blink Brand Launches Five New Security Cameras",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.moomoo.com/stock/AMZN-US/news?chain_id=Name1K9-3FXPhg.1ldg040&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A39,%22f%22%3A%22www.moomoo.com%2Fus%2Flearn%2Fcommon-mistakes-to-avoid-when-investing-in-etfs%22%7D"
-    },
-    {
-      "created_at": "2026-10-21T21:31:47Z",
-      "headline": "Bank of America Appoints Two New Directors to Board",
-      "source": "fiscal.ai",
-      "symbols": [
-        "BAC"
-      ],
-      "url": "https://www.tradingview.com/news/tradingview:a41a974569680:0-bank-of-america-corporation-bac-adds-two-directors/"
-    },
-    {
-      "created_at": "2026-10-21T21:31:42Z",
-      "headline": "Walmart Business Expands Payment Options with TreviPay",
-      "source": "fiscal.ai",
-      "symbols": [
-        "WMT"
-      ],
-      "url": "https://www.businesswire.com/newsroom"
-    },
-    {
-      "created_at": "2026-10-21T21:23:39Z",
-      "headline": "Meta Platforms CFO Says We Feel Good That AI Is Going To Become A Meaningful Source Of Revenue Diversification Over Time",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62514166/meta-platforms-cfo-says-we-feel-good-ai-going-become-meaningful-source-revenue-diversification-over-"
-    },
-    {
-      "created_at": "2026-10-21T21:20:58Z",
-      "headline": "Meta Platfroms CFO Says We Expect Our New AI Businesses Can Begin Contributing Incremental Revenue In 2027",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62514117/meta-platfroms-cfo-says-we-expect-our-new-ai-businesses-can-begin-contributing-incremental-revenue-2"
-    },
-    {
-      "created_at": "2026-10-21T21:00:12Z",
-      "headline": "Meta Platforms CFO Says Advertiser Adoption Of Our Video Generation Features Grew 25% Q/Q; Muse's Compute Intensity Means That Expanding Its User BASE Will Require Significant Investment, Expect Total Serving Costs To Rise",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62513646/meta-platforms-cfo-says-advertiser-adoption-our-video-generation-features-grew-25-q-q-muse-s-compute"
+      "url": "https://www.benzinga.com/markets/equities/26/10/62537079/walmart-stock-best-month-since-2014-recession-signal"
     }
   ],
-  "regime": "RISK_ON",
-  "regime_score": 0.805405,
+  "regime": "DEFENSIVE",
+  "regime_score": -0.659459,
   "top_candidates": [
     {
       "news_score": 0.0,
-      "price": 416.86,
-      "reason": "5d +5.3%; 20d +12.3%; vs SPY +11.6%; RSI 78; volume 0.8x; volatility 27.7%; news +0.00",
-      "relative_strength_20d": 0.115945,
-      "score": 0.715688,
-      "symbol": "UNH"
-    },
-    {
-      "news_score": 0.0,
-      "price": 407.83,
-      "reason": "5d +4.2%; 20d +12.8%; vs SPY +12.1%; RSI 92; volume 1.0x; volatility 18.4%; news +0.00",
-      "relative_strength_20d": 0.121483,
-      "score": 0.704625,
-      "symbol": "V"
-    },
-    {
-      "news_score": 0.0,
-      "price": 1270.89,
-      "reason": "5d +5.0%; 20d +10.4%; vs SPY +9.7%; RSI 75; volume 0.6x; volatility 28.9%; news +0.00",
-      "relative_strength_20d": 0.096761,
-      "score": 0.641134,
-      "symbol": "LLY"
-    },
-    {
-      "news_score": 0.0,
-      "price": 622.565,
-      "reason": "5d +3.2%; 20d +11.3%; vs SPY +10.7%; RSI 97; volume 0.9x; volatility 17.4%; news +0.00",
-      "relative_strength_20d": 0.106623,
-      "score": 0.628425,
-      "symbol": "MA"
-    },
-    {
-      "news_score": 0.0,
-      "price": 226.76,
-      "reason": "5d +2.1%; 20d +10.4%; vs SPY +9.7%; RSI 81; volume 0.8x; volatility 18.8%; news +0.00",
-      "relative_strength_20d": 0.096713,
-      "score": 0.542893,
-      "symbol": "CVX"
-    },
-    {
-      "news_score": 0.0,
-      "price": 998.59,
-      "reason": "5d +1.7%; 20d +10.4%; vs SPY +9.7%; RSI 88; volume 0.7x; volatility 17.3%; news +0.00",
-      "relative_strength_20d": 0.097224,
-      "score": 0.50597,
-      "symbol": "COST"
-    },
-    {
-      "news_score": 0.0,
-      "price": 314.095,
-      "reason": "5d +6.3%; 20d +5.8%; vs SPY +5.1%; RSI 82; volume 0.5x; volatility 24.9%; news +0.00",
-      "relative_strength_20d": 0.051351,
-      "score": 0.47719,
+      "price": 325.42,
+      "reason": "5d +5.6%; 20d +11.4%; vs SPY +11.9%; RSI 88; volume 0.8x; volatility 26.5%; news +0.00",
+      "relative_strength_20d": 0.119002,
+      "score": 0.707459,
       "symbol": "HD"
     },
     {
       "news_score": 0.0,
-      "price": 178.08,
-      "reason": "5d +0.6%; 20d +10.4%; vs SPY +9.7%; RSI 82; volume 0.8x; volatility 17.3%; news +0.00",
-      "relative_strength_20d": 0.097317,
-      "score": 0.473001,
+      "price": 1314.27,
+      "reason": "5d +5.0%; 20d +11.1%; vs SPY +11.6%; RSI 78; volume 0.8x; volatility 29.6%; news +0.00",
+      "relative_strength_20d": 0.115645,
+      "score": 0.701031,
+      "symbol": "LLY"
+    },
+    {
+      "news_score": 0.0,
+      "price": 414.125,
+      "reason": "5d +3.7%; 20d +12.6%; vs SPY +13.1%; RSI 91; volume 0.8x; volatility 18.2%; news +0.00",
+      "relative_strength_20d": 0.130818,
+      "score": 0.661926,
+      "symbol": "V"
+    },
+    {
+      "news_score": 0.0,
+      "price": 423.215,
+      "reason": "5d +4.1%; 20d +12.8%; vs SPY +13.3%; RSI 77; volume 0.5x; volatility 28.1%; news +0.00",
+      "relative_strength_20d": 0.133203,
+      "score": 0.627677,
+      "symbol": "UNH"
+    },
+    {
+      "news_score": 0.0,
+      "price": 1012.6,
+      "reason": "5d +3.6%; 20d +12.9%; vs SPY +13.5%; RSI 89; volume 0.6x; volatility 16.8%; news +0.00",
+      "relative_strength_20d": 0.134639,
+      "score": 0.623102,
+      "symbol": "COST"
+    },
+    {
+      "news_score": 0.0,
+      "price": 632.55,
+      "reason": "5d +2.6%; 20d +11.9%; vs SPY +12.4%; RSI 96; volume 0.8x; volatility 17.8%; news +0.00",
+      "relative_strength_20d": 0.124481,
+      "score": 0.598641,
+      "symbol": "MA"
+    },
+    {
+      "news_score": -0.111111,
+      "price": 89.415,
+      "reason": "5d +3.2%; 20d +9.4%; vs SPY +9.9%; RSI 88; volume 0.9x; volatility 16.6%; news -0.11",
+      "relative_strength_20d": 0.099438,
+      "score": 0.581826,
+      "symbol": "XLP"
+    },
+    {
+      "news_score": -0.333333,
+      "price": 120.205,
+      "reason": "5d +2.0%; 20d +11.8%; vs SPY +12.3%; RSI 90; volume 1.1x; volatility 22.6%; news -0.33",
+      "relative_strength_20d": 0.122808,
+      "score": 0.555839,
+      "symbol": "WMT"
+    },
+    {
+      "news_score": 0.0,
+      "price": 226.075,
+      "reason": "5d +3.1%; 20d +9.9%; vs SPY +10.5%; RSI 80; volume 0.5x; volatility 19.0%; news +0.00",
+      "relative_strength_20d": 0.104621,
+      "score": 0.548175,
+      "symbol": "CVX"
+    },
+    {
+      "news_score": 0.0,
+      "price": 177.14,
+      "reason": "5d +1.4%; 20d +9.3%; vs SPY +9.8%; RSI 79; volume 0.5x; volatility 17.7%; news +0.00",
+      "relative_strength_20d": 0.097823,
+      "score": 0.44456,
       "symbol": "XOM"
-    },
-    {
-      "news_score": 0.0,
-      "price": 178.915,
-      "reason": "5d +2.9%; 20d +6.0%; vs SPY +5.3%; RSI 77; volume 1.2x; volatility 18.2%; news +0.00",
-      "relative_strength_20d": 0.053073,
-      "score": 0.466359,
-      "symbol": "XLV"
-    },
-    {
-      "news_score": 0.0,
-      "price": 68.16,
-      "reason": "5d +0.8%; 20d +9.3%; vs SPY +8.6%; RSI 79; volume 0.9x; volatility 18.8%; news +0.00",
-      "relative_strength_20d": 0.085808,
-      "score": 0.450143,
-      "symbol": "XLE"
     }
   ],
   "universe_size": 37
