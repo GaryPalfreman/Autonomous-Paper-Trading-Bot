@@ -1,356 +1,310 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": false,
-  "benchmark_price": 760.25,
+  "benchmark_price": 759.975,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.540541,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-23T17:37:49.587321+00:00",
-  "latest_market_timestamp": "2026-10-23T17:37:47.628161023Z",
-  "market_is_open": true,
+  "generated_at": "2026-10-23T20:38:39.438974+00:00",
+  "latest_market_timestamp": "2026-10-23T20:38:38.441001886Z",
+  "market_is_open": false,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
-  "next_close": "2026-10-23T16:00:00-04:00",
+  "next_close": "2026-10-26T16:00:00-04:00",
   "next_open": "2026-10-26T09:30:00-04:00",
   "recent_news": [
     {
-      "created_at": "2026-10-23T17:35:10Z",
-      "headline": "10 Health Care Stocks Whale Activity In Today\u2019s Session",
-      "source": "benzinga",
+      "created_at": "2026-10-23T20:31:32Z",
+      "headline": "ExxonMobil's Joliet Refinery Expected to Resume Operations Next Week",
+      "source": "fiscal.ai",
       "symbols": [
-        "ABVX",
-        "CI",
-        "ELV",
-        "GILD",
-        "HIMS",
-        "LLY",
-        "MRK",
-        "TNGX",
-        "TVTX",
-        "UNH"
+        "XOM"
       ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62569474/10-health-care-stocks-whale-activity-today-s-session"
+      "url": "https://www.moomoo.com/options/XOM261023C182500-US/news"
     },
     {
-      "created_at": "2026-10-23T17:35:10Z",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
+      "created_at": "2026-10-23T19:51:16Z",
+      "headline": "NHTSA Proposes Updating Vehicle Lighting Standard, Federal Motor Vehicle Safety Standards No. 108, To Accommodate Automated Driving Systems And Modernize Headlamp Requirements; NHTSA Says The Changes Are Intended To Eliminate Unnecessary Regulatory Barriers, Reduce Costs, And Enable Innovation Without Compromising Vehicle Safety",
       "source": "benzinga",
       "symbols": [
-        "APPS",
-        "CRWV",
-        "MARA",
-        "MDB",
-        "MRVL",
-        "MSFT",
-        "MSTR",
-        "STX",
-        "TSM",
-        "WULF"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62569473/10-information-technology-stocks-whale-alerts-today-s-session"
-    },
-    {
-      "created_at": "2026-10-23T17:30:08Z",
-      "headline": "Nvidia Growth Could Slow to 20% But Its Stock Can Still Double, Expert Says",
-      "source": "benzinga",
-      "symbols": [
-        "MSFT",
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62569298/nvidia-stock-slower-growth-stock-outlook"
-    },
-    {
-      "created_at": "2026-10-23T17:26:26Z",
-      "headline": "Hims & Hers Defends Subscription Practices And Privacy Disclosures Against Lawsuit",
-      "source": "benzinga",
-      "symbols": [
+        "AMZN",
+        "GOOG",
         "GOOGL",
-        "HIMS",
-        "META"
+        "LYFT",
+        "TSLA",
+        "UBER"
       ],
-      "url": "https://www.benzinga.com/news/health-care/26/10/62569106/hims-hers-defends-subscription-practices-and-privacy-disclosures-against-lawsuit"
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62573841/nhtsa-proposes-updating-vehicle-lighting-standard-federal-motor-vehicle-safety-standards-no-108-acco"
     },
     {
-      "created_at": "2026-10-23T17:21:38Z",
-      "headline": "'U.S. Notifies Iraq of Iran Strike; PM Warns Armed Groups' - Channel 8",
+      "created_at": "2026-10-23T19:41:58Z",
+      "headline": "Palmer Luckey's New Defense Startup Is Cloning War Dogs",
+      "source": "benzinga",
+      "symbols": [
+        "META",
+        "PLTR"
+      ],
+      "url": "https://www.benzinga.com/markets/private-markets/26/10/62573550/palmer-luckeys-new-defense-startup-is-cloning-war-dogs"
+    },
+    {
+      "created_at": "2026-10-23T19:41:42Z",
+      "headline": "President Donald J. Trump Further Modifies Canadian Products Subject To Tariffs Under Section 338; Removing Certain Products Such As Plywood Sheets, Some Paper Products, Certain Machinery And Refrigeration Equipment, And Certain Packing Crates And Boxes; Replacing Those Products With Certain Valves, Carpets, Waste Products, And Others; Product Additions And Removals Will Take Effect On October 30, 2026",
+      "source": "benzinga",
+      "symbols": [
+        "EWC",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62573523/president-donald-j-trump-further-modifies-canadian-products-subject-tariffs-under-section-338-removi"
+    },
+    {
+      "created_at": "2026-10-23T19:23:56Z",
+      "headline": "Texas Attorney General Paxton Sues OpenAI, CEO Altman Over Alleged Imposition Of Negative Side Effects On Clients",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62572952/texas-attorney-general-paxton-sued-openai-over-alleged-imposition-of-negative-side-effects-on-clients"
+    },
+    {
+      "created_at": "2026-10-23T19:14:18Z",
+      "headline": "OpenAI Says It Expects That Future Models Will Be Able To Identify & Exploit Vulnerabilities Of Which It Is Not Yet Aware",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62572623/openai-says-it-expects-future-models-will-be-able-identify-exploit-vulnerabilities-which-it-not-yet-"
+    },
+    {
+      "created_at": "2026-10-23T19:05:36Z",
+      "headline": "Iraq Aims To Gradually Raise Oil Production To 10M Barrels Per Day By 2032",
       "source": "benzinga",
       "symbols": [
         "SPY",
         "USO"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62568901/u-s-notifies-iraq-iran-strike-pm-warns-armed-groups-channel-8"
+      "url": "https://www.benzinga.com/news/26/10/62572378/iraq-aims-gradually-raise-oil-production-10m-barrels-day-2032"
     },
     {
-      "created_at": "2026-10-23T17:15:48Z",
-      "headline": "Oil Tops $100 on Iran Fears, Energy ETF XLE Hits New Record: Stock Market Today",
+      "created_at": "2026-10-23T19:02:28Z",
+      "headline": "The AI Boom Isn't 1999\u2014and Big Tech Could Cushion a Market Crash, This CEO Says",
       "source": "benzinga",
       "symbols": [
-        "AMT",
-        "BE",
-        "BTC",
-        "BTCUSD",
-        "CCI",
-        "CORT",
-        "CVX",
-        "DIA",
-        "FCNCA",
-        "FIX",
-        "GOOGL",
-        "HAL",
-        "IWM",
-        "LKQ",
+        "AAPL",
         "MSFT",
-        "OIH",
-        "PEP",
-        "PG",
-        "QQQ",
-        "RHI",
-        "RNG",
-        "SLM",
-        "T",
-        "TMUS",
-        "UWMC",
-        "VOO",
-        "VZ",
-        "XLE",
-        "XLP",
-        "XOP"
+        "NVDA"
       ],
-      "url": "https://www.benzinga.com/markets/equities/26/10/62568689/oil-tops-100-iran-energy-etf-record-stock-market-today"
+      "url": "https://www.benzinga.com/markets/tech/26/10/62572321/ai-boom-big-tech-market-crash"
     },
     {
-      "created_at": "2026-10-23T17:14:03Z",
-      "headline": "Chevron Stock Moves Higher: What's Going On?",
-      "source": "benzinga",
+      "created_at": "2026-10-23T19:01:54Z",
+      "headline": "Chevron to Increase Drilling Rigs at Argentina's El Trapial Block",
+      "source": "fiscal.ai",
       "symbols": [
         "CVX"
       ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62568618/chevron-stock-moves-higher-whats-going-on"
+      "url": "https://www.marketscreener.com/news/chevron-plans-to-up-drilling-rigs-in-argentina-s-el-trapial-block-to-3-from-1-ce785cdfdd8ff522"
     },
     {
-      "created_at": "2026-10-23T17:12:04Z",
-      "headline": "'Meta's Muse AI To Counter China Models With Subscribers, Not Ads; Meta Plans To Offer Paid Enterprise Services, Will Take Commissions From Sellers On Purchases Made Using Agents, Alexandr Wang Says' - Nikkei Asia",
-      "source": "benzinga",
+      "created_at": "2026-10-23T19:01:49Z",
+      "headline": "GE Aerospace F404 Engine Deliveries and Production Impact on India's Tejas Fighter Program",
+      "source": "fiscal.ai",
+      "symbols": [
+        "GE"
+      ],
+      "url": "https://world.storm.mg/articles/1174694"
+    },
+    {
+      "created_at": "2026-10-23T19:01:32Z",
+      "headline": "JPMorgan Chase & Co. Decreases Holding in Spire Healthcare Group PLC",
+      "source": "fiscal.ai",
+      "symbols": [
+        "JPM"
+      ],
+      "url": "https://www.investegate.co.uk/announcement/rns/spire-healthcare-group--spi/holding-s-in-company/9839525"
+    },
+    {
+      "created_at": "2026-10-23T19:01:30Z",
+      "headline": "Netflix Announces Record Share Buybacks and Revised 2026 Financial Guidance",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.barchart.com/story/news/8361782/netflix-stock-tanks-5-as-revenue-growth-slows-in-q3-how-to-play-nflx-here"
+    },
+    {
+      "created_at": "2026-10-23T19:01:27Z",
+      "headline": "Rhode Island Files Lawsuit Against Meta Over Scam Ads",
+      "source": "fiscal.ai",
       "symbols": [
         "META"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62568521/meta-s-muse-ai-counter-china-models-subscribers-not-ads-meta-plans-offer-paid-enterprise-services-wi"
+      "url": "https://www.pymnts.com/legal/2026/rhode-island-lawsuit-claims-meta-knowingly-profits-from-financial-scam-ads/"
     },
     {
-      "created_at": "2026-10-23T17:06:50Z",
-      "headline": "S&P 500 Near Record Highs, But 60% of Stocks Are in a Bear Market. Is SPY Hiding a Bigger Problem?",
-      "source": "benzinga",
+      "created_at": "2026-10-23T19:01:26Z",
+      "headline": "Apple Launches First Foldable Smartphone, the iPhone Duo",
+      "source": "fiscal.ai",
       "symbols": [
-        "AAPL",
-        "MSFT",
-        "NVDA",
-        "RSP",
-        "SPY",
-        "VOO"
+        "AAPL"
       ],
-      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/10/62568378/sp500-near-record-highs-but-60-of-stocks-are-in-a-bear-market-is-spy-hiding-a-bigger-problem"
+      "url": "https://appleosophy.com/wire/x67u7h8/"
     },
     {
-      "created_at": "2026-10-23T17:02:23Z",
-      "headline": "U.S. Baker Hughes Oil Rig Count +1 To 460; U.S. Baker Hughes NatGas Rig Count -1 To 132; U.S. Baker Hughes Total Rig Count 603 Vs 603 Prior",
+      "created_at": "2026-10-23T18:28:24Z",
+      "headline": "Amazon CEO Andy Jassy Says AI Inference Is Still 10 Times Too Expensive, Claims Amazon Chips Offer Answer",
       "source": "benzinga",
       "symbols": [
-        "SPY",
-        "UNG",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/quote/UNG"
-    },
-    {
-      "created_at": "2026-10-23T17:00:31Z",
-      "headline": "SpaceX Pays Up: $40 Billion Debt Deal Prices Above 8%",
-      "source": "benzinga",
-      "symbols": [
-        "CRWV",
-        "META",
-        "ORCL",
-        "SPCX",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62568125/spacex-pays-up-40-billion-debt-deal-prices-above-8"
-    },
-    {
-      "created_at": "2026-10-23T16:58:06Z",
-      "headline": "Michael Burry Warns Washington Has Little Room Left to Fight the Next Crisis",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/markets/equities/26/10/62568034/michael-burry-warns-washington-has-little-room-left-to-fight-the-next-crisis"
-    },
-    {
-      "created_at": "2026-10-23T16:50:53Z",
-      "headline": "U.S. Department Of Energy Designates Helium Under Critical Material List",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/government/26/10/62567764/u-s-department-energy-designates-helium-under-critical-material-list"
-    },
-    {
-      "created_at": "2026-10-23T16:49:05Z",
-      "headline": "Stellantis Stock Drops to New 52-Week Low: What's Happening?",
-      "source": "benzinga",
-      "symbols": [
-        "NVDA",
-        "STLA"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62567672/stellantis-stock-drops-to-new-52-week-low-whats-happening"
-    },
-    {
-      "created_at": "2026-10-23T16:47:08Z",
-      "headline": "Nvidia Analyst Warns 45% of AI Data Center Capacity Planned for 2027 May Not Get Built",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
         "AMZN",
-        "CRWV",
-        "MSFT",
-        "NBIS",
         "NVDA"
       ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62567597/ai-data-center-capacity-nvidia-45-percent"
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62571409/amazon-ai-inference-cost-trainium-jassy"
     },
     {
-      "created_at": "2026-10-23T16:20:56Z",
-      "headline": "What's Going On With Micron Technology Stock Friday?",
+      "created_at": "2026-10-23T17:52:18Z",
+      "headline": "'Trump Expected To Remove Some Tariffs On Canada In Bid To Help Susan Collins; The Move, Which Could Come As Soon As Friday, Would Remove Tariffs On Some Agricultural And Forestry Goods But Could Raise Levies On Other Products' - WSJ Exclusive",
       "source": "benzinga",
       "symbols": [
-        "MU",
-        "SKHY",
-        "XLK"
+        "ASTL",
+        "BMO",
+        "BNS",
+        "CM",
+        "DOO",
+        "ENB",
+        "EWC",
+        "MGA",
+        "NTR",
+        "RY",
+        "SPY",
+        "SU",
+        "TD",
+        "TRP"
       ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62566629/whats-going-on-with-micron-technology-stock-friday-7"
+      "url": "https://www.benzinga.com/news/26/10/62570222/trump-expected-to-remove-some-tariffs-on-canada-in-bid-to-help-susan-collins-the-move-which-could-come-as-soon-as-friday-would-remove-tariffs-on-some-agricultural-and-forestry-goods-but-could-rais"
     },
     {
-      "created_at": "2026-10-23T16:18:51Z",
-      "headline": "Comcast Posts Q3 EBITDA Beat On Media Upside, Faces Threat From AI Tools Like Muse",
+      "created_at": "2026-10-23T18:12:25Z",
+      "headline": "Gas Prices to Remain High Through Election, Expert Says 'It's Still Not Over'",
       "source": "benzinga",
       "symbols": [
-        "CMCSA",
-        "META"
+        "COST",
+        "USO",
+        "WMT"
       ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62566551/comcast-posts-q3-ebitda-beat-on-media-upside-faces-threat-from-ai-tools-like-muse"
+      "url": "https://www.benzinga.com/markets/commodities/26/10/62570934/gas-prices-to-remain-high-through-election-expert-says-its-still-not-over"
     },
     {
-      "created_at": "2026-10-23T16:17:57Z",
-      "headline": "Live On CNBC, Stephanie Link Announces Bought More Amazon",
+      "created_at": "2026-10-23T18:12:03Z",
+      "headline": "Senator Susan Collins Posts On X \"I am pleased to have secured additional tariff exemptions products crucial to Maine\u2019s agricultural industries, including blueberry, potato, apple, and seaweed producers. Many of our farmers and growers rely on specialized equipment, packaging materials, and other products from Canada that are either unavailable from American suppliers or cannot be replaced without incurring significant expense.....\"",
       "source": "benzinga",
       "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.benzinga.com/quote/AMZN"
-    },
-    {
-      "created_at": "2026-10-23T15:58:47Z",
-      "headline": "Republican Senator Blackburn Raises Concerns About Facebook-parent Meta Plan To Update Commercial Terms, Saying It Could 'Exploit American Creators And Businesses'",
-      "source": "benzinga",
-      "symbols": [
-        "META",
+        "EWC",
         "SPY"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62565688/republican-senator-blackburn-raises-concerns-about-facebook-parent-meta-plan-update-commercial-terms"
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62570916/senator-susan-collins-posts-x-i-am-pleased-have-secured-additional-tariff-exemptions-products-crucia"
     },
     {
-      "created_at": "2026-10-23T15:58:35Z",
-      "headline": "Elon Musk's Tesla-SpaceX Merger Could Face Antitrust Hurdles Over Starlink Access, \u2018Vertical Foreclosure\u2019, Former DOJ Official Warns",
-      "source": "benzinga",
+      "created_at": "2026-10-23T18:01:54Z",
+      "headline": "Costco Launches New 'Beauty Table' Program",
+      "source": "fiscal.ai",
       "symbols": [
-        "SPCX",
-        "TSLA"
+        "COST"
       ],
-      "url": "https://www.benzinga.com/markets/equities/26/10/62565681/elon-musks-tesla-spacex-merger-could-face-antitrust-hurdles-over-starlink-access-vertical-foreclosure-former-doj-official-warns"
+      "url": "https://www.prnewswire.com/news-releases/rejuran-cosmetics-expands-us-retail-presence-through-costcos-first-ever-beauty-table-program-302918195.html"
+    },
+    {
+      "created_at": "2026-10-23T18:01:50Z",
+      "headline": "Mastercard Senior Strategic Advisor Raj Seshadri Appointed to Fiserv Board",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MA"
+      ],
+      "url": "https://www.globenewswire.com/news-release/2026/10/23/3387199/0/en/fiserv-appoints-raj-seshadri-to-board-of-directors.html"
     }
   ],
   "regime": "DEFENSIVE",
   "regime_score": -0.675676,
   "top_candidates": [
     {
-      "news_score": 0.166667,
-      "price": 232.05,
-      "reason": "5d +3.1%; 20d +13.5%; vs SPY +14.9%; RSI 84; volume 0.7x; volatility 19.6%; news +0.17",
-      "relative_strength_20d": 0.149442,
-      "score": 0.64418,
+      "news_score": 0.111111,
+      "price": 233.23,
+      "reason": "5d +3.7%; 20d +14.1%; vs SPY +15.6%; RSI 84; volume 1.2x; volatility 20.3%; news +0.11",
+      "relative_strength_20d": 0.155571,
+      "score": 0.73272,
       "symbol": "CVX"
     },
     {
       "news_score": 0.0,
-      "price": 417.845,
-      "reason": "5d +4.1%; 20d +10.9%; vs SPY +12.4%; RSI 74; volume 0.5x; volatility 28.7%; news +0.00",
-      "relative_strength_20d": 0.123615,
-      "score": 0.594493,
+      "price": 418.06,
+      "reason": "5d +4.1%; 20d +11.0%; vs SPY +12.5%; RSI 75; volume 0.9x; volatility 29.2%; news +0.00",
+      "relative_strength_20d": 0.124542,
+      "score": 0.655466,
       "symbol": "UNH"
     },
     {
-      "news_score": 0.166667,
-      "price": 69.285,
-      "reason": "5d +1.5%; 20d +11.7%; vs SPY +13.1%; RSI 76; volume 0.9x; volatility 20.1%; news +0.17",
-      "relative_strength_20d": 0.13108,
-      "score": 0.574427,
+      "news_score": 0.333333,
+      "price": 69.32,
+      "reason": "5d +1.6%; 20d +11.7%; vs SPY +13.2%; RSI 76; volume 1.3x; volatility 20.2%; news +0.33",
+      "relative_strength_20d": 0.132,
+      "score": 0.655157,
       "symbol": "XLE"
     },
     {
       "news_score": 0.0,
-      "price": 182.245,
-      "reason": "5d +1.8%; 20d +13.5%; vs SPY +14.9%; RSI 85; volume 0.6x; volatility 17.6%; news +0.00",
-      "relative_strength_20d": 0.149484,
-      "score": 0.533176,
+      "price": 183.21,
+      "reason": "5d +2.3%; 20d +14.1%; vs SPY +15.6%; RSI 86; volume 1.0x; volatility 18.3%; news +0.00",
+      "relative_strength_20d": 0.155851,
+      "score": 0.614374,
       "symbol": "XOM"
     },
     {
-      "news_score": 0.0,
-      "price": 408.73,
-      "reason": "5d +1.5%; 20d +11.3%; vs SPY +12.7%; RSI 82; volume 0.6x; volatility 19.2%; news +0.00",
-      "relative_strength_20d": 0.127065,
-      "score": 0.500856,
+      "news_score": 0.333333,
+      "price": 408.0,
+      "reason": "5d +1.3%; 20d +11.1%; vs SPY +12.5%; RSI 81; volume 0.9x; volatility 19.6%; news +0.33",
+      "relative_strength_20d": 0.125435,
+      "score": 0.579016,
       "symbol": "V"
     },
     {
-      "news_score": 0.166667,
-      "price": 88.135,
-      "reason": "5d +0.6%; 20d +7.4%; vs SPY +8.8%; RSI 75; volume 1.5x; volatility 19.9%; news +0.17",
-      "relative_strength_20d": 0.08816,
-      "score": 0.496116,
+      "news_score": 0.333333,
+      "price": 88.27,
+      "reason": "5d +0.7%; 20d +7.5%; vs SPY +9.0%; RSI 76; volume 1.8x; volatility 19.7%; news +0.33",
+      "relative_strength_20d": 0.090161,
+      "score": 0.565124,
       "symbol": "XLP"
     },
     {
       "news_score": 0.0,
-      "price": 318.42,
-      "reason": "5d +2.8%; 20d +8.6%; vs SPY +10.0%; RSI 75; volume 0.4x; volatility 30.4%; news +0.00",
-      "relative_strength_20d": 0.100481,
-      "score": 0.477552,
+      "price": 319.76,
+      "reason": "5d +3.3%; 20d +9.1%; vs SPY +10.5%; RSI 76; volume 0.7x; volatility 29.7%; news +0.00",
+      "relative_strength_20d": 0.105408,
+      "score": 0.552567,
       "symbol": "HD"
     },
     {
       "news_score": 0.0,
-      "price": 621.79,
-      "reason": "5d +0.7%; 20d +9.7%; vs SPY +11.2%; RSI 84; volume 0.7x; volatility 19.5%; news +0.00",
-      "relative_strength_20d": 0.111718,
-      "score": 0.450349,
+      "price": 623.38,
+      "reason": "5d +1.0%; 20d +10.0%; vs SPY +11.5%; RSI 85; volume 1.1x; volatility 19.2%; news +0.00",
+      "relative_strength_20d": 0.114881,
+      "score": 0.523416,
       "symbol": "MA"
     },
     {
       "news_score": 0.0,
-      "price": 1004.89,
-      "reason": "5d +1.6%; 20d +8.9%; vs SPY +10.3%; RSI 79; volume 0.5x; volatility 16.3%; news +0.00",
-      "relative_strength_20d": 0.103395,
-      "score": 0.448342,
-      "symbol": "COST"
+      "price": 119.87,
+      "reason": "5d +0.9%; 20d +11.0%; vs SPY +12.5%; RSI 83; volume 0.9x; volatility 24.2%; news +0.00",
+      "relative_strength_20d": 0.124911,
+      "score": 0.508941,
+      "symbol": "WMT"
     },
     {
       "news_score": 0.0,
-      "price": 119.2,
-      "reason": "5d +0.3%; 20d +10.4%; vs SPY +11.8%; RSI 81; volume 0.6x; volatility 24.7%; news +0.00",
-      "relative_strength_20d": 0.11835,
-      "score": 0.424206,
-      "symbol": "WMT"
+      "price": 1003.185,
+      "reason": "5d +1.4%; 20d +8.7%; vs SPY +10.2%; RSI 78; volume 0.9x; volatility 16.5%; news +0.00",
+      "relative_strength_20d": 0.101904,
+      "score": 0.480704,
+      "symbol": "COST"
     }
   ],
   "universe_size": 37
