@@ -6,14 +6,50 @@
   "breadth_above_20d_average": 0.540541,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-23T20:38:39.438974+00:00",
-  "latest_market_timestamp": "2026-10-23T20:38:38.441001886Z",
+  "generated_at": "2026-10-23T23:29:50.497611+00:00",
+  "latest_market_timestamp": "2026-10-23T20:54:54.998961483Z",
   "market_is_open": false,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
   "next_close": "2026-10-26T16:00:00-04:00",
   "next_open": "2026-10-26T09:30:00-04:00",
   "recent_news": [
+    {
+      "created_at": "2026-10-23T21:31:54Z",
+      "headline": "Simfabric Signs Agreement with Apple for iPhone Duo App Development",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://www.moomoo.com/stock/AAPL-US/news?chain_id=Name1K9-3FXPhg.1l7q280&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A64,%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Ftw-prepaid-%E8%A2%AB%E5%8A%A8%E6%94%B6%E5%85%A5-104392995%2Fpost%2Fall%22%7D"
+    },
+    {
+      "created_at": "2026-10-23T21:31:44Z",
+      "headline": "Bernstein Maintains Buy Rating on GE Aerospace, Adjusts Price Target",
+      "source": "fiscal.ai",
+      "symbols": [
+        "GE"
+      ],
+      "url": "https://www.moomoo.com/news/post/1002180767/bernstein-maintains-ge-aerospace-geus-with-buy-rating-cuts-target"
+    },
+    {
+      "created_at": "2026-10-23T21:30:14Z",
+      "headline": "Here\u2019s How Much You Would Have Made Owning Apple Stock In The Last 15 Years",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62576407/here-s-how-much-you-would-have-made-owning-apple-stock-last-15-years"
+    },
+    {
+      "created_at": "2026-10-23T20:59:49Z",
+      "headline": "'Meta acquires AI data platform Sundial'- Axios",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62575914/meta-acquires-ai-data-platform-sundial-axios"
+    },
     {
       "created_at": "2026-10-23T20:31:32Z",
       "headline": "ExxonMobil's Joliet Refinery Expected to Resume Operations Next Week",
@@ -182,45 +218,6 @@
         "TRP"
       ],
       "url": "https://www.benzinga.com/news/26/10/62570222/trump-expected-to-remove-some-tariffs-on-canada-in-bid-to-help-susan-collins-the-move-which-could-come-as-soon-as-friday-would-remove-tariffs-on-some-agricultural-and-forestry-goods-but-could-rais"
-    },
-    {
-      "created_at": "2026-10-23T18:12:25Z",
-      "headline": "Gas Prices to Remain High Through Election, Expert Says 'It's Still Not Over'",
-      "source": "benzinga",
-      "symbols": [
-        "COST",
-        "USO",
-        "WMT"
-      ],
-      "url": "https://www.benzinga.com/markets/commodities/26/10/62570934/gas-prices-to-remain-high-through-election-expert-says-its-still-not-over"
-    },
-    {
-      "created_at": "2026-10-23T18:12:03Z",
-      "headline": "Senator Susan Collins Posts On X \"I am pleased to have secured additional tariff exemptions products crucial to Maine\u2019s agricultural industries, including blueberry, potato, apple, and seaweed producers. Many of our farmers and growers rely on specialized equipment, packaging materials, and other products from Canada that are either unavailable from American suppliers or cannot be replaced without incurring significant expense.....\"",
-      "source": "benzinga",
-      "symbols": [
-        "EWC",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62570916/senator-susan-collins-posts-x-i-am-pleased-have-secured-additional-tariff-exemptions-products-crucia"
-    },
-    {
-      "created_at": "2026-10-23T18:01:54Z",
-      "headline": "Costco Launches New 'Beauty Table' Program",
-      "source": "fiscal.ai",
-      "symbols": [
-        "COST"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/rejuran-cosmetics-expands-us-retail-presence-through-costcos-first-ever-beauty-table-program-302918195.html"
-    },
-    {
-      "created_at": "2026-10-23T18:01:50Z",
-      "headline": "Mastercard Senior Strategic Advisor Raj Seshadri Appointed to Fiserv Board",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MA"
-      ],
-      "url": "https://www.globenewswire.com/news-release/2026/10/23/3387199/0/en/fiserv-appoints-raj-seshadri-to-board-of-directors.html"
     }
   ],
   "regime": "DEFENSIVE",
@@ -255,7 +252,7 @@
       "price": 183.21,
       "reason": "5d +2.3%; 20d +14.1%; vs SPY +15.6%; RSI 86; volume 1.0x; volatility 18.3%; news +0.00",
       "relative_strength_20d": 0.155851,
-      "score": 0.614374,
+      "score": 0.61438,
       "symbol": "XOM"
     },
     {
