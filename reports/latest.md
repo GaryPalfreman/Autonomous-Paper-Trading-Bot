@@ -1,37 +1,37 @@
 # Autonomous Paper Portfolio — Latest Update
 
-Generated: 2026-10-23T23:29:50.500277+00:00
-Market open: No
-Portfolio value: **$995.61** (-0.44%)
+Generated: 2026-10-26T18:57:40.289186+00:00
+Market open: Yes
+Portfolio value: **$997.72** (-0.23%)
 Cash: **$197.25**
-Invested: **$798.36**
+Invested: **$800.47**
 Realised P/L: **$-20.04**
-SPY benchmark: **$998.97** (-0.10%)
-Excess return vs SPY: **-0.34%**
-Long-term simulated goal: **$1,000,000** (0.0996% complete; 1,004.4x remaining)
+SPY benchmark: **$1,005.79** (+0.58%)
+Excess return vs SPY: **-0.81%**
+Long-term simulated goal: **$1,000,000** (0.0998% complete; 1,002.3x remaining)
 
 ## Market research
-- Regime: **DEFENSIVE** (breadth above 20-day average: 54%)
+- Regime: **DEFENSIVE** (breadth above 20-day average: 59%)
 - Source: Alpaca Market Data / iex feed; 37 liquid symbols; 50 recent articles
 - New entries allowed: **No**
 
 ## Positions
 | Symbol | Quantity | Average | Latest | Value | Unrealised P/L |
 |---|---:|---:|---:|---:|---:|
-| COST | 0.19821 | $952.14 | $1003.18 | $198.84 | $+10.12 |
-| CVX | 0.58891 | $225.19 | $233.23 | $137.35 | $+4.74 |
-| MA | 0.12991 | $602.91 | $623.38 | $80.98 | $+2.66 |
-| MSFT | 0.36446 | $545.90 | $524.38 | $191.12 | $-7.84 |
-| XOM | 1.03739 | $177.44 | $183.21 | $190.06 | $+5.98 |
+| COST | 0.19821 | $952.14 | $1001.03 | $198.42 | $+9.69 |
+| CVX | 0.58891 | $225.19 | $232.49 | $136.92 | $+4.30 |
+| MA | 0.12991 | $602.91 | $614.88 | $79.88 | $+1.55 |
+| MSFT | 0.36446 | $545.90 | $532.21 | $193.97 | $-4.99 |
+| XOM | 1.03739 | $177.44 | $184.39 | $191.28 | $+7.21 |
 
 ## Trades this cycle
 - No trades. Holding cash or existing positions was the highest-ranked decision.
 
 ## Highest-ranked signals
-- **CVX +0.73** — 5d +3.7%; 20d +14.1%; vs SPY +15.6%; RSI 84; volume 1.2x; volatility 20.3%; news +0.11
-- **UNH +0.66** — 5d +4.1%; 20d +11.0%; vs SPY +12.5%; RSI 75; volume 0.9x; volatility 29.2%; news +0.00
-- **XLE +0.66** — 5d +1.6%; 20d +11.7%; vs SPY +13.2%; RSI 76; volume 1.3x; volatility 20.2%; news +0.33
-- **XOM +0.61** — 5d +2.3%; 20d +14.1%; vs SPY +15.6%; RSI 86; volume 1.0x; volatility 18.3%; news +0.00
-- **V +0.58** — 5d +1.3%; 20d +11.1%; vs SPY +12.5%; RSI 81; volume 0.9x; volatility 19.6%; news +0.33
+- **TSLA +0.70** — 5d +7.5%; 20d +10.7%; vs SPY +10.7%; RSI 58; volume 1.3x; volatility 38.9%; news +0.07
+- **XOM +0.68** — 5d +3.5%; 20d +13.4%; vs SPY +13.5%; RSI 88; volume 1.0x; volatility 18.2%; news +0.00
+- **CVX +0.62** — 5d +3.6%; 20d +12.7%; vs SPY +12.7%; RSI 88; volume 0.5x; volatility 20.5%; news +0.00
+- **XLE +0.61** — 5d +2.7%; 20d +12.1%; vs SPY +12.2%; RSI 79; volume 0.9x; volatility 20.1%; news +0.00
+- **LLY +0.51** — 5d +3.0%; 20d +7.8%; vs SPY +7.8%; RSI 66; volume 1.2x; volatility 30.8%; news +0.00
 
 > Educational simulation only. It cannot submit real brokerage orders.

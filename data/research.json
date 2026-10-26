@@ -1,306 +1,310 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": false,
-  "benchmark_price": 759.975,
+  "benchmark_price": 765.16,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.540541,
+  "breadth_above_20d_average": 0.594595,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-23T23:29:50.497611+00:00",
-  "latest_market_timestamp": "2026-10-23T20:54:54.998961483Z",
-  "market_is_open": false,
+  "generated_at": "2026-10-26T18:57:40.284654+00:00",
+  "latest_market_timestamp": "2026-10-26T18:57:39.620584026Z",
+  "market_is_open": true,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
   "next_close": "2026-10-26T16:00:00-04:00",
-  "next_open": "2026-10-26T09:30:00-04:00",
+  "next_open": "2026-10-27T09:30:00-04:00",
   "recent_news": [
     {
-      "created_at": "2026-10-23T21:31:54Z",
-      "headline": "Simfabric Signs Agreement with Apple for iPhone Duo App Development",
-      "source": "fiscal.ai",
+      "created_at": "2026-10-26T18:54:31Z",
+      "headline": "UBS Maintains Buy on Amazon.com, Raises Price Target to $348",
+      "source": "benzinga",
       "symbols": [
-        "AAPL"
+        "AMZN"
       ],
-      "url": "https://www.moomoo.com/stock/AAPL-US/news?chain_id=Name1K9-3FXPhg.1l7q280&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A64,%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Ftw-prepaid-%E8%A2%AB%E5%8A%A8%E6%94%B6%E5%85%A5-104392995%2Fpost%2Fall%22%7D"
+      "url": "https://www.benzinga.com/news/26/10/62601686/ubs-maintains-buy-amazon-com-raises-price-target-348"
     },
     {
-      "created_at": "2026-10-23T21:31:44Z",
-      "headline": "Bernstein Maintains Buy Rating on GE Aerospace, Adjusts Price Target",
-      "source": "fiscal.ai",
+      "created_at": "2026-10-26T18:45:23Z",
+      "headline": "UBS Maintains Neutral on Caterpillar, Lowers Price Target to $750",
+      "source": "benzinga",
       "symbols": [
-        "GE"
+        "CAT"
       ],
-      "url": "https://www.moomoo.com/news/post/1002180767/bernstein-maintains-ge-aerospace-geus-with-buy-rating-cuts-target"
+      "url": "https://www.benzinga.com/news/26/10/62601457/ubs-maintains-neutral-caterpillar-lowers-price-target-750"
     },
     {
-      "created_at": "2026-10-23T21:30:14Z",
-      "headline": "Here\u2019s How Much You Would Have Made Owning Apple Stock In The Last 15 Years",
+      "created_at": "2026-10-26T18:41:07Z",
+      "headline": "Siri AI Is Available In More Languages Starting Today; Expanding To More People Around World, With Availability In French, Japanese, Korean, Portuguese, And Spanish Languages; Siri AI Currently Unavailable In EU; Working With EU On Path Forward",
       "source": "benzinga",
       "symbols": [
         "AAPL"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62576407/here-s-how-much-you-would-have-made-owning-apple-stock-last-15-years"
+      "url": "https://www.benzinga.com/news/26/10/62601321/siri-ai-available-more-languages-starting-today-expanding-more-people-around-world-availability-fren"
     },
     {
-      "created_at": "2026-10-23T20:59:49Z",
-      "headline": "'Meta acquires AI data platform Sundial'- Axios",
+      "created_at": "2026-10-26T18:30:46Z",
+      "headline": "Visa Analyst Sees AI Agents Strengthening its Digital Payments Business",
       "source": "benzinga",
       "symbols": [
-        "META"
+        "KYC",
+        "V",
+        "VFH",
+        "XLF"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62575914/meta-acquires-ai-data-platform-sundial-axios"
+      "url": "https://www.benzinga.com/markets/large-cap/26/10/62601038/visa-analyst-sees-ai-agents-strengthening-its-digital-payments-business"
     },
     {
-      "created_at": "2026-10-23T20:31:32Z",
-      "headline": "ExxonMobil's Joliet Refinery Expected to Resume Operations Next Week",
-      "source": "fiscal.ai",
+      "created_at": "2026-10-26T18:11:40Z",
+      "headline": "OpenAI Rolls Out GPT-6.1 Terra To All Plus, Pro, Enterprise, And Edu Users In ChatGPT Work, Codex",
+      "source": "benzinga",
       "symbols": [
-        "XOM"
+        "MSFT"
       ],
-      "url": "https://www.moomoo.com/options/XOM261023C182500-US/news"
+      "url": "https://www.benzinga.com/news/26/10/62600498/openai-rolls-out-gpt-6-1-terra-all-plus-pro-enterprise-and-edu-users-chatgpt-work-codex"
     },
     {
-      "created_at": "2026-10-23T19:51:16Z",
-      "headline": "NHTSA Proposes Updating Vehicle Lighting Standard, Federal Motor Vehicle Safety Standards No. 108, To Accommodate Automated Driving Systems And Modernize Headlamp Requirements; NHTSA Says The Changes Are Intended To Eliminate Unnecessary Regulatory Barriers, Reduce Costs, And Enable Innovation Without Compromising Vehicle Safety",
+      "created_at": "2026-10-26T18:10:47Z",
+      "headline": "Michael Burry Eyes the Exit on Walmart, Alphabet and Valero",
+      "source": "benzinga",
+      "symbols": [
+        "ADBE",
+        "BBW",
+        "GOOG",
+        "GOOGL",
+        "LULU",
+        "PYPL",
+        "VLO",
+        "WMT"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62600475/michael-burry-eyes-the-exit-on-walmart-alphabet-and-valero"
+    },
+    {
+      "created_at": "2026-10-26T18:08:21Z",
+      "headline": "'FTC is demanding Anthropic execs testify in expanding AI safety probe' - Axios",
       "source": "benzinga",
       "symbols": [
         "AMZN",
         "GOOG",
         "GOOGL",
-        "LYFT",
-        "TSLA",
-        "UBER"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62573841/nhtsa-proposes-updating-vehicle-lighting-standard-federal-motor-vehicle-safety-standards-no-108-acco"
-    },
-    {
-      "created_at": "2026-10-23T19:41:58Z",
-      "headline": "Palmer Luckey's New Defense Startup Is Cloning War Dogs",
-      "source": "benzinga",
-      "symbols": [
-        "META",
-        "PLTR"
-      ],
-      "url": "https://www.benzinga.com/markets/private-markets/26/10/62573550/palmer-luckeys-new-defense-startup-is-cloning-war-dogs"
-    },
-    {
-      "created_at": "2026-10-23T19:41:42Z",
-      "headline": "President Donald J. Trump Further Modifies Canadian Products Subject To Tariffs Under Section 338; Removing Certain Products Such As Plywood Sheets, Some Paper Products, Certain Machinery And Refrigeration Equipment, And Certain Packing Crates And Boxes; Replacing Those Products With Certain Valves, Carpets, Waste Products, And Others; Product Additions And Removals Will Take Effect On October 30, 2026",
-      "source": "benzinga",
-      "symbols": [
-        "EWC",
         "SPY"
       ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62573523/president-donald-j-trump-further-modifies-canadian-products-subject-tariffs-under-section-338-removi"
+      "url": "https://www.benzinga.com/government/26/10/62600381/ftc-demanding-anthropic-execs-testify-expanding-ai-safety-probe-axios"
     },
     {
-      "created_at": "2026-10-23T19:23:56Z",
-      "headline": "Texas Attorney General Paxton Sues OpenAI, CEO Altman Over Alleged Imposition Of Negative Side Effects On Clients",
+      "created_at": "2026-10-26T18:03:42Z",
+      "headline": "'Stripe\u2019s AI Shopping Lead Puts Card Giants On Edge; Stripe Is Emerging As A Powerful Middleman In AI Shopping, Raising Concerns At Visa And MasterCard. Its Virtual Card Technology Could Give Stripe Greater Control Over Payments And More Insight Into Consumers\u2019 Purchases.' - The Information",
       "source": "benzinga",
       "symbols": [
-        "MSFT",
-        "SPY"
+        "AXP",
+        "COF",
+        "MA",
+        "V"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62572952/texas-attorney-general-paxton-sued-openai-over-alleged-imposition-of-negative-side-effects-on-clients"
+      "url": "https://www.benzinga.com/news/26/10/62600252/stripe-s-ai-shopping-lead-puts-card-giants-edge-stripe-emerging-powerful-middleman-ai-shopping-raisi"
     },
     {
-      "created_at": "2026-10-23T19:14:18Z",
-      "headline": "OpenAI Says It Expects That Future Models Will Be Able To Identify & Exploit Vulnerabilities Of Which It Is Not Yet Aware",
-      "source": "benzinga",
-      "symbols": [
-        "MSFT"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62572623/openai-says-it-expects-future-models-will-be-able-identify-exploit-vulnerabilities-which-it-not-yet-"
-    },
-    {
-      "created_at": "2026-10-23T19:05:36Z",
-      "headline": "Iraq Aims To Gradually Raise Oil Production To 10M Barrels Per Day By 2032",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62572378/iraq-aims-gradually-raise-oil-production-10m-barrels-day-2032"
-    },
-    {
-      "created_at": "2026-10-23T19:02:28Z",
-      "headline": "The AI Boom Isn't 1999\u2014and Big Tech Could Cushion a Market Crash, This CEO Says",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "MSFT",
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62572321/ai-boom-big-tech-market-crash"
-    },
-    {
-      "created_at": "2026-10-23T19:01:54Z",
-      "headline": "Chevron to Increase Drilling Rigs at Argentina's El Trapial Block",
+      "created_at": "2026-10-26T18:01:54Z",
+      "headline": "Wells Fargo Adjusts Price Target on UnitedHealth Group",
       "source": "fiscal.ai",
       "symbols": [
-        "CVX"
+        "UNH"
       ],
-      "url": "https://www.marketscreener.com/news/chevron-plans-to-up-drilling-rigs-in-argentina-s-el-trapial-block-to-3-from-1-ce785cdfdd8ff522"
+      "url": "https://www.marketscreener.com/news/wells-fargo-adjusts-price-target-on-unitedhealth-to-487-from-526-ce785cdcdc8df025"
     },
     {
-      "created_at": "2026-10-23T19:01:49Z",
-      "headline": "GE Aerospace F404 Engine Deliveries and Production Impact on India's Tejas Fighter Program",
-      "source": "fiscal.ai",
-      "symbols": [
-        "GE"
-      ],
-      "url": "https://world.storm.mg/articles/1174694"
-    },
-    {
-      "created_at": "2026-10-23T19:01:32Z",
-      "headline": "JPMorgan Chase & Co. Decreases Holding in Spire Healthcare Group PLC",
+      "created_at": "2026-10-26T18:01:47Z",
+      "headline": "JPMorgan Chase reports change in major holding in Rotork PLC",
       "source": "fiscal.ai",
       "symbols": [
         "JPM"
       ],
-      "url": "https://www.investegate.co.uk/announcement/rns/spire-healthcare-group--spi/holding-s-in-company/9839525"
+      "url": "https://www.investegate.co.uk/announcement/rns/rotork--ror/holding-s-in-company/9842187"
     },
     {
-      "created_at": "2026-10-23T19:01:30Z",
-      "headline": "Netflix Announces Record Share Buybacks and Revised 2026 Financial Guidance",
+      "created_at": "2026-10-26T18:01:47Z",
+      "headline": "JPMorgan Chase and other banks reportedly nearing $10 billion loan deal for Saudi Aramco",
       "source": "fiscal.ai",
       "symbols": [
-        "NFLX"
+        "JPM"
       ],
-      "url": "https://www.barchart.com/story/news/8361782/netflix-stock-tanks-5-as-revenue-growth-slows-in-q3-how-to-play-nflx-here"
+      "url": "https://www.moomoo.com/news/post/1002365561/market-chatter-saudi-aramco-nears-10-billion-loan-with-global"
     },
     {
-      "created_at": "2026-10-23T19:01:27Z",
-      "headline": "Rhode Island Files Lawsuit Against Meta Over Scam Ads",
+      "created_at": "2026-10-26T18:01:46Z",
+      "headline": "Walmart Expands Better Care Services Platform",
+      "source": "fiscal.ai",
+      "symbols": [
+        "WMT"
+      ],
+      "url": "https://www.barchart.com/press-releases/8452329/walmart-expands-better-care-services-powered-by-general-medicines-healthcare-store"
+    },
+    {
+      "created_at": "2026-10-26T18:01:46Z",
+      "headline": "Meta Announces $95 Billion Capital Raise Plan for AI Infrastructure",
       "source": "fiscal.ai",
       "symbols": [
         "META"
       ],
-      "url": "https://www.pymnts.com/legal/2026/rhode-island-lawsuit-claims-meta-knowingly-profits-from-financial-scam-ads/"
+      "url": "https://www.morningstar.com/news/dow-jones/202610262815/meta-plans-35-billion-stock-offering-to-power-ai-buildout-eyes-95-billion-total-plan"
     },
     {
-      "created_at": "2026-10-23T19:01:26Z",
-      "headline": "Apple Launches First Foldable Smartphone, the iPhone Duo",
+      "created_at": "2026-10-26T18:01:42Z",
+      "headline": "Eli Lilly and Company Declares Fourth-Quarter 2026 Dividend",
+      "source": "fiscal.ai",
+      "symbols": [
+        "LLY"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/lilly-declares-fourth-quarter-2026-dividend-302919496.html"
+    },
+    {
+      "created_at": "2026-10-26T18:01:30Z",
+      "headline": "Apple Releases Public Software Updates",
       "source": "fiscal.ai",
       "symbols": [
         "AAPL"
       ],
-      "url": "https://appleosophy.com/wire/x67u7h8/"
+      "url": "https://appleosophy.com/wire/13b2e2j/"
     },
     {
-      "created_at": "2026-10-23T18:28:24Z",
-      "headline": "Amazon CEO Andy Jassy Says AI Inference Is Still 10 Times Too Expensive, Claims Amazon Chips Offer Answer",
+      "created_at": "2026-10-26T17:58:56Z",
+      "headline": "Microsoft\u2019s Copilot, Azure Demand Signals Stronger AI Monetization: Analyst",
       "source": "benzinga",
       "symbols": [
         "AMZN",
-        "NVDA"
+        "GOOG",
+        "GOOGL",
+        "MSFT"
       ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62571409/amazon-ai-inference-cost-trainium-jassy"
+      "url": "https://www.benzinga.com/markets/tech/26/10/62600012/microsofts-copilot-azure-demand-signals-stronger-ai-monetization-analyst"
     },
     {
-      "created_at": "2026-10-23T17:52:18Z",
-      "headline": "'Trump Expected To Remove Some Tariffs On Canada In Bid To Help Susan Collins; The Move, Which Could Come As Soon As Friday, Would Remove Tariffs On Some Agricultural And Forestry Goods But Could Raise Levies On Other Products' - WSJ Exclusive",
+      "created_at": "2026-10-26T17:55:44Z",
+      "headline": "5 Myths And Misunderstandings About Investing In The Stock Market",
       "source": "benzinga",
       "symbols": [
-        "ASTL",
-        "BMO",
-        "BNS",
-        "CM",
-        "DOO",
-        "ENB",
-        "EWC",
-        "MGA",
-        "NTR",
-        "RY",
+        "IVV",
         "SPY",
-        "SU",
-        "TD",
-        "TRP"
+        "VOO"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62570222/trump-expected-to-remove-some-tariffs-on-canada-in-bid-to-help-susan-collins-the-move-which-could-come-as-soon-as-friday-would-remove-tariffs-on-some-agricultural-and-forestry-goods-but-could-rais"
+      "url": "https://www.benzinga.com/opinion/26/10/62599914/5-myths-and-misunderstandings-about-investing-in-the-stock-market"
+    },
+    {
+      "created_at": "2026-10-26T17:47:06Z",
+      "headline": "Meta's $95 Billion AI Push Could Accelerate New Product Launches, Analyst Says",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62599504/metas-95-billion-ai-push-could-accelerate-new-product-launches-analyst-says"
+    },
+    {
+      "created_at": "2026-10-26T17:45:27Z",
+      "headline": "Oppenheimer Maintains Outperform on Microsoft, Raises Price Target to $625",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62599445/oppenheimer-maintains-outperform-microsoft-raises-price-target-625"
+    },
+    {
+      "created_at": "2026-10-26T17:35:14Z",
+      "headline": "9 Industrials Stocks With Whale Alerts In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "CAT",
+        "GEV",
+        "GFL",
+        "KNX",
+        "KRMN",
+        "PL",
+        "RKLB",
+        "RTX",
+        "WM"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/10/62599144/9-industrials-stocks-whale-alerts-today-s-session"
     }
   ],
   "regime": "DEFENSIVE",
-  "regime_score": -0.675676,
+  "regime_score": -0.643243,
   "top_candidates": [
     {
-      "news_score": 0.111111,
-      "price": 233.23,
-      "reason": "5d +3.7%; 20d +14.1%; vs SPY +15.6%; RSI 84; volume 1.2x; volatility 20.3%; news +0.11",
-      "relative_strength_20d": 0.155571,
-      "score": 0.73272,
+      "news_score": 0.066667,
+      "price": 395.44,
+      "reason": "5d +7.5%; 20d +10.7%; vs SPY +10.7%; RSI 58; volume 1.3x; volatility 38.9%; news +0.07",
+      "relative_strength_20d": 0.10699,
+      "score": 0.699416,
+      "symbol": "TSLA"
+    },
+    {
+      "news_score": 0.0,
+      "price": 184.39,
+      "reason": "5d +3.5%; 20d +13.4%; vs SPY +13.5%; RSI 88; volume 1.0x; volatility 18.2%; news +0.00",
+      "relative_strength_20d": 0.134755,
+      "score": 0.67747,
+      "symbol": "XOM"
+    },
+    {
+      "news_score": 0.0,
+      "price": 232.49,
+      "reason": "5d +3.6%; 20d +12.7%; vs SPY +12.7%; RSI 88; volume 0.5x; volatility 20.5%; news +0.00",
+      "relative_strength_20d": 0.126945,
+      "score": 0.617113,
       "symbol": "CVX"
     },
     {
       "news_score": 0.0,
-      "price": 418.06,
-      "reason": "5d +4.1%; 20d +11.0%; vs SPY +12.5%; RSI 75; volume 0.9x; volatility 29.2%; news +0.00",
-      "relative_strength_20d": 0.124542,
-      "score": 0.655466,
-      "symbol": "UNH"
-    },
-    {
-      "news_score": 0.333333,
-      "price": 69.32,
-      "reason": "5d +1.6%; 20d +11.7%; vs SPY +13.2%; RSI 76; volume 1.3x; volatility 20.2%; news +0.33",
-      "relative_strength_20d": 0.132,
-      "score": 0.655157,
+      "price": 69.645,
+      "reason": "5d +2.7%; 20d +12.1%; vs SPY +12.2%; RSI 79; volume 0.9x; volatility 20.1%; news +0.00",
+      "relative_strength_20d": 0.121568,
+      "score": 0.614868,
       "symbol": "XLE"
     },
     {
       "news_score": 0.0,
-      "price": 183.21,
-      "reason": "5d +2.3%; 20d +14.1%; vs SPY +15.6%; RSI 86; volume 1.0x; volatility 18.3%; news +0.00",
-      "relative_strength_20d": 0.155851,
-      "score": 0.61438,
-      "symbol": "XOM"
-    },
-    {
-      "news_score": 0.333333,
-      "price": 408.0,
-      "reason": "5d +1.3%; 20d +11.1%; vs SPY +12.5%; RSI 81; volume 0.9x; volatility 19.6%; news +0.33",
-      "relative_strength_20d": 0.125435,
-      "score": 0.579016,
-      "symbol": "V"
-    },
-    {
-      "news_score": 0.333333,
-      "price": 88.27,
-      "reason": "5d +0.7%; 20d +7.5%; vs SPY +9.0%; RSI 76; volume 1.8x; volatility 19.7%; news +0.33",
-      "relative_strength_20d": 0.090161,
-      "score": 0.565124,
-      "symbol": "XLP"
+      "price": 1277.865,
+      "reason": "5d +3.0%; 20d +7.8%; vs SPY +7.8%; RSI 66; volume 1.2x; volatility 30.8%; news +0.00",
+      "relative_strength_20d": 0.078312,
+      "score": 0.514961,
+      "symbol": "LLY"
     },
     {
       "news_score": 0.0,
-      "price": 319.76,
-      "reason": "5d +3.3%; 20d +9.1%; vs SPY +10.5%; RSI 76; volume 0.7x; volatility 29.7%; news +0.00",
-      "relative_strength_20d": 0.105408,
-      "score": 0.552567,
+      "price": 317.71,
+      "reason": "5d +2.5%; 20d +9.6%; vs SPY +9.7%; RSI 75; volume 0.4x; volatility 29.4%; news +0.00",
+      "relative_strength_20d": 0.096625,
+      "score": 0.47873,
       "symbol": "HD"
     },
     {
-      "news_score": 0.0,
-      "price": 623.38,
-      "reason": "5d +1.0%; 20d +10.0%; vs SPY +11.5%; RSI 85; volume 1.1x; volatility 19.2%; news +0.00",
-      "relative_strength_20d": 0.114881,
-      "score": 0.523416,
-      "symbol": "MA"
-    },
-    {
-      "news_score": 0.0,
-      "price": 119.87,
-      "reason": "5d +0.9%; 20d +11.0%; vs SPY +12.5%; RSI 83; volume 0.9x; volatility 24.2%; news +0.00",
-      "relative_strength_20d": 0.124911,
-      "score": 0.508941,
+      "news_score": 0.111111,
+      "price": 119.715,
+      "reason": "5d +0.8%; 20d +10.1%; vs SPY +10.1%; RSI 82; volume 0.6x; volatility 24.3%; news +0.11",
+      "relative_strength_20d": 0.101411,
+      "score": 0.464156,
       "symbol": "WMT"
     },
     {
       "news_score": 0.0,
-      "price": 1003.185,
-      "reason": "5d +1.4%; 20d +8.7%; vs SPY +10.2%; RSI 78; volume 0.9x; volatility 16.5%; news +0.00",
-      "relative_strength_20d": 0.101904,
-      "score": 0.480704,
+      "price": 403.92,
+      "reason": "5d +0.2%; 20d +9.8%; vs SPY +9.8%; RSI 76; volume 0.8x; volatility 20.3%; news +0.00",
+      "relative_strength_20d": 0.098458,
+      "score": 0.417884,
+      "symbol": "V"
+    },
+    {
+      "news_score": 0.0,
+      "price": 42.535,
+      "reason": "5d +2.8%; 20d +8.3%; vs SPY +8.4%; RSI 66; volume 0.2x; volatility 16.9%; news +0.00",
+      "relative_strength_20d": 0.083849,
+      "score": 0.391734,
+      "symbol": "XLU"
+    },
+    {
+      "news_score": 0.0,
+      "price": 1001.035,
+      "reason": "5d +0.5%; 20d +8.5%; vs SPY +8.5%; RSI 75; volume 0.5x; volatility 16.6%; news +0.00",
+      "relative_strength_20d": 0.084988,
+      "score": 0.347318,
       "symbol": "COST"
     }
   ],
