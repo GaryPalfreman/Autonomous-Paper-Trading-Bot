@@ -8,7 +8,7 @@
       "average_price": 952.1408324999999,
       "entry_reason": "Risk-sized 19.1% position with approximately 1.0% portfolio risk; 5d +4.0%; 20d +5.5%; vs SPY +3.2%; RSI 77; volume 0.8x; volatility 16.8%; news +0.00",
       "highest_price": 1018.06,
-      "last_price": 1001.035,
+      "last_price": 1005.16,
       "opened_at": "2026-10-08T19:05:25.628515+00:00",
       "quantity": 0.1982114755147207,
       "symbol": "COST"
@@ -17,7 +17,7 @@
       "average_price": 225.18753749999996,
       "entry_reason": "Risk-sized 13.4% position with approximately 1.0% portfolio risk; 5d +4.7%; 20d +10.5%; vs SPY +11.3%; RSI 82; volume 1.1x; volatility 19.5%; news +0.00",
       "highest_price": 233.23,
-      "last_price": 232.49,
+      "last_price": 232.01,
       "opened_at": "2026-10-19T18:55:32.354688+00:00",
       "quantity": 0.5889121226433512,
       "symbol": "CVX"
@@ -26,7 +26,7 @@
       "average_price": 602.9063025,
       "entry_reason": "Risk-sized 7.9% position with approximately 1.0% portfolio risk; 5d +6.5%; 20d +5.3%; vs SPY +2.3%; RSI 76; volume 1.1x; volatility 18.9%; news +0.00",
       "highest_price": 632.86,
-      "last_price": 614.875,
+      "last_price": 613.87,
       "opened_at": "2026-10-13T19:41:21.580485+00:00",
       "quantity": 0.12991108325142747,
       "symbol": "MA"
@@ -35,7 +35,7 @@
       "average_price": 545.8978125,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +3.1%; 20d +9.8%; vs SPY +6.7%; RSI 81; volume 1.1x; volatility 21.2%; news +0.06",
       "highest_price": 545.625,
-      "last_price": 532.21,
+      "last_price": 532.54,
       "opened_at": "2026-10-13T19:41:21.580335+00:00",
       "quantity": 0.3644648998885269,
       "symbol": "MSFT"
@@ -43,8 +43,8 @@
     "XOM": {
       "average_price": 177.4436775,
       "entry_reason": "Risk-sized 18.7% position with approximately 1.0% portfolio risk; 5d +8.1%; 20d +8.6%; vs SPY +6.5%; RSI 92; volume 0.7x; volatility 19.3%; news +0.00",
-      "highest_price": 184.39,
-      "last_price": 184.39,
+      "highest_price": 184.54,
+      "last_price": 184.54,
       "opened_at": "2026-10-14T17:41:55.663824+00:00",
       "quantity": 1.0373915317654234,
       "symbol": "XOM"
@@ -52,5 +52,5 @@
   },
   "realized_pnl": -20.041904211380043,
   "starting_cash": 1000.0,
-  "updated_at": "2026-10-26T18:57:40.288315+00:00"
+  "updated_at": "2026-10-26T23:01:23.368100+00:00"
 }
