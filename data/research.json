@@ -1,361 +1,364 @@
 {
   "benchmark_above_20d_average": false,
-  "benchmark_above_50d_average": false,
-  "benchmark_price": 765.225,
+  "benchmark_above_50d_average": true,
+  "benchmark_price": 769.175,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.594595,
+  "breadth_above_20d_average": 0.621622,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-26T23:01:23.366572+00:00",
-  "latest_market_timestamp": "2026-10-26T20:58:58.926954733Z",
-  "market_is_open": false,
-  "new_entries_allowed": false,
+  "generated_at": "2026-10-27T18:29:28.743077+00:00",
+  "latest_market_timestamp": "2026-10-27T18:29:28.079944628Z",
+  "market_is_open": true,
+  "new_entries_allowed": true,
   "news_articles_reviewed": 50,
   "next_close": "2026-10-27T16:00:00-04:00",
-  "next_open": "2026-10-27T09:30:00-04:00",
+  "next_open": "2026-10-28T09:30:00-04:00",
   "recent_news": [
     {
-      "created_at": "2026-10-26T22:42:28Z",
-      "headline": "Trump Approval Hits Record Lows, 75% Say Economy \u2018Not So Good\u2019 or \u2018Poor\u2019",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/news/politics/26/10/62607697/trump-approval-hits-record-lows-75-say-economy-not-so-good-or-poor"
-    },
-    {
-      "created_at": "2026-10-26T21:31:37Z",
-      "headline": "Financial Institutions Form $63 Billion Financing Vehicle for Broadcom AI Infrastructure",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AVGO"
-      ],
-      "url": "https://www.morningstar.com/news/dow-jones/202610269207/banks-blackstone-form-63-billion-financing-vehicle-for-broadcom-ai-tech"
-    },
-    {
-      "created_at": "2026-10-26T20:48:20Z",
-      "headline": "Tesla Cancels Cybertruck in Two Countries: An Omen for the Vehicle's Future?",
-      "source": "benzinga",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/markets/large-cap/26/10/62606038/tesla-cybertruck-in-two-countries-is-this-an-ominous-sign-for-vehicles-future"
-    },
-    {
-      "created_at": "2026-10-26T20:38:11Z",
-      "headline": "SpaceX Merger Could Accelerate Tesla's Push Into AI and Autonomous Driving: Barclays",
-      "source": "benzinga",
-      "symbols": [
-        "SPCX",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62605726/tesla-spacex-merger"
-    },
-    {
-      "created_at": "2026-10-26T20:31:36Z",
-      "headline": "Netflix Debuts at Texas Book Festival",
-      "source": "fiscal.ai",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://about.netflix.com/newsroom"
-    },
-    {
-      "created_at": "2026-10-26T20:31:25Z",
-      "headline": "Microsoft Announces Voluntary Buyout Program for 60,000 Employees",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MSFT"
-      ],
-      "url": "https://www.barchart.com/story/news/8459083/microsoft-offers-a-quarter-of-its-global-workforce-voluntary-buyouts-as-ai-spending-accelerates"
-    },
-    {
-      "created_at": "2026-10-26T20:26:29Z",
-      "headline": "Bank Of America, Blackstone, Citi, Morgan Stanley Announce $63B Transaction For Deployment Of AI Compute Through Broadcom's Technology For Anthropic",
+      "created_at": "2026-10-27T18:23:56Z",
+      "headline": "Xylem Stock Plunges to 52-Week Low After Slashing 2026 Profit Outlook",
       "source": "benzinga",
       "symbols": [
         "AMZN",
-        "AVGO",
-        "BAC",
-        "BX",
-        "C",
-        "GOOG",
-        "GOOGL",
-        "MS"
+        "XYL"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62605221/bank-america-blackstone-citi-morgan-stanley-announce-63b-transaction-deployment-ai-compute-through-b"
+      "url": "https://www.benzinga.com/markets/earnings/26/10/62632309/xylem-stock-plunges-to-52-week-low-after-slashing-2026-profit-outlook"
     },
     {
-      "created_at": "2026-10-26T19:59:47Z",
-      "headline": "U.S. Judge Lets Eli Lilly Continue Weight-Loss Drug Ads, Ruling Against Novo Nordisk",
+      "created_at": "2026-10-27T18:04:33Z",
+      "headline": "Nate Silver: Iran War Looms Over Senate Fight That Could Mark 'End of the Trump Era'",
       "source": "benzinga",
       "symbols": [
-        "LLY",
-        "NVO"
+        "NVDA"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62603513/u-s-judge-lets-eli-lilly-continue-weight-loss-drug-ads-ruling-against-novo-nordisk"
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62631669/nate-silver-iran-war"
     },
     {
-      "created_at": "2026-10-26T19:58:10Z",
-      "headline": "CoreWeave Debt Fears Hit a Record \u2014 Some Are Whispering 'Lehman'",
-      "source": "benzinga",
+      "created_at": "2026-10-27T18:01:48Z",
+      "headline": "JPMorgan Chase's Strategic Investment Group Leads $2.1 Billion Funding for Re:Build",
+      "source": "fiscal.ai",
       "symbols": [
-        "AMZN",
-        "CRWV",
-        "GOOGL",
-        "META",
-        "MSFT",
-        "NBIS",
-        "NVDA",
-        "ORCL",
-        "SPCX"
+        "JPM"
       ],
-      "url": "https://www.benzinga.com/markets/bonds/26/10/62603452/coreweave-cds-record-lehman-default-risk"
+      "url": "https://www.globenewswire.com/news-release/2026/10/27/3389070/0/en/re-build-announces-2-1-billion-to-accelerate-america-s-reindustrialization.html"
     },
     {
-      "created_at": "2026-10-26T17:17:02Z",
-      "headline": "Neoclouds Face Guppy-Level Death; 36% Of S&P 500 Earnings This Week; Brazil Stocks Plunge On Election Outcome",
-      "source": "benzinga",
+      "created_at": "2026-10-27T18:01:48Z",
+      "headline": "J.P. Morgan Asset Management Integrates 55ip Tax Technology into Anthropic's Claude for Financial Advisors",
+      "source": "fiscal.ai",
       "symbols": [
-        "AAPL",
-        "AMZN",
-        "BTCUSD",
-        "GOOG",
-        "META",
-        "MSFT",
-        "NVDA",
-        "QQQ",
-        "SOXL",
-        "SPY",
-        "TSLA"
+        "JPM"
       ],
-      "url": "https://www.benzinga.com/opinion/26/10/62598577/neoclouds-face-guppy-level-death-36-of-sp500-earnings-this-week-brazil-stocks-plunge-on-election-outcome"
+      "url": "https://www.prnewswire.com/news-releases/jp-morgan-asset-managements-55ip-working-with-anthropic-to-deliver-tax-smart-technology-within-claude-for-financial-advisors-302921009.html"
     },
     {
-      "created_at": "2026-10-26T19:49:35Z",
-      "headline": "If This Sector Breaks, \u2018So Does the Market\u2019: Jay Woods Says This Chart is 'Most Important in the World'",
-      "source": "benzinga",
-      "symbols": [
-        "NVDA",
-        "SMH",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62603174/if-this-sector-breaks-so-does-the-market-jay-woods-says-this-chart-is-most-important-in-the-world"
-    },
-    {
-      "created_at": "2026-10-26T19:42:14Z",
-      "headline": "Iranian State TV Reports Iran Is Open To A Shorter U.S. Proposal Timeline If Conditions Are Met",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62602974/iranian-state-tv-reports-iran-open-shorter-u-s-proposal-timeline-if-conditions-are-met"
-    },
-    {
-      "created_at": "2026-10-26T19:30:24Z",
-      "headline": "Visa, Coca-Cola On Deck Tuesday As Payments Growth, Global Demand Face Test",
-      "source": "benzinga",
-      "symbols": [
-        "ACGL",
-        "AMT",
-        "BA",
-        "BKR",
-        "ECL",
-        "EQT",
-        "EXE",
-        "EXR",
-        "FCX",
-        "FE",
-        "FFIV",
-        "GLW",
-        "HCA",
-        "HLT",
-        "HOOD",
-        "HSBC",
-        "ITW",
-        "JCI",
-        "KO",
-        "LPLA",
-        "NVS",
-        "NXPI",
-        "OKE",
-        "PCAR",
-        "PPG",
-        "RCL",
-        "SHW",
-        "SPGI",
-        "STX",
-        "TER",
-        "UPS",
-        "V",
-        "VTR",
-        "WM"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62602650/visa-coca-cola-on-deck-tuesday-as-payments-growth-global-demand-face-test"
-    },
-    {
-      "created_at": "2026-10-26T19:30:08Z",
-      "headline": "VISA Could Swing $24.8 Billion In Value After Earnings",
-      "source": "benzinga",
-      "symbols": [
-        "BA",
-        "GLW",
-        "KO",
-        "SPGI",
-        "STX",
-        "V"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62602644/visa-could-swing-24-8-billion-in-value-after-earnings"
-    },
-    {
-      "created_at": "2026-10-26T19:27:52Z",
-      "headline": "'U.S., Canada Working On Deal To Ease U.S. Tariffs On Canadian Steel And Auto Imports' - Reuters Exclusive",
-      "source": "benzinga",
-      "symbols": [
-        "EWC",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62602582/u-s-canada-working-deal-ease-u-s-tariffs-canadian-steel-and-auto-imports-reuters-exclusive"
-    },
-    {
-      "created_at": "2026-10-26T19:07:51Z",
-      "headline": "Anthropic IPO Filing Reveals AI Boom\u2019s Next Test: 7 ETFs With Pre-Launch Exposure",
-      "source": "benzinga",
-      "symbols": [
-        "AGIX",
-        "ALAI",
-        "AMD",
-        "ATFV",
-        "BAI",
-        "CNEQ",
-        "LAZR",
-        "NVDA",
-        "SMH",
-        "SOXX",
-        "VOLT"
-      ],
-      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/10/62602063/anthropic-ipo-filing-reveals-ai-booms-next-test-7-etfs-with-pre-launch-exposure"
-    },
-    {
-      "created_at": "2026-10-26T19:01:43Z",
-      "headline": "Mastercard Partners with MrBeast's Beast Industries for Creator-Focused Financial Tools",
+      "created_at": "2026-10-27T18:01:44Z",
+      "headline": "American Airlines, Citi, and Mastercard Announce Enhancements to AAdvantage Credit Card Portfolio",
       "source": "fiscal.ai",
       "symbols": [
         "MA"
       ],
-      "url": "https://www.pymnts.com/partnerships/2026/mastercard-launches-creator-card-project-with-mrbeast/"
+      "url": "https://investingnews.com/american-airlines-and-citi-enhance-the-citi-aadvantage-platinum-select-world-elite-mastercard-and-the-citi-aadvantage-business-world-elite-mastercard-with-more-ways-to-earn-and-new-travel-benefits/"
     },
     {
-      "created_at": "2026-10-26T18:54:31Z",
-      "headline": "UBS Maintains Buy on Amazon.com, Raises Price Target to $348",
-      "source": "benzinga",
+      "created_at": "2026-10-27T18:01:33Z",
+      "headline": "ExxonMobil Exits Venezuela Operations",
+      "source": "fiscal.ai",
       "symbols": [
-        "AMZN"
+        "XOM"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62601686/ubs-maintains-buy-amazon-com-raises-price-target-348"
+      "url": "https://energynow.ca/2026/02/whats-the-status-of-international-oil-companies-in-venezuela/"
     },
     {
-      "created_at": "2026-10-26T18:45:23Z",
-      "headline": "UBS Maintains Neutral on Caterpillar, Lowers Price Target to $750",
-      "source": "benzinga",
+      "created_at": "2026-10-27T18:01:31Z",
+      "headline": "Microsoft Releases Emergency .NET Patches for Critical Vulnerabilities",
+      "source": "fiscal.ai",
       "symbols": [
-        "CAT"
+        "MSFT"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62601457/ubs-maintains-neutral-caterpillar-lowers-price-target-750"
+      "url": "https://www.securitymagazine.com/articles/102699-microsoft-releases-emergency-net-patches"
     },
     {
-      "created_at": "2026-10-26T18:41:07Z",
-      "headline": "Siri AI Is Available In More Languages Starting Today; Expanding To More People Around World, With Availability In French, Japanese, Korean, Portuguese, And Spanish Languages; Siri AI Currently Unavailable In EU; Working With EU On Path Forward",
-      "source": "benzinga",
+      "created_at": "2026-10-27T18:01:26Z",
+      "headline": "Apple Creator Studio Update Adds MotionVFX and AI Assistants",
+      "source": "fiscal.ai",
       "symbols": [
         "AAPL"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62601321/siri-ai-available-more-languages-starting-today-expanding-more-people-around-world-availability-fren"
-    }
-  ],
-  "regime": "DEFENSIVE",
-  "regime_score": -0.643243,
-  "top_candidates": [
-    {
-      "news_score": 0.0,
-      "price": 184.54,
-      "reason": "5d +3.5%; 20d +13.5%; vs SPY +13.6%; RSI 88; volume 1.4x; volatility 18.2%; news +0.00",
-      "relative_strength_20d": 0.135593,
-      "score": 0.733721,
-      "symbol": "XOM"
+      "url": "https://appleosophy.com/wire/x2n4dvt/"
     },
     {
-      "news_score": 0.066667,
-      "price": 391.69,
-      "reason": "5d +6.5%; 20d +9.6%; vs SPY +9.6%; RSI 57; volume 1.6x; volatility 37.8%; news +0.07",
-      "relative_strength_20d": 0.096412,
-      "score": 0.713049,
+      "created_at": "2026-10-27T18:01:23Z",
+      "headline": "NVIDIA Vera Rubin NVL72 and Vera CPUs Generally Available on Oracle Cloud Infrastructure",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NVDA"
+      ],
+      "url": "https://www.globenewswire.com/news-release/2026/10/27/3389428/0/en/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure.html"
+    },
+    {
+      "created_at": "2026-10-27T17:48:23Z",
+      "headline": "Why Is Applied Digital Stock Surging on Tuesday?",
+      "source": "benzinga",
+      "symbols": [
+        "APLD",
+        "CRWV",
+        "IREN",
+        "NBIS",
+        "SPCX",
+        "TSLA",
+        "WULF"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62631118/why-is-applied-digital-stock-surging-on-tuesday"
+    },
+    {
+      "created_at": "2026-10-27T17:35:11Z",
+      "headline": "10 Consumer Discretionary Stocks With Whale Alerts In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "BABA",
+        "EAT",
+        "HRB",
+        "MCD",
+        "NCLH",
+        "NIO",
+        "NKE",
+        "PII",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/10/62630579/10-consumer-discretionary-stocks-whale-alerts-today-s-session"
+    },
+    {
+      "created_at": "2026-10-27T17:35:11Z",
+      "headline": "10 Industrials Stocks With Whale Alerts In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "BA",
+        "BE",
+        "CAT",
+        "FDX",
+        "GE",
+        "INOD",
+        "PWR",
+        "RTX",
+        "VRT",
+        "WCN"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/10/62630578/10-industrials-stocks-whale-alerts-today-s-session"
+    },
+    {
+      "created_at": "2026-10-27T17:35:11Z",
+      "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
+      "source": "benzinga",
+      "symbols": [
+        "AMD",
+        "APH",
+        "ARM",
+        "CRWV",
+        "DGXX",
+        "NVDA",
+        "ORCL",
+        "PLTR",
+        "STX",
+        "WULF"
+      ],
+      "url": "https://www.benzinga.com/markets/options/26/10/62630577/10-information-technology-stocks-whale-activity-today-s-session"
+    },
+    {
+      "created_at": "2026-10-27T17:15:36Z",
+      "headline": "'Fl\u00e1vio Bolsonaro\u2019s Allies Say He Has Already Left For The U.S.; Flight Expected To Arrive Within Hours' - Folha De S. Paulo",
+      "source": "benzinga",
+      "symbols": [
+        "EWZ",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62629921/fl-vio-bolsonaro-s-allies-say-he-has-already-left-u-s-flight-expected-arrive-within-hours-folha-de-s"
+    },
+    {
+      "created_at": "2026-10-27T17:06:04Z",
+      "headline": "What Is Going On With Meta Stock on Tuesday?",
+      "source": "benzinga",
+      "symbols": [
+        "IGPT",
+        "LSGR",
+        "META",
+        "NVDA",
+        "TRUC"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62629413/what-is-going-on-with-meta-stock-on-tuesday-2"
+    },
+    {
+      "created_at": "2026-10-27T17:03:18Z",
+      "headline": "Alphabet Q3 Earnings Preview: 'Bears Have Technical Advantage,' Here's What Could Help Bulls",
+      "source": "benzinga",
+      "symbols": [
+        "DIA",
+        "GOOG",
+        "GOOGL",
+        "QQQ",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/markets/earnings/26/10/62629300/alphabet-q3-earnings-preview-bears-have-technical-advantage-heres-what-could-help-bulls"
+    },
+    {
+      "created_at": "2026-10-27T17:01:35Z",
+      "headline": "Nasdaq 100 Climbs on Chip Rally, Boeing Sinks 10%: Stock Market Today",
+      "source": "benzinga",
+      "symbols": [
+        "AMD",
+        "AMZN",
+        "APLD",
+        "AWI",
+        "BA",
+        "BTCUSD",
+        "CRAK",
+        "CRDO",
+        "CSGP",
+        "DIA",
+        "EEFT",
+        "FFIV",
+        "FRVO",
+        "GOOGL",
+        "IWM",
+        "KO",
+        "META",
+        "MPC",
+        "NVDA",
+        "PNR",
+        "PSX",
+        "QQQ",
+        "SMH",
+        "SOFI",
+        "TSLA",
+        "V",
+        "VLO",
+        "VOO",
+        "WM",
+        "XLE",
+        "XLK",
+        "XYL"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/10/62629254/stock-market-today-nasdaq-100-chip-rally-meta-boeing-737-delay"
+    },
+    {
+      "created_at": "2026-10-27T17:01:19Z",
+      "headline": "CNBC Halftime Report Final Trades: Apple, UnitedHealth Group, Delta Air Lines, American Tower",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "AMT",
+        "DAL",
+        "UNH"
+      ],
+      "url": "https://www.benzinga.com/quote/AAPL"
+    },
+    {
+      "created_at": "2026-10-27T17:00:40Z",
+      "headline": "Paul Kedrosky Says AI Bubble May Be Hiding in Private Markets as Anthropic IPO Nears",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "GOOGL",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62629201/ai-bubble-private-markets"
+    },
+    {
+      "created_at": "2026-10-27T16:57:07Z",
+      "headline": "What Is Going On With Apple Stock on Tuesday?",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "FNGU",
+        "SPMO",
+        "USMC"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62629051/what-is-going-on-with-apple-stock-on-tuesday"
+    }
+  ],
+  "regime": "NEUTRAL",
+  "regime_score": 0.072973,
+  "top_candidates": [
+    {
+      "news_score": 0.055556,
+      "price": 406.44,
+      "reason": "5d +8.8%; 20d +15.2%; vs SPY +14.5%; RSI 63; volume 0.8x; volatility 38.7%; news +0.06",
+      "relative_strength_20d": 0.145311,
+      "score": 0.677646,
       "symbol": "TSLA"
     },
     {
       "news_score": 0.0,
-      "price": 232.01,
-      "reason": "5d +3.4%; 20d +12.4%; vs SPY +12.5%; RSI 87; volume 0.9x; volatility 20.7%; news +0.00",
-      "relative_strength_20d": 0.124535,
-      "score": 0.651201,
+      "price": 180.88,
+      "reason": "5d +1.7%; 20d +12.1%; vs SPY +11.4%; RSI 73; volume 1.3x; volatility 20.0%; news +0.00",
+      "relative_strength_20d": 0.114351,
+      "score": 0.596984,
+      "symbol": "XOM"
+    },
+    {
+      "news_score": 0.333333,
+      "price": 228.23,
+      "reason": "5d +1.1%; 20d +11.7%; vs SPY +11.0%; RSI 75; volume 0.6x; volatility 21.1%; news +0.33",
+      "relative_strength_20d": 0.110257,
+      "score": 0.522992,
       "symbol": "CVX"
     },
     {
-      "news_score": 0.0,
-      "price": 69.64,
-      "reason": "5d +2.7%; 20d +12.1%; vs SPY +12.1%; RSI 79; volume 1.1x; volatility 20.1%; news +0.00",
-      "relative_strength_20d": 0.121402,
-      "score": 0.641586,
-      "symbol": "XLE"
-    },
-    {
-      "news_score": 0.0,
-      "price": 319.37,
-      "reason": "5d +3.1%; 20d +10.2%; vs SPY +10.2%; RSI 77; volume 0.6x; volatility 29.2%; news +0.00",
-      "relative_strength_20d": 0.102268,
-      "score": 0.553949,
+      "news_score": 0.333333,
+      "price": 318.985,
+      "reason": "5d +1.2%; 20d +10.7%; vs SPY +10.1%; RSI 72; volume 0.4x; volatility 29.0%; news +0.33",
+      "relative_strength_20d": 0.100641,
+      "score": 0.480195,
       "symbol": "HD"
     },
     {
       "news_score": 0.166667,
-      "price": 120.285,
-      "reason": "5d +1.3%; 20d +10.6%; vs SPY +10.7%; RSI 83; volume 0.8x; volatility 24.2%; news +0.17",
-      "relative_strength_20d": 0.106568,
-      "score": 0.541673,
+      "price": 68.325,
+      "reason": "5d +0.5%; 20d +11.0%; vs SPY +10.4%; RSI 65; volume 0.8x; volatility 21.3%; news +0.17",
+      "relative_strength_20d": 0.1038,
+      "score": 0.451548,
+      "symbol": "XLE"
+    },
+    {
+      "news_score": 0.111111,
+      "price": 118.895,
+      "reason": "5d +0.8%; 20d +11.3%; vs SPY +10.7%; RSI 74; volume 0.4x; volatility 23.5%; news +0.11",
+      "relative_strength_20d": 0.106872,
+      "score": 0.447428,
       "symbol": "WMT"
     },
     {
-      "news_score": -0.166667,
-      "price": 1279.435,
-      "reason": "5d +3.1%; 20d +7.9%; vs SPY +8.0%; RSI 66; volume 1.4x; volatility 30.8%; news -0.17",
-      "relative_strength_20d": 0.079551,
-      "score": 0.526297,
-      "symbol": "LLY"
+      "news_score": 0.333333,
+      "price": 42.645,
+      "reason": "5d +1.9%; 20d +7.4%; vs SPY +6.8%; RSI 68; volume 0.3x; volatility 16.6%; news +0.33",
+      "relative_strength_20d": 0.067638,
+      "score": 0.36847,
+      "symbol": "XLU"
     },
     {
-      "news_score": 0.166667,
-      "price": 404.335,
-      "reason": "5d +0.3%; 20d +9.9%; vs SPY +10.0%; RSI 76; volume 1.0x; volatility 20.2%; news +0.17",
-      "relative_strength_20d": 0.099501,
-      "score": 0.481948,
-      "symbol": "V"
+      "news_score": 0.333333,
+      "price": 51.735,
+      "reason": "5d +1.0%; 20d +5.4%; vs SPY +4.8%; RSI 87; volume 0.7x; volatility 11.9%; news +0.33",
+      "relative_strength_20d": 0.047822,
+      "score": 0.340311,
+      "symbol": "XLB"
     },
     {
-      "news_score": 0.0,
-      "price": 1005.16,
-      "reason": "5d +0.9%; 20d +8.9%; vs SPY +8.9%; RSI 77; volume 0.7x; volatility 16.5%; news +0.00",
-      "relative_strength_20d": 0.089372,
-      "score": 0.420598,
+      "news_score": 0.333333,
+      "price": 996.9,
+      "reason": "5d +0.3%; 20d +7.8%; vs SPY +7.2%; RSI 69; volume 0.4x; volatility 17.7%; news +0.33",
+      "relative_strength_20d": 0.07204,
+      "score": 0.319084,
       "symbol": "COST"
     },
     {
       "news_score": 0.0,
-      "price": 42.565,
-      "reason": "5d +2.9%; 20d +8.4%; vs SPY +8.5%; RSI 66; volume 0.3x; volatility 16.8%; news +0.00",
-      "relative_strength_20d": 0.084529,
-      "score": 0.409931,
-      "symbol": "XLU"
+      "price": 1279.4,
+      "reason": "5d -0.4%; 20d +8.0%; vs SPY +7.3%; RSI 71; volume 0.6x; volatility 30.8%; news +0.00",
+      "relative_strength_20d": 0.073307,
+      "score": 0.272594,
+      "symbol": "LLY"
     }
   ],
   "universe_size": 37
