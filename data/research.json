@@ -1,195 +1,146 @@
 {
-  "benchmark_above_20d_average": true,
+  "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": true,
-  "benchmark_price": 771.525,
+  "benchmark_price": 770.51,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.675676,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-28T18:35:27.501201+00:00",
-  "latest_market_timestamp": "2026-10-28T18:35:24.468406226Z",
-  "market_is_open": true,
+  "generated_at": "2026-10-28T22:51:08.657833+00:00",
+  "latest_market_timestamp": "2026-10-28T20:58:06.024967292Z",
+  "market_is_open": false,
   "new_entries_allowed": true,
   "news_articles_reviewed": 50,
-  "next_close": "2026-10-28T16:00:00-04:00",
+  "next_close": "2026-10-29T16:00:00-04:00",
   "next_open": "2026-10-29T09:30:00-04:00",
   "recent_news": [
     {
-      "created_at": "2026-10-28T18:32:05Z",
-      "headline": "'U.S. DOJ Examining NVIDIA Acquisition Of AI Platform Hugging Face, Two People Say' - Reuters Exclusive",
+      "created_at": "2026-10-28T22:14:18Z",
+      "headline": "QUICK SPARK: Elon Musk Has One-Word Verdict on Google's Gemini 4 Carbon",
       "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "SPCX"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/10/62680620/elon-musk-has-a-one-word-verdict"
+    },
+    {
+      "created_at": "2026-10-28T22:12:10Z",
+      "headline": "Microsoft Q1 2027 Earnings Call Transcript",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62680566/microsoft-q1-2027-earnings-call-transcript"
+    },
+    {
+      "created_at": "2026-10-28T22:01:25Z",
+      "headline": "Microsoft Sees Q2 Sales $96.000B-$97.100B vs $95.616B Est",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62680302/microsoft-sees-q2-sales-96-000b-97-100b-vs-95-616b-est"
+    },
+    {
+      "created_at": "2026-10-28T22:00:32Z",
+      "headline": "Microsoft CFO Says Q2 Agents And Infra Revenue Expected To Be $80.1B To $80.7B; Q2 Azure Growth Expected To Be 49%",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62680277/microsoft-cfo-says-q2-agents-and-infra-revenue-expected-be-80-1b-80-7b-q2-azure-growth-expected-be-4"
+    },
+    {
+      "created_at": "2026-10-28T21:57:29Z",
+      "headline": "Microsoft CFO Says Paid M365 Commercial Seats Grew 5%, With Some Impact From Weaker Sales Execution",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62680237/microsoft-cfo-says-paid-m365-commercial-seats-grew-5-some-impact-weaker-sales-execution"
+    },
+    {
+      "created_at": "2026-10-28T21:55:11Z",
+      "headline": "Lumentum Stock Soars 17% on Marvell Takeover Talk",
+      "source": "benzinga",
+      "symbols": [
+        "COHR",
+        "GOOG",
+        "GOOGL",
+        "LITE",
+        "MRVL",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/m-a/26/10/62680188/lumentum-stock-soars-17-on-marvell-takeover-talk"
+    },
+    {
+      "created_at": "2026-10-28T21:54:36Z",
+      "headline": "Microsoft CFO Says Roughly 30% Of Cloud Business RPO Will Be Recognized In Revenue In The Next 12 Months",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62680174/microsoft-cfo-says-roughly-30-cloud-business-rpo-will-be-recognized-revenue-next-12-months"
+    },
+    {
+      "created_at": "2026-10-28T21:53:38Z",
+      "headline": "Microsoft CFO Says Roughly Three Quarters Of Capex Was For Short-Lived Assets, Primarily CPUs And GPUs, Including Higher Memory And Storage Costs",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62680161/microsoft-cfo-says-roughly-three-quarters-capex-was-short-lived-assets-primarily-cpus-and-gpus-inclu"
+    },
+    {
+      "created_at": "2026-10-28T21:51:46Z",
+      "headline": "Microsoft CFO Says Capital Expenditures Were Lower Than Guidance In Q1 As Some Third-Party Capacity Deliveries We Expected In Q1 Were Delayed",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62680131/microsoft-cfo-says-capital-expenditures-were-lower-guidance-q1-some-third-party-capacity-deliveries-"
+    },
+    {
+      "created_at": "2026-10-28T21:49:07Z",
+      "headline": "Microsoft CEO Says Accelerating Demand Led to Us Adding 24 New Data Centers Across Five Continents This Quarter",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62680068/microsoft-ceo-says-accelerating-demand-led-us-adding-24-new-data-centers-across-five-continents-quar"
+    },
+    {
+      "created_at": "2026-10-28T21:32:28Z",
+      "headline": "US Department of Justice Investigating NVIDIA's Acquisition of Hugging Face",
+      "source": "fiscal.ai",
       "symbols": [
         "NVDA"
       ],
-      "url": "https://www.benzinga.com/m/26/10/62669281/u-s-doj-examining-nvidia-acquisition-ai-platform-hugging-face-two-people-say-reuters-exclusive"
+      "url": "https://www.marketscreener.com/news/doj-probes-nvidia-s-hugging-face-deal-over-ai-competition-ce785cd3d98bf223"
     },
     {
-      "created_at": "2026-10-28T18:31:44Z",
-      "headline": "Fed Holds Rates, but Two Officials Push for Hike as Polymarket December Odds Hit 82%",
-      "source": "benzinga",
-      "symbols": [
-        "QQQ",
-        "XLE"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62669263/fed-december-hike"
-    },
-    {
-      "created_at": "2026-10-28T18:07:24Z",
-      "headline": "Fed Holds Rate at 3.75%-4%, Two Officials Push for a Hike",
-      "source": "benzinga",
-      "symbols": [
-        "BTCUSD",
-        "KRE",
-        "SLV",
-        "SMH",
-        "TLT",
-        "XHB",
-        "XLRE"
-      ],
-      "url": "https://www.benzinga.com/news/macro-notification/26/10/62668427/fed-meeting-interest-rate-decision-fomc-october-2026"
-    },
-    {
-      "created_at": "2026-10-28T18:19:03Z",
-      "headline": "'U.S. Federal Trade Commission Is Demanding Information On Personalized Pricing And Wage Setting Strategies From Walmart, Target, Uber, Lyft, DoorDash, Instacart, Delta, United And JetBlue' - Reuters Exclusive",
-      "source": "benzinga",
-      "symbols": [
-        "CART",
-        "DAL",
-        "DASH",
-        "JBLU",
-        "LYFT",
-        "TGT",
-        "UAL",
-        "UBER",
-        "WMT"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62668884/u-s-federal-trade-commission-demanding-information-personalized-pricing-and-wage-setting-strategies-"
-    },
-    {
-      "created_at": "2026-10-28T18:18:52Z",
-      "headline": "BMO Capital Maintains Outperform on Visa, Raises Price Target to $438",
-      "source": "benzinga",
-      "symbols": [
-        "V"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62668862/bmo-capital-maintains-outperform-visa-raises-price-target-438"
-    },
-    {
-      "created_at": "2026-10-28T18:15:54Z",
-      "headline": "Fitch Ratings Says Emerging Threats To AI Capex Boom, Geopolitical Risks In Middle East, Tightened Funding Point To Heightened Risk Environment Into 2027; Material Reassessment Of Long-Term AI Monetization Prospects Could Result In Reduction In Capex, With Implications Across AI Value Chain; If Oil Supplies Through Hormuz Strait Continue To Be Hampered Beyond 1Q27, Then Higher Oil Price Scenario Than Our Base Case Would Materialize",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62668763/fitch-ratings-says-emerging-threats-ai-capex-boom-geopolitical-risks-middle-east-tightened-funding-p"
-    },
-    {
-      "created_at": "2026-10-28T18:04:24Z",
-      "headline": "'Iran Pressed To Make Nuke Concessions As Massive Post-Midterms Strikes Loom' - Axios",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62668312/iran-pressed-make-nuke-concessions-massive-post-midterms-strikes-loom-axios"
-    },
-    {
-      "created_at": "2026-10-28T18:03:18Z",
-      "headline": "American Electric Power CEO Sees Once-In-A-Generation Opportunity in Electricity Demand",
-      "source": "benzinga",
-      "symbols": [
-        "AEP",
-        "AMZN",
-        "GOOG",
-        "GOOGL"
-      ],
-      "url": "https://www.benzinga.com/markets/earnings/26/10/62668264/american-electric-power-ceo-sees-once-in-a-generation-opportunity-in-electricity-demand"
-    },
-    {
-      "created_at": "2026-10-28T18:01:44Z",
-      "headline": "Fed Vote In Favor Of Policy Was 10-2, With Governor Lisa Cook And Cleveland Fed President Beth Hammack Dissenting In Favor Of A 25-Basis-Point Hike",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62668212/fed-vote-favor-policy-was-10-2-governor-lisa-cook-and-cleveland-fed-president-beth-hammack-dissentin"
-    },
-    {
-      "created_at": "2026-10-28T18:01:38Z",
-      "headline": "Visa Increases Quarterly Cash Dividend by 16%",
+      "created_at": "2026-10-28T21:31:46Z",
+      "headline": "Mercado Libre Announces Partnership with Netflix",
       "source": "fiscal.ai",
       "symbols": [
-        "V"
+        "NFLX"
       ],
-      "url": "https://www.baystreet.ca/stockstowatch/24291/Mid-Week-Hot-Stocks-Include-Visa-NXP-and-Robinhood"
+      "url": "https://natlawreview.com/press-releases/mercado-libre-sr-vice-president-advertising-jesus-moreno-sosa-discusses"
     },
     {
-      "created_at": "2026-10-28T18:01:37Z",
-      "headline": "Bank of America Expands Financial Center Network",
-      "source": "fiscal.ai",
-      "symbols": [
-        "BAC"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/bank-of-america-opens-first-financial-centers-in-wisconsin-sets-2027-entry-into-alabama-and-louisiana-302922113.html"
-    },
-    {
-      "created_at": "2026-10-28T18:01:33Z",
-      "headline": "Apple Announces Redesigned MacBook Pro with Touchscreen and OLED Display",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://appleosophy.com/wire/zod8kwv/"
-    },
-    {
-      "created_at": "2026-10-28T18:01:30Z",
-      "headline": "Engine Technology Forum Announces Webinar Featuring Caterpillar and Other Industry Leaders",
-      "source": "fiscal.ai",
-      "symbols": [
-        "CAT"
-      ],
-      "url": "https://www.globenewswire.com/news-release/2026/10/28/3390283/0/en/webinar-to-explore-how-gas-and-diesel-engines-have-powered-america-s-past-and-what-lies-ahead.html"
-    },
-    {
-      "created_at": "2026-10-28T18:01:28Z",
-      "headline": "Walmart Announces 2026 Holiday Meal Basket",
-      "source": "fiscal.ai",
+      "created_at": "2026-10-28T21:30:27Z",
+      "headline": "If You Invested $1000 In Walmart Stock 20 Years Ago, You Would Have This Much Today",
+      "source": "benzinga",
       "symbols": [
         "WMT"
       ],
-      "url": "https://www.barchart.com/press-releases/8497095/walmart-meal-basket-serves-10-for-35-3-50-per-person1-helping-families-celebrate-all-season-long"
+      "url": "https://www.benzinga.com/news/26/10/62679475/if-you-invested-1000-walmart-stock-20-years-ago-you-would-have-much-today"
     },
     {
-      "created_at": "2026-10-28T18:01:25Z",
-      "headline": "CFTC Approves Rothera to List KPI Swaps Tied to Tesla Performance",
-      "source": "fiscal.ai",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/rothera-receives-cftc-approval-for-first-kpi-swap-302922230.html"
-    },
-    {
-      "created_at": "2026-10-28T18:01:15Z",
-      "headline": "Federal Reserve Leaves Key Overnight Interest Rate Unchanged In 3.75-4.00% Range, Says Accumulation Of More Information Will Help Determine Appropriate Policy Stance; Says Inflation Remains Elevated; Economic Activity Expanding At A 'Strong' Pace; Job Gains Have Kept Pace With Workforce, Unemployment Rate Has Changed Little; Productivity Growth Is Strong, Capital Investment Is Robust; Domestic Spending Has Been Resilient Despite Elevated Uncertainty",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62668177/federal-reserve-leaves-key-overnight-interest-rate-unchanged-3-75-4-00-range-says-accumulation-more-"
-    },
-    {
-      "created_at": "2026-10-28T18:00:35Z",
-      "headline": "Federal Reserve Issues FOMC Statement For October 27-28, 2026 (Link In Body)",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62668150/federal-reserve-issues-fomc-statement-october-27-28-2026-link-body"
-    },
-    {
-      "created_at": "2026-10-28T18:00:10Z",
-      "headline": "USA Fed Interest Rate Decision 4.00% Vs 4.00% Est. (Unchanged)",
+      "created_at": "2026-10-28T21:20:10Z",
+      "headline": "On CNBC, Treasury Secretary Bessent Said Consumer Behavior Is Quite Strong, Business Behavior Is Quite Strong; In General The Trade Deals Are Pretty Locked In",
       "source": "benzinga",
       "symbols": [
         "SPY"
@@ -197,108 +148,148 @@
       "url": "https://www.benzinga.com/quote/SPY"
     },
     {
-      "created_at": "2026-10-28T17:57:46Z",
-      "headline": "'U.S. Banking Regulator Warns Hundreds About Potential Job Cuts' - Bloomberg Law",
+      "created_at": "2026-10-28T21:15:49Z",
+      "headline": "Alphabet CEO Says We Are Working On Distilled Versions Of Gemini 4 Carbon For More Than 1B Users; Gemini 4 Carbon Will Be Available To Consumers Later This Year",
       "source": "benzinga",
       "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62668040/u-s-banking-regulator-warns-hundreds-about-potential-job-cuts-bloomberg-law"
-    },
-    {
-      "created_at": "2026-10-28T17:36:38Z",
-      "headline": "Steve Eisman Says Anthropic Left Q3 Figures Out of IPO Filing on Purpose: 'Very Intentional'",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "AVGO",
+        "GOOG",
         "GOOGL"
       ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62667278/eisman-anthropic-ipo"
+      "url": "https://www.benzinga.com/news/26/10/62679001/alphabet-ceo-says-we-are-working-distilled-versions-gemini-4-carbon-more-1b-users-gemini-4-carbon-wi"
+    },
+    {
+      "created_at": "2026-10-28T21:08:44Z",
+      "headline": "Alphabet Exec Says Nearly 100 Clients Currently Using TPUs, With Strong Demand From Many Others",
+      "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62678582/alphabet-exec-says-nearly-100-clients-currently-using-tpus-strong-demand-many-others"
+    },
+    {
+      "created_at": "2026-10-28T21:06:35Z",
+      "headline": "Alphabet Google Cloud CEO Kurian Says Growing Cybersecurity Risks Driving Demand For AI-Powered Security Platform",
+      "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62678471/alphabet-google-cloud-ceo-kurian-says-growing-cybersecurity-risks-driving-demand-ai-powered-security"
+    },
+    {
+      "created_at": "2026-10-28T21:05:00Z",
+      "headline": "Alphabet Exec Says TPU System Sales Were A Meaningful Contributor To Google Cloud Growth; Expect To Recognize Just Over 55% Of The Total Backlog As Revenues Over The Next 24 Months; 2026 CAPEX Forecast Remain Unchanged",
+      "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62678378/alphabet-exec-says-tpu-system-sales-were-meaningful-contributor-google-cloud-growth-expect-recognize"
+    },
+    {
+      "created_at": "2026-10-28T21:03:19Z",
+      "headline": "Alphabet CFO Says Operating Loss This Quarter Was Due To Shared AI R&D Costs; Expecting TPU System Sales To Rise For Google Cloud; Margin Headwinds Anticipated In Near Future; Technical Infrastructure Expenses To Continue To Weigh On Profit & Loss",
+      "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62678321/alphabet-cfo-says-operating-loss-quarter-was-due-shared-ai-r-d-costs-expecting-tpu-system-sales-rise"
+    },
+    {
+      "created_at": "2026-10-28T21:00:03Z",
+      "headline": "Alphabet CFO Says Network Advertising Revenue Rose 1% This Quarter",
+      "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62678108/alphabet-cfo-says-network-advertising-revenue-rose-1-quarter"
     }
   ],
-  "regime": "RISK_ON",
-  "regime_score": 0.805405,
+  "regime": "NEUTRAL",
+  "regime_score": 0.105405,
   "top_candidates": [
     {
       "news_score": 0.0,
-      "price": 404.265,
-      "reason": "5d +4.6%; 20d +13.9%; vs SPY +12.7%; RSI 59; volume 0.7x; volatility 39.7%; news +0.00",
-      "relative_strength_20d": 0.127079,
-      "score": 0.624752,
+      "price": 402.6,
+      "reason": "5d +4.1%; 20d +13.4%; vs SPY +12.4%; RSI 59; volume 1.0x; volatility 39.6%; news +0.00",
+      "relative_strength_20d": 0.123719,
+      "score": 0.631216,
       "symbol": "TSLA"
     },
     {
       "news_score": 0.0,
-      "price": 181.48,
-      "reason": "5d +1.9%; 20d +11.4%; vs SPY +10.2%; RSI 70; volume 0.8x; volatility 21.1%; news +0.00",
-      "relative_strength_20d": 0.101873,
-      "score": 0.527003,
+      "price": 182.08,
+      "reason": "5d +2.2%; 20d +11.8%; vs SPY +10.7%; RSI 72; volume 1.3x; volatility 21.0%; news +0.00",
+      "relative_strength_20d": 0.106887,
+      "score": 0.622223,
       "symbol": "XOM"
     },
     {
-      "news_score": 0.0,
-      "price": 120.035,
-      "reason": "5d +2.0%; 20d +15.5%; vs SPY +14.3%; RSI 75; volume 0.4x; volatility 20.0%; news +0.00",
-      "relative_strength_20d": 0.142912,
-      "score": 0.498268,
-      "symbol": "WMT"
+      "news_score": 0.166667,
+      "price": 555.045,
+      "reason": "5d +4.2%; 20d +8.2%; vs SPY +7.1%; RSI 61; volume 1.2x; volatility 19.1%; news +0.17",
+      "relative_strength_20d": 0.071432,
+      "score": 0.581457,
+      "symbol": "MSFT"
     },
     {
-      "news_score": 0.0,
-      "price": 1293.785,
-      "reason": "5d +1.8%; 20d +11.6%; vs SPY +10.4%; RSI 71; volume 0.6x; volatility 29.2%; news +0.00",
-      "relative_strength_20d": 0.103793,
-      "score": 0.49705,
+      "news_score": 0.166667,
+      "price": 1290.67,
+      "reason": "5d +1.6%; 20d +11.3%; vs SPY +10.2%; RSI 71; volume 0.9x; volatility 29.2%; news +0.17",
+      "relative_strength_20d": 0.102438,
+      "score": 0.540143,
       "symbol": "LLY"
     },
     {
       "news_score": 0.0,
-      "price": 229.21,
-      "reason": "5d +1.1%; 20d +12.1%; vs SPY +10.9%; RSI 73; volume 0.6x; volatility 21.4%; news +0.00",
-      "relative_strength_20d": 0.109276,
-      "score": 0.474465,
+      "price": 229.29,
+      "reason": "5d +1.1%; 20d +12.2%; vs SPY +11.1%; RSI 75; volume 0.9x; volatility 21.3%; news +0.00",
+      "relative_strength_20d": 0.110999,
+      "score": 0.53102,
       "symbol": "CVX"
     },
     {
       "news_score": 0.0,
-      "price": 317.98,
-      "reason": "5d +1.2%; 20d +11.8%; vs SPY +10.6%; RSI 78; volume 0.3x; volatility 28.4%; news +0.00",
-      "relative_strength_20d": 0.105632,
-      "score": 0.459867,
+      "price": 119.74,
+      "reason": "5d +1.7%; 20d +15.2%; vs SPY +14.1%; RSI 74; volume 0.7x; volatility 20.1%; news +0.00",
+      "relative_strength_20d": 0.141405,
+      "score": 0.525774,
+      "symbol": "WMT"
+    },
+    {
+      "news_score": 0.0,
+      "price": 317.79,
+      "reason": "5d +1.2%; 20d +11.7%; vs SPY +10.6%; RSI 77; volume 0.5x; volatility 28.5%; news +0.00",
+      "relative_strength_20d": 0.106295,
+      "score": 0.483492,
       "symbol": "HD"
     },
     {
-      "news_score": 0.0,
-      "price": 68.64,
-      "reason": "5d +0.7%; 20d +11.6%; vs SPY +10.4%; RSI 67; volume 0.6x; volatility 21.4%; news +0.00",
-      "relative_strength_20d": 0.104412,
-      "score": 0.434611,
-      "symbol": "XLE"
-    },
-    {
-      "news_score": 0.111111,
-      "price": 404.48,
-      "reason": "5d -0.8%; 20d +12.5%; vs SPY +11.3%; RSI 68; volume 1.0x; volatility 18.5%; news +0.11",
-      "relative_strength_20d": 0.112819,
-      "score": 0.429958,
-      "symbol": "V"
-    },
-    {
-      "news_score": 0.0,
-      "price": 613.03,
-      "reason": "5d -1.5%; 20d +11.3%; vs SPY +10.1%; RSI 66; volume 1.3x; volatility 18.0%; news +0.00",
-      "relative_strength_20d": 0.101195,
-      "score": 0.403896,
+      "news_score": 0.333333,
+      "price": 610.79,
+      "reason": "5d -1.9%; 20d +10.9%; vs SPY +9.8%; RSI 65; volume 2.1x; volatility 18.1%; news +0.33",
+      "relative_strength_20d": 0.098459,
+      "score": 0.480045,
       "symbol": "MA"
     },
     {
       "news_score": 0.0,
-      "price": 179.765,
-      "reason": "5d +0.5%; 20d +6.7%; vs SPY +5.5%; RSI 70; volume 0.8x; volatility 18.2%; news +0.00",
-      "relative_strength_20d": 0.055186,
-      "score": 0.289136,
-      "symbol": "XLV"
+      "price": 68.4,
+      "reason": "5d +0.4%; 20d +11.3%; vs SPY +10.2%; RSI 66; volume 0.9x; volatility 21.4%; news +0.00",
+      "relative_strength_20d": 0.10184,
+      "score": 0.437853,
+      "symbol": "XLE"
+    },
+    {
+      "news_score": 0.0,
+      "price": 401.02,
+      "reason": "5d -1.7%; 20d +11.5%; vs SPY +10.5%; RSI 65; volume 1.4x; volatility 18.7%; news +0.00",
+      "relative_strength_20d": 0.104529,
+      "score": 0.415195,
+      "symbol": "V"
     }
   ],
   "universe_size": 37
