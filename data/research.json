@@ -1,319 +1,315 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": false,
-  "benchmark_price": 751.755,
+  "benchmark_price": 756.06,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.567568,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-10-30T18:21:00.733891+00:00",
-  "latest_market_timestamp": "2026-10-30T18:20:55.350484234Z",
-  "market_is_open": true,
+  "generated_at": "2026-10-30T22:32:02.660291+00:00",
+  "latest_market_timestamp": "2026-10-30T20:57:06.918232725Z",
+  "market_is_open": false,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
-  "next_close": "2026-10-30T16:00:00-04:00",
+  "next_close": "2026-11-02T16:00:00-05:00",
   "next_open": "2026-11-02T09:30:00-05:00",
   "recent_news": [
     {
-      "created_at": "2026-10-30T18:11:50Z",
-      "headline": "TD Cowen Maintains Buy on Amazon.com, Lowers Price Target to $340",
+      "created_at": "2026-10-30T22:14:14Z",
+      "headline": "JP Morgan Maintains Overweight on Eli Lilly, Raises Price Target to $1650",
       "source": "benzinga",
+      "symbols": [
+        "LLY"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62761483/jp-morgan-maintains-overweight-eli-lilly-raises-price-target-1650"
+    },
+    {
+      "created_at": "2026-10-30T22:00:21Z",
+      "headline": "Here\u2019s How Much You Would Have Made Owning State Street Energy Select Sector SPDR ETF Stock In The Last 5 Years",
+      "source": "benzinga",
+      "symbols": [
+        "XLE"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62761318/here-s-how-much-you-would-have-made-owning-state-street-energy-select-sector-spdr-etf-stock-last-5-y"
+    },
+    {
+      "created_at": "2026-10-30T21:48:31Z",
+      "headline": "$100 Invested In Costco Wholesale 5 Years Ago Would Be Worth This Much Today",
+      "source": "benzinga",
+      "symbols": [
+        "COST"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62761262/100-invested-costco-wholesale-5-years-ago-would-be-worth-much-today"
+    },
+    {
+      "created_at": "2026-10-30T21:42:43Z",
+      "headline": "'White House to Nominate Mufarrige to FTC Commissioner Spot'- Bloomberg",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62761220/white-house-nominate-mufarrige-ftc-commissioner-spot-bloomberg"
+    },
+    {
+      "created_at": "2026-10-30T21:32:06Z",
+      "headline": "Multiple Analysts Adjust Price Targets for Caterpillar Inc.",
+      "source": "fiscal.ai",
+      "symbols": [
+        "CAT"
+      ],
+      "url": "https://www.marketscreener.com/news/president-capital-adjusts-price-target-on-caterpillar-to-761-from-999-ce785fdbdb8ff225"
+    },
+    {
+      "created_at": "2026-10-30T21:31:42Z",
+      "headline": "Former Financial Adviser Sues Bank of America Over Mandatory Arbitration Policy",
+      "source": "fiscal.ai",
+      "symbols": [
+        "BAC"
+      ],
+      "url": "https://www.tradingview.com/news/seekingalpha:068a62338094b:0-bank-of-america-sued-over-mandatory-arbitration-policy-for-employees/"
+    },
+    {
+      "created_at": "2026-10-30T21:31:42Z",
+      "headline": "Bank of America Highlights Regulatory Challenges for Potential Tesla-SpaceX Merger",
+      "source": "fiscal.ai",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.tradingview.com/news/stocktwits:dbbea1551094b:0-tesla-spacex-merger-could-face-the-biggest-regulatory-risk-in-china-bofa-warns/"
+    },
+    {
+      "created_at": "2026-10-30T21:31:41Z",
+      "headline": "Visa Releases 2026 Holiday Spending Shift Survey Findings",
+      "source": "fiscal.ai",
+      "symbols": [
+        "V"
+      ],
+      "url": "https://investingnews.com/secret-santai-visa-survey-finds-americans-quietly-turning-to-ai-for-holiday-shopping-help/"
+    },
+    {
+      "created_at": "2026-10-30T21:31:41Z",
+      "headline": "Visa Signs Memorandum of Understanding with Senegal for Digital Transformation",
+      "source": "fiscal.ai",
+      "symbols": [
+        "V"
+      ],
+      "url": "https://africa.com/apo/visa-and-senegal-join-forces-to-accelerate-digital-transformation-and-the-development-of-digital-payments"
+    },
+    {
+      "created_at": "2026-10-30T21:31:38Z",
+      "headline": "Amazon Pharmacy Reports Significant Growth in Customers and Delivery Reach",
+      "source": "fiscal.ai",
       "symbols": [
         "AMZN"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62753897/td-cowen-maintains-buy-amazon-com-lowers-price-target-340"
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-fills-prescription-chatgpt-cannot/"
     },
     {
-      "created_at": "2026-10-30T18:08:37Z",
-      "headline": "Wells Fargo Maintains Overweight on Caterpillar, Lowers Price Target to $805",
-      "source": "benzinga",
-      "symbols": [
-        "CAT"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62753745/wells-fargo-maintains-overweight-caterpillar-lowers-price-target-805"
-    },
-    {
-      "created_at": "2026-10-30T18:03:01Z",
-      "headline": "JPMorgan Adjusts Price Target on Caterpillar to $1,000 From $1,100",
+      "created_at": "2026-10-30T21:31:31Z",
+      "headline": "William Blair Downgrades Broadcom to Market Perform",
       "source": "fiscal.ai",
       "symbols": [
-        "CAT"
+        "AVGO"
       ],
-      "url": "https://www.marketscreener.com/news/jpmorgan-adjusts-price-target-on-caterpillar-to-1-000-from-1-100-ce785fdbdb8ff024"
+      "url": "https://www.tradingview.com/news/invezz:faa101be1094b:0-why-intel-amd-and-broadcom-are-falling-on-friday/"
     },
     {
-      "created_at": "2026-10-30T18:02:12Z",
-      "headline": "Analysts Raise Price Targets for Eli Lilly Following Q3 Results",
+      "created_at": "2026-10-30T21:31:27Z",
+      "headline": "Microsoft Plans $25 Billion Investment-Grade Bond Sale",
       "source": "fiscal.ai",
       "symbols": [
-        "LLY"
+        "MSFT"
       ],
-      "url": "https://www.marketscreener.com/news/eli-lilly-seen-sustaining-obesity-growth-ubs-says-ce785fdbde81f421"
+      "url": "https://www.manilatimes.net/2026/10/31/business/foreign-business/microsoft-looking-to-raise-25b-for-ai-push/2458225"
     },
     {
-      "created_at": "2026-10-30T18:01:43Z",
-      "headline": "Morgan Stanley Maintains Overweight on Eli Lilly, Raises Price Target to $1596",
+      "created_at": "2026-10-30T21:21:23Z",
+      "headline": "'Alphabet Is in Talks to Join Trump\u2019s Golden Dome Defense Program'- Bloomberg",
       "source": "benzinga",
       "symbols": [
-        "LLY"
+        "GOOG",
+        "GOOGL"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62753294/morgan-stanley-maintains-overweight-eli-lilly-raises-price-target-1596"
+      "url": "https://www.benzinga.com/news/26/10/62760869/alphabet-talks-join-trump-s-golden-dome-defense-program-bloomberg"
     },
     {
-      "created_at": "2026-10-30T18:01:41Z",
-      "headline": "Meta Launches AI Fashion App 'Style Sketch' in Southeast Asia",
+      "created_at": "2026-10-30T21:09:48Z",
+      "headline": "Anthropic Could Join Public Markets With a Junk Rating Despite $112B Cash Pile, Blackstone Warns",
+      "source": "benzinga",
+      "symbols": [
+        "AVGO"
+      ],
+      "url": "https://www.benzinga.com/markets/private-markets/26/10/62760671/anthropic-could-join-public-markets-with-a-junk-rating-despite-112b-cash-pile-blackstone-warns"
+    },
+    {
+      "created_at": "2026-10-30T21:08:30Z",
+      "headline": "Citigroup Maintains Buy on Alphabet, Lowers Price Target to $375",
+      "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62760647/citigroup-maintains-buy-alphabet-lowers-price-target-375"
+    },
+    {
+      "created_at": "2026-10-30T21:07:33Z",
+      "headline": "Meta Platforms Outlook Revised To Negative On Significant Uncertainty Around Capex And Free Operating Cash Flow",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/10/62760617/meta-platforms-outlook-revised-negative-significant-uncertainty-around-capex-and-free-operating-cash"
+    },
+    {
+      "created_at": "2026-10-30T20:55:28Z",
+      "headline": "Alphabet Posts Worst Week Since 2011, Intel Suffers Record Crash as Warsh Sees 'Cracks': This Week on Wall Street",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "ALB",
+        "AMD",
+        "AMZN",
+        "ARM",
+        "BA",
+        "CVNA",
+        "F",
+        "FDXF",
+        "GM",
+        "GOOGL",
+        "GPN",
+        "HCA",
+        "HOOD",
+        "IBB",
+        "IBKR",
+        "ILMN",
+        "INTC",
+        "MAR",
+        "MPC",
+        "NOW",
+        "PLTR",
+        "PNR",
+        "QCOM",
+        "RDDT",
+        "REGN",
+        "SMCI",
+        "SNDK",
+        "SPY",
+        "VRT",
+        "XLC",
+        "XLV"
+      ],
+      "url": "https://www.benzinga.com/markets/market-summary/26/10/62760190/alphabet-worst-week-since-2011-intel-record-crash-warsh-cracks-this-week-on-wall-street"
+    },
+    {
+      "created_at": "2026-10-30T20:32:07Z",
+      "headline": "Meta Reaches Settlement in Social Media Addiction Trial",
       "source": "fiscal.ai",
       "symbols": [
         "META"
       ],
-      "url": "https://www.techdogs.com/tech-news/td-newsdesk/meta-launches-style-sketch-ai-app-to-turn-instagram-photos-into-virtual-wardrobes"
+      "url": "https://www.marketscreener.com/news/meta-settles-with-plaintiffs-set-for-social-media-addiction-trial-in-los-angeles-next-week-ce785fdbd18af12c"
     },
     {
-      "created_at": "2026-10-30T18:01:33Z",
-      "headline": "Apple Acquires Data-Management Startup Ascend.io",
+      "created_at": "2026-10-30T20:31:58Z",
+      "headline": "JPMorgan Chase Faces Potential Additional Regulatory Costs",
       "source": "fiscal.ai",
       "symbols": [
-        "AAPL"
+        "JPM"
       ],
-      "url": "https://www.tradingview.com/news/seekingalpha:dbd81b23a094b:0-apple-acquires-agentic-platform-ascension-labs/"
+      "url": "https://www.tradingview.com/symbols/BVL-JPMUS/news/?section=top_news"
     },
     {
-      "created_at": "2026-10-30T18:01:33Z",
-      "headline": "Trial Date Set for Apple's Trade Secret Lawsuit Against OpenAI",
+      "created_at": "2026-10-30T20:31:43Z",
+      "headline": "Amazon Discloses Prime Video Profitability and Revenue Scale",
       "source": "fiscal.ai",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://www.techdogs.com/tech-news/td-newsdesk/apple-and-openai-trade-secrets-lawsuit-heads-to-trial-on-july-19-2027"
-    },
-    {
-      "created_at": "2026-10-30T17:53:44Z",
-      "headline": "Morgan Stanley Maintains Equal-Weight on Caterpillar, Lowers Price Target to $675",
-      "source": "benzinga",
-      "symbols": [
-        "CAT"
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62752874/morgan-stanley-maintains-equal-weight-caterpillar-lowers-price-target-675"
-    },
-    {
-      "created_at": "2026-10-30T17:52:33Z",
-      "headline": "Why Is IREN Stock Falling on Friday?",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "BTCUSD",
-        "GOOG",
-        "GOOGL",
-        "INTC",
-        "IREN",
-        "MSFT"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62752783/why-is-iren-stock-falling-on-friday-2"
-    },
-    {
-      "created_at": "2026-10-30T17:45:18Z",
-      "headline": "Eli Lilly 'Deserves' Stock Upside: Analyst",
-      "source": "benzinga",
-      "symbols": [
-        "LLY"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/10/62752512/eli-lilly-deserves-stock-upside-analyst"
-    },
-    {
-      "created_at": "2026-10-30T17:42:19Z",
-      "headline": "Morgan Stanley Maintains Overweight on Amazon.com, Lowers Price Target to $335",
-      "source": "benzinga",
       "symbols": [
         "AMZN"
       ],
-      "url": "https://www.benzinga.com/news/26/10/62752376/morgan-stanley-maintains-overweight-amazon-com-lowers-price-target-335"
-    },
-    {
-      "created_at": "2026-10-30T17:37:32Z",
-      "headline": "Why Is Nebius Stock Falling on Friday?",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "GOOG",
-        "INTC",
-        "MSFT",
-        "NBIS"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62752155/why-is-nebius-stock-falling-on-friday-3"
-    },
-    {
-      "created_at": "2026-10-30T17:35:11Z",
-      "headline": "10 Financials Stocks Whale Activity In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "BX",
-        "C",
-        "COF",
-        "ITUB",
-        "MA",
-        "MS",
-        "PAYO",
-        "SCHW",
-        "SEZL",
-        "XYZ"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62752032/10-financials-stocks-whale-activity-today-s-session"
-    },
-    {
-      "created_at": "2026-10-30T17:35:10Z",
-      "headline": "10 Industrials Stocks Whale Activity In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "AXON",
-        "BA",
-        "BE",
-        "CAT",
-        "FDX",
-        "JBHT",
-        "LMT",
-        "LYFT",
-        "RKLB",
-        "UBER"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62752031/10-industrials-stocks-whale-activity-today-s-session"
-    },
-    {
-      "created_at": "2026-10-30T17:35:10Z",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "benzinga",
-      "symbols": [
-        "AMD",
-        "CIFR",
-        "CRWV",
-        "INTC",
-        "IONQ",
-        "MARA",
-        "MRVL",
-        "MSFT",
-        "MU",
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/markets/options/26/10/62752030/10-information-technology-stocks-whale-alerts-today-s-session"
-    },
-    {
-      "created_at": "2026-10-30T17:33:45Z",
-      "headline": "Fed's Logan Says Long-Term Rates Have Risen, But Don't Represent As Much As A Drag On Economy As Might Be Expected; Economic Growth Is Strong, Consumer Spending Solid; Labor Market Is Balanced, Perhaps Tightening A Bit",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62751920/fed-s-logan-says-long-term-rates-have-risen-don-t-represent-much-drag-economy-might-be-expected-econ"
-    },
-    {
-      "created_at": "2026-10-30T17:33:13Z",
-      "headline": "Fed's Logan Says 'Unacceptable' That Inflation Is Not Headed Back To Fed's 2% Target; After 50 BPs Of Rate Hikes, A Pause Would Make Sense To Determine What Further Action Is Appropriate; Financial Conditions Are Providing A Tailwind To The Economy; Higher Market Rates A Message That Investors Believe Monetary Policy Has Work To Do",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62751874/fed-s-logan-says-unacceptable-inflation-not-headed-back-fed-s-2-target-after-50-bps-rate-hikes-pause"
-    },
-    {
-      "created_at": "2026-10-30T17:32:32Z",
-      "headline": "Fed's Logan Says Fed Needs At Least Two More Quarter-Point Rate Hikes; Skipping A Meeting Doesn't Change Policy Destination; Adjusting Policy Gradually Can Reduce Risks Of Sharp Economic Deterioration; Gradual Policy Adjustment Helps Households, Businesses, Investors Adapt To Higher Rates;  End Goal Is To Make Policy Modestly Restrictive; Making Policy Rate Destination Clear Helps Economy Adapt, Obtain Benefits Of A Skip",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/10/62751846/fed-s-logan-says-fed-needs-least-two-more-quarter-point-rate-hikes-skipping-meeting-doesn-t-change-p"
-    },
-    {
-      "created_at": "2026-10-30T17:31:46Z",
-      "headline": "Amazon Is Spending Billions to Win the AI Race \u2014 Will the Gamble Pay Off?",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/10/62751807/amazon-is-spending-billions-to-win-the-ai-race-will-the-gamble-pay-off"
+      "url": "https://www.tradingview.com/news/gurufocus:917e0e8bc094b:0-amazon-says-prime-video-is-now-a-tens-of-billions-business/"
     }
   ],
   "regime": "DEFENSIVE",
   "regime_score": -0.659459,
   "top_candidates": [
     {
-      "news_score": 0.222222,
-      "price": 1423.125,
-      "reason": "5d +11.7%; 20d +24.4%; vs SPY +26.8%; RSI 83; volume 1.5x; volatility 36.3%; news +0.22",
-      "relative_strength_20d": 0.267742,
-      "score": 0.855828,
+      "news_score": 0.266667,
+      "price": 1417.01,
+      "reason": "5d +11.2%; 20d +23.9%; vs SPY +25.7%; RSI 83; volume 1.9x; volatility 35.8%; news +0.27",
+      "relative_strength_20d": 0.256801,
+      "score": 0.89,
       "symbol": "LLY"
     },
     {
-      "news_score": 0.0,
-      "price": 185.275,
-      "reason": "5d +3.4%; 20d +11.5%; vs SPY +13.8%; RSI 81; volume 2.0x; volatility 18.4%; news +0.00",
-      "relative_strength_20d": 0.138358,
-      "score": 0.757867,
+      "news_score": 0.333333,
+      "price": 184.9,
+      "reason": "5d +3.2%; 20d +11.3%; vs SPY +13.1%; RSI 81; volume 2.8x; volatility 18.4%; news +0.33",
+      "relative_strength_20d": 0.130507,
+      "score": 0.792705,
       "symbol": "XLV"
     },
     {
       "news_score": 0.0,
-      "price": 124.01,
-      "reason": "5d +3.5%; 20d +18.9%; vs SPY +21.2%; RSI 80; volume 1.0x; volatility 21.2%; news +0.00",
-      "relative_strength_20d": 0.212339,
-      "score": 0.670229,
+      "price": 123.91,
+      "reason": "5d +3.4%; 20d +18.8%; vs SPY +20.6%; RSI 80; volume 1.4x; volatility 20.8%; news +0.00",
+      "relative_strength_20d": 0.205787,
+      "score": 0.715471,
       "symbol": "WMT"
     },
     {
-      "news_score": 0.333333,
-      "price": 638.55,
-      "reason": "5d +2.4%; 20d +15.8%; vs SPY +18.1%; RSI 70; volume 0.9x; volatility 21.8%; news +0.33",
-      "relative_strength_20d": 0.180883,
-      "score": 0.625494,
-      "symbol": "MA"
-    },
-    {
       "news_score": 0.0,
-      "price": 89.71,
-      "reason": "5d +1.6%; 20d +11.4%; vs SPY +13.7%; RSI 70; volume 1.6x; volatility 19.8%; news +0.00",
-      "relative_strength_20d": 0.137107,
-      "score": 0.621526,
-      "symbol": "XLP"
-    },
-    {
-      "news_score": 0.222222,
-      "price": 185.755,
-      "reason": "5d +1.4%; 20d +13.2%; vs SPY +15.5%; RSI 70; volume 1.1x; volatility 21.4%; news +0.22",
-      "relative_strength_20d": 0.155144,
-      "score": 0.584302,
-      "symbol": "XOM"
-    },
-    {
-      "news_score": 0.0,
-      "price": 329.28,
-      "reason": "5d +3.0%; 20d +16.4%; vs SPY +18.7%; RSI 81; volume 0.4x; volatility 29.8%; news +0.00",
-      "relative_strength_20d": 0.187278,
-      "score": 0.563662,
-      "symbol": "HD"
-    },
-    {
-      "news_score": 0.0,
-      "price": 395.71,
-      "reason": "5d +6.3%; 20d +6.8%; vs SPY +9.1%; RSI 59; volume 1.0x; volatility 37.9%; news +0.00",
-      "relative_strength_20d": 0.090891,
-      "score": 0.562687,
+      "price": 399.12,
+      "reason": "5d +7.2%; 20d +7.7%; vs SPY +9.4%; RSI 61; volume 1.7x; volatility 37.1%; news +0.00",
+      "relative_strength_20d": 0.094497,
+      "score": 0.679879,
       "symbol": "TSLA"
     },
     {
       "news_score": 0.0,
-      "price": 415.425,
-      "reason": "5d +1.8%; 20d +15.2%; vs SPY +17.5%; RSI 67; volume 0.9x; volatility 19.7%; news +0.00",
-      "relative_strength_20d": 0.175241,
-      "score": 0.534965,
+      "price": 187.26,
+      "reason": "5d +2.2%; 20d +14.1%; vs SPY +15.9%; RSI 73; volume 1.6x; volatility 21.8%; news +0.00",
+      "relative_strength_20d": 0.158721,
+      "score": 0.661939,
+      "symbol": "XOM"
+    },
+    {
+      "news_score": 0.0,
+      "price": 637.97,
+      "reason": "5d +2.3%; 20d +15.7%; vs SPY +17.4%; RSI 70; volume 1.4x; volatility 21.8%; news +0.00",
+      "relative_strength_20d": 0.174238,
+      "score": 0.630721,
+      "symbol": "MA"
+    },
+    {
+      "news_score": 0.0,
+      "price": 89.42,
+      "reason": "5d +1.3%; 20d +11.0%; vs SPY +12.8%; RSI 69; volume 2.2x; volatility 19.6%; news +0.00",
+      "relative_strength_20d": 0.127913,
+      "score": 0.609607,
+      "symbol": "XLP"
+    },
+    {
+      "news_score": 0.0,
+      "price": 329.24,
+      "reason": "5d +3.0%; 20d +16.4%; vs SPY +18.2%; RSI 81; volume 0.5x; volatility 29.9%; news +0.00",
+      "relative_strength_20d": 0.181543,
+      "score": 0.58652,
+      "symbol": "HD"
+    },
+    {
+      "news_score": 0.111111,
+      "price": 413.53,
+      "reason": "5d +1.4%; 20d +14.7%; vs SPY +16.4%; RSI 66; volume 1.2x; volatility 19.6%; news +0.11",
+      "relative_strength_20d": 0.164393,
+      "score": 0.563673,
       "symbol": "V"
     },
     {
       "news_score": 0.0,
-      "price": 1020.38,
-      "reason": "5d +1.9%; 20d +11.0%; vs SPY +13.3%; RSI 72; volume 0.9x; volatility 19.0%; news +0.00",
-      "relative_strength_20d": 0.132999,
-      "score": 0.525339,
-      "symbol": "COST"
+      "price": 43.45,
+      "reason": "5d +2.1%; 20d +9.1%; vs SPY +10.9%; RSI 66; volume 1.4x; volatility 17.3%; news +0.00",
+      "relative_strength_20d": 0.108818,
+      "score": 0.553977,
+      "symbol": "XLU"
     }
   ],
   "universe_size": 37
