@@ -1,7 +1,7 @@
 {
-  "version": 1,
-  "buy_threshold": 0.3,
+  "version": 2,
+  "buy_threshold": 0.32999999999999996,
   "sell_threshold": -0.12,
-  "updated_at": "2026-09-15T00:00:00+00:00",
-  "explanation": "Initial balanced momentum, trend and news policy."
+  "updated_at": "2026-11-03T19:54:30.466498+00:00",
+  "explanation": "Raised entry selectivity after 14 exits: win rate 43%, P/L $-15.95."
 }

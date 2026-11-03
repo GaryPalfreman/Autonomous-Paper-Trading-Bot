@@ -1,282 +1,307 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": false,
-  "benchmark_price": 753.08,
+  "benchmark_price": 754.035,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.567568,
+  "breadth_above_20d_average": 0.540541,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-11-02T22:02:29.263653+00:00",
-  "latest_market_timestamp": "2026-11-02T21:58:05.627574927Z",
-  "market_is_open": false,
+  "generated_at": "2026-11-03T19:54:30.463095+00:00",
+  "latest_market_timestamp": "2026-11-03T19:54:29.017606072Z",
+  "market_is_open": true,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
   "next_close": "2026-11-03T16:00:00-05:00",
-  "next_open": "2026-11-03T09:30:00-05:00",
+  "next_open": "2026-11-04T09:30:00-05:00",
   "recent_news": [
     {
-      "created_at": "2026-11-02T21:54:22Z",
-      "headline": "UBS Maintains Buy on ExxonMobil Holdings, Raises Price Target to $213",
+      "created_at": "2026-11-03T19:43:30Z",
+      "headline": "Nvidia Stock Climbs Amid Oil Price Drop",
       "source": "benzinga",
-      "symbols": [
-        "XOM"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/62802188/ubs-maintains-buy-exxonmobil-holdings-raises-price-target-213"
-    },
-    {
-      "created_at": "2026-11-02T21:49:38Z",
-      "headline": "Apple Tops Expectations in Q4 as Active Installed Base Hits All-Time High",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://www.benzinga.com/markets/earnings/26/11/62801967/apple-tops-expectations-in-q4-as-active-installed-base-hits-all-time-high"
-    },
-    {
-      "created_at": "2026-11-02T21:44:20Z",
-      "headline": "Apple CFO Says Our Installed Base Of Active Devices Reached A New All-Time High Across All Major Product Categories And Geographic Segments",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/62801667/apple-cfo-says-our-installed-base-active-devices-reached-new-all-time-high-across-all-major-product-"
-    },
-    {
-      "created_at": "2026-11-02T21:41:01Z",
-      "headline": "UBS Maintains Buy on Chevron, Raises Price Target to $265",
-      "source": "benzinga",
-      "symbols": [
-        "CVX"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/62801210/ubs-maintains-buy-chevron-raises-price-target-265"
-    },
-    {
-      "created_at": "2026-11-02T21:35:57Z",
-      "headline": "CORRECTION: Apple Reports FY2026 Regional Revenue Growth Across Americas $48.680B; Europe $32.008B; Greater China $17.539B; Japan $6.540B; Rest Of Asia Pacific $9.71B",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://www.benzinga.com/quote/AAPL"
-    },
-    {
-      "created_at": "2026-11-02T21:35:27Z",
-      "headline": "Apple CFO Says We Generated $28B In Operating Cash Flow During The Quarter, Allowing Us To Return $28B To Shareholders",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/62800501/apple-cfo-says-we-generated-28b-operating-cash-flow-during-quarter-allowing-us-return-28b-shareholde"
-    },
-    {
-      "created_at": "2026-11-02T21:34:43Z",
-      "headline": "Apple Q4 Included $0.05 From Tariff Refunds",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://www.benzinga.com/quote/AAPL"
-    },
-    {
-      "created_at": "2026-11-02T21:33:35Z",
-      "headline": "Apple CEO Says We\u2019re Closing The Year With Our Most Ambitious Lineup Yet; That Includes The iPhone Duo, The Most Transformational iPhone Since The Original, Alongside iPhone 18 Pro And iPhone 18 Pro Max",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/62800335/apple-ceo-says-we-re-closing-year-our-most-ambitious-lineup-yet-includes-iphone-duo-most-transformat"
-    },
-    {
-      "created_at": "2026-11-02T21:32:52Z",
-      "headline": "Apple Reports FY2026 Regional Revenue Growth Across Americas $48.680M; Europe $32.008M; Greater China $17.539M; Japan $6.540M; Rest Of Asia Pacific $9.71M",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://www.benzinga.com/quote/AAPL"
-    },
-    {
-      "created_at": "2026-11-02T21:32:09Z",
-      "headline": "UBS and Morgan Stanley Adjust Price Targets for Chevron",
-      "source": "fiscal.ai",
-      "symbols": [
-        "CVX"
-      ],
-      "url": "https://www.marketscreener.com/news/ubs-adjusts-chevron-price-target-to-265-from-235-maintains-buy-rating-ce785fd9d981f62d"
-    },
-    {
-      "created_at": "2026-11-02T21:31:43Z",
-      "headline": "JPMorgan Chase Announces $2.4 Million Philanthropic Support for Semiconductor Suppliers",
-      "source": "fiscal.ai",
-      "symbols": [
-        "JPM"
-      ],
-      "url": "https://www.einnews.com/pr_news/953397629/next-street-announces-research-series-and-supplier-accelerator-programs-in-arizona-and-new-york-for-small-businesses"
-    },
-    {
-      "created_at": "2026-11-02T21:31:35Z",
-      "headline": "Analyst Actions: Morgan Stanley, UBS, and JPMorgan Adjust ExxonMobil Price Targets",
-      "source": "fiscal.ai",
-      "symbols": [
-        "XOM"
-      ],
-      "url": "https://www.tradingview.com/news/tradingview:933b991dfc0bb:0-morgan-stanley-maintains-exxonmobil-holdings-at-overweight-raises-price-target-to-187-from-185/"
-    },
-    {
-      "created_at": "2026-11-02T21:31:33Z",
-      "headline": "Amazon Launches $25 Thanksgiving Meal Deal",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.tradingview.com/news/benzinga:4c9f4e0e9094b:0-amazon-stock-rises-what-s-going-on/"
-    },
-    {
-      "created_at": "2026-11-02T21:31:33Z",
-      "headline": "Phillip Securities Upgrades Amazon to Buy",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.tradingview.com/news/gurufocus:48db88985094b:0-aws-growth-wins-amazon-stock-a-330-upgrade/"
-    },
-    {
-      "created_at": "2026-11-02T21:31:29Z",
-      "headline": "NVIDIA Vera Rubin NVL72 Specification Discrepancies Highlighted",
-      "source": "fiscal.ai",
       "symbols": [
         "NVDA"
       ],
-      "url": "https://www.tradingview.com/news/gurufocus:fbc22b595094b:0-nvidia-stocks-rise-1-7-with-rubin-specification-gap-shifting-focus-to-workload-tests/"
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/62838137/nvidia-stock-climbs-amid-oil-price-drop"
     },
     {
-      "created_at": "2026-11-02T21:31:02Z",
-      "headline": "Apple Q4 2026 Wearables, Home And Accessories Sales $8.3B Vs $9.013B Prior",
+      "created_at": "2026-11-03T19:22:31Z",
+      "headline": "'Jill Hazelbaker Jumps To OpenAI As Chief Corporate Affairs Officer' - Axios",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/62837416/jill-hazelbaker-jumps-openai-chief-corporate-affairs-officer-axios"
+    },
+    {
+      "created_at": "2026-11-03T19:16:42Z",
+      "headline": "'Meta Draws $58 Billion Demand for US Leg of Cross-Border Bond' - Bloomberg News",
+      "source": "benzinga",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/62837242/meta-draws-58-billion-demand-us-leg-cross-border-bond-bloomberg-news"
+    },
+    {
+      "created_at": "2026-11-03T19:14:56Z",
+      "headline": "S&P 500 Could Win No Matter Who Wins the Midterms: 5 ETFs to Watch Under JPMorgan's 4 Scenarios",
+      "source": "benzinga",
+      "symbols": [
+        "ICLN",
+        "ITA",
+        "QQQ",
+        "SPY",
+        "XLV"
+      ],
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/11/62837162/sp-500-could-win-no-matter-who-wins-the-midterms-5-etfs-to-watch-under-jpmorgans-4-scenarios"
+    },
+    {
+      "created_at": "2026-11-03T19:01:53Z",
+      "headline": "Caterpillar Director Purchases $620,390 in Company Stock",
+      "source": "fiscal.ai",
+      "symbols": [
+        "CAT"
+      ],
+      "url": "https://www.tradingview.com/news/tradingview:5435c31105d0c:0-caterpillar-director-purchased-shares-worth-over-620k/"
+    },
+    {
+      "created_at": "2026-11-03T19:01:41Z",
+      "headline": "Chevron Maintains Commitment to Project Kilby Data Center Power Supply",
+      "source": "fiscal.ai",
+      "symbols": [
+        "CVX"
+      ],
+      "url": "https://www.tradingview.com/news/zacks:d6743eadd094b:0-chevron-maintains-2028-data-center-power-target-despite-texas-pause/"
+    },
+    {
+      "created_at": "2026-11-03T19:01:38Z",
+      "headline": "Expensify Enters Referral Agreement with Visa",
+      "source": "fiscal.ai",
+      "symbols": [
+        "V"
+      ],
+      "url": "https://www.tradingview.com/news/seekingalpha:1293ec2d6094b:0-expensify-enters-referral-agreement-with-visa/"
+    },
+    {
+      "created_at": "2026-11-03T19:01:33Z",
+      "headline": "SUNGBOON EDITOR Receives 2026 Amazon Innovator Award",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AMZN"
+      ],
+      "url": "https://www.moomoo.com/news/post/1003346633/from-tiktok-virality-to-amazon-recognition-sungboon-editor-is-emerging"
+    },
+    {
+      "created_at": "2026-11-03T19:01:26Z",
+      "headline": "Mastercard Launches SME Academy: Cybersecurity in Europe",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MA"
+      ],
+      "url": "https://fintechmagazine.com/news/mastercard-delivering-essential-cyber-training-to-smes"
+    },
+    {
+      "created_at": "2026-11-03T19:01:21Z",
+      "headline": "Apple Releases First Betas of iOS 27.3 and macOS Golden Gate 27.3",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://appleosophy.com/wire/kkp59lh/"
+    },
+    {
+      "created_at": "2026-11-03T18:58:07Z",
+      "headline": "Apple Stock at \u2018Extreme Overvaluation\u2019: Analysts See Slowing Revenue Growth",
       "source": "benzinga",
       "symbols": [
         "AAPL"
       ],
-      "url": "https://www.benzinga.com/quote/AAPL"
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/11/62836578/apple-stock-at-extreme-overvaluation-analysts-see-slowing-revenue-growth"
     },
     {
-      "created_at": "2026-11-02T21:30:56Z",
-      "headline": "Apple Q4 2026 iPad Sales $6.229B Vs $6.952B Prior",
+      "created_at": "2026-11-03T18:56:48Z",
+      "headline": "Reuters Reported US Officials Have Held Up Approval For American Chipmaking Equipment Needed By SK Hynix To Expand Production In China",
+      "source": "benzinga",
+      "symbols": [
+        "FXI",
+        "SKHY",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/quote/FXI"
+    },
+    {
+      "created_at": "2026-11-03T18:56:35Z",
+      "headline": "This Midterm Nightmare Scenario Puts S&P 500 Down 10% by Year-End, Evercore Warns",
+      "source": "benzinga",
+      "symbols": [
+        "CVX",
+        "DAL",
+        "HYG",
+        "QQQ",
+        "SPY",
+        "UAL",
+        "VOO",
+        "XOM"
+      ],
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/11/62836517/this-midterm-nightmare-scenario-puts-sp-500-down-10-by-year-end-evercore-warns"
+    },
+    {
+      "created_at": "2026-11-03T18:31:42Z",
+      "headline": "Apple Announces Redesigned Health App Expands Language Support",
       "source": "benzinga",
       "symbols": [
         "AAPL"
       ],
-      "url": "https://www.benzinga.com/quote/AAPL"
+      "url": "https://www.benzinga.com/news/26/11/62835644/apple-announces-redesigned-health-app-expands-language-support"
     },
     {
-      "created_at": "2026-11-02T21:30:49Z",
-      "headline": "Apple Q4 2026 Mac Sales $10.792B Vs $8.726B Prior",
+      "created_at": "2026-11-03T18:18:11Z",
+      "headline": "'Amazon, Tesla and SpaceX join OKX\u2013ICE tokenized stock objections as deadline looms' - CoinDesk",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "NFLX",
+        "SPCX",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/62835094/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-deadline-looms-coindesk"
+    },
+    {
+      "created_at": "2026-11-03T18:17:29Z",
+      "headline": "JP Morgan Maintains Overweight on Apple, Lowers Price Target to $355",
       "source": "benzinga",
       "symbols": [
         "AAPL"
       ],
-      "url": "https://www.benzinga.com/quote/AAPL"
+      "url": "https://www.benzinga.com/news/26/11/62835059/jp-morgan-maintains-overweight-apple-lowers-price-target-355"
     },
     {
-      "created_at": "2026-11-02T21:30:42Z",
-      "headline": "Apple Q4 2026 iPhone Sales $57.5183B Vs $49.025B Prior",
+      "created_at": "2026-11-03T18:15:39Z",
+      "headline": "'HSBC, JPMorgan Offer to Help Development Banks Get Capital Relief' - Bloomberg",
       "source": "benzinga",
       "symbols": [
-        "AAPL"
+        "HSBC",
+        "JPM"
       ],
-      "url": "https://www.benzinga.com/quote/AAPL"
+      "url": "https://www.benzinga.com/news/26/11/62834980/hsbc-jpmorgan-offer-help-development-banks-get-capital-relief-bloomberg"
     },
     {
-      "created_at": "2026-11-02T21:30:31Z",
-      "headline": "Apple Q4 EPS $2.10 Beats $1.98 Estimate, Sales $114.477B Beat $113.392B Estimate",
+      "created_at": "2026-11-03T18:00:41Z",
+      "headline": "CNBC Halftime Report Final Trades: BlackRock, Eaton, Pfizer, Amazon",
       "source": "benzinga",
       "symbols": [
-        "AAPL"
+        "AMZN",
+        "BLK",
+        "ETN",
+        "PFE"
       ],
-      "url": "https://www.benzinga.com/news/earnings/26/11/62799908/apple-q4-eps-2-10-beats-1-98-estimate-sales-114-477b-beat-113-392b-estimate"
+      "url": "https://www.benzinga.com/quote/BLK"
+    },
+    {
+      "created_at": "2026-11-03T18:00:13Z",
+      "headline": "SpaceX Could Be Biggest Loser From Successful Anthropic IPO, Finance Professor Warns",
+      "source": "benzinga",
+      "symbols": [
+        "AMZN",
+        "GOOGL",
+        "MSFT",
+        "NVDA",
+        "SPCX"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/62834282/anthropic-ipo-spacex"
+    },
+    {
+      "created_at": "2026-11-03T18:00:10Z",
+      "headline": "Bitcoin Could Face Third and Final 2026 Low in Q4 if S&P500 Drops, Analyst Cautions",
+      "source": "benzinga",
+      "symbols": [
+        "BTCUSD",
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/62834276/bitcoin-could-face-third-and-final-2026-low-in-q4-if-sp500-drops-analyst-cautions"
     }
   ],
   "regime": "DEFENSIVE",
-  "regime_score": -0.659459,
+  "regime_score": -0.675676,
   "top_candidates": [
     {
-      "news_score": 0.0,
-      "price": 1411.75,
-      "reason": "5d +10.3%; 20d +23.4%; vs SPY +26.3%; RSI 80; volume 1.9x; volatility 36.0%; news +0.00",
-      "relative_strength_20d": 0.262617,
-      "score": 0.84905,
+      "news_score": 0.333333,
+      "price": 1414.5,
+      "reason": "5d +10.4%; 20d +22.2%; vs SPY +25.4%; RSI 77; volume 0.7x; volatility 36.0%; news +0.33",
+      "relative_strength_20d": 0.254434,
+      "score": 0.745788,
       "symbol": "LLY"
     },
     {
-      "news_score": 0.0,
-      "price": 127.71,
-      "reason": "5d +6.2%; 20d +21.5%; vs SPY +24.4%; RSI 80; volume 1.4x; volatility 22.7%; news +0.00",
-      "relative_strength_20d": 0.243548,
-      "score": 0.802398,
+      "news_score": 0.333333,
+      "price": 124.89,
+      "reason": "5d +4.7%; 20d +16.5%; vs SPY +19.7%; RSI 67; volume 0.7x; volatility 24.9%; news +0.33",
+      "relative_strength_20d": 0.197136,
+      "score": 0.702949,
       "symbol": "WMT"
     },
     {
       "news_score": 0.0,
-      "price": 425.37,
-      "reason": "5d +5.2%; 20d +15.0%; vs SPY +17.9%; RSI 78; volume 1.1x; volatility 20.1%; news +0.00",
-      "relative_strength_20d": 0.178548,
-      "score": 0.751236,
+      "price": 422.01,
+      "reason": "5d +5.0%; 20d +13.8%; vs SPY +17.1%; RSI 70; volume 0.6x; volatility 20.7%; news +0.00",
+      "relative_strength_20d": 0.170555,
+      "score": 0.656311,
       "symbol": "V"
     },
     {
-      "news_score": 0.0,
-      "price": 658.385,
-      "reason": "5d +7.3%; 20d +16.8%; vs SPY +19.6%; RSI 77; volume 1.1x; volatility 22.9%; news +0.00",
-      "relative_strength_20d": 0.195844,
-      "score": 0.745523,
-      "symbol": "MA"
-    },
-    {
-      "news_score": 0.0,
-      "price": 53.66,
-      "reason": "5d +4.4%; 20d +8.4%; vs SPY +11.2%; RSI 91; volume 2.0x; volatility 12.0%; news +0.00",
-      "relative_strength_20d": 0.112287,
-      "score": 0.744929,
-      "symbol": "XLB"
-    },
-    {
-      "news_score": 0.0,
-      "price": 341.16,
-      "reason": "5d +6.8%; 20d +21.4%; vs SPY +24.2%; RSI 84; volume 0.9x; volatility 31.0%; news +0.00",
-      "relative_strength_20d": 0.241821,
-      "score": 0.743319,
-      "symbol": "HD"
-    },
-    {
-      "news_score": 0.0,
-      "price": 1039.01,
-      "reason": "5d +3.5%; 20d +12.7%; vs SPY +15.5%; RSI 70; volume 1.7x; volatility 19.7%; news +0.00",
-      "relative_strength_20d": 0.154789,
-      "score": 0.739806,
-      "symbol": "COST"
-    },
-    {
-      "news_score": 0.0,
-      "price": 90.85,
-      "reason": "5d +3.3%; 20d +12.1%; vs SPY +15.0%; RSI 68; volume 1.4x; volatility 19.9%; news +0.00",
-      "relative_strength_20d": 0.149574,
-      "score": 0.671214,
-      "symbol": "XLP"
-    },
-    {
-      "news_score": 0.0,
-      "price": 184.64,
-      "reason": "5d +3.0%; 20d +10.3%; vs SPY +13.1%; RSI 76; volume 1.5x; volatility 18.5%; news +0.00",
-      "relative_strength_20d": 0.131167,
-      "score": 0.667893,
+      "news_score": 0.333333,
+      "price": 184.46,
+      "reason": "5d +2.9%; 20d +10.4%; vs SPY +13.6%; RSI 71; volume 1.1x; volatility 18.5%; news +0.33",
+      "relative_strength_20d": 0.13593,
+      "score": 0.644686,
       "symbol": "XLV"
     },
     {
       "news_score": 0.0,
-      "price": 118.15,
-      "reason": "5d +3.4%; 20d +7.0%; vs SPY +9.8%; RSI 72; volume 1.5x; volatility 16.5%; news +0.00",
-      "relative_strength_20d": 0.098446,
-      "score": 0.605759,
-      "symbol": "XLY"
+      "price": 648.98,
+      "reason": "5d +6.4%; 20d +14.7%; vs SPY +17.9%; RSI 66; volume 0.5x; volatility 24.2%; news +0.00",
+      "relative_strength_20d": 0.179327,
+      "score": 0.636525,
+      "symbol": "MA"
+    },
+    {
+      "news_score": 0.333333,
+      "price": 1024.87,
+      "reason": "5d +3.5%; 20d +9.7%; vs SPY +12.9%; RSI 65; volume 0.6x; volatility 20.9%; news +0.33",
+      "relative_strength_20d": 0.128782,
+      "score": 0.567769,
+      "symbol": "COST"
+    },
+    {
+      "news_score": -0.333333,
+      "price": 331.47,
+      "reason": "5d +4.1%; 20d +15.6%; vs SPY +18.8%; RSI 68; volume 0.6x; volatility 33.5%; news -0.33",
+      "relative_strength_20d": 0.188086,
+      "score": 0.558024,
+      "symbol": "HD"
+    },
+    {
+      "news_score": 0.0,
+      "price": 321.625,
+      "reason": "5d +8.0%; 20d +3.9%; vs SPY +7.2%; RSI 55; volume 0.8x; volatility 36.0%; news +0.00",
+      "relative_strength_20d": 0.071617,
+      "score": 0.431432,
+      "symbol": "GE"
+    },
+    {
+      "news_score": -0.333333,
+      "price": 89.245,
+      "reason": "5d +2.4%; 20d +9.1%; vs SPY +12.4%; RSI 59; volume 0.8x; volatility 21.5%; news -0.33",
+      "relative_strength_20d": 0.123587,
+      "score": 0.413274,
+      "symbol": "XLP"
+    },
+    {
+      "news_score": 0.0,
+      "price": 57.265,
+      "reason": "5d +2.5%; 20d +6.0%; vs SPY +9.3%; RSI 67; volume 0.7x; volatility 14.0%; news +0.00",
+      "relative_strength_20d": 0.092635,
+      "score": 0.403739,
+      "symbol": "XLF"
     }
   ],
   "universe_size": 37
