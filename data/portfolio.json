@@ -8,7 +8,7 @@
       "average_price": 225.18753749999996,
       "entry_reason": "Risk-sized 13.4% position with approximately 1.0% portfolio risk; 5d +4.7%; 20d +10.5%; vs SPY +11.3%; RSI 82; volume 1.1x; volatility 19.5%; news +0.00",
       "highest_price": 235.64,
-      "last_price": 225.72,
+      "last_price": 225.33,
       "opened_at": "2026-10-19T18:55:32.354688+00:00",
       "quantity": 0.5889121226433512,
       "symbol": "CVX"
@@ -17,7 +17,7 @@
       "average_price": 1366.18275,
       "entry_reason": "Risk-sized 19.6% position with approximately 1.0% portfolio risk; 5d +4.5%; 20d +18.7%; vs SPY +18.3%; RSI 77; volume 1.3x; volatility 34.5%; news +0.33",
       "highest_price": 1423.125,
-      "last_price": 1414.5,
+      "last_price": 1409.39,
       "opened_at": "2026-10-29T18:44:31.863032+00:00",
       "quantity": 0.14288744513513593,
       "symbol": "LLY"
@@ -25,5 +25,5 @@
   },
   "realized_pnl": -15.950596365247415,
   "starting_cash": 1000.0,
-  "updated_at": "2026-11-03T19:54:30.465618+00:00"
+  "updated_at": "2026-11-04T00:18:11.096274+00:00"
 }
