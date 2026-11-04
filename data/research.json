@@ -1,302 +1,291 @@
 {
   "benchmark_above_20d_average": false,
-  "benchmark_above_50d_average": false,
-  "benchmark_price": 754.29,
+  "benchmark_above_50d_average": true,
+  "benchmark_price": 767.285,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.567568,
+  "breadth_above_20d_average": 0.621622,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-11-04T00:18:11.094733+00:00",
-  "latest_market_timestamp": "2026-11-03T21:58:01.000947757Z",
-  "market_is_open": false,
-  "new_entries_allowed": false,
+  "generated_at": "2026-11-04T20:11:15.190133+00:00",
+  "latest_market_timestamp": "2026-11-04T20:11:11.816766025Z",
+  "market_is_open": true,
+  "new_entries_allowed": true,
   "news_articles_reviewed": 50,
   "next_close": "2026-11-04T16:00:00-05:00",
-  "next_open": "2026-11-04T09:30:00-05:00",
+  "next_open": "2026-11-05T09:30:00-05:00",
   "recent_news": [
     {
-      "created_at": "2026-11-04T00:01:44Z",
-      "headline": "Visa President of Technology Rajat Taneja Sells Shares Worth Over $14 Million",
+      "created_at": "2026-11-04T20:02:11Z",
+      "headline": "Meta Platforms Acquires AI Coding Startup Conductor",
       "source": "fiscal.ai",
       "symbols": [
-        "V"
+        "META"
       ],
-      "url": "https://www.tradingview.com/news/tradingview:b455a1ecc70e9:0-visa-president-technology-sold-shares-worth-over-14m/"
+      "url": "https://www.marketscreener.com/news/meta-platforms-acquires-ai-coding-startup-conductor-ce785fdfde8bf325"
     },
     {
-      "created_at": "2026-11-04T00:01:37Z",
-      "headline": "DeepInfra Announces New Benefits for NVIDIA Inception Members",
-      "source": "fiscal.ai",
-      "symbols": [
-        "NVDA"
-      ],
-      "url": "https://www.globenewswire.com/news-release/2026/11/03/3394716/0/en/deepinfra-expands-startup-support-through-nvidia-inception-offering.html"
-    },
-    {
-      "created_at": "2026-11-03T23:55:14Z",
-      "headline": "Nancy Pelosi Isn't Running for Re-Election in 2026 Midterms: Say Goodbye to Her Stock Picks in Two Months",
+      "created_at": "2026-11-04T19:59:53Z",
+      "headline": "'Trump diesel deal with Russia falters as US fuel supplies hit 20-year low' - Financial Times",
       "source": "benzinga",
       "symbols": [
-        "AB",
-        "AMZN",
-        "BE",
-        "GOOGL",
-        "INTC",
-        "NVDA",
-        "TEM",
-        "TSLA",
-        "UBER",
-        "V",
-        "VST"
+        "SPY",
+        "VGK"
       ],
-      "url": "https://www.benzinga.com/news/politics/26/11/62849869/nancy-pelosi-isnt-running-for-re-election-in-2026-midterms-say-goodbye-to-her-stock-picks-in-two-months"
+      "url": "https://www.benzinga.com/government/26/11/62884154/trump-diesel-deal-russia-falters-us-fuel-supplies-hit-20-year-low-financial-times"
     },
     {
-      "created_at": "2026-11-03T22:31:49Z",
-      "headline": "SenesTech Products Now Available via Walmart Fulfillment Services",
+      "created_at": "2026-11-04T19:50:43Z",
+      "headline": "'Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending' - Bloomberg Exclusive",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/62883916/apple-cuts-internal-ai-usage-budgets-move-reduce-spending-bloomberg-exclusive"
+    },
+    {
+      "created_at": "2026-11-04T19:49:30Z",
+      "headline": "QUICK SPARK: Dow Jones Index Eyes Best Rally Since Trump's Tariff Truce",
+      "source": "benzinga",
+      "symbols": [
+        "DIA"
+      ],
+      "url": "https://www.benzinga.com/markets/market-summary/26/11/62883877/dow-jones-best-rally-since-trump-tariff-truce-midterms"
+    },
+    {
+      "created_at": "2026-11-04T19:34:09Z",
+      "headline": "Apple, Tesla Supplier Is Taking on 3M: Here's What Investors Should Know",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "BYDDF",
+        "BYDDY",
+        "GOOG",
+        "GOOGL",
+        "MMM",
+        "TSLA"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/62883254/crown-new-materials-3m"
+    },
+    {
+      "created_at": "2026-11-04T19:20:44Z",
+      "headline": "TD Cowen Maintains Buy on ExxonMobil Holdings, Raises Price Target to $193",
+      "source": "benzinga",
+      "symbols": [
+        "XOM"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/62882687/td-cowen-maintains-buy-exxonmobil-holdings-raises-price-target-193"
+    },
+    {
+      "created_at": "2026-11-04T19:02:04Z",
+      "headline": "Mastercard Expands Mobile Payment Choice in Morocco With Samsung Pay",
       "source": "fiscal.ai",
       "symbols": [
-        "WMT"
+        "MA"
       ],
-      "url": "https://www.globenewswire.com/news-release/2026/11/03/3394704/0/en/senestech-expands-e-commerce-reach-through-walmart-fulfillment-services.html"
+      "url": "https://www.barchart.com/press-releases/8645110/mastercard-expands-mobile-payment-choice-in-morocco-with-samsung-pay"
     },
     {
-      "created_at": "2026-11-03T22:31:44Z",
-      "headline": "UnitedHealth Group Authorizes Additional 50 Million Share Buyback",
+      "created_at": "2026-11-04T19:01:50Z",
+      "headline": "UnitedHealth Group Board Authorizes Quarterly Dividend",
       "source": "fiscal.ai",
       "symbols": [
         "UNH"
       ],
-      "url": "https://www.tradingview.com/news/seekingalpha:4dd165dac094b:0-unitedhealth-group-authorizes-additional-50m-shares-for-buyback/"
+      "url": "https://www.moomoo.com/hans/news/post/1003499410/press-release-unitedhealth-group-board-authorizes-payment-of-quarterly-dividend"
     },
     {
-      "created_at": "2026-11-03T22:31:42Z",
-      "headline": "J.P. Morgan Wealth Management Recruits Advisor from Merrill Lynch",
+      "created_at": "2026-11-04T19:01:46Z",
+      "headline": "JPMorgan Chase Updates Digital Services Agreement Regarding Third-Party AI Agents",
       "source": "fiscal.ai",
       "symbols": [
         "JPM"
       ],
-      "url": "https://www.moomoo.com/hans/news/post/1003379802/jp-morgan-recruits-financial-advisor-from-merrill-who-oversaw-940"
+      "url": "https://natlawreview.com/article/major-banks-move-block-or-limit-customer-directed-ai-agents"
     },
     {
-      "created_at": "2026-11-03T22:31:37Z",
-      "headline": "Microsoft, Google, and OpenAI Support New Standard for AI Training Opt-Outs",
+      "created_at": "2026-11-04T19:01:41Z",
+      "headline": "Amazon Launches Shop Direct Merchant Workspace",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AMZN"
+      ],
+      "url": "https://www.globenewswire.com/news-release/2026/11/04/3395414/0/en/feedonomics-now-available-in-amazon-s-shop-direct-merchant-workspace-making-it-easier-for-brands-to-get-their-products-in-front-of-amazon-customers.html"
+    },
+    {
+      "created_at": "2026-11-04T19:01:39Z",
+      "headline": "Netflix Launches AI-Powered 'AI Discover' Feature in Limited US Test",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.techdogs.com/tech-news/td-newsdesk/netflix-launches-ai-discover-to-recommend-shows-and-movies-based-on-your-mood"
+    },
+    {
+      "created_at": "2026-11-04T19:01:37Z",
+      "headline": "Above Security Joins Microsoft for Startups Pegasus Program",
       "source": "fiscal.ai",
       "symbols": [
         "MSFT"
       ],
-      "url": "https://newswire.co.nz/2026/11/robots-txt-ai-training-opt-out-google-openai-microsoft-new-zealand/"
+      "url": "https://www.prnewswire.com/news-releases/above-security-joins-microsoft-for-startups-pegasus-program-to-add-human-context-to-microsoft-purview-302928788.html"
     },
     {
-      "created_at": "2026-11-03T22:14:31Z",
-      "headline": "Canada Prime Minister Carney Says Discussions With U.S. Will Be More Intensive; We Are Making Progress But We Have Not Finished With U.S. Trade Talks;  There Are Still Some Red Lines To Be Addressed; There Are Some Important Areas To Be Resolved, We Have Made Progress; Some Of Our Red Lines In U.S. Trade Talks Have Been Removed; U.S. Is Asking Less And Offering More But We're Not There Yet; It's Not Always Necessary To Have Trade Negotiators Talking To The USTR, We Have Good Lines Of Communications Open",
+      "created_at": "2026-11-04T19:01:37Z",
+      "headline": "PowerDMARC Launches on Microsoft Marketplace",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.manilatimes.net/2026/11/04/tmt-newswire/plentisoft/powerdmarc-is-now-available-on-microsoft-marketplace/2462010/amp"
+    },
+    {
+      "created_at": "2026-11-04T19:01:33Z",
+      "headline": "Apple Updates App Store Age-Rating Requirements for Dating and AI Companion Apps",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://www.techdogs.com/tech-news/td-newsdesk/apple-to-require-18-ratings-for-dating-apps-and-romantic-ai-chatbots-from-november-16"
+    },
+    {
+      "created_at": "2026-11-04T19:01:33Z",
+      "headline": "NAD Recommends Good Life Meds Discontinue Claims for Compounded Tirzepatide",
+      "source": "fiscal.ai",
+      "symbols": [
+        "LLY"
+      ],
+      "url": "https://www.globenewswire.com/news-release/2026/11/04/3395623/0/en/national-advertising-division-recommends-good-life-discontinue-health-benefit-and-personalization-claims-for-compounded-tirzepatide-products.html"
+    },
+    {
+      "created_at": "2026-11-04T18:59:25Z",
+      "headline": "QUICK SPARK: Microsoft Stock Hits Record High as Midterm Results Boost AI Infrastructure Bets",
       "source": "benzinga",
       "symbols": [
-        "EWC",
-        "SPY"
+        "MSFT"
       ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/11/62847785/canada-prime-minister-carney-says-discussions-u-s-will-be-more-intensive-we-are-making-progress-we-h"
+      "url": "https://www.benzinga.com/markets/tech/26/11/62881873/microsoft-stock-record-high-blue-wave-midterms-hyperscalers"
     },
     {
-      "created_at": "2026-11-03T22:02:39Z",
-      "headline": "API Crude Oil Stock 5.267M Barrel Draw Vs 2.100M Barrel Build Est.",
+      "created_at": "2026-11-04T18:24:17Z",
+      "headline": "President Trump Says Iran War Will End Whenever I Want It To; Not Considering Replacing Hegseth",
       "source": "benzinga",
       "symbols": [
         "SPY",
         "USO"
       ],
-      "url": "https://www.benzinga.com/quote/SPY"
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/11/62880352/president-trump-says-iran-war-will-end-whenever-i-want-it-not-considering-replacing-hegseth"
     },
     {
-      "created_at": "2026-11-03T22:01:50Z",
-      "headline": "2026 Midterms Prediction Market Odds Update: Democratic Senate Chances Fall to 73%",
+      "created_at": "2026-11-04T18:20:24Z",
+      "headline": "Elon Musk \u2018Needs to be Held Accountable\u2019: Tesla Takedown Says \u2018Voters Have Done Their Part, Now Its Congress\u2019 Turn\u2019",
       "source": "benzinga",
-      "symbols": [
-        "BTCUSD",
-        "DIA",
-        "QQQ",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/news/politics/26/11/62846923/2026-midterms-prediction-market-odds-update-democratic-senate-chances-fall-to-73"
-    },
-    {
-      "created_at": "2026-11-03T22:01:18Z",
-      "headline": "If You Invested $1000 In Netflix Stock 10 Years Ago, You Would Have This Much Today",
-      "source": "benzinga",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/62846904/if-you-invested-1000-netflix-stock-10-years-ago-you-would-have-much-today"
-    },
-    {
-      "created_at": "2026-11-03T21:45:15Z",
-      "headline": "Here's How Much $100 Invested In ExxonMobil Holdings 5 Years Ago Would Be Worth Today",
-      "source": "benzinga",
-      "symbols": [
-        "XOM"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/62846233/here-s-how-much-100-invested-exxonmobil-holdings-5-years-ago-would-be-worth-today"
-    },
-    {
-      "created_at": "2026-11-03T21:32:05Z",
-      "headline": "Daiwa Securities Adjusts Price Target on Bank of America",
-      "source": "fiscal.ai",
-      "symbols": [
-        "BAC"
-      ],
-      "url": "https://www.marketscreener.com/news/daiwa-securities-adjusts-price-target-on-bank-of-america-to-60-from-63-ce785fd9d080f324"
-    },
-    {
-      "created_at": "2026-11-03T21:31:50Z",
-      "headline": "Walmart Expands AI Shopping Agent 'Sparky' Capabilities",
-      "source": "fiscal.ai",
-      "symbols": [
-        "WMT"
-      ],
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/walmarts-updated-ai-agent-turns-pictures-into-shopping-lists/"
-    },
-    {
-      "created_at": "2026-11-03T21:31:43Z",
-      "headline": "Broadcom Shares Rise Following Disclosure of Anthropic AI Equipment Lease Commitments",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AVGO"
-      ],
-      "url": "https://www.tradingview.com/news/gurufocus:4bb15db84094b:0-broadcom-stocks-gain-3-72-as-anthropic-leases-reveal-161-2-billion-payment-scale/"
-    },
-    {
-      "created_at": "2026-11-03T21:31:42Z",
-      "headline": "Tesla Expands Robotaxi Service to Fort Worth",
-      "source": "fiscal.ai",
       "symbols": [
         "TSLA"
       ],
-      "url": "https://www.tradingview.com/news/gurufocus:0623b5e63094b:0-tesla-stocks-move-lower-with-fort-worth-robotaxi-expansion-in-focus/"
+      "url": "https://www.benzinga.com/news/politics/26/11/62880177/elon-musk-needs-to-be-held-accountable-tesla-takedown-says-voters-have-done-their-part-now-its-congress-turn"
     },
     {
-      "created_at": "2026-11-03T21:29:13Z",
-      "headline": "UnitedHealth Group Announces 50M Buyback Plan",
+      "created_at": "2026-11-04T18:17:55Z",
+      "headline": "'Meta Acquires AI Coding Startup Conductor' - Axios Exclusive",
       "source": "benzinga",
       "symbols": [
-        "UNH"
+        "META"
       ],
-      "url": "https://www.benzinga.com/news/26/11/62844722/unitedhealth-group-announces-50m-buyback-plan"
+      "url": "https://www.benzinga.com/m/26/11/62880047/meta-acquires-ai-coding-startup-conductor-axios-exclusive"
     },
     {
-      "created_at": "2026-11-03T21:00:05Z",
-      "headline": "Nate Silver Says Democrats Are Clear Senate Favorites: 'A Really Bad Night for Pollsters' if They Lose",
+      "created_at": "2026-11-04T18:13:35Z",
+      "headline": "President Trump On Election, Says It's Largely True Election Loss Was Result Of Iran War; It Was Worth It; You Can't Let Iran Have A Nuclear Weapon;  I'll Get Along Probably With The Democrats Unless They Want to Be Destructive; If I Were On The Ballot We Would Have Won, We Weren't Able To Transfer The Love To Candidates; Says It Would Destroy Democratic Party If They Impeached Me",
       "source": "benzinga",
       "symbols": [
-        "NVDA"
+        "SPY"
       ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/62840524/nate-silver-senate"
-    },
-    {
-      "created_at": "2026-11-03T20:56:18Z",
-      "headline": "'Xbox\u2019s Arkane Studios Attracts Multiple Bidders, Including Ubisoft' - Bloomberg Exclusive",
-      "source": "benzinga",
-      "symbols": [
-        "MSFT",
-        "UBSFY"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/62840421/xboxs-arkane-studios-attracts-multiple-bidders-including-ubisoft-bloomberg-exclusive"
-    },
-    {
-      "created_at": "2026-11-03T20:35:44Z",
-      "headline": "'U.S. Senate Commerce Committee To Hold Nov. 10 Confirmation Hearing For Federal Communications Commissioner Nominee Thumann' - Reuters News",
-      "source": "benzinga",
-      "symbols": [
-        "SPCX",
-        "SPY",
-        "T",
-        "TMUS",
-        "VZ"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/11/62839828/u-s-senate-commerce-committee-hold-nov-10-confirmation-hearing-federal-communications-commissioner-n"
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/11/62879896/president-trump-election-says-it-s-largely-true-election-loss-was-result-iran-war-it-was-worth-it-yo"
     }
   ],
-  "regime": "DEFENSIVE",
-  "regime_score": -0.659459,
+  "regime": "NEUTRAL",
+  "regime_score": 0.072973,
   "top_candidates": [
     {
-      "news_score": 0.333333,
-      "price": 333.57,
-      "reason": "5d +4.7%; 20d +16.3%; vs SPY +19.5%; RSI 70; volume 0.9x; volatility 32.7%; news +0.33",
-      "relative_strength_20d": 0.195082,
-      "score": 0.742874,
-      "symbol": "HD"
-    },
-    {
-      "news_score": 0.0,
-      "price": 1409.39,
-      "reason": "5d +10.0%; 20d +21.8%; vs SPY +25.0%; RSI 76; volume 0.9x; volatility 36.2%; news +0.00",
-      "relative_strength_20d": 0.249691,
-      "score": 0.724114,
-      "symbol": "LLY"
-    },
-    {
-      "news_score": 0.222222,
-      "price": 124.81,
-      "reason": "5d +4.6%; 20d +16.4%; vs SPY +19.6%; RSI 67; volume 0.9x; volatility 25.1%; news +0.22",
-      "relative_strength_20d": 0.196063,
-      "score": 0.711542,
-      "symbol": "WMT"
-    },
-    {
-      "news_score": 0.0,
-      "price": 647.23,
-      "reason": "5d +6.1%; 20d +14.4%; vs SPY +17.6%; RSI 65; volume 0.7x; volatility 24.5%; news +0.00",
-      "relative_strength_20d": 0.175906,
-      "score": 0.666147,
+      "news_score": 0.666667,
+      "price": 671.71,
+      "reason": "5d +10.0%; 20d +18.0%; vs SPY +19.3%; RSI 72; volume 1.5x; volatility 26.9%; news +0.67",
+      "relative_strength_20d": 0.192664,
+      "score": 0.882919,
       "symbol": "MA"
     },
     {
       "news_score": 0.333333,
-      "price": 184.02,
-      "reason": "5d +2.7%; 20d +10.1%; vs SPY +13.3%; RSI 69; volume 1.4x; volatility 18.6%; news +0.33",
-      "relative_strength_20d": 0.132969,
-      "score": 0.663517,
+      "price": 189.65,
+      "reason": "5d +5.5%; 20d +12.4%; vs SPY +13.6%; RSI 78; volume 1.3x; volatility 20.7%; news +0.33",
+      "relative_strength_20d": 0.136213,
+      "score": 0.838163,
       "symbol": "XLV"
     },
     {
-      "news_score": 0.0,
-      "price": 420.37,
-      "reason": "5d +4.6%; 20d +13.4%; vs SPY +16.6%; RSI 68; volume 0.7x; volatility 21.1%; news +0.00",
-      "relative_strength_20d": 0.165804,
-      "score": 0.655018,
-      "symbol": "V"
-    },
-    {
       "news_score": 0.333333,
-      "price": 1019.35,
-      "reason": "5d +2.9%; 20d +9.1%; vs SPY +12.3%; RSI 63; volume 0.8x; volatility 21.7%; news +0.33",
-      "relative_strength_20d": 0.122548,
-      "score": 0.546981,
-      "symbol": "COST"
-    },
-    {
-      "news_score": 0.333333,
-      "price": 88.96,
-      "reason": "5d +2.1%; 20d +8.8%; vs SPY +12.0%; RSI 58; volume 1.2x; volatility 22.0%; news +0.33",
-      "relative_strength_20d": 0.119774,
-      "score": 0.534738,
+      "price": 92.205,
+      "reason": "5d +6.1%; 20d +12.9%; vs SPY +14.1%; RSI 64; volume 1.5x; volatility 24.6%; news +0.33",
+      "relative_strength_20d": 0.141274,
+      "score": 0.806408,
       "symbol": "XLP"
     },
     {
-      "news_score": 0.333333,
-      "price": 320.705,
-      "reason": "5d +7.7%; 20d +3.6%; vs SPY +6.8%; RSI 55; volume 1.0x; volatility 35.8%; news +0.33",
-      "relative_strength_20d": 0.068316,
-      "score": 0.495444,
-      "symbol": "GE"
+      "news_score": 0.0,
+      "price": 354.37,
+      "reason": "5d +11.5%; 20d +24.0%; vs SPY +25.3%; RSI 77; volume 1.2x; volatility 37.7%; news +0.00",
+      "relative_strength_20d": 0.252921,
+      "score": 0.769999,
+      "symbol": "HD"
+    },
+    {
+      "news_score": 0.0,
+      "price": 1420.885,
+      "reason": "5d +10.1%; 20d +19.6%; vs SPY +20.8%; RSI 77; volume 1.2x; volatility 35.7%; news +0.00",
+      "relative_strength_20d": 0.208423,
+      "score": 0.766739,
+      "symbol": "LLY"
     },
     {
       "news_score": 0.333333,
-      "price": 43.67,
-      "reason": "5d +2.9%; 20d +6.2%; vs SPY +9.4%; RSI 68; volume 0.8x; volatility 16.6%; news +0.33",
-      "relative_strength_20d": 0.094116,
-      "score": 0.495221,
+      "price": 59.005,
+      "reason": "5d +5.1%; 20d +9.8%; vs SPY +11.1%; RSI 73; volume 1.2x; volatility 17.1%; news +0.33",
+      "relative_strength_20d": 0.110563,
+      "score": 0.76193,
+      "symbol": "XLF"
+    },
+    {
+      "news_score": 0.333333,
+      "price": 45.005,
+      "reason": "5d +6.9%; 20d +10.9%; vs SPY +12.2%; RSI 74; volume 0.9x; volatility 18.2%; news +0.33",
+      "relative_strength_20d": 0.122011,
+      "score": 0.740459,
       "symbol": "XLRE"
+    },
+    {
+      "news_score": 0.0,
+      "price": 434.285,
+      "reason": "5d +8.3%; 20d +16.7%; vs SPY +18.0%; RSI 73; volume 1.0x; volatility 23.2%; news +0.00",
+      "relative_strength_20d": 0.180032,
+      "score": 0.730855,
+      "symbol": "V"
+    },
+    {
+      "news_score": 0.111111,
+      "price": 130.56,
+      "reason": "5d +9.9%; 20d +20.8%; vs SPY +22.0%; RSI 73; volume 0.9x; volatility 28.5%; news +0.11",
+      "relative_strength_20d": 0.220241,
+      "score": 0.727484,
+      "symbol": "WMT"
+    },
+    {
+      "news_score": 0.166667,
+      "price": 122.47,
+      "reason": "5d +6.2%; 20d +9.9%; vs SPY +11.2%; RSI 77; volume 1.0x; volatility 21.9%; news +0.17",
+      "relative_strength_20d": 0.112164,
+      "score": 0.718492,
+      "symbol": "XLY"
     }
   ],
   "universe_size": 37
