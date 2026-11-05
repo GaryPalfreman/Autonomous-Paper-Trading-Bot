@@ -1,7 +1,7 @@
 {
-  "version": 4,
-  "buy_threshold": 0.39,
+  "version": 5,
+  "buy_threshold": 0.42000000000000004,
   "sell_threshold": -0.12,
-  "updated_at": "2026-11-04T20:11:15.195206+00:00",
+  "updated_at": "2026-11-05T00:53:33.049733+00:00",
   "explanation": "Raised entry selectivity after 14 exits: win rate 43%, P/L $-15.95."
 }
