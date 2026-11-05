@@ -1,23 +1,14 @@
 {
-  "cash": 197.31633410795968,
+  "cash": 324.1369534613909,
   "created_at": "2026-09-15T00:00:00+00:00",
-  "cycle_count": 36,
+  "cycle_count": 37,
   "high_water_mark": 1028.1334236813466,
   "positions": {
-    "CVX": {
-      "average_price": 225.18753749999996,
-      "entry_reason": "Risk-sized 13.4% position with approximately 1.0% portfolio risk; 5d +4.7%; 20d +10.5%; vs SPY +11.3%; RSI 82; volume 1.1x; volatility 19.5%; news +0.00",
-      "highest_price": 235.64,
-      "last_price": 216.98,
-      "opened_at": "2026-10-19T18:55:32.354688+00:00",
-      "quantity": 0.5889121226433512,
-      "symbol": "CVX"
-    },
     "LLY": {
       "average_price": 1366.18275,
       "entry_reason": "Risk-sized 19.6% position with approximately 1.0% portfolio risk; 5d +4.5%; 20d +18.7%; vs SPY +18.3%; RSI 77; volume 1.3x; volatility 34.5%; news +0.33",
       "highest_price": 1423.125,
-      "last_price": 1418.07,
+      "last_price": 1375.0149999999999,
       "opened_at": "2026-10-29T18:44:31.863032+00:00",
       "quantity": 0.14288744513513593,
       "symbol": "LLY"
@@ -26,7 +17,7 @@
       "average_price": 672.045855,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +10.0%; 20d +18.0%; vs SPY +19.3%; RSI 72; volume 1.5x; volatility 26.9%; news +0.67",
       "highest_price": 672.56,
-      "last_price": 672.56,
+      "last_price": 656.2850000000001,
       "opened_at": "2026-11-04T20:11:15.191694+00:00",
       "quantity": 0.2936641630910318,
       "symbol": "MA"
@@ -35,7 +26,7 @@
       "average_price": 92.25110249999999,
       "entry_reason": "Risk-sized 6.5% position with approximately 1.0% portfolio risk; 5d +6.1%; 20d +12.9%; vs SPY +14.1%; RSI 64; volume 1.5x; volatility 24.6%; news +0.33",
       "highest_price": 92.205,
-      "last_price": 91.96,
+      "last_price": 91.36500000000001,
       "opened_at": "2026-11-04T20:11:15.191885+00:00",
       "quantity": 0.6960913520832962,
       "symbol": "XLP"
@@ -44,13 +35,13 @@
       "average_price": 189.74482499999996,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +5.5%; 20d +12.4%; vs SPY +13.6%; RSI 78; volume 1.3x; volatility 20.7%; news +0.33",
       "highest_price": 189.67,
-      "last_price": 189.67,
+      "last_price": 185.21499999999997,
       "opened_at": "2026-11-04T20:11:15.191804+00:00",
       "quantity": 1.0400075883591184,
       "symbol": "XLV"
     }
   },
-  "realized_pnl": -15.950596365247415,
+  "realized_pnl": -21.745647713770467,
   "starting_cash": 1000.0,
-  "updated_at": "2026-11-05T00:53:33.047601+00:00"
+  "updated_at": "2026-11-05T20:25:28.053387+00:00"
 }

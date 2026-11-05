@@ -1,307 +1,308 @@
 {
   "benchmark_above_20d_average": false,
-  "benchmark_above_50d_average": true,
-  "benchmark_price": 766.9,
+  "benchmark_above_50d_average": false,
+  "benchmark_price": 735.92,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.648649,
+  "breadth_above_20d_average": 0.486486,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-11-05T00:53:33.045759+00:00",
-  "latest_market_timestamp": "2026-11-04T21:58:00.001092326Z",
-  "market_is_open": false,
-  "new_entries_allowed": true,
+  "generated_at": "2026-11-05T20:25:28.049561+00:00",
+  "latest_market_timestamp": "2026-11-05T20:25:23.812057843Z",
+  "market_is_open": true,
+  "new_entries_allowed": false,
   "news_articles_reviewed": 50,
   "next_close": "2026-11-05T16:00:00-05:00",
-  "next_open": "2026-11-05T09:30:00-05:00",
+  "next_open": "2026-11-06T09:30:00-05:00",
   "recent_news": [
     {
-      "created_at": "2026-11-05T00:01:37Z",
-      "headline": "Yumkies Debuts Power Minis at Select Walmart Stores",
+      "created_at": "2026-11-05T20:01:47Z",
+      "headline": "Netflix Integrates ABCmouse Learning Content for Children",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/abcmouse-launches-new-mobile-learning-game-expanding-access-for-families-worldwide-302931176.html"
+    },
+    {
+      "created_at": "2026-11-05T20:01:41Z",
+      "headline": "Mastercard Participates in $15 Million Series A Funding for 'firmly'",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MA"
+      ],
+      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396499/0/en/firmly-raises-15-million-series-a-and-launches-ask-agent-to-help-merchants-more-easily-adopt-agentic-commerce.html"
+    },
+    {
+      "created_at": "2026-11-05T20:01:30Z",
+      "headline": "Scout Clean Energy's Nimbus Wind Farm Achieves Commercial Operations",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396771/0/en/scout-clean-energy-s-nimbus-wind-farm-achieves-commercial-operations-supporting-microsoft-s-clean-energy-portfolio.html"
+    },
+    {
+      "created_at": "2026-11-05T20:01:29Z",
+      "headline": "Senate Democrats Reportedly Planning Probe into JPMorgan Chase's Ties to Jeffrey Epstein",
+      "source": "fiscal.ai",
+      "symbols": [
+        "JPM"
+      ],
+      "url": "https://www.tradingview.com/news/seekingalpha:2ba380dec094b:0-democrats-plan-to-probe-jpmorgan-s-banking-ties-with-epstein-when-in-control-of-congress-cnbc/"
+    },
+    {
+      "created_at": "2026-11-05T19:50:59Z",
+      "headline": "'Rubio Considers Leaving Administration After GOP\u2019s Midterm Loss' - Bloomberg Exclusive",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/11/62945061/rubio-considers-leaving-administration-after-gop-s-midterm-loss-bloomberg-exclusive"
+    },
+    {
+      "created_at": "2026-11-05T19:50:25Z",
+      "headline": "'NVIDIA Has Approached Apollo About Creating A Network Of Small AI Data Centers Potentially Spanning 20 States Across The U.S.' - The Information",
+      "source": "benzinga",
+      "symbols": [
+        "APO",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/62945022/nvidia-has-approached-apollo-about-creating-network-small-ai-data-centers-potentially-spanning-20-st"
+    },
+    {
+      "created_at": "2026-11-05T19:49:46Z",
+      "headline": "'NVIDIA Explores Retrofitting Old Telecom Buildings For AI Data Centers' - The Information",
+      "source": "benzinga",
+      "symbols": [
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/62944990/nvidia-explores-retrofitting-old-telecom-buildings-ai-data-centers-information"
+    },
+    {
+      "created_at": "2026-11-05T19:36:27Z",
+      "headline": "Nvidia Stock Is Now Cheaper Than a Toilet-Paper Company, Data Shows",
+      "source": "benzinga",
+      "symbols": [
+        "BG",
+        "CHD",
+        "CL",
+        "COST",
+        "GIS",
+        "KHC",
+        "KMB",
+        "KO",
+        "KR",
+        "NVDA",
+        "PEP",
+        "PG",
+        "SMH",
+        "WMT",
+        "XLP"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/11/62944321/nvidia-stock-cheaper-than-toilet-paper-company-kimberly-clark-forward-pe"
+    },
+    {
+      "created_at": "2026-11-05T19:20:02Z",
+      "headline": "Google Says Fuel Cells For Wyoming Project Will Be Made In America By Bloom Energy",
+      "source": "benzinga",
+      "symbols": [
+        "BE",
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/62943516/google-says-fuel-cells-wyoming-project-will-be-made-america-bloom-energy"
+    },
+    {
+      "created_at": "2026-11-05T19:13:37Z",
+      "headline": "SanDisk Leads Memory Stocks Lower: A Look Inside the Rout",
+      "source": "benzinga",
+      "symbols": [
+        "AMD",
+        "MU",
+        "NVDA",
+        "SKHY",
+        "SNDK",
+        "STX",
+        "WDC"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/11/62943088/sandisk-leads-memory-stocks-lower-a-look-inside-the-rout"
+    },
+    {
+      "created_at": "2026-11-05T19:10:56Z",
+      "headline": "'Google Plans to Spend $17 Billion on Wyoming Data Center' - Bloomberg News",
+      "source": "benzinga",
+      "symbols": [
+        "GOOG",
+        "GOOGL"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/62942972/google-plans-spend-17-billion-wyoming-data-center-bloomberg-news"
+    },
+    {
+      "created_at": "2026-11-05T19:08:51Z",
+      "headline": "'GTA 6' Preorder Sales Hit $751 Million 2 Weeks Ahead of Release. Are Investors Ignoring Take-Two Stock Opportunity?",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT",
+        "SONY",
+        "TTWO"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/62942816/gta-6-preorder-sales-hit-751-million-2-weeks-ahead-of-release-are-investors-ignoring-take-two-stock-opportunity"
+    },
+    {
+      "created_at": "2026-11-05T19:02:55Z",
+      "headline": "BofA Securities Raises Eli Lilly Price Target",
+      "source": "fiscal.ai",
+      "symbols": [
+        "LLY"
+      ],
+      "url": "https://www.marketscreener.com/news/bofa-securities-adjusts-eli-lilly-price-target-to-1-557-from-1-497-ce785fdcd08ff024"
+    },
+    {
+      "created_at": "2026-11-05T19:01:58Z",
+      "headline": "MILESEEY Tools Expands U.S. Retail Presence at The Home Depot",
+      "source": "fiscal.ai",
+      "symbols": [
+        "HD"
+      ],
+      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396747/0/en/mileseey-expands-u-s-retail-presence-with-professional-green-laser-measurement-at-the-home-depot-stores.html"
+    },
+    {
+      "created_at": "2026-11-05T19:01:57Z",
+      "headline": "Visa Launches Agentic Commerce Benchmark for AI Shopping Models",
+      "source": "fiscal.ai",
+      "symbols": [
+        "V"
+      ],
+      "url": "https://investingnews.com/visa-releases-first-of-its-kind-industry-benchmark-for-ai-shopping-almost-half-of-test-runs-fail/"
+    },
+    {
+      "created_at": "2026-11-05T19:01:52Z",
+      "headline": "Walmart and Zipline Expand Drone Delivery Partnership",
       "source": "fiscal.ai",
       "symbols": [
         "WMT"
       ],
-      "url": "https://startupcpg.com/startup-cpg-newswire-yumkies-launches-at-walmart-with-three-better-for-you-cookie-offerings/"
+      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396242/0/en/zipline-raises-1-5-billion-to-build-nationwide-drone-delivery-network.html"
     },
     {
-      "created_at": "2026-11-04T22:31:47Z",
-      "headline": "Chevron President of New Energies Sells Shares",
-      "source": "fiscal.ai",
-      "symbols": [
-        "CVX"
-      ],
-      "url": "https://www.tradingview.com/news/tradingview:720eb82d4fac5:0-chevron-president-new-energies-sold-shares-worth-over-5-6m/"
-    },
-    {
-      "created_at": "2026-11-04T22:31:47Z",
-      "headline": "EnerMech Secures Contract for Chevron's Aseng Gas Development",
-      "source": "fiscal.ai",
-      "symbols": [
-        "CVX"
-      ],
-      "url": "https://www.newsnow.co.uk/h/Industry+Sectors/Energy+and+Utilities/Oil+and+Gas/Chevron"
-    },
-    {
-      "created_at": "2026-11-04T22:31:47Z",
-      "headline": "Chevron CEO Warns of Depleted Oil Buffers and Potential Price Increases",
-      "source": "fiscal.ai",
-      "symbols": [
-        "CVX"
-      ],
-      "url": "https://energynow.ca/2026/09/chevron-ceo-says-depleted-crude-oil-buffers-could-lead-to-higher-prices/"
-    },
-    {
-      "created_at": "2026-11-04T22:31:45Z",
-      "headline": "Meta Platforms Prices $15 Billion USD Bond Offering",
-      "source": "fiscal.ai",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.tradingview.com/news/gurufocus:36533a7da094b:0-meta-stocks-rise-1-77-while-15-billion-bond-deal-adds-a-cash-hurdle/"
-    },
-    {
-      "created_at": "2026-11-04T22:31:39Z",
-      "headline": "Microsoft Updates Clarity Analytics Tool with AI Agent Tracking Features",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MSFT"
-      ],
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-clarity-helps-merchants-welcome-ai-shopping-agents/"
-    },
-    {
-      "created_at": "2026-11-04T21:50:40Z",
-      "headline": "Costco Wholesale Reported Net Sales Of $24.50B For The Retail Month Of October, An Increase Of 12.6 Percent From $21.75B Last Year; Net Sales For The First Nine Weeks Were $54.52B, An Increase Of 12.8 Percent From $48.33B Last Year",
-      "source": "benzinga",
-      "symbols": [
-        "COST"
-      ],
-      "url": "https://www.benzinga.com/quote/COST"
-    },
-    {
-      "created_at": "2026-11-04T21:34:55Z",
-      "headline": "Arm-based PCs Have Now Reached ~20% Of Global Shipments, Reflecting Growing Adoption Of Arm In Personal Computing. Google Introduced GoogleBook, A New Category Of AI-Native Laptops Built For Gemini Intelligence, With Arm Serving As A Primary Compute Platform For Many Models. NVIDIA\u2019s RTX Spark, Built On Arm, Further Expands Our Reach Into Local AI, Content Creation And Gaming",
-      "source": "benzinga",
-      "symbols": [
-        "ARM",
-        "GOOG",
-        "GOOGL",
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/quote/NVDA"
-    },
-    {
-      "created_at": "2026-11-04T21:31:40Z",
-      "headline": "Fermaca Named First NVIDIA Cloud Partner in Mexico",
+      "created_at": "2026-11-05T19:01:45Z",
+      "headline": "NVIDIA Faces Logistics and Regulatory Challenges for H200 Chips in China",
       "source": "fiscal.ai",
       "symbols": [
         "NVDA"
       ],
-      "url": "https://www.prnewswire.com/news-releases/fermaca-unveils-nvidia-powered-ai-factory-platform-to-power-mexico-and-latin-america-302929673.html"
+      "url": "https://www.tradingview.com/news/gurufocus:88ae4b9a6094b:0-nvidia-faces-600-000-chip-china-bottleneck/"
     },
     {
-      "created_at": "2026-11-04T21:31:37Z",
-      "headline": "Costco Wholesale Corporation Reports October 2026 Sales Results",
-      "source": "fiscal.ai",
-      "symbols": [
-        "COST"
-      ],
-      "url": "https://investor.costco.com/news/news-details/2026/Costco-Wholesale-Corporation-Reports-October-Sales-Results/default.aspx"
-    },
-    {
-      "created_at": "2026-11-04T21:16:41Z",
-      "headline": "Citigroup Maintains Neutral on ExxonMobil Holdings, Raises Price Target to $175",
-      "source": "benzinga",
-      "symbols": [
-        "XOM"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/62890472/citigroup-maintains-neutral-exxonmobil-holdings-raises-price-target-175"
-    },
-    {
-      "created_at": "2026-11-04T20:53:11Z",
-      "headline": "QUICK SPARK: Trump Celebrates Stock Rally Fueled by His Own Party\u2019s Midterm Defeat",
-      "source": "benzinga",
-      "symbols": [
-        "DIA",
-        "DJT",
-        "QQQ",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/markets/equities/26/11/62886507/trump-celebrates-stock-rally-fueled-by-his-own-partys-midterm-defeat"
-    },
-    {
-      "created_at": "2026-11-04T20:27:55Z",
-      "headline": "VTI Vs. SPY: Why Wall Street's Post-Midterm Rally Isn't as Broad as It Looks",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "MSFT",
-        "NVDA",
-        "SPY",
-        "TSLA",
-        "VTI"
-      ],
-      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/11/62885449/vti-vs-spy-why-wall-streets-post-midterm-rally-isnt-as-broad-as-it-looks"
-    },
-    {
-      "created_at": "2026-11-04T20:20:49Z",
-      "headline": "From Pharmaceuticals to PCs: HP Bets on Emma Walmsley to Navigate Chip Crisis",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "DELL",
-        "GSK",
-        "HPQ",
-        "LNVGY",
-        "MSFT"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/62885199/from-pharmaceuticals-to-pcs-hp-bets-on-emma-walmsley-to-navigate-chip-crisis"
-    },
-    {
-      "created_at": "2026-11-04T20:02:11Z",
-      "headline": "Meta Platforms Acquires AI Coding Startup Conductor",
+      "created_at": "2026-11-05T19:01:43Z",
+      "headline": "Meta, Google, and TikTok Sue to Block California Youth Social Media Law",
       "source": "fiscal.ai",
       "symbols": [
         "META"
       ],
-      "url": "https://www.marketscreener.com/news/meta-platforms-acquires-ai-coding-startup-conductor-ce785fdfde8bf325"
+      "url": "https://www.tradingview.com/news/seekingalpha:51f9438f3094b:0-meta-google-and-tiktok-sue-california-over-youth-social-media-law/"
     },
     {
-      "created_at": "2026-11-04T19:59:53Z",
-      "headline": "'Trump diesel deal with Russia falters as US fuel supplies hit 20-year low' - Financial Times",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "VGK"
-      ],
-      "url": "https://www.benzinga.com/government/26/11/62884154/trump-diesel-deal-russia-falters-us-fuel-supplies-hit-20-year-low-financial-times"
-    },
-    {
-      "created_at": "2026-11-04T19:50:43Z",
-      "headline": "'Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending' - Bloomberg Exclusive",
+      "created_at": "2026-11-05T18:42:24Z",
+      "headline": "'Apple Draws $31 Billion of Orders for High-Grade Bond Sale' - Bloomberg",
       "source": "benzinga",
       "symbols": [
         "AAPL"
       ],
-      "url": "https://www.benzinga.com/news/26/11/62883916/apple-cuts-internal-ai-usage-budgets-move-reduce-spending-bloomberg-exclusive"
+      "url": "https://www.benzinga.com/news/26/11/62941594/apple-draws-31-billion-orders-high-grade-bond-sale-bloomberg"
     },
     {
-      "created_at": "2026-11-04T19:49:30Z",
-      "headline": "QUICK SPARK: Dow Jones Index Eyes Best Rally Since Trump's Tariff Truce",
+      "created_at": "2026-11-05T18:42:08Z",
+      "headline": "Jim Cramer Says Nvidia Should Buy Shares on Thursday\u2019s 8% Drop: \u2018If the Cheapest Asset is Your Stock, You Should Buy It\u2019",
       "source": "benzinga",
       "symbols": [
-        "DIA"
+        "NVDA"
       ],
-      "url": "https://www.benzinga.com/markets/market-summary/26/11/62883877/dow-jones-best-rally-since-trump-tariff-truce-midterms"
-    },
-    {
-      "created_at": "2026-11-04T19:34:09Z",
-      "headline": "Apple, Tesla Supplier Is Taking on 3M: Here's What Investors Should Know",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "BYDDF",
-        "BYDDY",
-        "GOOG",
-        "GOOGL",
-        "MMM",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/62883254/crown-new-materials-3m"
-    },
-    {
-      "created_at": "2026-11-04T19:20:44Z",
-      "headline": "TD Cowen Maintains Buy on ExxonMobil Holdings, Raises Price Target to $193",
-      "source": "benzinga",
-      "symbols": [
-        "XOM"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/62882687/td-cowen-maintains-buy-exxonmobil-holdings-raises-price-target-193"
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/62941579/jim-cramer-says-nvidia-should-buy-shares-on-thursdays-8-drop-if-the-cheapest-asset-is-your-stock-you-should-buy-it"
     }
   ],
-  "regime": "NEUTRAL",
-  "regime_score": 0.089189,
+  "regime": "DEFENSIVE",
+  "regime_score": -0.708108,
   "top_candidates": [
     {
-      "news_score": 0.666667,
-      "price": 672.56,
-      "reason": "5d +10.1%; 20d +18.1%; vs SPY +19.5%; RSI 72; volume 1.8x; volatility 27.0%; news +0.67",
-      "relative_strength_20d": 0.194653,
-      "score": 0.92302,
-      "symbol": "MA"
+      "news_score": 0.333333,
+      "price": 128.31,
+      "reason": "5d +5.8%; 20d +16.0%; vs SPY +20.9%; RSI 69; volume 1.6x; volatility 27.0%; news +0.33",
+      "relative_strength_20d": 0.209283,
+      "score": 0.842788,
+      "symbol": "WMT"
     },
     {
-      "news_score": 0.0,
-      "price": 355.42,
-      "reason": "5d +11.8%; 20d +24.4%; vs SPY +25.7%; RSI 78; volume 1.7x; volatility 38.3%; news +0.00",
-      "relative_strength_20d": 0.257091,
-      "score": 0.839972,
+      "news_score": 0.083333,
+      "price": 1063.555,
+      "reason": "5d +7.0%; 20d +12.4%; vs SPY +17.3%; RSI 68; volume 1.7x; volatility 23.4%; news +0.08",
+      "relative_strength_20d": 0.172984,
+      "score": 0.818658,
+      "symbol": "COST"
+    },
+    {
+      "news_score": 0.333333,
+      "price": 350.63,
+      "reason": "5d +6.6%; 20d +18.7%; vs SPY +23.6%; RSI 73; volume 1.1x; volatility 38.2%; news +0.33",
+      "relative_strength_20d": 0.235737,
+      "score": 0.793049,
       "symbol": "HD"
     },
     {
-      "news_score": 0.0,
-      "price": 189.67,
-      "reason": "5d +5.5%; 20d +12.4%; vs SPY +13.7%; RSI 78; volume 1.6x; volatility 20.7%; news +0.00",
-      "relative_strength_20d": 0.136827,
-      "score": 0.823065,
-      "symbol": "XLV"
-    },
-    {
-      "news_score": 0.0,
-      "price": 1418.07,
-      "reason": "5d +9.9%; 20d +19.3%; vs SPY +20.7%; RSI 77; volume 1.5x; volatility 35.7%; news +0.00",
-      "relative_strength_20d": 0.206549,
-      "score": 0.805035,
-      "symbol": "LLY"
-    },
-    {
-      "news_score": 0.0,
-      "price": 91.96,
-      "reason": "5d +5.9%; 20d +12.6%; vs SPY +13.9%; RSI 63; volume 1.7x; volatility 24.2%; news +0.00",
-      "relative_strength_20d": 0.138771,
-      "score": 0.786028,
-      "symbol": "XLP"
-    },
-    {
-      "news_score": 0.0,
-      "price": 436.655,
-      "reason": "5d +8.9%; 20d +17.4%; vs SPY +18.7%; RSI 74; volume 1.4x; volatility 24.0%; news +0.00",
-      "relative_strength_20d": 0.186898,
-      "score": 0.779735,
+      "news_score": 0.222222,
+      "price": 424.615,
+      "reason": "5d +3.4%; 20d +13.2%; vs SPY +18.1%; RSI 63; volume 2.4x; volatility 27.1%; news +0.22",
+      "relative_strength_20d": 0.181147,
+      "score": 0.747971,
       "symbol": "V"
     },
     {
+      "news_score": 0.111111,
+      "price": 91.365,
+      "reason": "5d +3.6%; 20d +9.6%; vs SPY +14.5%; RSI 62; volume 1.5x; volatility 24.0%; news +0.11",
+      "relative_strength_20d": 0.144687,
+      "score": 0.662265,
+      "symbol": "XLP"
+    },
+    {
+      "news_score": 0.333333,
+      "price": 44.255,
+      "reason": "5d +2.8%; 20d +8.4%; vs SPY +13.3%; RSI 71; volume 1.5x; volatility 20.4%; news +0.33",
+      "relative_strength_20d": 0.132671,
+      "score": 0.646668,
+      "symbol": "XLRE"
+    },
+    {
       "news_score": 0.0,
-      "price": 59.25,
-      "reason": "5d +5.6%; 20d +10.2%; vs SPY +11.6%; RSI 74; volume 1.6x; volatility 17.8%; news +0.00",
-      "relative_strength_20d": 0.115617,
-      "score": 0.772941,
+      "price": 656.285,
+      "reason": "5d +3.2%; 20d +14.4%; vs SPY +19.3%; RSI 64; volume 1.1x; volatility 29.4%; news +0.00",
+      "relative_strength_20d": 0.192684,
+      "score": 0.625137,
+      "symbol": "MA"
+    },
+    {
+      "news_score": 0.166667,
+      "price": 185.215,
+      "reason": "5d +0.6%; 20d +10.2%; vs SPY +15.1%; RSI 68; volume 1.9x; volatility 23.1%; news +0.17",
+      "relative_strength_20d": 0.150669,
+      "score": 0.578157,
+      "symbol": "XLV"
+    },
+    {
+      "news_score": 0.333333,
+      "price": 57.605,
+      "reason": "5d +1.2%; 20d +6.2%; vs SPY +11.1%; RSI 64; volume 1.8x; volatility 20.8%; news +0.33",
+      "relative_strength_20d": 0.111189,
+      "score": 0.535106,
       "symbol": "XLF"
     },
     {
       "news_score": 0.0,
-      "price": 122.3,
-      "reason": "5d +6.1%; 20d +9.8%; vs SPY +11.1%; RSI 77; volume 1.5x; volatility 21.6%; news +0.00",
-      "relative_strength_20d": 0.111133,
-      "score": 0.758346,
-      "symbol": "XLY"
-    },
-    {
-      "news_score": 0.0,
-      "price": 129.23,
-      "reason": "5d +8.7%; 20d +19.5%; vs SPY +20.8%; RSI 72; volume 1.2x; volatility 26.9%; news +0.00",
-      "relative_strength_20d": 0.208435,
-      "score": 0.75344,
-      "symbol": "WMT"
-    },
-    {
-      "news_score": 0.0,
-      "price": 45.1,
-      "reason": "5d +7.1%; 20d +11.2%; vs SPY +12.5%; RSI 75; volume 1.2x; volatility 18.5%; news +0.00",
-      "relative_strength_20d": 0.124848,
-      "score": 0.747344,
-      "symbol": "XLRE"
+      "price": 1375.015,
+      "reason": "5d +0.1%; 20d +17.6%; vs SPY +22.5%; RSI 70; volume 1.3x; volatility 37.4%; news +0.00",
+      "relative_strength_20d": 0.22467,
+      "score": 0.516921,
+      "symbol": "LLY"
     }
   ],
   "universe_size": 37
