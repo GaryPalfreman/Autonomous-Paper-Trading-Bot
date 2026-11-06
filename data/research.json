@@ -1,19 +1,175 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": false,
-  "benchmark_price": 737.525,
+  "benchmark_price": 736.07,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.405405,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-11-06T19:46:21.963405+00:00",
-  "latest_market_timestamp": "2026-11-06T19:46:17.254887014Z",
-  "market_is_open": true,
+  "generated_at": "2026-11-06T23:53:23.685742+00:00",
+  "latest_market_timestamp": "2026-11-06T21:59:06.081558399Z",
+  "market_is_open": false,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
-  "next_close": "2026-11-06T16:00:00-05:00",
+  "next_close": "2026-11-09T16:00:00-05:00",
   "next_open": "2026-11-09T09:30:00-05:00",
   "recent_news": [
+    {
+      "created_at": "2026-11-06T21:31:39Z",
+      "headline": "JPMorgan Chase & Co. Files Major Holdings Notification for Adtran Networks SE",
+      "source": "fiscal.ai",
+      "symbols": [
+        "JPM"
+      ],
+      "url": "https://www.placera.se/pressmeddelanden/adtran-networks-adtran-networks-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-20261106"
+    },
+    {
+      "created_at": "2026-11-06T21:31:33Z",
+      "headline": "Meta Expands Muse Personal AI Agent Capabilities",
+      "source": "fiscal.ai",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.forbesmiddleeast.com/innovation/artificial-intelligence-machine-learning/meta-lets-muse-users-build-custom-spaces-for-planners-trackers-and-games"
+    },
+    {
+      "created_at": "2026-11-06T21:31:32Z",
+      "headline": "Microsoft to Wind Down AI Computing Rental Agreement with Oracle",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.fidelity.com/news/article/company-news/202611061346MIDNIGHTUSEQUITY_A3748788"
+    },
+    {
+      "created_at": "2026-11-06T21:31:32Z",
+      "headline": "Microsoft Expands Copilot for Finance with New Skills and Partner Plugins",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://cloudwars.com/ai/microsoft-is-building-copilot-for-finance-with-new-skills-and-industry-specific-plugins/"
+    },
+    {
+      "created_at": "2026-11-06T21:31:30Z",
+      "headline": "UBS Reports Declining iPhone Wait Times",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://www.moomoo.com/news/post/1003849998/apple-iphone-wait-times-ease-while-duo-availability-still-in"
+    },
+    {
+      "created_at": "2026-11-06T21:01:33Z",
+      "headline": "'OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value' - Bloomberg News",
+      "source": "benzinga",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/63012491/openai-completes-11-billion-portion-funding-1-25-trillion-value-bloomberg-news"
+    },
+    {
+      "created_at": "2026-11-06T21:00:07Z",
+      "headline": "Nasdaq 100 Has Worst Day Since 2020, Jobs Beat Keeps Fed Hike Alive: This Week on Wall Street",
+      "source": "benzinga",
+      "symbols": [
+        "AMAT",
+        "AMZN",
+        "BKNG",
+        "CRWV",
+        "CSCO",
+        "DELL",
+        "F",
+        "GM",
+        "INTC",
+        "LOW",
+        "LRCX",
+        "MCD",
+        "MU",
+        "NVDA",
+        "QQQ",
+        "SMH",
+        "SNDK"
+      ],
+      "url": "https://www.benzinga.com/markets/market-summary/26/11/63012338/nasdaq-100-worst-day-since-2020-midterm-sweep-ai-selloff-jobs-fed-this-week-on-wall-street"
+    },
+    {
+      "created_at": "2026-11-06T20:44:36Z",
+      "headline": "Oracle\u2019s AI Trouble Is Wall Street\u2019s New Headache: 2 ETFs to Watch as Data Center Fears Grow",
+      "source": "benzinga",
+      "symbols": [
+        "AMT",
+        "AMZN",
+        "ANET",
+        "DLR",
+        "EQIX",
+        "GOOGL",
+        "MSFT",
+        "ORCL",
+        "SKYY",
+        "SRVR"
+      ],
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63011202/oracles-ai-trouble-is-wall-street-headache-2-etfs-to-watch"
+    },
+    {
+      "created_at": "2026-11-06T18:03:52Z",
+      "headline": "U.S. Baker Hughes Oil Rig Count +1 To 463; U.S. Baker Hughes NatGas Rig Count +1 To 131; U.S. Baker Hughes Total Rig Count 604 Vs 603 Prior",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "UNG",
+        "USO"
+      ],
+      "url": "https://www.benzinga.com/quote/UNG"
+    },
+    {
+      "created_at": "2026-11-06T20:30:07Z",
+      "headline": "Nvidia Is Reportedly Pouring Billions Into AI's Next Big Bottleneck: Advanced Chip Packaging",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "AMAT",
+        "ASX",
+        "NVDA",
+        "TSM"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63010319/nvidia-chip-packaging"
+    },
+    {
+      "created_at": "2026-11-06T20:28:48Z",
+      "headline": "Jason Calacanis Is Buying These 8 Stocks After the Midterm Selloff: 'Markets Top Tick and Set New Records'",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "SHOP",
+        "SPCX",
+        "TSLA",
+        "UBER"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63010237/jason-calacanis-is-buying-these-8-stocks-after-the-midterm-selloff-markets-top-tick-and-set-new-records"
+    },
+    {
+      "created_at": "2026-11-06T20:02:39Z",
+      "headline": "Protesters Occupy Microsoft Data Center Construction Site in Amsterdam",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.barchart.com/story/news/8702992/protesters-break-into-microsoft-data-center-site-in-amsterdam-as-europes-backlash-spreads"
+    },
+    {
+      "created_at": "2026-11-06T20:01:41Z",
+      "headline": "JPMorgan Chase & Co. Files Major Holdings Notification for Delivery Hero SE",
+      "source": "fiscal.ai",
+      "symbols": [
+        "JPM"
+      ],
+      "url": "https://www.tradingview.com/news/tradingview:e5f550686c362:0-delivery-hero-se-dher-reports-jpmorgan-chase-voting-rights-threshold-event/"
+    },
     {
       "created_at": "2026-11-06T19:35:50Z",
       "headline": "Elon Musk Pardon Request Hits Change.org with Tesla Influencer Sharing: What Investors Should Know",
@@ -80,237 +236,90 @@
         "SPY"
       ],
       "url": "https://www.benzinga.com/economics/macro-economic-events/26/11/63004366/president-trump-posts-truth-social-i-am-pleased-announce-mr-stephen-miller-current-deputy-chief-staf"
-    },
-    {
-      "created_at": "2026-11-06T18:45:10Z",
-      "headline": "Oracle Stock Slides as Microsoft Reportedly Pulls Back From AI Computing Deal",
-      "source": "benzinga",
-      "symbols": [
-        "MSFT",
-        "ORCL"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63003689/oracle-stock-slides-as-microsoft-reportedly-pulls-back-from-ai-computing-deal"
-    },
-    {
-      "created_at": "2026-11-06T18:25:32Z",
-      "headline": "AI Stocks Got Hammered After Midterms, but This Analyst Says the Panic Is Overblown",
-      "source": "benzinga",
-      "symbols": [
-        "AMZN",
-        "ANET",
-        "CIEN",
-        "CIFR",
-        "CRWV",
-        "DLR",
-        "EQIX",
-        "ETN",
-        "FRMI",
-        "GEV",
-        "GLXY",
-        "HUT",
-        "IREN",
-        "MARA",
-        "META",
-        "MSFT",
-        "NBIS",
-        "ORCL",
-        "PWR",
-        "RIOT",
-        "SAP",
-        "SLNH",
-        "VRT",
-        "WULF"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/11/63002288/ai-stocks-got-hammered-after-midterms-but-this-analyst-says-the-panic-is-overblown"
-    },
-    {
-      "created_at": "2026-11-06T18:22:22Z",
-      "headline": "\"White House Weighs Executive Order Attaching Terrorist Label To Some Nonprofits; The Order, Which Hasn\u2019t Been Finalized, Would Immediately Suspend Groups\u2019 Tax-Exempt Status\" - WSJ Exclusive",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/11/63002103/white-house-weighs-executive-order-attaching-terrorist-label-some-nonprofits-order-which-hasn-t-been"
-    },
-    {
-      "created_at": "2026-11-06T18:15:46Z",
-      "headline": "OpenAI Announces Partnering With Hacktron To Find Vulnerabilities In OpenAI\u2019s Systems",
-      "source": "benzinga",
-      "symbols": [
-        "MSFT"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/63001596/openai-announces-partnering-hacktron-find-vulnerabilities-openai-s-systems"
-    },
-    {
-      "created_at": "2026-11-06T18:14:10Z",
-      "headline": "Live On CNBC, Fed's Daly Says When You Step Back From 'painful' Volatility, This Is The Kind Of Rebalancing That You Would Hope For",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/quote/SPY"
-    },
-    {
-      "created_at": "2026-11-06T18:13:37Z",
-      "headline": "GOP Rep Massie Plans Articles Of Impeachment Against Secretary Of Defense Pete Hegseth",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/11/63001439/gop-rep-massie-plans-articles-impeachment-against-secretary-defense-pete-hegseth"
-    },
-    {
-      "created_at": "2026-11-06T18:12:43Z",
-      "headline": "Meta Introduces Spaces Feature In Muse App",
-      "source": "benzinga",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/63001345/meta-introduces-spaces-feature-muse-app"
-    },
-    {
-      "created_at": "2026-11-06T18:11:50Z",
-      "headline": "AI Stocks Could Fall Further Despite Surging GPU Demand, Research Firm Warns",
-      "source": "benzinga",
-      "symbols": [
-        "AMD",
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63001253/ai-stocks-gpu-demand"
-    },
-    {
-      "created_at": "2026-11-06T18:08:39Z",
-      "headline": "Unity Software Just Did Something It Hasn't Done Since Its IPO \u2014 and Wall Street Wants More",
-      "source": "benzinga",
-      "symbols": [
-        "GOOG",
-        "GOOGL",
-        "META",
-        "U"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/11/63000883/unity-software-just-did-something-it-hasnt-done-since-its-ipo-and-wall-street-wants-more"
-    },
-    {
-      "created_at": "2026-11-06T18:09:18Z",
-      "headline": "Live On CNBC, Fed's Daly Says Businesses Want Inflation To Come Down; Businesses Cautiously Optimistic About Outlook",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/quote/SPY"
-    },
-    {
-      "created_at": "2026-11-06T18:08:51Z",
-      "headline": "Live On CNBC, Fed's Daly Says Uncertainty On Tariffs, War, AI, But Inflation Is More Stubborn Than Would Like; Will Have To Tighten Policy Further; How Much More Tightening And When, Need More Information; Need To Be Deliberate; Prepared To Raise Rates If Its Called For; AI Repricing Trade Has Been Orderly So Far; If AI Repricing Signals Slowing Of Demand Might See Growth Come Down A Little; Not Worried Of Substantial Decline In Growth",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/quote/SPY"
-    },
-    {
-      "created_at": "2026-11-06T18:07:55Z",
-      "headline": "Live On CNBC, Fed's Daly Says Job Report Good News; Wage Growth Isn't Booming; Real Wages Are Falling; Feel Hopeful When Think About American Workforce; On Inflation, Would Like Confidence To Be Higher; High Inflation For Too Long; Inflation Has To Be Number 1 Priority; Strong Labor Market Gives Fed Latitude To Get Job Done On Inflation; Sept Rate Hike Was Right Move, Also Good To Be On Hold At Last Meeting",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/quote/SPY"
-    },
-    {
-      "created_at": "2026-11-06T18:03:52Z",
-      "headline": "U.S. Baker Hughes Oil Rig Count +1 To 463; U.S. Baker Hughes NatGas Rig Count +1 To 131; U.S. Baker Hughes Total Rig Count 605 Vs 603 Prior",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "UNG",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/quote/USO"
     }
   ],
   "regime": "DEFENSIVE",
   "regime_score": -0.756757,
   "top_candidates": [
     {
-      "news_score": 0.333333,
-      "price": 1056.05,
-      "reason": "5d +4.3%; 20d +11.7%; vs SPY +17.0%; RSI 66; volume 0.5x; volatility 24.1%; news +0.33",
-      "relative_strength_20d": 0.169769,
-      "score": 0.649179,
+      "news_score": 0.0,
+      "price": 343.43,
+      "reason": "5d +4.3%; 20d +18.1%; vs SPY +23.6%; RSI 66; volume 1.2x; volatility 38.6%; news +0.00",
+      "relative_strength_20d": 0.235721,
+      "score": 0.698963,
+      "symbol": "HD"
+    },
+    {
+      "news_score": 0.0,
+      "price": 1053.46,
+      "reason": "5d +4.0%; 20d +11.4%; vs SPY +16.9%; RSI 65; volume 0.7x; volatility 24.3%; news +0.00",
+      "relative_strength_20d": 0.168898,
+      "score": 0.602835,
       "symbol": "COST"
     },
     {
       "news_score": 0.0,
-      "price": 343.07,
-      "reason": "5d +4.2%; 20d +18.0%; vs SPY +23.3%; RSI 66; volume 0.9x; volatility 38.7%; news +0.00",
-      "relative_strength_20d": 0.232614,
-      "score": 0.645987,
-      "symbol": "HD"
-    },
-    {
-      "news_score": 0.333333,
-      "price": 125.425,
-      "reason": "5d +1.6%; 20d +12.6%; vs SPY +17.9%; RSI 64; volume 0.9x; volatility 28.7%; news +0.33",
-      "relative_strength_20d": 0.178948,
-      "score": 0.564513,
+      "price": 125.475,
+      "reason": "5d +1.6%; 20d +12.7%; vs SPY +18.1%; RSI 64; volume 1.2x; volatility 28.8%; news +0.00",
+      "relative_strength_20d": 0.181265,
+      "score": 0.552536,
       "symbol": "WMT"
     },
     {
       "news_score": 0.333333,
-      "price": 322.6,
-      "reason": "5d +6.9%; 20d +4.7%; vs SPY +9.9%; RSI 61; volume 0.5x; volatility 40.9%; news +0.33",
-      "relative_strength_20d": 0.099199,
-      "score": 0.517261,
+      "price": 323.3,
+      "reason": "5d +7.1%; 20d +4.9%; vs SPY +10.3%; RSI 61; volume 0.7x; volatility 40.9%; news +0.33",
+      "relative_strength_20d": 0.103338,
+      "score": 0.550172,
       "symbol": "GE"
     },
     {
       "news_score": 0.0,
-      "price": 655.77,
-      "reason": "5d +2.8%; 20d +11.3%; vs SPY +16.6%; RSI 63; volume 0.5x; volatility 28.7%; news +0.00",
-      "relative_strength_20d": 0.165676,
-      "score": 0.498276,
+      "price": 422.67,
+      "reason": "5d +2.2%; 20d +9.6%; vs SPY +15.1%; RSI 60; volume 1.0x; volatility 26.9%; news +0.00",
+      "relative_strength_20d": 0.151006,
+      "score": 0.493368,
+      "symbol": "V"
+    },
+    {
+      "news_score": 0.0,
+      "price": 652.87,
+      "reason": "5d +2.3%; 20d +10.8%; vs SPY +16.3%; RSI 62; volume 0.7x; volatility 28.8%; news +0.00",
+      "relative_strength_20d": 0.162623,
+      "score": 0.487107,
       "symbol": "MA"
     },
     {
       "news_score": 0.0,
-      "price": 423.355,
-      "reason": "5d +2.4%; 20d +9.8%; vs SPY +15.1%; RSI 60; volume 0.8x; volatility 26.9%; news +0.00",
-      "relative_strength_20d": 0.150914,
-      "score": 0.48167,
-      "symbol": "V"
-    },
-    {
-      "news_score": 0.333333,
-      "price": 44.025,
-      "reason": "5d +2.0%; 20d +5.8%; vs SPY +11.1%; RSI 64; volume 0.9x; volatility 19.8%; news +0.33",
-      "relative_strength_20d": 0.110684,
-      "score": 0.45993,
+      "price": 43.99,
+      "reason": "5d +1.9%; 20d +5.7%; vs SPY +11.2%; RSI 64; volume 1.2x; volatility 19.8%; news +0.00",
+      "relative_strength_20d": 0.111712,
+      "score": 0.437498,
       "symbol": "XLRE"
     },
     {
-      "news_score": 0.166667,
-      "price": 90.31,
-      "reason": "5d +1.0%; 20d +8.2%; vs SPY +13.5%; RSI 57; volume 1.1x; volatility 24.6%; news +0.17",
-      "relative_strength_20d": 0.13511,
-      "score": 0.436222,
+      "news_score": 0.0,
+      "price": 90.09,
+      "reason": "5d +0.7%; 20d +8.0%; vs SPY +13.4%; RSI 57; volume 1.4x; volatility 24.8%; news +0.00",
+      "relative_strength_20d": 0.134342,
+      "score": 0.435528,
       "symbol": "XLP"
     },
     {
-      "news_score": 0.333333,
-      "price": 118.17,
-      "reason": "5d +2.4%; 20d +4.7%; vs SPY +10.0%; RSI 57; volume 0.6x; volatility 26.3%; news +0.33",
-      "relative_strength_20d": 0.099602,
-      "score": 0.388916,
-      "symbol": "XLY"
+      "news_score": 0.0,
+      "price": 184.82,
+      "reason": "5d -0.0%; 20d +8.2%; vs SPY +13.7%; RSI 61; volume 0.9x; volatility 22.9%; news +0.00",
+      "relative_strength_20d": 0.136599,
+      "score": 0.343107,
+      "symbol": "XLV"
     },
     {
-      "news_score": 0.333333,
-      "price": 57.385,
-      "reason": "5d +1.5%; 20d +4.9%; vs SPY +10.1%; RSI 60; volume 0.7x; volatility 21.1%; news +0.33",
-      "relative_strength_20d": 0.101156,
-      "score": 0.370985,
-      "symbol": "XLF"
+      "news_score": 0.0,
+      "price": 117.565,
+      "reason": "5d +1.9%; 20d +4.2%; vs SPY +9.6%; RSI 55; volume 1.0x; volatility 26.3%; news +0.00",
+      "relative_strength_20d": 0.096111,
+      "score": 0.336596,
+      "symbol": "XLY"
     }
   ],
   "universe_size": 37
