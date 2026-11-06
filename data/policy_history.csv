@@ -5,3 +5,4 @@ timestamp,version,buy_threshold,sell_threshold,explanation
 2026-11-05T00:53:33.049733+00:00,5,0.42000000000000004,-0.12,"Raised entry selectivity after 14 exits: win rate 43%, P/L $-15.95."
 2026-11-05T20:25:28.054726+00:00,6,0.45000000000000007,-0.12,"Raised entry selectivity after 15 exits: win rate 40%, P/L $-21.75."
 2026-11-06T01:00:29.141100+00:00,7,0.4800000000000001,-0.12,"Raised entry selectivity after 15 exits: win rate 40%, P/L $-21.75."
+2026-11-06T19:46:21.967377+00:00,8,0.5100000000000001,-0.12,"Raised entry selectivity after 15 exits: win rate 40%, P/L $-21.75."
