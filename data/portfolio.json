@@ -8,7 +8,7 @@
       "average_price": 1366.18275,
       "entry_reason": "Risk-sized 19.6% position with approximately 1.0% portfolio risk; 5d +4.5%; 20d +18.7%; vs SPY +18.3%; RSI 77; volume 1.3x; volatility 34.5%; news +0.33",
       "highest_price": 1423.125,
-      "last_price": 1354.765,
+      "last_price": 1412.32,
       "opened_at": "2026-10-29T18:44:31.863032+00:00",
       "quantity": 0.14288744513513593,
       "symbol": "LLY"
@@ -17,7 +17,7 @@
       "average_price": 672.045855,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +10.0%; 20d +18.0%; vs SPY +19.3%; RSI 72; volume 1.5x; volatility 26.9%; news +0.67",
       "highest_price": 672.56,
-      "last_price": 652.87,
+      "last_price": 655.37,
       "opened_at": "2026-11-04T20:11:15.191694+00:00",
       "quantity": 0.2936641630910318,
       "symbol": "MA"
@@ -26,7 +26,7 @@
       "average_price": 92.25110249999999,
       "entry_reason": "Risk-sized 6.5% position with approximately 1.0% portfolio risk; 5d +6.1%; 20d +12.9%; vs SPY +14.1%; RSI 64; volume 1.5x; volatility 24.6%; news +0.33",
       "highest_price": 92.205,
-      "last_price": 90.09,
+      "last_price": 90.89,
       "opened_at": "2026-11-04T20:11:15.191885+00:00",
       "quantity": 0.6960913520832962,
       "symbol": "XLP"
@@ -35,7 +35,7 @@
       "average_price": 189.74482499999996,
       "entry_reason": "Risk-sized 20.0% position with approximately 1.0% portfolio risk; 5d +5.5%; 20d +12.4%; vs SPY +13.6%; RSI 78; volume 1.3x; volatility 20.7%; news +0.33",
       "highest_price": 189.67,
-      "last_price": 184.82,
+      "last_price": 188.38,
       "opened_at": "2026-11-04T20:11:15.191804+00:00",
       "quantity": 1.0400075883591184,
       "symbol": "XLV"
@@ -43,5 +43,5 @@
   },
   "realized_pnl": -21.745647713770467,
   "starting_cash": 1000.0,
-  "updated_at": "2026-11-06T23:53:23.687470+00:00"
+  "updated_at": "2026-11-09T22:48:22.718076+00:00"
 }
