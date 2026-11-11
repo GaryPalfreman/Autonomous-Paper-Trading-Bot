@@ -1,229 +1,209 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": false,
-  "benchmark_price": 748.45,
+  "benchmark_price": 749.93,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.648649,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-11-10T20:07:31.693956+00:00",
-  "latest_market_timestamp": "2026-11-10T20:07:29.902350129Z",
-  "market_is_open": true,
+  "generated_at": "2026-11-11T00:38:24.513464+00:00",
+  "latest_market_timestamp": "2026-11-10T21:54:51.04541016Z",
+  "market_is_open": false,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
-  "next_close": "2026-11-10T16:00:00-05:00",
+  "next_close": "2026-11-11T16:00:00-05:00",
   "next_open": "2026-11-11T09:30:00-05:00",
   "recent_news": [
     {
-      "created_at": "2026-11-10T20:01:54Z",
-      "headline": "Tesla Executives Explain Removal of Opening Sunroof in Model Y L",
+      "created_at": "2026-11-11T00:01:48Z",
+      "headline": "Chevron Announces Expansion Plans for Vaca Muerta Assets in Argentina",
       "source": "fiscal.ai",
       "symbols": [
-        "TSLA"
+        "CVX"
       ],
-      "url": "https://www.businessinsider.com/tesla-killing-off-sunroof-option-model-y-2026-11"
+      "url": "https://stocktwits.com/symbol/CVX/news"
     },
     {
-      "created_at": "2026-11-10T20:01:54Z",
-      "headline": "Sargasso Capital Management Proposes Tesla and SpaceX Combination",
+      "created_at": "2026-11-11T00:01:27Z",
+      "headline": "AI Investing App Ulys Launches on Apple App Store",
       "source": "fiscal.ai",
       "symbols": [
-        "TSLA"
+        "AAPL"
       ],
-      "url": "https://markets.businessinsider.com/news/stocks/sargasso-capital-management-announces-project-kepler-the-case-for-combining-tesla-spacex-1036743771"
+      "url": "https://www.newswire.com/news/ulys-unveils-ai-app-that-builds-investment-portfolios-from-simple-text-prompts"
     },
     {
-      "created_at": "2026-11-10T20:01:41Z",
-      "headline": "Caterpillar Launches Cat Compact Distribution Sub-brand",
+      "created_at": "2026-11-10T23:57:12Z",
+      "headline": "Fed\u2019s Paulson Said Exact Path Of Rate Policy Depends On How Economy Evolves; Monetary Policy Needs To Be Somewhat Restrictive",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/quote/SPY"
+    },
+    {
+      "created_at": "2026-11-10T23:54:46Z",
+      "headline": "Philadelphia Fed President Paulson, Speaking At  81st Annual Field Meeting Capstone, Said Further Gradual Rate Hikes Appropriate Given High Inflation; Fed Will Move More Aggressively If Inflation Landscape Worsens",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/quote/SPY"
+    },
+    {
+      "created_at": "2026-11-10T23:48:37Z",
+      "headline": "Fed\u2019s Goolsbee On PBS NewsHour: We Have A Real Inflation Issue That Must Be Addressed",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/quote/SPY"
+    },
+    {
+      "created_at": "2026-11-10T23:47:31Z",
+      "headline": "Chicago Fed\u2019s Goolsbee, On PBS NewsHour, Said CPI Was Borderline Disturbing On Inflation; Most Troubling Is That Services Inflation Is Not Coming Down",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/quote/SPY"
+    },
+    {
+      "created_at": "2026-11-10T23:10:07Z",
+      "headline": "The Musk Midterms Trade: SPCX Flat, TSLA Drops 5% but DOGE Plunges 7%",
+      "source": "benzinga",
+      "symbols": [
+        "DOGEUSD",
+        "ETHUSD",
+        "SPCX",
+        "TSLA",
+        "XRPUSD"
+      ],
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63128576/the-musk-midterms-trade-spcx-flat-tsla-drops-5-but-doge-plunges-7"
+    },
+    {
+      "created_at": "2026-11-10T23:00:16Z",
+      "headline": "Microsoft Briefly Overtakes Nvidia as Jensen Huang Affair Helps Erase $1.8 Trillion Lead",
+      "source": "benzinga",
+      "symbols": [
+        "AAPL",
+        "MSFT",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63128428/microsoft-overtakes-nvidia"
+    },
+    {
+      "created_at": "2026-11-10T22:31:29Z",
+      "headline": "Amazon Web Services Launches $100 Million Health Impact Initiative",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AMZN"
+      ],
+      "url": "https://af.net/realtime/aws-pledges-100m-in-ai-and-cloud-credits-for-healthcare-access/"
+    },
+    {
+      "created_at": "2026-11-10T22:31:28Z",
+      "headline": "Costco Wholesale Corporation Declares $30 Special Cash Dividend and Reauthorizes Stock Repurchase Program",
+      "source": "fiscal.ai",
+      "symbols": [
+        "COST"
+      ],
+      "url": "https://www.globenewswire.com/news-release/2026/11/10/3400236/0/en/costco-wholesale-corporation-declares-30-special-cash-dividend-and-reauthorizes-stock-repurchase-program.html"
+    },
+    {
+      "created_at": "2026-11-10T21:57:24Z",
+      "headline": "API Crude Oil Stock 9.800M Barrel Draw Vs 5.267M Barrel Draw Prior",
+      "source": "benzinga",
+      "symbols": [
+        "SPY",
+        "USO"
+      ],
+      "url": "https://www.benzinga.com/quote/SPY"
+    },
+    {
+      "created_at": "2026-11-10T21:46:27Z",
+      "headline": "Costco Goes Bulk on Payouts with $30 Special Dividend",
+      "source": "benzinga",
+      "symbols": [
+        "COST"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63126049/costco-goes-bulk-on-payouts-with-30-special-dividend"
+    },
+    {
+      "created_at": "2026-11-10T21:39:59Z",
+      "headline": "Fed May Be Falling Behind on Inflation, Bank of America Says, Opening the Door to a Half-Point Hike",
+      "source": "benzinga",
+      "symbols": [
+        "BTCUSD",
+        "SHY",
+        "SPY",
+        "TLT",
+        "UUP"
+      ],
+      "url": "https://www.benzinga.com/markets/macro-economic-events/26/11/63125711/fed-falling-behind-inflation-bank-of-america-half-point-hike-december"
+    },
+    {
+      "created_at": "2026-11-10T21:38:48Z",
+      "headline": "'Wall Street regulator poised to bring charges against prediction market giant Kalshi' - Politico",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/government/26/11/63125636/wall-street-regulator-poised-bring-charges-against-prediction-market-giant-kalshi-politico"
+    },
+    {
+      "created_at": "2026-11-10T21:37:43Z",
+      "headline": "Fed's Bowman Says The Fact That Inflation Is Not On Downward Trend, Should Give Us Pause; Need To Think About What Pace And What Timeline To Address It",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/11/63125531/fed-s-bowman-says-fact-inflation-not-downward-trend-should-give-us-pause-need-think-about-what-pace-"
+    },
+    {
+      "created_at": "2026-11-10T21:31:38Z",
+      "headline": "Coastal Construction Equipment Launches as Authorized Cat Compact Dealer in South Florida",
       "source": "fiscal.ai",
       "symbols": [
         "CAT"
       ],
-      "url": "https://www.prnewswire.com/news-releases/coastal-construction-equipment-lleva-la-nueva-experiencia-cat-compact-a-los-contratistas-del-sur-de-florida-815821766.html"
+      "url": "https://www.prnewswire.com/news-releases/coastal-construction-equipment-brings-the-new-cat-compact-experience-to-south-florida-contractors-302935139.html"
     },
     {
-      "created_at": "2026-11-10T20:01:37Z",
-      "headline": "Broadcom Updates VMware Cloud Foundation to Enhance Private AI Infrastructure Security and Resilience",
+      "created_at": "2026-11-10T21:31:37Z",
+      "headline": "Costco Wholesale Corporation Declares Special Cash Dividend",
       "source": "fiscal.ai",
       "symbols": [
-        "AVGO"
+        "COST"
       ],
-      "url": "https://technologymagazine.com/news/how-broadcom-protects-private-ai-workloads-in-vmware-vcf"
+      "url": "https://investor.costco.com/news/news-details/2026/Costco-Wholesale-Corporation-Declares-30-Special-Cash-Dividend-and-Reauthorizes-Stock-Repurchase-Program/default.aspx"
     },
     {
-      "created_at": "2026-11-10T20:01:29Z",
-      "headline": "The Ohio State University and Microsoft Announce Five-Year Strategic Partnership",
+      "created_at": "2026-11-10T21:31:20Z",
+      "headline": "Whish Money to Deploy Visa's Featurespace for Fraud Prevention",
       "source": "fiscal.ai",
-      "symbols": [
-        "MSFT"
-      ],
-      "url": "https://www.morningstar.com/news/pr-newswire/20261110ny93626/the-ohio-state-university-and-microsoft-announce-five-year-strategic-partnership-to-accelerate-innovation-across-clinical-care-education-and-research"
-    },
-    {
-      "created_at": "2026-11-10T20:00:07Z",
-      "headline": "Hot CPI Pushes 10-Year Yield to 5%, Nvidia Sinks 6%: Stock Market Today",
-      "source": "benzinga",
-      "symbols": [
-        "AAON",
-        "AMG",
-        "ASTS",
-        "BTCUSD",
-        "CHTR",
-        "CRWV",
-        "DIA",
-        "GDX",
-        "IREN",
-        "IWM",
-        "LINE",
-        "MSFT",
-        "NVDA",
-        "ONON",
-        "QNT",
-        "QQQ",
-        "RGTI",
-        "SMH",
-        "TTWO",
-        "UWMC",
-        "VOO",
-        "XHB",
-        "XLE",
-        "XLF",
-        "XLK",
-        "XLP"
-      ],
-      "url": "https://www.benzinga.com/markets/equities/26/11/63117496/stock-market-today-hot-cpi-treasury-yields-5-percent-nvidia-slides"
-    },
-    {
-      "created_at": "2026-11-10T19:54:54Z",
-      "headline": "Wall Street Hasn't Ignored Earnings Beats Like This Since the Dot-Com Bust",
-      "source": "benzinga",
-      "symbols": [
-        "NVDA",
-        "RSP",
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/markets/earnings/26/11/63117154/earnings-beats-ignored-dot-com-bust-bofa-factset-sp-500"
-    },
-    {
-      "created_at": "2026-11-10T19:45:12Z",
-      "headline": "'House Republicans Consider Issuing Subpoena To NVIDIA CEO Jensen Huang' - ABC News",
-      "source": "benzinga",
-      "symbols": [
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/11/63116676/house-republicans-consider-issuing-subpoena-nvidia-ceo-jensen-huang-abc-news"
-    },
-    {
-      "created_at": "2026-11-10T19:34:19Z",
-      "headline": "Citigroup Maintains Buy on Mastercard, Raises Price Target to $800",
-      "source": "benzinga",
-      "symbols": [
-        "MA"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/63116100/citigroup-maintains-buy-mastercard-raises-price-target-800"
-    },
-    {
-      "created_at": "2026-11-10T19:30:08Z",
-      "headline": "AMD Gains 25% Against NVDA in 2 Days: Chip Analyst Says Lisa Su Is \u2018at Her Best\u2019",
-      "source": "benzinga",
-      "symbols": [
-        "AMD",
-        "GOOGL",
-        "INTC",
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63115849/amd-lisa-su"
-    },
-    {
-      "created_at": "2026-11-10T19:26:25Z",
-      "headline": "Punchbowl News Founder Jake Sherman Posts On X \"JIM JORDAN is the next House minority leader\" \"JORDAN: 106, SCALISE: 73\"",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/11/63115648/punchbowl-news-founder-jake-sherman-posts-x-jim-jordan-next-house-minority-leader-jordan-106-scalise"
-    },
-    {
-      "created_at": "2026-11-10T19:14:21Z",
-      "headline": "Citigroup Maintains Buy on Visa, Raises Price Target to $490",
-      "source": "benzinga",
       "symbols": [
         "V"
       ],
-      "url": "https://www.benzinga.com/news/26/11/63115003/citigroup-maintains-buy-visa-raises-price-target-490"
+      "url": "https://www.einpresswire.com/article/955802368/whish-money-to-deploy-visa-s-featurespace-to-strengthen-real-time-fraud-prevention-in-lebanon"
     },
     {
-      "created_at": "2026-11-10T19:13:23Z",
-      "headline": "Google Fi Wireless Launches Super Network With Dual 5G And Wi-Fi Access",
-      "source": "benzinga",
-      "symbols": [
-        "GOOG",
-        "GOOGL"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/63114893/google-fi-wireless-launches-super-network-dual-5g-and-wi-fi-access"
-    },
-    {
-      "created_at": "2026-11-10T19:10:59Z",
-      "headline": "'UK data centre pioneer considers delaying $35bn listing after AI sell-off' - The Telegraph",
-      "source": "benzinga",
-      "symbols": [
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/63114776/uk-data-centre-pioneer-considers-delaying-35bn-listing-after-ai-sell-telegraph"
-    },
-    {
-      "created_at": "2026-11-10T19:07:44Z",
-      "headline": "'Nvidia Hires Wachtell Lipton to Investigate C.E.O.\u2019s Affair With Chinese Executive; Wachtell Partner Joon H. Kim, A Former Acting U.S. Attorney, Is Leading The Inquiry Into The Chip Maker\u2019s Chief Executive' - NY Times",
-      "source": "benzinga",
-      "symbols": [
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/63114602/nvidia-hires-wachtell-lipton-investigate-c-e-o-s-affair-chinese-executive-wachtell-partner-joon-h-ki"
-    },
-    {
-      "created_at": "2026-11-10T19:06:26Z",
-      "headline": "Fed's Schmid Says A Lot Of Interesting Data Points Between Now And Fed\u2019s December Meeting",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/11/63114494/fed-s-schmid-says-lot-interesting-data-points-between-now-and-fed-s-december-meeting"
-    },
-    {
-      "created_at": "2026-11-10T19:02:29Z",
-      "headline": "Dan Ives Says \u2018Spy Soap Opera\u2019 Could Send Nvidia Stock 30% Lower Without CEO: \u2018There is Only One Jensen\u2019",
-      "source": "benzinga",
-      "symbols": [
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/11/63114257/dan-ives-says-spy-soap-opera-could-send-nvidia-stock-30-lower-without-ceo-there-is-only-one-jensen"
-    },
-    {
-      "created_at": "2026-11-10T19:02:14Z",
-      "headline": "UnitedHealthcare Discontinues Supplemental Medicare Plan in Wyoming",
+      "created_at": "2026-11-10T21:31:17Z",
+      "headline": "SketchUp Introduces Spatial Preview for Apple Vision Pro",
       "source": "fiscal.ai",
       "symbols": [
-        "UNH"
+        "AAPL"
       ],
-      "url": "https://insurancenewsnet.com/topics/health-employee-benefits/page/topics/newswires?archive_date=2026-11"
+      "url": "https://www.prnewswire.com/news-releases/trimble-expands-design-and-constructability-workflows-with-new-sketchup-capabilities-302933970.html"
     },
     {
-      "created_at": "2026-11-10T19:01:51Z",
-      "headline": "Bank of America Adds Erewhon Membership to BofA Rewards Program",
-      "source": "fiscal.ai",
+      "created_at": "2026-11-10T21:31:00Z",
+      "headline": "Costco Wholesale Declares Special Dividend Of $30 Per Share; Reauthorized $4B Buyback Plan Through November 2030",
+      "source": "benzinga",
       "symbols": [
-        "BAC"
+        "COST"
       ],
-      "url": "https://www.prnewswire.com/news-releases/bank-of-america-brings-the-erewhon-membership-to-bofa-rewards-302934937.html"
-    },
-    {
-      "created_at": "2026-11-10T19:01:51Z",
-      "headline": "Bank of America Awards $250,000 Grant to Goodwill Southeast Georgia",
-      "source": "fiscal.ai",
-      "symbols": [
-        "BAC"
-      ],
-      "url": "https://savannahceo.com/news/2026/11/bank-america-awards-250000-grant-goodwill-southeast-georgia/"
+      "url": "https://www.benzinga.com/news/26/11/63124969/costco-wholesale-declares-special-dividend-30-share-reauthorized-4b-buyback-plan-through-november-20"
     }
   ],
   "regime": "DEFENSIVE",
@@ -231,83 +211,83 @@
   "top_candidates": [
     {
       "news_score": 0.0,
-      "price": 1067.5,
-      "reason": "5d +4.7%; 20d +12.0%; vs SPY +15.8%; RSI 63; volume 0.7x; volatility 24.0%; news +0.00",
-      "relative_strength_20d": 0.158013,
-      "score": 0.635716,
-      "symbol": "COST"
-    },
-    {
-      "news_score": 0.0,
-      "price": 349.47,
-      "reason": "5d +4.8%; 20d +18.9%; vs SPY +22.7%; RSI 62; volume 0.6x; volatility 39.6%; news +0.00",
-      "relative_strength_20d": 0.227137,
-      "score": 0.627215,
+      "price": 350.94,
+      "reason": "5d +5.2%; 20d +19.4%; vs SPY +23.0%; RSI 63; volume 0.8x; volatility 39.6%; news +0.00",
+      "relative_strength_20d": 0.230237,
+      "score": 0.669434,
       "symbol": "HD"
     },
     {
       "news_score": 0.0,
-      "price": 337.225,
-      "reason": "5d +5.2%; 20d +9.6%; vs SPY +13.4%; RSI 69; volume 0.6x; volatility 42.7%; news +0.00",
-      "relative_strength_20d": 0.134258,
-      "score": 0.610016,
+      "price": 338.06,
+      "reason": "5d +5.4%; 20d +9.9%; vs SPY +13.5%; RSI 70; volume 0.8x; volatility 42.7%; news +0.00",
+      "relative_strength_20d": 0.13507,
+      "score": 0.651005,
       "symbol": "GE"
     },
     {
       "news_score": 0.0,
-      "price": 188.46,
-      "reason": "5d +2.4%; 20d +11.0%; vs SPY +14.8%; RSI 65; volume 0.8x; volatility 22.6%; news +0.00",
-      "relative_strength_20d": 0.148305,
-      "score": 0.526166,
+      "price": 1066.24,
+      "reason": "5d +4.6%; 20d +11.9%; vs SPY +15.5%; RSI 63; volume 0.8x; volatility 24.0%; news +0.00",
+      "relative_strength_20d": 0.154789,
+      "score": 0.645299,
+      "symbol": "COST"
+    },
+    {
+      "news_score": 0.0,
+      "price": 188.895,
+      "reason": "5d +2.6%; 20d +11.3%; vs SPY +14.9%; RSI 66; volume 1.0x; volatility 22.6%; news +0.00",
+      "relative_strength_20d": 0.148966,
+      "score": 0.565169,
       "symbol": "XLV"
     },
     {
-      "news_score": 0.333333,
-      "price": 1430.57,
-      "reason": "5d +1.5%; 20d +22.6%; vs SPY +26.4%; RSI 69; volume 0.5x; volatility 39.8%; news +0.33",
-      "relative_strength_20d": 0.263709,
-      "score": 0.523697,
+      "news_score": 0.222222,
+      "price": 271.08,
+      "reason": "5d +8.1%; 20d +4.8%; vs SPY +8.4%; RSI 65; volume 1.0x; volatility 42.8%; news +0.22",
+      "relative_strength_20d": 0.084296,
+      "score": 0.563965,
+      "symbol": "AMZN"
+    },
+    {
+      "news_score": 0.0,
+      "price": 1432.38,
+      "reason": "5d +1.6%; 20d +22.7%; vs SPY +26.3%; RSI 69; volume 0.7x; volatility 39.8%; news +0.00",
+      "relative_strength_20d": 0.263357,
+      "score": 0.509742,
       "symbol": "LLY"
     },
     {
       "news_score": 0.0,
-      "price": 271.785,
-      "reason": "5d +8.4%; 20d +5.1%; vs SPY +8.9%; RSI 66; volume 0.8x; volatility 42.9%; news +0.00",
-      "relative_strength_20d": 0.088924,
-      "score": 0.517197,
-      "symbol": "AMZN"
-    },
-    {
-      "news_score": 0.333333,
-      "price": 125.99,
-      "reason": "5d +0.9%; 20d +12.2%; vs SPY +16.0%; RSI 60; volume 0.4x; volatility 28.2%; news +0.33",
-      "relative_strength_20d": 0.160025,
-      "score": 0.456132,
-      "symbol": "WMT"
-    },
-    {
-      "news_score": 0.0,
-      "price": 120.965,
-      "reason": "5d +3.1%; 20d +7.7%; vs SPY +11.5%; RSI 63; volume 0.6x; volatility 27.8%; news +0.00",
-      "relative_strength_20d": 0.114555,
-      "score": 0.449772,
+      "price": 121.06,
+      "reason": "5d +3.2%; 20d +7.7%; vs SPY +11.3%; RSI 63; volume 0.8x; volatility 27.8%; news +0.00",
+      "relative_strength_20d": 0.113499,
+      "score": 0.484982,
       "symbol": "XLY"
     },
     {
       "news_score": 0.0,
-      "price": 91.175,
-      "reason": "5d +2.5%; 20d +8.3%; vs SPY +12.1%; RSI 54; volume 0.8x; volatility 24.6%; news +0.00",
-      "relative_strength_20d": 0.121244,
-      "score": 0.432568,
+      "price": 91.04,
+      "reason": "5d +2.3%; 20d +8.2%; vs SPY +11.8%; RSI 54; volume 0.9x; volatility 24.6%; news +0.00",
+      "relative_strength_20d": 0.117737,
+      "score": 0.439183,
       "symbol": "XLP"
     },
     {
       "news_score": 0.0,
-      "price": 44.57,
-      "reason": "5d +2.1%; 20d +6.6%; vs SPY +10.4%; RSI 68; volume 0.7x; volatility 20.2%; news +0.00",
-      "relative_strength_20d": 0.103777,
-      "score": 0.415585,
+      "price": 44.59,
+      "reason": "5d +2.1%; 20d +6.6%; vs SPY +10.2%; RSI 68; volume 0.9x; volatility 20.2%; news +0.00",
+      "relative_strength_20d": 0.102353,
+      "score": 0.434082,
       "symbol": "XLRE"
+    },
+    {
+      "news_score": 0.0,
+      "price": 658.85,
+      "reason": "5d +1.8%; 20d +8.9%; vs SPY +12.6%; RSI 60; volume 0.6x; volatility 28.5%; news +0.00",
+      "relative_strength_20d": 0.125584,
+      "score": 0.399842,
+      "symbol": "MA"
     }
   ],
   "universe_size": 37
