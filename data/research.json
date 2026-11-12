@@ -1,361 +1,320 @@
 {
-  "benchmark_above_20d_average": true,
+  "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": false,
-  "benchmark_price": 760.515,
+  "benchmark_price": 760.06,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.675676,
+  "breadth_above_20d_average": 0.648649,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-11-11T19:56:35.440925+00:00",
-  "latest_market_timestamp": "2026-11-11T19:56:32.633291475Z",
-  "market_is_open": true,
-  "new_entries_allowed": true,
+  "generated_at": "2026-11-12T01:46:08.861929+00:00",
+  "latest_market_timestamp": "2026-11-11T21:59:54.329761494Z",
+  "market_is_open": false,
+  "new_entries_allowed": false,
   "news_articles_reviewed": 50,
-  "next_close": "2026-11-11T16:00:00-05:00",
+  "next_close": "2026-11-12T16:00:00-05:00",
   "next_open": "2026-11-12T09:30:00-05:00",
   "recent_news": [
     {
-      "created_at": "2026-11-11T19:27:39Z",
-      "headline": "'Vance Considers Direct Talks With Iran Hardliner in Push to End War' -WSJ Report",
+      "created_at": "2026-11-12T01:44:54Z",
+      "headline": "Jensen Huang Heat Intensifies As Taiwan Revokes Entry for Alleged Spy Who Slipped In On Hong Kong Passport",
       "source": "benzinga",
       "symbols": [
-        "SPY",
-        "USO"
+        "NVDA"
       ],
-      "url": "https://www.benzinga.com/news/26/11/63163032/vance-considers-direct-talks-iran-hardliner-push-end-war-wsj-report"
+      "url": "https://www.benzinga.com/markets/tech/26/11/63171508/taiwan-china-spy-jensen-huang-permit"
     },
     {
-      "created_at": "2026-11-11T19:20:47Z",
-      "headline": "POET Stock Soars After CoreWeave's Strong Q3 Results and FY26 Guidance",
-      "source": "benzinga",
-      "symbols": [
-        "ALAB",
-        "AMD",
-        "ARM",
-        "AVGO",
-        "CBRS",
-        "CRDO",
-        "CRWV",
-        "MRVL",
-        "NVTS",
-        "POET",
-        "QCOM"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63162605/poet-stock-soars-after-coreweaves-strong-q3-results-and-fy26-guidance"
-    },
-    {
-      "created_at": "2026-11-11T19:01:31Z",
-      "headline": "Meta Wins CNCF End User Case Study Contest",
-      "source": "fiscal.ai",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.morningstar.com/news/pr-newswire/20261111dc87018/meta-wins-cncf-end-user-case-study-contest-for-accelerating-ai-infrastructure-deployments-from-hours-to-minutes"
-    },
-    {
-      "created_at": "2026-11-11T19:01:31Z",
-      "headline": "Meta Infrastructure Head Santosh Janardhan to Depart in 2027",
-      "source": "fiscal.ai",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.moomoo.com/news/post/1004318752/market-chatter-meta-s-infrastructure-head-santosh-janardhan-to-depart"
-    },
-    {
-      "created_at": "2026-11-11T19:01:30Z",
-      "headline": "JPMorgan Chase & Co. Reduces Stake in Future PLC",
-      "source": "fiscal.ai",
-      "symbols": [
-        "JPM"
-      ],
-      "url": "https://www.investegate.co.uk/announcement/rns/future--futr/holding-s-in-company/9869753"
-    },
-    {
-      "created_at": "2026-11-11T18:50:57Z",
-      "headline": "EXCLUSIVE: Jensen Huang Drama Puts Q3 Financials on Backburner, Expert Says \u2018No One Cares About Their Record Revenues\u2019",
-      "source": "benzinga",
-      "symbols": [
-        "AMD",
-        "AVGO",
-        "GOOGL",
-        "META",
-        "NVDA",
-        "SPCX",
-        "TSLA"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63160921/exclusive-jensen-huang-drama-puts-q3-financials-on-backburner-expert-says-no-one-cares-about-their-record-revenues"
-    },
-    {
-      "created_at": "2026-11-11T18:26:29Z",
-      "headline": "Nvidia\u2019s Earnings Day Is \u2018Earnings Day for Your 401(k).\u2019 Here\u2019s Why",
+      "created_at": "2026-11-12T01:15:56Z",
+      "headline": "Nvidia, AMD, SanDisk, Broadcom and Apple: Why These 5 Stocks Are on Investors' Radars Today",
       "source": "benzinga",
       "symbols": [
         "AAPL",
-        "MSFT",
+        "AMD",
+        "AVGO",
+        "NVDA",
+        "SNDK"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/11/63171475/nvidia-amd-sandisk-broadcom-and-apple-why-these-5-stocks-are-on-investors-radars-today"
+    },
+    {
+      "created_at": "2026-11-12T01:01:36Z",
+      "headline": "Chevron Progresses Toward New Energy Agreements in Venezuela",
+      "source": "fiscal.ai",
+      "symbols": [
+        "CVX"
+      ],
+      "url": "https://energynow.ca/2026/09/red-flags-trumps-oil-deal-with-venezuela-raises-red-flags-for-some-major-producers/"
+    },
+    {
+      "created_at": "2026-11-12T00:58:38Z",
+      "headline": "The Washington Post Reported White House Not Intervening In NVIDIA Board Decision Regarding CEO Jensen Huang",
+      "source": "benzinga",
+      "symbols": [
+        "FXI",
         "NVDA",
         "SPY"
       ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63159321/nvidia-earnings-401k-impact"
+      "url": "https://www.benzinga.com/news/26/11/63171413/washington-post-reported-white-house-not-intervening-nvidia-board-decision-regarding-ceo-jensen-huan"
     },
     {
-      "created_at": "2026-11-11T18:18:40Z",
-      "headline": "James Altucher Posts On X \"My first patent, on a critical piece of infrastructure to make $NVDA GPUs faster. All credit to the amazing optical engineers at $FABC and $KOPN who let me put my name on it.\"",
+      "created_at": "2026-11-12T00:25:04Z",
+      "headline": "Nvidia Stock Sinks as Jensen Huang Ouster Report Sends Investors Toward AMD, Broadcom",
       "source": "benzinga",
       "symbols": [
-        "FABC",
-        "KOPN",
+        "AMD",
+        "AVGO",
         "NVDA"
       ],
-      "url": "https://www.benzinga.com/trading-ideas/26/11/63158823/james-altucher-posts-x-my-first-patent-critical-piece-infrastructure-make-nvda-gpus-faster-all-credi"
+      "url": "https://www.benzinga.com/markets/tech/26/11/63171278/nvidia-stock-sinks-jensen-huang-ouster-report-amd-broadcom"
     },
     {
-      "created_at": "2026-11-11T18:18:02Z",
-      "headline": "What Is Going On With Snap Stock on Wednesday?",
+      "created_at": "2026-11-12T00:07:51Z",
+      "headline": "Bloomberg Reported, Nvidia Working With Outside Firm to Identify CEO Candidates",
       "source": "benzinga",
       "symbols": [
-        "CRWV",
-        "NVDA",
-        "SNAP"
+        "NVDA"
       ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63158783/what-is-going-on-with-snap-stock-on-wednesday-2"
+      "url": "https://www.benzinga.com/news/26/11/63171177/bloomberg-reported-nvidia-working-outside-firm-identify-ceo-candidates"
     },
     {
-      "created_at": "2026-11-11T18:06:43Z",
-      "headline": "Eli Lilly Says Taltz/Zepbound Combo Shows Long-Term Efficacy in Psoriatic Arthritis Trial",
-      "source": "benzinga",
+      "created_at": "2026-11-12T00:01:45Z",
+      "headline": "NVIDIA Board Reportedly Considering CEO Removal Amid Leadership Scandal",
+      "source": "fiscal.ai",
       "symbols": [
-        "LLY"
+        "NVDA"
       ],
-      "url": "https://www.benzinga.com/markets/biotech/26/11/63158034/eli-lilly-says-taltz-zepbound-combo-shows-long-term-efficacy-in-psoriatic-arthritis-trial"
+      "url": "https://www.morningstar.com/news/marketwatch/20261111357/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang"
     },
     {
-      "created_at": "2026-11-11T18:01:13Z",
-      "headline": "CNBC Halftime Report Final Trades: Walt Disney, Monolithic Power Systems, Amphenol, Invesco QQQ Trust, Series 1",
+      "created_at": "2026-11-11T23:45:23Z",
+      "headline": "Michael Burry\u2019s Portfolio: What the \u2018Big Short\u2019 Investor Owns Now",
       "source": "benzinga",
       "symbols": [
-        "APH",
-        "DIS",
-        "MPWR",
-        "QQQ"
-      ],
-      "url": "https://www.benzinga.com/quote/APH"
-    },
-    {
-      "created_at": "2026-11-11T17:53:29Z",
-      "headline": "Is CoreWeave's Rally Durable? Nvidia Stock Can Fall 25% If Huang Leaves",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "BTCUSD",
-        "GOOG",
-        "META",
-        "MSFT",
-        "NVDA",
-        "QQQ",
-        "SOXL",
-        "SPY",
-        "TSLA",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/opinion/26/11/63157294/is-coreweave-rally-durable-nvidia-stock-can-fall-25-percent-if-huang-leaves"
-    },
-    {
-      "created_at": "2026-11-11T17:55:02Z",
-      "headline": "What's Going On With Apple Stock Wednesday?",
-      "source": "benzinga",
-      "symbols": [
-        "AAPL",
-        "FFLG",
-        "NVDA",
-        "SPMO",
-        "USMC"
-      ],
-      "url": "https://www.benzinga.com/markets/tech/26/11/63157383/whats-going-on-with-apple-stock-wednesday-4"
-    },
-    {
-      "created_at": "2026-11-11T17:53:02Z",
-      "headline": "Nasdaq 100 Jumps 2.8% as CoreWeave, Nvidia Climb: Stock Market Today",
-      "source": "benzinga",
-      "symbols": [
-        "AAOI",
-        "AS",
-        "BE",
-        "BTCUSD",
-        "CAG",
-        "CPB",
-        "CRWV",
-        "DIA",
-        "FNV",
-        "FRMI",
-        "GIS",
-        "IWM",
-        "KBR",
-        "LITE",
+        "ADBE",
+        "BBW",
+        "BIRK",
+        "CAT",
+        "DECK",
+        "ERO",
+        "FISV",
+        "FMCC",
+        "FNMA",
+        "HCA",
+        "JD",
         "LULU",
-        "MSFT",
-        "MU",
-        "NVDA",
-        "QQQ",
-        "RVMD",
-        "SMH",
-        "SMMT",
-        "SNDK",
-        "VOO",
-        "XLK",
-        "XLV"
-      ],
-      "url": "https://www.benzinga.com/markets/equities/26/11/63157251/stock-market-today-nasdaq-100-coreweave-ai-rebound-nvidia"
-    },
-    {
-      "created_at": "2026-11-11T17:50:04Z",
-      "headline": "Why Is CleanSpark Stock Surging on Wednesday?",
-      "source": "benzinga",
-      "symbols": [
-        "CLSK",
-        "CRWV",
-        "XLK"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63157074/why-is-cleanspark-stock-surging-on-wednesday"
-    },
-    {
-      "created_at": "2026-11-11T17:45:45Z",
-      "headline": "Michael Burry Says Jensen\u2019s Affair Won\u2019t Sink Nvidia, But Regulators Might",
-      "source": "benzinga",
-      "symbols": [
-        "NVDA",
+        "LVMHF",
+        "MELI",
+        "MET",
+        "MOH",
         "ORCL",
         "PLTR",
-        "SMH"
+        "PYPL",
+        "SFM",
+        "SMH",
+        "TPLWF",
+        "VEEV"
       ],
-      "url": "https://www.benzinga.com/markets/tech/26/11/63156711/michael-burry-says-jensens-affair-wont-sink-nvidia-but-regulators-might"
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63171116/michael-burrys-portfolio-what-the-big-short-investor-owns-now"
     },
     {
-      "created_at": "2026-11-11T17:41:19Z",
-      "headline": "'Nvidia Partners See Early Signs Customers Are Unnerved By Jensen Huang Investigation' - CRN",
+      "created_at": "2026-11-11T22:40:13Z",
+      "headline": "Nvidia Stock Tumbles as Company Prepares To Remove Huang Following Second Affair (UPDATED)",
       "source": "benzinga",
       "symbols": [
         "NVDA"
       ],
-      "url": "https://www.benzinga.com/news/26/11/63156281/nvidia-partners-see-early-signs-customers-are-unnerved-jensen-huang-investigation-crn"
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63170582/nvidia-stock-slips-as-report-alleges-huang-had-second-affair-with-company-executive"
     },
     {
-      "created_at": "2026-11-11T17:36:20Z",
-      "headline": "Microsoft Stock Slides After Anthropic Launches Productivity Tools: What to Know",
+      "created_at": "2026-11-11T22:31:58Z",
+      "headline": "Netflix Retains Russell Brand Stand-Up Special Following Conviction",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.corowafreepress.com.au/aap-entertainment/netflix-refuses-to-remove-russell-brand-stand-up-show/"
+    },
+    {
+      "created_at": "2026-11-11T22:30:16Z",
+      "headline": "'Nvidia is Preparing to Oust Nvidia CEO Jensen Huang'- WSJ",
       "source": "benzinga",
       "symbols": [
-        "GOOG",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/63170550/nvidia-preparing-oust-nvidia-ceo-jensen-huang-wsj"
+    },
+    {
+      "created_at": "2026-11-11T22:18:17Z",
+      "headline": "Democrat Scott Colom Will Win A US Senate Seat In Deep-Red Mississippi, CNN projects",
+      "source": "benzinga",
+      "symbols": [
+        "SPY"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/63170421/democrat-scott-colom-will-win-us-senate-seat-deep-red-mississippi-cnn-projects"
+    },
+    {
+      "created_at": "2026-11-11T22:06:33Z",
+      "headline": "EXCLUSIVE: Anthropic IPO Could Follow SpaceX\u2019s \u2018Almost Perfectly\u2019 Handled Offering, Market Expert Jay Woods Says",
+      "source": "benzinga",
+      "symbols": [
+        "ANT",
+        "NVDA",
+        "SPCX"
+      ],
+      "url": "https://www.benzinga.com/markets/ipos/26/11/63170223/exclusive-anthropic-ipo-could-follow-spacexs-almost-perfectly-handled-offering-market-expert-jay-woods-says"
+    },
+    {
+      "created_at": "2026-11-11T22:01:54Z",
+      "headline": "'Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him' -NYT Report",
+      "source": "benzinga",
+      "symbols": [
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/63170123/jensen-huang-said-have-had-relationship-nvidia-executive-who-reports-him-nyt-report"
+    },
+    {
+      "created_at": "2026-11-11T21:34:05Z",
+      "headline": "Pfizer And Blackstone Life Sciences Enter Co-Funding Agreement Under Which Blackstone Will Pay Up To $1.5B Of Development Costs For Study Of Monthly GLP-1 Receptor Agonist Peptide Berobenatide Through 2028",
+      "source": "benzinga",
+      "symbols": [
+        "BX",
+        "LLY",
+        "NVO",
+        "PFE"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/63169808/pfizer-and-blackstone-life-sciences-enter-co-funding-agreement-under-which-blackstone-will-pay-1-5b-"
+    },
+    {
+      "created_at": "2026-11-11T21:31:33Z",
+      "headline": "Court Grants Class Certification in Amazon Photos Biometric Privacy Lawsuit",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AMZN"
+      ],
+      "url": "https://www.globenewswire.com/news-release/2026/11/11/3401049/0/en/wexler-boley-elgersma-announces-court-certification-of-class-action-against-amazon-over-alleged-collection-of-biometric-data-through-amazon-photos.html"
+    },
+    {
+      "created_at": "2026-11-11T21:31:26Z",
+      "headline": "Microsoft Announces 2026 Partner of the Year Award Winners",
+      "source": "fiscal.ai",
+      "symbols": [
         "MSFT"
       ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63155981/microsoft-stock-slides-after-anthropic-launches-productivity-tools-what-to-know"
+      "url": "https://www.globenewswire.com/news-release/2026/11/11/3401091/0/en/simpson-associates-recognised-as-the-winner-of-2026-microsoft-partner-of-the-year-for-community-response.html"
     },
     {
-      "created_at": "2026-11-11T17:35:11Z",
-      "headline": "4 Industrials Stocks With Whale Alerts In Today\u2019s Session",
+      "created_at": "2026-11-11T21:20:15Z",
+      "headline": "'Bessent Moved to Military Housing Following Iranian Threats'- Bloomberg",
       "source": "benzinga",
       "symbols": [
-        "BA",
-        "CAT",
-        "GEV",
-        "UBER"
+        "SPY",
+        "USO"
       ],
-      "url": "https://www.benzinga.com/markets/options/26/11/63155863/4-industrials-stocks-whale-alerts-today-s-session"
+      "url": "https://www.benzinga.com/news/26/11/63169436/bessent-moved-military-housing-following-iranian-threats-bloomberg"
     },
     {
-      "created_at": "2026-11-11T17:35:10Z",
-      "headline": "4 Communication Services Stocks Whale Activity In Today\u2019s Session",
+      "created_at": "2026-11-11T21:19:18Z",
+      "headline": "Reported Earlier, 'Trump envoys to meet Putin in Moscow after latest Ukraine talks end with no breakthrough' - CNN",
       "source": "benzinga",
       "symbols": [
-        "APP",
-        "ASTS",
-        "META",
-        "SKM"
+        "SPY"
       ],
-      "url": "https://www.benzinga.com/markets/options/26/11/63155862/4-communication-services-stocks-whale-activity-today-s-session"
+      "url": "https://www.benzinga.com/news/26/11/63169402/reported-earlier-trump-envoys-meet-putin-moscow-after-latest-ukraine-talks-end-no-breakthrough-cnn"
+    },
+    {
+      "created_at": "2026-11-11T21:09:03Z",
+      "headline": "Nvidia\u2019s Brutal Selloff Triggers a Signal Unseen Since 2019 \u2014 Is the Worst Over?",
+      "source": "benzinga",
+      "symbols": [
+        "LRCX",
+        "MU",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/11/63168922/nvidias-brutal-selloff-triggers-a-signal-unseen-since-2019-is-the-worst-over"
     }
   ],
-  "regime": "NEUTRAL",
-  "regime_score": 0.105405,
+  "regime": "DEFENSIVE",
+  "regime_score": -0.610811,
   "top_candidates": [
     {
-      "news_score": 0.166667,
-      "price": 1080.37,
-      "reason": "5d +3.2%; 20d +10.1%; vs SPY +11.3%; RSI 70; volume 1.0x; volatility 22.6%; news +0.17",
-      "relative_strength_20d": 0.113242,
-      "score": 0.614285,
+      "news_score": 0.333333,
+      "price": 1086.5,
+      "reason": "5d +3.8%; 20d +10.8%; vs SPY +12.0%; RSI 71; volume 1.2x; volatility 23.0%; news +0.33",
+      "relative_strength_20d": 0.120083,
+      "score": 0.707851,
       "symbol": "COST"
     },
     {
       "news_score": 0.0,
-      "price": 341.31,
-      "reason": "5d +3.6%; 20d +11.2%; vs SPY +12.3%; RSI 76; volume 0.4x; volatility 42.6%; news +0.00",
-      "relative_strength_20d": 0.123447,
-      "score": 0.565243,
+      "price": 342.55,
+      "reason": "5d +4.0%; 20d +11.6%; vs SPY +12.8%; RSI 76; volume 0.6x; volatility 42.7%; news +0.00",
+      "relative_strength_20d": 0.128077,
+      "score": 0.626408,
       "symbol": "GE"
     },
     {
       "news_score": 0.0,
-      "price": 1430.57,
-      "reason": "5d +0.9%; 20d +18.1%; vs SPY +19.3%; RSI 76; volume 0.5x; volatility 38.7%; news +0.00",
-      "relative_strength_20d": 0.19328,
-      "score": 0.463406,
+      "price": 1437.79,
+      "reason": "5d +1.4%; 20d +18.7%; vs SPY +20.0%; RSI 77; volume 0.8x; volatility 38.5%; news +0.00",
+      "relative_strength_20d": 0.199833,
+      "score": 0.526529,
       "symbol": "LLY"
     },
     {
-      "news_score": 0.222222,
-      "price": 349.27,
-      "reason": "5d +7.3%; 20d +0.8%; vs SPY +2.0%; RSI 58; volume 1.1x; volatility 68.4%; news +0.22",
-      "relative_strength_20d": 0.020329,
-      "score": 0.331705,
-      "symbol": "AVGO"
-    },
-    {
       "news_score": 0.0,
-      "price": 350.14,
-      "reason": "5d -1.5%; 20d +18.5%; vs SPY +19.7%; RSI 69; volume 0.4x; volatility 39.8%; news +0.00",
-      "relative_strength_20d": 0.196896,
-      "score": 0.312785,
-      "symbol": "HD"
-    },
-    {
-      "news_score": 0.0,
-      "price": 188.46,
-      "reason": "5d -0.6%; 20d +8.3%; vs SPY +9.5%; RSI 71; volume 0.6x; volatility 21.5%; news +0.00",
-      "relative_strength_20d": 0.095284,
-      "score": 0.296999,
+      "price": 188.98,
+      "reason": "5d -0.4%; 20d +8.6%; vs SPY +9.9%; RSI 73; volume 0.8x; volatility 21.5%; news +0.00",
+      "relative_strength_20d": 0.098864,
+      "score": 0.356737,
       "symbol": "XLV"
     },
     {
       "news_score": 0.0,
-      "price": 121.005,
-      "reason": "5d -1.1%; 20d +8.5%; vs SPY +9.7%; RSI 69; volume 0.5x; volatility 27.5%; news +0.00",
-      "relative_strength_20d": 0.096921,
-      "score": 0.267712,
-      "symbol": "XLY"
+      "price": 351.19,
+      "reason": "5d -1.2%; 20d +18.9%; vs SPY +20.1%; RSI 70; volume 0.6x; volatility 39.7%; news +0.00",
+      "relative_strength_20d": 0.201041,
+      "score": 0.355115,
+      "symbol": "HD"
+    },
+    {
+      "news_score": 0.133333,
+      "price": 345.52,
+      "reason": "5d +6.1%; 20d -0.2%; vs SPY +1.0%; RSI 57; volume 1.5x; volatility 67.4%; news +0.13",
+      "relative_strength_20d": 0.010093,
+      "score": 0.320223,
+      "symbol": "AVGO"
     },
     {
       "news_score": 0.0,
-      "price": 390.95,
-      "reason": "5d +1.5%; 20d +6.4%; vs SPY +7.6%; RSI 56; volume 0.5x; volatility 60.6%; news +0.00",
-      "relative_strength_20d": 0.075939,
-      "score": 0.248169,
-      "symbol": "TSLA"
+      "price": 120.98,
+      "reason": "5d -1.1%; 20d +8.5%; vs SPY +9.7%; RSI 69; volume 0.8x; volatility 27.5%; news +0.00",
+      "relative_strength_20d": 0.097288,
+      "score": 0.300907,
+      "symbol": "XLY"
     },
     {
       "news_score": 0.333333,
-      "price": 424.395,
-      "reason": "5d -2.6%; 20d +8.6%; vs SPY +9.8%; RSI 62; volume 0.6x; volatility 25.8%; news +0.33",
-      "relative_strength_20d": 0.098112,
-      "score": 0.234289,
+      "price": 425.68,
+      "reason": "5d -2.3%; 20d +9.0%; vs SPY +10.2%; RSI 63; volume 0.8x; volatility 25.8%; news +0.33",
+      "relative_strength_20d": 0.101992,
+      "score": 0.285303,
       "symbol": "V"
     },
     {
       "news_score": 0.333333,
-      "price": 657.83,
-      "reason": "5d -2.2%; 20d +9.0%; vs SPY +10.2%; RSI 64; volume 0.3x; volatility 28.5%; news +0.33",
-      "relative_strength_20d": 0.102273,
-      "score": 0.233356,
+      "price": 660.22,
+      "reason": "5d -1.8%; 20d +9.4%; vs SPY +10.7%; RSI 65; volume 0.4x; volatility 28.4%; news +0.33",
+      "relative_strength_20d": 0.106826,
+      "score": 0.277962,
       "symbol": "MA"
+    },
+    {
+      "news_score": 0.0,
+      "price": 390.75,
+      "reason": "5d +1.4%; 20d +6.4%; vs SPY +7.6%; RSI 56; volume 0.7x; volatility 60.4%; news +0.00",
+      "relative_strength_20d": 0.075986,
+      "score": 0.269085,
+      "symbol": "TSLA"
     }
   ],
   "universe_size": 37
