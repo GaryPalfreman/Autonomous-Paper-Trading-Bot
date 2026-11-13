@@ -1,302 +1,328 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": false,
-  "benchmark_price": 757.37,
+  "benchmark_price": 753.61,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.648649,
+  "breadth_above_20d_average": 0.621622,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-11-13T01:28:18.323001+00:00",
-  "latest_market_timestamp": "2026-11-12T21:58:26.191520776Z",
-  "market_is_open": false,
+  "generated_at": "2026-11-13T20:11:00.364414+00:00",
+  "latest_market_timestamp": "2026-11-13T20:10:59.015454485Z",
+  "market_is_open": true,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
   "next_close": "2026-11-13T16:00:00-05:00",
-  "next_open": "2026-11-13T09:30:00-05:00",
+  "next_open": "2026-11-16T09:30:00-05:00",
   "recent_news": [
     {
-      "created_at": "2026-11-13T01:03:32Z",
-      "headline": "The Wall Street Journal Reported JPMorgan Chase Blocking Some Agentic Purchases With Chase Cards; Merchants Have Complained To Visa, Mastercard About Higher Fees From Certain Agentic Transactions",
+      "created_at": "2026-11-13T20:06:46Z",
+      "headline": "Nancy Pelosi\u2019s Nvidia Bet Just Cost Her Most Of A Year\u2019s Pay \u2014 Thanks To Jensen Huang",
       "source": "benzinga",
       "symbols": [
-        "JPM",
-        "MA",
+        "NVDA",
+        "TSLA",
         "V"
       ],
-      "url": "https://www.benzinga.com/quote/MA"
+      "url": "https://www.benzinga.com/news/politics/26/11/63264694/nancy-pelosis-nvidia-bet-just-cost-her-most-of-a-years-pay-thanks-to-jensen-huang"
     },
     {
-      "created_at": "2026-11-13T00:27:59Z",
-      "headline": "Fed's Williams Said Inflation Remains Stubbornly Persistent , High; Fed Continues Steady Data Collection; Will Need To Take Action Over Time To Bring Inflation Back To 2%",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/quote/SPY"
-    },
-    {
-      "created_at": "2026-11-13T00:26:23Z",
-      "headline": "NY Fed President Williams, Speaking At UC Berkley, Said Says US Economy Has Been Resilient, Growth Strong But Not Overheating",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/quote/SPY"
-    },
-    {
-      "created_at": "2026-11-13T00:01:49Z",
-      "headline": "Eli Lilly Presents New Clinical Data at ACR Convergence 2026",
+      "created_at": "2026-11-13T20:01:49Z",
+      "headline": "Texas Attorney General Threatens Potential Tesla-SpaceX Merger",
       "source": "fiscal.ai",
-      "symbols": [
-        "LLY"
-      ],
-      "url": "https://www.patientcareonline.com/view/retatrutide-phase-3-trials-report-reduced-knee-osteoarthritis-pain"
-    },
-    {
-      "created_at": "2026-11-12T23:30:17Z",
-      "headline": "Tesla Launches Over 20 New Merchandise Products for Holidays and Some are Already Sold Out: Here\u2019s the List",
-      "source": "benzinga",
       "symbols": [
         "TSLA"
       ],
-      "url": "https://www.benzinga.com/markets/large-cap/26/11/63227877/tesla-launches-over-20-new-merchandise-products-for-holidays-and-some-are-already-sold-out-heres-the-list"
+      "url": "https://www.marketscreener.com/news/tesla-spacex-merger-threatened-by-newly-elected-texas-attorney-general-ce785ed9de8cf523"
     },
     {
-      "created_at": "2026-11-12T23:30:14Z",
-      "headline": "DeSantis Asks How Congress Members With 'No Investment Acumen' Outperform Warren Buffett \u2014 'Oh You Just Happened to Buy Something\u2026Then It Goes Up 150%'",
+      "created_at": "2026-11-13T20:01:29Z",
+      "headline": "Netflix Announces New Animated Series 'PLANESWALKER' Based on Magic: The Gathering",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.cgmagonline.com/news/netflix-planeswalker-magic-the-gatherings/"
+    },
+    {
+      "created_at": "2026-11-13T20:01:29Z",
+      "headline": "Netflix Renews 'Virgin River' for Ninth Season",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.avclub.com/article-type/news"
+    },
+    {
+      "created_at": "2026-11-13T19:58:07Z",
+      "headline": "QUICK SPARK: Broadcom Scores Historic Win Over Nvidia as AVGO-NVDA Gap Explodes",
       "source": "benzinga",
       "symbols": [
-        "BRK",
+        "AVGO",
+        "NVDA",
+        "SMH"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/11/63264147/broadcom-stock-beating-nvidia-record-week-jensen-huang"
+    },
+    {
+      "created_at": "2026-11-13T19:51:56Z",
+      "headline": "'Meta Testing New Prediction-Market App With Employees'- WSJ",
+      "source": "benzinga",
+      "symbols": [
+        "DKNG",
+        "FLUT",
+        "META"
+      ],
+      "url": "https://www.benzinga.com/news/26/11/63263848/meta-testing-new-prediction-market-app-employees-wsj"
+    },
+    {
+      "created_at": "2026-11-13T19:46:27Z",
+      "headline": "'Hassett Denies Report He\u2019s Leaving White House: \u2018Not True'- CNBC",
+      "source": "benzinga",
+      "symbols": [
         "SPY"
       ],
-      "url": "https://www.benzinga.com/news/politics/26/11/63227874/desantis-asks-how-congress-members-with-no-investment-acumen-outperform-warren-buffett-oh-you-just-happened-to-buy-somethingthen-it-goes-up-150"
+      "url": "https://www.benzinga.com/news/26/11/63263618/hassett-denies-report-he-s-leaving-white-house-not-true-cnbc"
     },
     {
-      "created_at": "2026-11-12T22:56:23Z",
-      "headline": "TQQQ ETF Barely Outpaces QQQ Despite Its 3X Leverage",
-      "source": "benzinga",
-      "symbols": [
-        "QQQ",
-        "TQQQ"
-      ],
-      "url": "https://www.benzinga.com/opinion/26/11/63227572/tqqq-etf-barely-outpaces-qqq-despite-its-3x-leverage"
-    },
-    {
-      "created_at": "2026-11-12T22:32:07Z",
-      "headline": "From AI Chips to Rocket Ships: Will Jensen Huang Join Elon Musk?",
+      "created_at": "2026-11-13T19:45:06Z",
+      "headline": "Elon Musk's SpaceX\u2013Tesla Merger 'Almost Inconceivable' to Avoid, Biographer Says",
       "source": "benzinga",
       "symbols": [
         "NVDA",
         "SPCX",
         "TSLA"
       ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63227294/jensen-huang-spacex"
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63263558/spacex-tesla-merger-2"
     },
     {
-      "created_at": "2026-11-12T22:32:01Z",
-      "headline": "ExxonMobil Advances Next Phase of Guyana Development with Longtail",
-      "source": "fiscal.ai",
-      "symbols": [
-        "XOM"
-      ],
-      "url": "https://www.barchart.com/press-releases/8810194/exxonmobil-advances-next-phase-of-guyana-development-with-longtail"
-    },
-    {
-      "created_at": "2026-11-12T22:31:53Z",
-      "headline": "Visa Expands Stablecoin Settlement Capabilities with Anchorage Digital",
-      "source": "fiscal.ai",
-      "symbols": [
-        "V"
-      ],
-      "url": "https://www.pymnts.com/news/b2b-payments/2026/visa-expands-stablecoin-services-with-anchorage-partnership/"
-    },
-    {
-      "created_at": "2026-11-12T22:31:53Z",
-      "headline": "Visa Direct Integrates with AviaGames for Real-Time Payouts",
-      "source": "fiscal.ai",
-      "symbols": [
-        "V"
-      ],
-      "url": "https://www.pymnts.com/news/payments-innovation/2026/visa-helps-aviagames-players-get-paid-faster/"
-    },
-    {
-      "created_at": "2026-11-12T22:31:52Z",
-      "headline": "Mastercard Completes Live AI-Powered Travel Booking",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MA"
-      ],
-      "url": "https://www.pymnts.com/transportation/travel-payments/2026/mastercard-touts-successful-agentic-travel-transaction/"
-    },
-    {
-      "created_at": "2026-11-12T22:31:50Z",
-      "headline": "Eli Lilly Breaks Ground on $3.5 Billion Manufacturing Facility in Pennsylvania",
-      "source": "fiscal.ai",
-      "symbols": [
-        "LLY"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/lilly-breaks-ground-in-pennsylvanias-lehigh-valley-on-a-3-5-billion-site-to-make-next-generation-obesity-medicines-the-latest-of-10-new-us-sites-since-2020--302938234.html"
-    },
-    {
-      "created_at": "2026-11-12T22:31:44Z",
-      "headline": "Caterpillar Awarded $50 Million Annualized Contract for Data Center Energy Storage",
-      "source": "fiscal.ai",
-      "symbols": [
-        "CAT"
-      ],
-      "url": "https://www.fidelity.com/news/article/technology/202611121630PRIMZONEFULLFEED9876771"
-    },
-    {
-      "created_at": "2026-11-12T22:31:38Z",
-      "headline": "XTI Aerospace Secures Credit Facility Amendment with JPMorgan Chase Bank",
-      "source": "fiscal.ai",
-      "symbols": [
-        "JPM"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/xti-aerospace-successfully-completes-restructuring-of-approximately-4-7-million-of-promissory-notes-and-secures-waiver-and-amendment-of-revolving-credit-facility-with-jpmorgan-chase-bank-na-302938403.html"
-    },
-    {
-      "created_at": "2026-11-12T22:31:35Z",
-      "headline": "Microsoft 365 Experiences Service Outage",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MSFT"
-      ],
-      "url": "https://www.manilatimes.net/2026/11/13/world/americas-emea/major-outage-hits-microsoft-outlook/2469181"
-    },
-    {
-      "created_at": "2026-11-12T22:30:18Z",
-      "headline": "AOC Says Five Guys in Tuxedos Shouldn\u2019t Control the Economy: \u2018We Need to Check These Guys Power\u2019",
+      "created_at": "2026-11-13T19:26:33Z",
+      "headline": "Jensen Huang Joins Wall Street\u2019s Fallen-Founder Hall of Fame: 13 Founders Who Fell Before Him",
       "source": "benzinga",
       "symbols": [
-        "AAPL",
-        "AMZN",
-        "GOOG",
-        "GOOGL",
-        "META",
-        "MSFT",
+        "ANF",
+        "GIL",
+        "JPM",
         "NVDA",
-        "QQQ",
-        "SPY",
-        "TSLA"
+        "PENN",
+        "UBER"
       ],
-      "url": "https://www.benzinga.com/news/politics/26/11/63227251/aoc-says-five-guys-in-tuxedos-shouldnt-control-the-economy-we-need-to-check-these-guys-power"
+      "url": "https://www.benzinga.com/markets/equities/26/11/63262520/jensen-huang-joins-wall-streets-fallen-founder-hall-of-fame-13-founders-who-fell-before-him"
     },
     {
-      "created_at": "2026-11-12T22:12:57Z",
-      "headline": "EXCLUSIVE: Jay Woods Names \u2018Stock to Watch in 2027\u2019 Amid Potential Democratic Big Tech Breakups",
+      "created_at": "2026-11-13T19:25:47Z",
+      "headline": "Amazon Issues An Update On Labour Proceedings In Delta, BC",
       "source": "benzinga",
       "symbols": [
-        "GE",
-        "GEV",
-        "GOOG",
-        "GOOGL",
-        "SNDK",
-        "WDC"
+        "AMZN"
       ],
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63226690/exclusive-jay-woods-names-stock-to-watch-in-2027-amid-potential-democratic-big-tech-breakups"
+      "url": "https://www.benzinga.com/news/26/11/63262456/amazon-issues-update-labour-proceedings-delta-bc"
     },
     {
-      "created_at": "2026-11-12T22:00:12Z",
-      "headline": "Jensen Huang Drops Out of Top 10 Richest, Elon Musk Now 6.3x Richer Than Former Nvidia CEO",
+      "created_at": "2026-11-13T19:15:28Z",
+      "headline": "CNBC Reporter Seema Mody Posts On X \"Nvidia board to @CNBC:\"We are in the process of selecting a search firm for the NVIDIA CEO role. We have not formally engaged any potential candidates. Any speculation regarding individual candidates, whether internal or external, is premature.\"",
       "source": "benzinga",
       "symbols": [
         "NVDA"
       ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63226051/jensen-huang-drops-out-of-top-10-richest-elon-musk-now-6-3x-richer-than-former-nvidia-ceo"
+      "url": "https://www.benzinga.com/news/26/11/63261821/cnbc-reporter-seema-mody-posts-x-nvidia-board-cnbc-we-are-process-selecting-search-firm-nvidia-ceo-r"
     },
     {
-      "created_at": "2026-11-12T21:45:15Z",
-      "headline": "If You Invested $1000 In UnitedHealth Group Stock 20 Years Ago, You Would Have This Much Today",
+      "created_at": "2026-11-13T19:13:01Z",
+      "headline": "'Hassett expected to depart White House'- Semafor",
       "source": "benzinga",
       "symbols": [
-        "UNH"
+        "SPY"
       ],
-      "url": "https://www.benzinga.com/news/26/11/63225411/if-you-invested-1000-unitedhealth-group-stock-20-years-ago-you-would-have-much-today"
+      "url": "https://www.benzinga.com/news/26/11/63261679/hassett-expected-depart-white-house-semafor"
+    },
+    {
+      "created_at": "2026-11-13T19:01:48Z",
+      "headline": "Levi & Korsinsky Investigates Caterpillar Inc. Following Third Quarter Results",
+      "source": "fiscal.ai",
+      "symbols": [
+        "CAT"
+      ],
+      "url": "https://www.financialcontent.com/article/accwirecq-2026-11-13-caterpillar-inc-cat-securities-investigation-notice-levi-and-korsinsky"
+    },
+    {
+      "created_at": "2026-11-13T19:01:24Z",
+      "headline": "Apple Launches HomeView Smart Home Hub",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://appleosophy.com/wire/l1uksdi/"
+    },
+    {
+      "created_at": "2026-11-13T19:01:22Z",
+      "headline": "Microsoft Experiences Widespread Global Service Outage",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.newswire.lk/2026/11/13/widespread-microsoft-outage-takes-down-outlook-and-other-365-services/"
+    },
+    {
+      "created_at": "2026-11-13T19:00:51Z",
+      "headline": "Warburg Pincus Made 55% On Its First Fund. Now It Wants $5 Billion More",
+      "source": "benzinga",
+      "symbols": [
+        "GE",
+        "MIAX"
+      ],
+      "url": "https://www.benzinga.com/markets/private-markets/26/11/63261048/warburg-pincus-made-55-on-its-first-fund-now-it-wants-5-billion-more"
+    },
+    {
+      "created_at": "2026-11-13T18:48:28Z",
+      "headline": "AMD Bulls Make a Killing With 2X ETFs, But Friday\u2019s 20% Rout Delivers a Reality Check",
+      "source": "benzinga",
+      "symbols": [
+        "AMD",
+        "AMDC",
+        "AMDG",
+        "AMDL",
+        "AMUU",
+        "AVGO",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/11/63260317/amd-bulls-make-a-killing-with-2x-etfs-but-fridays-20-rout-delivers-a-reality-check"
+    },
+    {
+      "created_at": "2026-11-13T18:42:16Z",
+      "headline": "AMD Stock Has Outrun Nvidia 5X Since 2024. But There\u2019s a Valuation Catch",
+      "source": "benzinga",
+      "symbols": [
+        "AMD",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63259929/amd-stock-nvidia-valuation-catch"
+    },
+    {
+      "created_at": "2026-11-13T18:41:08Z",
+      "headline": "AMD Sinks 10.5% as Chip Rally Unwinds, Nasdaq 100 Falls 1.7%: Stock Market Today",
+      "source": "benzinga",
+      "symbols": [
+        "ALM",
+        "AMD",
+        "APLD",
+        "BTCUSD",
+        "COHR",
+        "CSCO",
+        "DELL",
+        "DIA",
+        "FN",
+        "FOUR",
+        "GPN",
+        "IREN",
+        "IWM",
+        "MOD",
+        "MSFT",
+        "NU",
+        "NVDA",
+        "QQQ",
+        "SMH",
+        "SSNLF",
+        "TOST",
+        "VKTX",
+        "VOO",
+        "XLK",
+        "XLP"
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/11/63259862/stock-market-today-amd-nvidia-chip-selloff-cisco-modine-november-13"
+    },
+    {
+      "created_at": "2026-11-13T18:27:09Z",
+      "headline": "How Did Dell Servers With Restricted NVIDIA Chips End Up in China?",
+      "source": "benzinga",
+      "symbols": [
+        "DELL",
+        "NVDA"
+      ],
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63259145/how-did-dell-servers-with-restricted-nvidia-chips-end-up-in-china"
     }
   ],
   "regime": "DEFENSIVE",
-  "regime_score": -0.610811,
+  "regime_score": -0.627027,
   "top_candidates": [
     {
       "news_score": 0.0,
-      "price": 1430.99,
-      "reason": "5d +4.7%; 20d +14.3%; vs SPY +16.2%; RSI 75; volume 0.7x; volatility 37.7%; news +0.00",
-      "relative_strength_20d": 0.161868,
-      "score": 0.679052,
+      "price": 1447.97,
+      "reason": "5d +7.0%; 20d +15.3%; vs SPY +16.6%; RSI 76; volume 0.6x; volatility 37.7%; news +0.00",
+      "relative_strength_20d": 0.165766,
+      "score": 0.686062,
       "symbol": "LLY"
     },
     {
       "news_score": 0.0,
-      "price": 1092.66,
-      "reason": "5d +2.5%; 20d +11.9%; vs SPY +13.8%; RSI 72; volume 0.9x; volatility 22.7%; news +0.00",
-      "relative_strength_20d": 0.137751,
-      "score": 0.588157,
+      "price": 1102.9,
+      "reason": "5d +4.7%; 20d +11.6%; vs SPY +12.9%; RSI 78; volume 0.7x; volatility 22.6%; news +0.00",
+      "relative_strength_20d": 0.129183,
+      "score": 0.678229,
       "symbol": "COST"
     },
     {
       "news_score": 0.0,
-      "price": 365.51,
-      "reason": "5d +25.4%; 20d +6.2%; vs SPY +8.0%; RSI 60; volume 2.3x; volatility 69.9%; news +0.00",
-      "relative_strength_20d": 0.080292,
-      "score": 0.583221,
-      "symbol": "AVGO"
-    },
-    {
-      "news_score": 0.0,
-      "price": 397.425,
-      "reason": "5d +15.7%; 20d +9.7%; vs SPY +11.5%; RSI 52; volume 0.8x; volatility 60.2%; news +0.00",
-      "relative_strength_20d": 0.115215,
-      "score": 0.552193,
+      "price": 390.505,
+      "reason": "5d +9.0%; 20d +10.1%; vs SPY +11.4%; RSI 44; volume 0.8x; volatility 60.0%; news +0.00",
+      "relative_strength_20d": 0.11384,
+      "score": 0.538164,
       "symbol": "TSLA"
     },
     {
       "news_score": 0.0,
-      "price": 330.87,
-      "reason": "5d +5.1%; 20d +6.0%; vs SPY +7.9%; RSI 68; volume 0.8x; volatility 44.8%; news +0.00",
-      "relative_strength_20d": 0.079054,
-      "score": 0.526897,
-      "symbol": "GE"
-    },
-    {
-      "news_score": 0.333333,
-      "price": 120.44,
-      "reason": "5d +2.4%; 20d +6.2%; vs SPY +8.1%; RSI 65; volume 0.9x; volatility 27.2%; news +0.33",
-      "relative_strength_20d": 0.08074,
-      "score": 0.458046,
-      "symbol": "XLY"
-    },
-    {
-      "news_score": 0.0,
-      "price": 348.275,
-      "reason": "5d -0.5%; 20d +13.0%; vs SPY +14.8%; RSI 68; volume 0.7x; volatility 38.0%; news +0.00",
-      "relative_strength_20d": 0.148431,
-      "score": 0.387127,
+      "price": 347.94,
+      "reason": "5d +1.3%; 20d +12.4%; vs SPY +13.6%; RSI 68; volume 0.7x; volatility 38.1%; news +0.00",
+      "relative_strength_20d": 0.136432,
+      "score": 0.484047,
       "symbol": "HD"
     },
     {
       "news_score": 0.0,
-      "price": 267.39,
-      "reason": "5d +2.6%; 20d +5.0%; vs SPY +6.8%; RSI 63; volume 0.9x; volatility 42.8%; news +0.00",
-      "relative_strength_20d": 0.068234,
-      "score": 0.363071,
-      "symbol": "AMZN"
+      "price": 127.42,
+      "reason": "5d +1.6%; 20d +7.3%; vs SPY +8.5%; RSI 68; volume 0.7x; volatility 26.0%; news +0.00",
+      "relative_strength_20d": 0.085299,
+      "score": 0.371308,
+      "symbol": "WMT"
     },
     {
       "news_score": 0.0,
-      "price": 187.83,
-      "reason": "5d +1.5%; 20d +6.0%; vs SPY +7.9%; RSI 69; volume 0.7x; volatility 21.1%; news +0.00",
-      "relative_strength_20d": 0.078886,
-      "score": 0.337591,
+      "price": 188.99,
+      "reason": "5d +2.3%; 20d +7.0%; vs SPY +8.3%; RSI 71; volume 0.3x; volatility 21.0%; news +0.00",
+      "relative_strength_20d": 0.082535,
+      "score": 0.356924,
       "symbol": "XLV"
     },
     {
       "news_score": 0.0,
-      "price": 354.85,
-      "reason": "5d +3.1%; 20d +3.9%; vs SPY +5.7%; RSI 58; volume 0.9x; volatility 28.0%; news +0.00",
-      "relative_strength_20d": 0.057294,
-      "score": 0.326598,
+      "price": 356.94,
+      "reason": "5d +4.3%; 20d +4.0%; vs SPY +5.3%; RSI 57; volume 0.6x; volatility 28.0%; news +0.00",
+      "relative_strength_20d": 0.052987,
+      "score": 0.356209,
       "symbol": "AAPL"
+    },
+    {
+      "news_score": 0.083333,
+      "price": 343.12,
+      "reason": "5d +16.9%; 20d +4.4%; vs SPY +5.7%; RSI 50; volume 0.7x; volatility 70.5%; news +0.08",
+      "relative_strength_20d": 0.056642,
+      "score": 0.355292,
+      "symbol": "AVGO"
+    },
+    {
+      "news_score": 0.0,
+      "price": 660.36,
+      "reason": "5d +1.1%; 20d +6.9%; vs SPY +8.2%; RSI 70; volume 0.7x; volatility 28.4%; news +0.00",
+      "relative_strength_20d": 0.082132,
+      "score": 0.351339,
+      "symbol": "MA"
+    },
+    {
+      "news_score": 0.333333,
+      "price": 331.4,
+      "reason": "5d +2.5%; 20d +5.5%; vs SPY +6.8%; RSI 65; volume 0.3x; volatility 44.7%; news +0.33",
+      "relative_strength_20d": 0.068188,
+      "score": 0.348566,
+      "symbol": "GE"
     }
   ],
   "universe_size": 37
