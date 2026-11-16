@@ -1,293 +1,282 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": false,
-  "benchmark_price": 752.09,
+  "benchmark_price": 740.04,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.621622,
+  "breadth_above_20d_average": 0.486486,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-11-14T00:52:37.850870+00:00",
-  "latest_market_timestamp": "2026-11-13T21:57:09.356125782Z",
+  "generated_at": "2026-11-16T22:40:49.588966+00:00",
+  "latest_market_timestamp": "2026-11-16T21:53:28.957530675Z",
   "market_is_open": false,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
-  "next_close": "2026-11-16T16:00:00-05:00",
-  "next_open": "2026-11-16T09:30:00-05:00",
+  "next_close": "2026-11-17T16:00:00-05:00",
+  "next_open": "2026-11-17T09:30:00-05:00",
   "recent_news": [
     {
-      "created_at": "2026-11-14T00:01:27Z",
-      "headline": "JPMorgan Chase Declares Dividends on Series II, OO, and PP Preferred Stock",
-      "source": "fiscal.ai",
-      "symbols": [
-        "JPM"
-      ],
-      "url": "https://www.moomoo.com/hans/news/post/1004625917/press-release-jpmorganchase-declares-preferred-stock-dividends"
-    },
-    {
-      "created_at": "2026-11-13T22:47:18Z",
-      "headline": "'Outages Include Air Traffic Control Radars And Radio Frequencies, Source Says'- CNN",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/63272299/outages-include-air-traffic-control-radars-and-radio-frequencies-source-says-cnn"
-    },
-    {
-      "created_at": "2026-11-13T22:32:09Z",
-      "headline": "Amazon YVR2 Fulfillment Center Workers Covered by Binding Collective Agreement",
+      "created_at": "2026-11-16T22:31:22Z",
+      "headline": "Instagram Launches Integration for Amazon Affiliate Links",
       "source": "fiscal.ai",
       "symbols": [
         "AMZN"
       ],
-      "url": "https://www.newswire.ca/news-releases/amazon-workers-in-delta-win-first-union-contract-in-north-america-888332994.html"
+      "url": "https://newsfilter.io/articles/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts-2c6d5f0747ae5ab0a3c96b0d6d701a1b"
     },
     {
-      "created_at": "2026-11-13T22:31:55Z",
-      "headline": "Costco Wholesale Insider Executes Share Sale",
+      "created_at": "2026-11-16T22:31:21Z",
+      "headline": "Class Action Lawsuit Filed Against Microsoft Following Global 365 Outage",
       "source": "fiscal.ai",
       "symbols": [
-        "COST"
+        "MSFT"
       ],
-      "url": "https://www.marketscreener.com/news/costco-wholesale-insider-sold-shares-worth-829-065-according-to-a-recent-sec-filing-ce785eded980fe27"
+      "url": "https://www.newswire.ca/news-releases/microsoft-outage-triggers-canada-wide-class-action-lawsuit-852582849.html"
     },
     {
-      "created_at": "2026-11-13T22:31:27Z",
-      "headline": "Epic Games Files Response Brief in Supreme Court Contempt Case Against Apple",
+      "created_at": "2026-11-16T21:31:55Z",
+      "headline": "Chevron Nears $5 Billion Purchase of Majority Stake in Blackstone-Backed Beacon Offshore",
+      "source": "fiscal.ai",
+      "symbols": [
+        "CVX"
+      ],
+      "url": "https://www.marketscreener.com/news/chevron-nears-5-billion-purchase-of-majority-stake-in-blackstone-backed-beacon-offshore-ce785edfdd80ff2c"
+    },
+    {
+      "created_at": "2026-11-16T21:31:29Z",
+      "headline": "Tahari Parfums Launches Holiday Fragrance Gift Sets at Walmart",
+      "source": "fiscal.ai",
+      "symbols": [
+        "WMT"
+      ],
+      "url": "https://www.einpresswire.com/article/957067560/tahari-parfums-launches-men-s-and-women-s-holiday-fragrance-gift-sets-at-walmart"
+    },
+    {
+      "created_at": "2026-11-16T21:31:29Z",
+      "headline": "Once Upon a Coconut Expands Nationwide at Walmart",
+      "source": "fiscal.ai",
+      "symbols": [
+        "WMT"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/once-upon-a-coconut-reaches-4-500-walmart-stores-in-largest-retail-expansion-to-date-302939969.html"
+    },
+    {
+      "created_at": "2026-11-16T21:31:25Z",
+      "headline": "Apple Releases iOS 27.3 Developer Beta Featuring 'Face Unlock' for iPhone Duo",
       "source": "fiscal.ai",
       "symbols": [
         "AAPL"
       ],
-      "url": "https://appleosophy.com/wire/0f4obpw/"
+      "url": "https://newsfilter.io/articles/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id-4bcfeb7f1ab45ccd98350e3cc94c1985"
     },
     {
-      "created_at": "2026-11-13T22:11:16Z",
-      "headline": "'FBI Said to Probe Whether Software Update Caused Mass FAA Outage'- Bloomberg",
-      "source": "benzinga",
+      "created_at": "2026-11-16T21:31:25Z",
+      "headline": "Apple Appoints 26-Year Veteran Corey Fugman to Lead Payments and Wallet Unit",
+      "source": "fiscal.ai",
       "symbols": [
-        "SPY"
+        "AAPL"
       ],
-      "url": "https://www.benzinga.com/news/26/11/63271680/fbi-said-probe-whether-software-update-caused-mass-faa-outage-bloomberg"
+      "url": "https://appleosophy.com/wire/qv14pwk/"
     },
     {
-      "created_at": "2026-11-13T22:00:08Z",
-      "headline": "Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree",
-      "source": "benzinga",
-      "symbols": [
-        "BTCUSD",
-        "ETHUSD",
-        "NVDA",
-        "XRPUSD"
-      ],
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63271367/bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree"
-    },
-    {
-      "created_at": "2026-11-13T21:52:02Z",
-      "headline": "'The Reason For The Ground Stop Was Not Immediately Clear; Preliminary Reports Indicate This Is Not A Cyberattack, According To Two Law Enforcement Officials'-CNN",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/63271193/reason-ground-stop-was-not-immediately-clear-preliminary-reports-indicate-not-cyberattack-according-"
-    },
-    {
-      "created_at": "2026-11-13T21:48:57Z",
-      "headline": "\u2018Nvidia Letting Jensen Go is Terrible for America\u2019: Podcaster Lex Fridman Compares Chipmaker to Apple Firing Steve Jobs",
-      "source": "benzinga",
-      "symbols": [
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63271091/nvidia-letting-jensen-go-is-terrible-for-america-podcaster-lex-fridman-compares-chipmaker-to-apple-firing-steve-jobs"
-    },
-    {
-      "created_at": "2026-11-13T21:45:15Z",
-      "headline": "$100 Invested In Mastercard 15 Years Ago Would Be Worth This Much Today",
-      "source": "benzinga",
-      "symbols": [
-        "MA"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/63270885/100-invested-mastercard-15-years-ago-would-be-worth-much-today"
-    },
-    {
-      "created_at": "2026-11-13T21:43:25Z",
-      "headline": "'US Treasury Weighs Short-Term Loan to Help Venezuela Pay IDB Debt'- Bloomberg",
-      "source": "benzinga",
-      "symbols": [
-        "SPY",
-        "USO"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/63270821/us-treasury-weighs-short-term-loan-help-venezuela-pay-idb-debt-bloomberg"
-    },
-    {
-      "created_at": "2026-11-13T21:41:05Z",
-      "headline": "Total Delays Into Or Out Of U.S. Today Reaches 6,575",
-      "source": "benzinga",
-      "symbols": [
-        "SPY"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/63270748/total-delays-or-out-u-s-today-reaches-6-575"
-    },
-    {
-      "created_at": "2026-11-13T21:33:05Z",
-      "headline": "Rosenblatt Maintains Buy on NVIDIA, Lowers Price Target to $300",
-      "source": "benzinga",
-      "symbols": [
-        "NVDA"
-      ],
-      "url": "https://www.benzinga.com/news/26/11/63270399/rosenblatt-maintains-buy-nvidia-lowers-price-target-300"
-    },
-    {
-      "created_at": "2026-11-13T21:31:30Z",
-      "headline": "Bank of America Corporation Discloses Position in easyJet plc",
+      "created_at": "2026-11-16T21:31:22Z",
+      "headline": "Bank of America Experiences Online Account Access Issues",
       "source": "fiscal.ai",
       "symbols": [
         "BAC"
       ],
-      "url": "https://www.investegate.co.uk/announcement/rns/easyjet--ezj/form-8-3-easyjet-plc/9875188"
+      "url": "https://newsfilter.io/articles/customers-at-some-of-the-u-s-s-largest-banks-are-reporting-difficulty-accessing-4d5f007270e35126bfa22d0015e4c0fb"
     },
     {
-      "created_at": "2026-11-13T21:31:27Z",
-      "headline": "Apple Releases tvOS 27.2.1 Update",
+      "created_at": "2026-11-16T20:02:56Z",
+      "headline": "JPMorgan Chase Discloses 5.22% Stake in Sibanye-Stillwater",
+      "source": "fiscal.ai",
+      "symbols": [
+        "JPM"
+      ],
+      "url": "https://irw-press.com/de/mitteilung-ueber-den-erwerb-einer-wirtschaftlichen-beteiligung-an-wertpapieren-durch-jpmorgan-chase-co/"
+    },
+    {
+      "created_at": "2026-11-16T20:02:24Z",
+      "headline": "Mubadala Investment Co. PJSC Increases Stake in UnitedHealth Group",
+      "source": "fiscal.ai",
+      "symbols": [
+        "UNH"
+      ],
+      "url": "https://www.moomoo.com/news/flash/1004769360/mubadala-investment-co-pjsc-raises-share-stake-in-unitedhealth-group"
+    },
+    {
+      "created_at": "2026-11-16T19:01:43Z",
+      "headline": "JPMorgan Chase and Other Major Banks Experience Online Banking Outages",
+      "source": "fiscal.ai",
+      "symbols": [
+        "JPM"
+      ],
+      "url": "https://www.barchart.com/story/news/8859950/customers-at-some-of-the-nation-s-largest-banks-are-reporting-difficulty-accessing-accounts-online"
+    },
+    {
+      "created_at": "2026-11-16T19:01:36Z",
+      "headline": "Apple and OpenEvidence Launch Virtual Health AI Research Study",
       "source": "fiscal.ai",
       "symbols": [
         "AAPL"
       ],
-      "url": "https://appleosophy.com/2026/11/13/apple-rolls-out-tvos-27-2-1-with-support-for-siri-ai-on-older-apple-tv-models/"
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-and-openevidence-seek-200000-consumers-for-health-ai-study/"
     },
     {
-      "created_at": "2026-11-13T21:31:27Z",
-      "headline": "Amazon Developing 'World Product Graph' to Expand Shopping Data",
+      "created_at": "2026-11-16T19:01:35Z",
+      "headline": "Philippine Airlines Finalizes Order for 15 Boeing 787-10 Aircraft and GEnx-1B Engines",
+      "source": "fiscal.ai",
+      "symbols": [
+        "GE"
+      ],
+      "url": "https://www.manilatimes.net/2026/11/17/news/national/pal-finalizes-deal-for-15-dreamliners-ge-engines/2471026"
+    },
+    {
+      "created_at": "2026-11-16T19:01:33Z",
+      "headline": "Amnesty International Reports Continued Labor Issues at Amazon Saudi Arabia Facilities",
       "source": "fiscal.ai",
       "symbols": [
         "AMZN"
       ],
-      "url": "https://www.pymnts.com/commerce/ecommerce/2026/amazon-targets-google-walmart-with-plan-catalog-every-product-online/"
+      "url": "https://www.manilatimes.net/2026/11/17/business/foreign-business/amnesty-amazons-migrant-workers-still-being-exploited/2471194"
     },
     {
-      "created_at": "2026-11-13T21:21:29Z",
-      "headline": "'Trump will have historic meeting with Xi, Putin in China to talk nuclear arms control' - NY Post",
-      "source": "benzinga",
+      "created_at": "2026-11-16T19:01:26Z",
+      "headline": "Court Grants Intervention in Broadcom and VMware Legal Case",
+      "source": "fiscal.ai",
       "symbols": [
-        "FXI",
-        "SPY"
+        "AVGO"
       ],
-      "url": "https://www.benzinga.com/news/26/11/63269869/trump-will-have-historic-meeting-xi-putin-china-talk-nuclear-arms-control-ny-post"
+      "url": "https://www.globenewswire.com/news-release/2026/11/16/3404028/25851/en/acc-granted-leave-to-intervene-before-eu-general-court-in-broadcom-legal-privilege-case.html"
     },
     {
-      "created_at": "2026-11-13T21:19:20Z",
-      "headline": "'FAA confirms nationwide ground stop due to widespread ATC frequency issues' - The Air Current",
-      "source": "benzinga",
+      "created_at": "2026-11-16T19:01:25Z",
+      "headline": "NVIDIA Announces Quantum Computing Collaborations with IBM and Fermilab",
+      "source": "fiscal.ai",
       "symbols": [
-        "SPY"
+        "NVDA"
       ],
-      "url": "https://www.benzinga.com/economics/macro-economic-events/26/11/63269765/faa-confirms-nationwide-ground-stop-due-widespread-atc-frequency-issues-air-current"
+      "url": "https://www.globenewswire.com/news-release/2026/11/16/3403878/0/en/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practi.html"
     },
     {
-      "created_at": "2026-11-13T21:17:32Z",
-      "headline": "Nvidia Loses Its Founder, AMD and Broadcom Take the Crown: This Week on Wall Street",
-      "source": "benzinga",
+      "created_at": "2026-11-16T19:01:25Z",
+      "headline": "NVIDIA Introduces Nemotron for Science Platform",
+      "source": "fiscal.ai",
       "symbols": [
-        "AMD",
-        "ANET",
-        "AVGO",
-        "BTCUSD",
-        "DELL",
-        "NVDA",
-        "SMH"
+        "NVDA"
       ],
-      "url": "https://www.benzinga.com/markets/market-summary/26/11/63269563/this-week-on-wall-street-nvidia-huang-amd-broadcom-fed-hike"
+      "url": "https://www.globenewswire.com/news-release/2026/11/16/3403880/0/en/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents.html"
     },
     {
-      "created_at": "2026-11-13T21:01:37Z",
-      "headline": "Federal Aviation Administration Issues National Ground Stop, Citing 'Extraordinary Circumstances'",
-      "source": "benzinga",
+      "created_at": "2026-11-16T19:01:25Z",
+      "headline": "NVIDIA Launches Vera CPU Platform for High-Performance Computing",
+      "source": "fiscal.ai",
       "symbols": [
-        "SPY"
+        "NVDA"
       ],
-      "url": "https://www.benzinga.com/content/63268257/federal-aviation-administration-issues-national-ground-stop-citing-extraordinary-circumstances"
+      "url": "https://www.globenewswire.com/news-release/2026/11/16/3403879/0/en/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery.html"
+    },
+    {
+      "created_at": "2026-11-16T19:01:20Z",
+      "headline": "Thread AI Joins Microsoft for Startups Pegasus Program",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/thread-ai-joins-the-microsoft-for-startups-pegasus-program-to-deliver-its-ai-workflow-orchestration-platform-on-microsoft-marketplace-302940646.html"
+    },
+    {
+      "created_at": "2026-11-16T16:01:32Z",
+      "headline": "ExxonMobil Commences Production at Uaru Development in Guyana",
+      "source": "fiscal.ai",
+      "symbols": [
+        "XOM"
+      ],
+      "url": "https://www.businesswire.com/newsroom/industry/energy/oil-gas"
     }
   ],
   "regime": "DEFENSIVE",
-  "regime_score": -0.627027,
+  "regime_score": -0.708108,
   "top_candidates": [
     {
       "news_score": 0.0,
-      "price": 1106.43,
-      "reason": "5d +5.0%; 20d +12.0%; vs SPY +13.5%; RSI 78; volume 0.9x; volatility 22.7%; news +0.00",
-      "relative_strength_20d": 0.134747,
-      "score": 0.734373,
+      "price": 1114.02,
+      "reason": "5d +4.5%; 20d +12.0%; vs SPY +15.5%; RSI 83; volume 1.3x; volatility 22.7%; news +0.00",
+      "relative_strength_20d": 0.155075,
+      "score": 0.766337,
       "symbol": "COST"
     },
     {
       "news_score": 0.0,
-      "price": 1444.8,
-      "reason": "5d +6.8%; 20d +15.1%; vs SPY +16.5%; RSI 76; volume 0.8x; volatility 37.7%; news +0.00",
-      "relative_strength_20d": 0.165233,
-      "score": 0.704985,
+      "price": 1435.14,
+      "reason": "5d +1.7%; 20d +15.8%; vs SPY +19.3%; RSI 72; volume 1.0x; volatility 37.3%; news +0.00",
+      "relative_strength_20d": 0.192839,
+      "score": 0.561495,
       "symbol": "LLY"
     },
     {
-      "news_score": 0.0,
-      "price": 390.24,
-      "reason": "5d +8.9%; 20d +10.0%; vs SPY +11.5%; RSI 44; volume 1.0x; volatility 60.0%; news +0.00",
-      "relative_strength_20d": 0.115084,
-      "score": 0.559857,
-      "symbol": "TSLA"
+      "news_score": 0.083333,
+      "price": 128.44,
+      "reason": "5d +2.3%; 20d +8.2%; vs SPY +11.7%; RSI 71; volume 0.9x; volatility 26.1%; news +0.08",
+      "relative_strength_20d": 0.116611,
+      "score": 0.497079,
+      "symbol": "WMT"
     },
     {
       "news_score": 0.0,
-      "price": 348.715,
-      "reason": "5d +1.5%; 20d +12.6%; vs SPY +14.1%; RSI 68; volume 0.9x; volatility 38.0%; news +0.00",
-      "relative_strength_20d": 0.140926,
-      "score": 0.528269,
+      "price": 347.65,
+      "reason": "5d -1.6%; 20d +12.2%; vs SPY +15.7%; RSI 68; volume 1.7x; volatility 38.1%; news +0.00",
+      "relative_strength_20d": 0.156532,
+      "score": 0.467327,
       "symbol": "HD"
     },
     {
       "news_score": 0.0,
-      "price": 128.12,
-      "reason": "5d +2.1%; 20d +7.8%; vs SPY +9.3%; RSI 69; volume 0.8x; volatility 26.2%; news +0.00",
-      "relative_strength_20d": 0.093183,
-      "score": 0.449549,
-      "symbol": "WMT"
-    },
-    {
-      "news_score": 0.083333,
-      "price": 346.71,
-      "reason": "5d +18.2%; 20d +5.5%; vs SPY +7.0%; RSI 51; volume 1.0x; volatility 70.2%; news +0.08",
-      "relative_strength_20d": 0.069555,
-      "score": 0.433066,
-      "symbol": "AVGO"
-    },
-    {
-      "news_score": 0.0,
-      "price": 92.335,
-      "reason": "5d +2.5%; 20d +5.4%; vs SPY +6.8%; RSI 68; volume 1.0x; volatility 23.9%; news +0.00",
-      "relative_strength_20d": 0.068423,
-      "score": 0.405437,
+      "price": 92.63,
+      "reason": "5d +1.9%; 20d +6.2%; vs SPY +9.6%; RSI 71; volume 1.0x; volatility 23.7%; news +0.00",
+      "relative_strength_20d": 0.09643,
+      "score": 0.438949,
       "symbol": "XLP"
     },
     {
+      "news_score": 0.333333,
+      "price": 426.535,
+      "reason": "5d +1.2%; 20d +6.0%; vs SPY +9.5%; RSI 67; volume 0.7x; volatility 25.9%; news +0.33",
+      "relative_strength_20d": 0.094677,
+      "score": 0.396561,
+      "symbol": "V"
+    },
+    {
       "news_score": 0.0,
-      "price": 661.16,
-      "reason": "5d +1.3%; 20d +7.1%; vs SPY +8.5%; RSI 70; volume 0.9x; volatility 28.4%; news +0.00",
-      "relative_strength_20d": 0.085419,
-      "score": 0.395583,
+      "price": 187.91,
+      "reason": "5d -0.2%; 20d +7.0%; vs SPY +10.4%; RSI 67; volume 1.3x; volatility 20.9%; news +0.00",
+      "relative_strength_20d": 0.104444,
+      "score": 0.379877,
+      "symbol": "XLV"
+    },
+    {
+      "news_score": 0.0,
+      "price": 44.14,
+      "reason": "5d +0.8%; 20d +6.7%; vs SPY +10.1%; RSI 75; volume 0.7x; volatility 12.7%; news +0.00",
+      "relative_strength_20d": 0.101345,
+      "score": 0.368702,
+      "symbol": "XLU"
+    },
+    {
+      "news_score": 0.0,
+      "price": 662.01,
+      "reason": "5d +1.0%; 20d +7.4%; vs SPY +10.9%; RSI 70; volume 0.6x; volatility 28.4%; news +0.00",
+      "relative_strength_20d": 0.108728,
+      "score": 0.363436,
       "symbol": "MA"
     },
     {
       "news_score": 0.0,
-      "price": 58.675,
-      "reason": "5d +2.7%; 20d +5.7%; vs SPY +7.2%; RSI 65; volume 0.8x; volatility 21.3%; news +0.00",
-      "relative_strength_20d": 0.071939,
-      "score": 0.380418,
+      "price": 58.175,
+      "reason": "5d +0.3%; 20d +5.6%; vs SPY +9.1%; RSI 61; volume 1.3x; volatility 21.4%; news +0.00",
+      "relative_strength_20d": 0.091029,
+      "score": 0.342357,
       "symbol": "XLF"
-    },
-    {
-      "news_score": 0.0,
-      "price": 188.9,
-      "reason": "5d +2.2%; 20d +6.9%; vs SPY +8.4%; RSI 71; volume 0.5x; volatility 21.0%; news +0.00",
-      "relative_strength_20d": 0.084017,
-      "score": 0.378926,
-      "symbol": "XLV"
     }
   ],
   "universe_size": 37
