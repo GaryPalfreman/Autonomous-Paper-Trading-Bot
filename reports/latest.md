@@ -1,6 +1,6 @@
 # Autonomous Paper Portfolio — Latest Update
 
-Generated: 2026-11-17T21:27:23.191880+00:00
+Generated: 2026-11-18T03:01:53.907147+00:00
 Market open: No
 Portfolio value: **$975.77** (-2.42%)
 Cash: **$196.23**
@@ -30,8 +30,8 @@ Long-term simulated goal: **$1,000,000** (0.0976% complete; 1,024.8x remaining)
 ## Highest-ranked signals
 - **COST +0.69** — 5d +4.1%; 20d +11.8%; vs SPY +16.4%; RSI 80; volume 0.9x; volatility 22.8%; news +0.00
 - **WMT +0.44** — 5d +1.6%; 20d +8.1%; vs SPY +12.8%; RSI 64; volume 0.8x; volatility 26.2%; news +0.17
+- **AVGO +0.38** — 5d +5.1%; 20d +4.3%; vs SPY +9.0%; RSI 51; volume 0.7x; volatility 71.9%; news +0.00
 - **LLY +0.35** — 5d -1.0%; 20d +10.3%; vs SPY +15.0%; RSI 58; volume 0.7x; volatility 36.5%; news +0.33
 - **XLP +0.31** — 5d +0.5%; 20d +4.3%; vs SPY +8.9%; RSI 62; volume 1.2x; volatility 24.3%; news +0.00
-- **AVGO +0.28** — 5d +3.9%; 20d +3.1%; vs SPY +7.8%; RSI 50; volume 0.7x; volatility 71.9%; news +0.00
 
 > Educational simulation only. It cannot submit real brokerage orders.

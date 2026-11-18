@@ -6,14 +6,41 @@
   "breadth_above_20d_average": 0.351351,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-11-17T21:27:23.190460+00:00",
-  "latest_market_timestamp": "2026-11-17T21:27:09.131904085Z",
+  "generated_at": "2026-11-18T03:01:53.903868+00:00",
+  "latest_market_timestamp": "2026-11-17T21:59:41.805014332Z",
   "market_is_open": false,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
   "next_close": "2026-11-18T16:00:00-05:00",
   "next_open": "2026-11-18T09:30:00-05:00",
   "recent_news": [
+    {
+      "created_at": "2026-11-18T01:01:19Z",
+      "headline": "Teamsters Rally Following Amazon's Termination of Delivery Partner",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AMZN"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/teamsters-rally-for-200-e-bike-drivers-terminated-by-amazon-in-new-york-302942866.html"
+    },
+    {
+      "created_at": "2026-11-18T00:01:38Z",
+      "headline": "Netflix Partners with Wonder for Branded Restaurant Concept",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/wonder-unveils-wonder-create-empowering-anyone-with-an-idea-to-launch-their-own-restaurant-302942888.html"
+    },
+    {
+      "created_at": "2026-11-18T00:01:31Z",
+      "headline": "NVIDIA Reports Financial Results for Third Quarter Fiscal 2027",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NVDA"
+      ],
+      "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
+    },
     {
       "created_at": "2026-11-17T20:01:29Z",
       "headline": "Meta Testing Standalone Messaging App 'Direct'",
@@ -166,33 +193,6 @@
         "NVDA"
       ],
       "url": "https://www.newswire.ca/news-releases/rockwell-automation-expands-edge-computing-options-for-industrial-ai-with-nvidia-gpus-847579242.html"
-    },
-    {
-      "created_at": "2026-11-17T16:01:17Z",
-      "headline": "Meta Testing Internal Prediction Market App 'Takes'",
-      "source": "fiscal.ai",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://cdcgaming.com/brief/meta-tests-prediction-market-app-with-employees/"
-    },
-    {
-      "created_at": "2026-11-17T14:32:13Z",
-      "headline": "Amazon Expands Grocery Delivery to Include Prepared Meals",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://stockhouse.com/news/newswire/2026/11/17/amazon-adds-prepared-meals-to-same-day-grocery-delivery"
-    },
-    {
-      "created_at": "2026-11-17T14:31:36Z",
-      "headline": "Chevron Technical Center Enters Three-Year Commercial Agreement with UptimeAI",
-      "source": "fiscal.ai",
-      "symbols": [
-        "CVX"
-      ],
-      "url": "https://www.newswire.com/news/chevron-signs-3-year-agreement-with-uptimeai-scaling-expertise-to-22887761"
     }
   ],
   "regime": "DEFENSIVE",
@@ -215,6 +215,14 @@
       "symbol": "WMT"
     },
     {
+      "news_score": 0.0,
+      "price": 348.95,
+      "reason": "5d +5.1%; 20d +4.3%; vs SPY +9.0%; RSI 51; volume 0.7x; volatility 71.9%; news +0.00",
+      "relative_strength_20d": 0.08988,
+      "score": 0.382774,
+      "symbol": "AVGO"
+    },
+    {
       "news_score": 0.333333,
       "price": 1415.695,
       "reason": "5d -1.0%; 20d +10.3%; vs SPY +15.0%; RSI 58; volume 0.7x; volatility 36.5%; news +0.33",
@@ -232,27 +240,11 @@
     },
     {
       "news_score": 0.0,
-      "price": 344.88,
-      "reason": "5d +3.9%; 20d +3.1%; vs SPY +7.8%; RSI 50; volume 0.7x; volatility 71.9%; news +0.00",
-      "relative_strength_20d": 0.077711,
-      "score": 0.278477,
-      "symbol": "AVGO"
-    },
-    {
-      "news_score": 0.0,
       "price": 339.02,
       "reason": "5d -3.4%; 20d +7.6%; vs SPY +12.2%; RSI 56; volume 1.9x; volatility 39.4%; news +0.00",
       "relative_strength_20d": 0.122295,
       "score": 0.259042,
       "symbol": "HD"
-    },
-    {
-      "news_score": 0.0,
-      "price": 351.92,
-      "reason": "5d +1.1%; 20d +3.7%; vs SPY +8.3%; RSI 52; volume 0.9x; volatility 28.0%; news +0.00",
-      "relative_strength_20d": 0.083476,
-      "score": 0.243818,
-      "symbol": "AAPL"
     },
     {
       "news_score": 0.0,
@@ -264,6 +256,14 @@
     },
     {
       "news_score": 0.0,
+      "price": 350.1,
+      "reason": "5d +0.5%; 20d +3.2%; vs SPY +7.8%; RSI 51; volume 0.9x; volatility 28.0%; news +0.00",
+      "relative_strength_20d": 0.078114,
+      "score": 0.193887,
+      "symbol": "AAPL"
+    },
+    {
+      "news_score": 0.0,
       "price": 185.28,
       "reason": "5d -1.9%; 20d +3.0%; vs SPY +7.7%; RSI 53; volume 1.6x; volatility 20.4%; news +0.00",
       "relative_strength_20d": 0.077066,
@@ -271,12 +271,12 @@
       "symbol": "XLV"
     },
     {
-      "news_score": 0.0,
-      "price": 326.3,
-      "reason": "5d -3.5%; 20d +8.8%; vs SPY +13.5%; RSI 56; volume 0.6x; volatility 42.9%; news +0.00",
-      "relative_strength_20d": 0.134544,
-      "score": 0.133363,
-      "symbol": "GE"
+      "news_score": 0.333333,
+      "price": 645.49,
+      "reason": "5d -2.0%; 20d +4.0%; vs SPY +8.7%; RSI 54; volume 0.8x; volatility 30.1%; news +0.33",
+      "relative_strength_20d": 0.086828,
+      "score": 0.143897,
+      "symbol": "MA"
     }
   ],
   "universe_size": 37
