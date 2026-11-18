@@ -1,37 +1,37 @@
 # Autonomous Paper Portfolio — Latest Update
 
-Generated: 2026-11-18T03:01:53.907147+00:00
+Generated: 2026-11-18T21:01:33.968192+00:00
 Market open: No
-Portfolio value: **$975.77** (-2.42%)
+Portfolio value: **$964.35** (-3.57%)
 Cash: **$196.23**
-Invested: **$779.54**
+Invested: **$768.11**
 Realised P/L: **$-21.75**
-SPY benchmark: **$963.86** (-3.61%)
-Excess return vs SPY: **+1.19%**
-Long-term simulated goal: **$1,000,000** (0.0976% complete; 1,024.8x remaining)
+SPY benchmark: **$960.01** (-4.00%)
+Excess return vs SPY: **+0.43%**
+Long-term simulated goal: **$1,000,000** (0.0964% complete; 1,037.0x remaining)
 
 ## Market research
-- Regime: **DEFENSIVE** (breadth above 20-day average: 35%)
+- Regime: **DEFENSIVE** (breadth above 20-day average: 30%)
 - Source: Alpaca Market Data / iex feed; 37 liquid symbols; 50 recent articles
 - New entries allowed: **No**
 
 ## Positions
 | Symbol | Quantity | Average | Latest | Value | Unrealised P/L |
 |---|---:|---:|---:|---:|---:|
-| COST | 0.11833 | $1080.91 | $1109.82 | $131.32 | $+3.42 |
-| LLY | 0.14289 | $1366.18 | $1415.69 | $202.29 | $+7.07 |
-| MA | 0.29366 | $672.05 | $645.49 | $189.56 | $-7.80 |
-| XLP | 0.69609 | $92.25 | $91.48 | $63.68 | $-0.54 |
-| XLV | 1.04001 | $189.74 | $185.28 | $192.69 | $-4.64 |
+| COST | 0.11833 | $1080.91 | $1096.35 | $129.73 | $+1.83 |
+| LLY | 0.14289 | $1366.18 | $1382.72 | $197.57 | $+2.36 |
+| MA | 0.29366 | $672.05 | $643.23 | $188.89 | $-8.46 |
+| XLP | 0.69609 | $92.25 | $91.19 | $63.48 | $-0.74 |
+| XLV | 1.04001 | $189.74 | $181.19 | $188.44 | $-8.90 |
 
 ## Trades this cycle
 - No trades. Holding cash or existing positions was the highest-ranked decision.
 
 ## Highest-ranked signals
-- **COST +0.69** — 5d +4.1%; 20d +11.8%; vs SPY +16.4%; RSI 80; volume 0.9x; volatility 22.8%; news +0.00
-- **WMT +0.44** — 5d +1.6%; 20d +8.1%; vs SPY +12.8%; RSI 64; volume 0.8x; volatility 26.2%; news +0.17
-- **AVGO +0.38** — 5d +5.1%; 20d +4.3%; vs SPY +9.0%; RSI 51; volume 0.7x; volatility 71.9%; news +0.00
-- **LLY +0.35** — 5d -1.0%; 20d +10.3%; vs SPY +15.0%; RSI 58; volume 0.7x; volatility 36.5%; news +0.33
-- **XLP +0.31** — 5d +0.5%; 20d +4.3%; vs SPY +8.9%; RSI 62; volume 1.2x; volatility 24.3%; news +0.00
+- **WMT +0.52** — 5d +1.3%; 20d +8.1%; vs SPY +13.7%; RSI 60; volume 1.4x; volatility 26.2%; news +0.33
+- **COST +0.44** — 5d +0.9%; 20d +10.0%; vs SPY +15.5%; RSI 72; volume 0.7x; volatility 23.7%; news +0.00
+- **AVGO +0.37** — 5d +2.5%; 20d +4.8%; vs SPY +10.3%; RSI 58; volume 1.2x; volatility 72.9%; news +0.00
+- **XLP +0.31** — 5d -0.3%; 20d +4.7%; vs SPY +10.2%; RSI 57; volume 1.4x; volatility 24.1%; news +0.00
+- **AMZN +0.24** — 5d +0.5%; 20d +2.0%; vs SPY +7.6%; RSI 70; volume 0.8x; volatility 42.4%; news +0.17
 
 > Educational simulation only. It cannot submit real brokerage orders.
