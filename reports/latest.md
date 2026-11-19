@@ -1,13 +1,13 @@
 # Autonomous Paper Portfolio — Latest Update
 
-Generated: 2026-11-18T21:01:33.968192+00:00
+Generated: 2026-11-19T02:31:05.442323+00:00
 Market open: No
 Portfolio value: **$964.35** (-3.57%)
 Cash: **$196.23**
 Invested: **$768.11**
 Realised P/L: **$-21.75**
-SPY benchmark: **$960.01** (-4.00%)
-Excess return vs SPY: **+0.43%**
+SPY benchmark: **$961.05** (-3.90%)
+Excess return vs SPY: **+0.33%**
 Long-term simulated goal: **$1,000,000** (0.0964% complete; 1,037.0x remaining)
 
 ## Market research
@@ -28,10 +28,10 @@ Long-term simulated goal: **$1,000,000** (0.0964% complete; 1,037.0x remaining)
 - No trades. Holding cash or existing positions was the highest-ranked decision.
 
 ## Highest-ranked signals
-- **WMT +0.52** — 5d +1.3%; 20d +8.1%; vs SPY +13.7%; RSI 60; volume 1.4x; volatility 26.2%; news +0.33
-- **COST +0.44** — 5d +0.9%; 20d +10.0%; vs SPY +15.5%; RSI 72; volume 0.7x; volatility 23.7%; news +0.00
-- **AVGO +0.37** — 5d +2.5%; 20d +4.8%; vs SPY +10.3%; RSI 58; volume 1.2x; volatility 72.9%; news +0.00
-- **XLP +0.31** — 5d -0.3%; 20d +4.7%; vs SPY +10.2%; RSI 57; volume 1.4x; volatility 24.1%; news +0.00
-- **AMZN +0.24** — 5d +0.5%; 20d +2.0%; vs SPY +7.6%; RSI 70; volume 0.8x; volatility 42.4%; news +0.17
+- **WMT +0.50** — 5d +1.3%; 20d +8.1%; vs SPY +13.6%; RSI 60; volume 1.4x; volatility 26.2%; news +0.22
+- **COST +0.44** — 5d +0.9%; 20d +10.0%; vs SPY +15.4%; RSI 72; volume 0.7x; volatility 23.7%; news +0.00
+- **AVGO +0.37** — 5d +2.5%; 20d +4.8%; vs SPY +10.2%; RSI 58; volume 1.2x; volatility 72.9%; news +0.00
+- **XLP +0.31** — 5d -0.3%; 20d +4.7%; vs SPY +10.1%; RSI 57; volume 1.4x; volatility 24.1%; news +0.00
+- **AMZN +0.23** — 5d +0.5%; 20d +2.0%; vs SPY +7.4%; RSI 70; volume 0.8x; volatility 42.4%; news +0.11
 
 > Educational simulation only. It cannot submit real brokerage orders.

@@ -1,19 +1,136 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": false,
-  "benchmark_price": 730.33,
+  "benchmark_price": 731.12,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.297297,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-11-18T21:01:33.966471+00:00",
-  "latest_market_timestamp": "2026-11-18T21:01:33.506666073Z",
+  "generated_at": "2026-11-19T02:31:05.439501+00:00",
+  "latest_market_timestamp": "2026-11-18T21:55:51.174709668Z",
   "market_is_open": false,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
   "next_close": "2026-11-19T16:00:00-05:00",
   "next_open": "2026-11-19T09:30:00-05:00",
   "recent_news": [
+    {
+      "created_at": "2026-11-19T01:01:17Z",
+      "headline": "iFAST Global Bank Expands Multi-Currency Visa Debit Card Access",
+      "source": "fiscal.ai",
+      "symbols": [
+        "V"
+      ],
+      "url": "https://www.globenewswire.com/news-release/2026/11/18/3405424/0/en/ifast-global-bank-expands-multi-currency-visa-debit-card-access-to-overseas-customers.html"
+    },
+    {
+      "created_at": "2026-11-19T00:01:43Z",
+      "headline": "GE Aerospace Commits $100,000 to Embry-Riddle to Support Transitioning Service Members",
+      "source": "fiscal.ai",
+      "symbols": [
+        "GE"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/ge-aerospace-commits-100k-to-embry-riddle-to-support-transitioning-service-members-302944413.html"
+    },
+    {
+      "created_at": "2026-11-19T00:01:40Z",
+      "headline": "Happy Cappy Medicated Shampoo & Body Wash Expands Distribution to Walmart Stores",
+      "source": "fiscal.ai",
+      "symbols": [
+        "WMT"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/happy-cappy-medicated-shampoo-reaches-more-than-600-walmart-neighborhood-markets-302943899.html"
+    },
+    {
+      "created_at": "2026-11-19T00:01:35Z",
+      "headline": "Eli Lilly Participates in VitriVax $87 Million Series C Financing",
+      "source": "fiscal.ai",
+      "symbols": [
+        "LLY"
+      ],
+      "url": "https://www.businesswire.com/newsroom/industry/health/pharmaceutical"
+    },
+    {
+      "created_at": "2026-11-18T22:31:40Z",
+      "headline": "Netflix Lowers 2026 Advertising Revenue Target and Provides Soft Q4 Guidance",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://www.barchart.com/story/news/8898467/as-netflix-stock-hovers-near-its-52-week-low-analyst-sentiment-remains-mixed-here-s-why"
+    },
+    {
+      "created_at": "2026-11-18T22:31:36Z",
+      "headline": "Mastercard Contributes Expertise to Singapore's PayNow Gen2 Study",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MA"
+      ],
+      "url": "https://glenbrook.com/payments-news/all-payments-news/"
+    },
+    {
+      "created_at": "2026-11-18T22:31:29Z",
+      "headline": "FGPG Selected to Design and Produce Chevron's Interactive Brand Activation at the 2026 Los Angeles Auto Show",
+      "source": "fiscal.ai",
+      "symbols": [
+        "CVX"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/fgpg-selected-to-design-and-produce-presenting-sponsor-chevrons-interactive-brand-activation-at-the-2026-los-angeles-auto-show-302944204.html"
+    },
+    {
+      "created_at": "2026-11-18T21:32:14Z",
+      "headline": "JPMorgan-led Banks Reduce Yield on Proofpoint Bond",
+      "source": "fiscal.ai",
+      "symbols": [
+        "JPM"
+      ],
+      "url": "https://www.moomoo.com/stock/JPM-US?chain_id=Name1K9-3FXPhg.1lfrpt0&global_content=%7B%22promote_id%22%3A%22%22%2C%22sub_promote_id%22%3A64%2C%22subpromote_id%22%3A%22%22%2C%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Fbuy-low-sell-low-107785341%22%7D"
+    },
+    {
+      "created_at": "2026-11-18T21:32:00Z",
+      "headline": "UBS Adjusts Meta Platforms Price Target",
+      "source": "fiscal.ai",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.moomoo.com/stock/META-US?chain_id=Name1K9-3FXPhg.1lfrtdg&global_content=%7B%22promote_id%22%3A%22%22%2C%22sub_promote_id%22%3A64%2C%22subpromote_id%22%3A%22%22%2C%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Fequity-investor-74339429%2Fpost%2Fall%22%7D"
+    },
+    {
+      "created_at": "2026-11-18T21:32:00Z",
+      "headline": "Reports Indicate Meta Proposed Ending News Blackout in Canada",
+      "source": "fiscal.ai",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://newsfilter.io/articles/minister-says-discussions-with-meta-confidential-following-reports-of-possible-d88ccd8ccd8c5cc388ed918f1cc8b03a"
+    },
+    {
+      "created_at": "2026-11-18T21:31:45Z",
+      "headline": "Fly By Jing Launches Exclusive Hot Sauce Gift Set at Walmart",
+      "source": "fiscal.ai",
+      "symbols": [
+        "WMT"
+      ],
+      "url": "https://www.einnews.com/pr_news/957500075/the-holidays-just-got-hotter-fly-by-jing-spices-up-walmart-s-gift-aisle"
+    },
+    {
+      "created_at": "2026-11-18T21:31:41Z",
+      "headline": "Apple Releases HomeView Software 27.2.1 Update",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://appleosophy.com/wire/gwm546z/"
+    },
+    {
+      "created_at": "2026-11-18T21:31:29Z",
+      "headline": "Health Canada Approves Mounjaro for Cardiovascular Risk Reduction",
+      "source": "fiscal.ai",
+      "symbols": [
+        "LLY"
+      ],
+      "url": "https://www.newswire.ca/news-releases/health-canada-approves-lilly-s-mounjaro-r-tirzepatide-to-reduce-cardiovascular-risk-in-adults-with-type-2-diabetes-898711954.html"
+    },
     {
       "created_at": "2026-11-18T20:01:44Z",
       "headline": "Executive Kira Goldberg Departs Netflix for Skydance",
@@ -76,207 +193,90 @@
         "MSFT"
       ],
       "url": "https://www.globenewswire.com/news-release/2026/11/18/3405850/0/en/ema-ai-employees-for-hr-it-and-finance-now-available-in-microsoft-marketplace.html"
-    },
-    {
-      "created_at": "2026-11-18T19:01:37Z",
-      "headline": "Roamly Announces Insurance Coverage for Tesla Cybercab",
-      "source": "fiscal.ai",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.globenewswire.com/news-release/2026/11/18/3406023/0/en/roamly-announces-insurance-for-tesla-cybercab.html"
-    },
-    {
-      "created_at": "2026-11-18T19:01:35Z",
-      "headline": "Alaska Air Group and Bank of America Refresh Atmos\u2122 Rewards Visa\u00ae Business Card",
-      "source": "fiscal.ai",
-      "symbols": [
-        "BAC"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/alaska-air-group-refreshes-atmos-rewards-visa-business-card-with-bank-of-america-offering-higher-earn-rates-and-new-travel-benefits-302944092.html"
-    },
-    {
-      "created_at": "2026-11-18T19:01:34Z",
-      "headline": "Visa Launches 'Tap to Pay' in the Democratic Republic of Congo",
-      "source": "fiscal.ai",
-      "symbols": [
-        "V"
-      ],
-      "url": "https://africa.com/apo/visa-pay-users-in-the-drc-can-now-tap-to-pay-with-their-android-smartphones"
-    },
-    {
-      "created_at": "2026-11-18T19:01:33Z",
-      "headline": "Meta's Muse AI Agent Faces Operational and Privacy Scrutiny",
-      "source": "fiscal.ai",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.fidelity.com/news/article/company-news/202611180600RTRSNEWSCOMBINED_L6N46Y1DP_1"
-    },
-    {
-      "created_at": "2026-11-18T19:01:32Z",
-      "headline": "NVIDIA Announces Expanded Multiyear Supply Chain Commitments",
-      "source": "fiscal.ai",
-      "symbols": [
-        "NVDA"
-      ],
-      "url": "https://supplychaindigital.com/news/nvidia-extends-ai-supply-chain-with-long-term-supply-deals"
-    },
-    {
-      "created_at": "2026-11-18T19:01:31Z",
-      "headline": "Infoblox Integrates Threat Defense with Amazon Route 53 DNS Firewall",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.globenewswire.com/news-release/2026/11/18/3405750/0/en/infoblox-brings-preemptive-threat-protection-to-amazon-route-53-dns-firewall.html"
-    },
-    {
-      "created_at": "2026-11-18T16:02:13Z",
-      "headline": "Parks Associates Names Netflix Top US SVOD Service for Second Consecutive Year",
-      "source": "fiscal.ai",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/parks-associates-average-base-monthly-subscription-streaming-service-price-in-the-us-reaches-11-08--up-just-8-since-2022--302943884.html"
-    },
-    {
-      "created_at": "2026-11-18T16:02:00Z",
-      "headline": "UBS Adjusts Price Target on Home Depot to $417 From $420",
-      "source": "fiscal.ai",
-      "symbols": [
-        "HD"
-      ],
-      "url": "https://www.marketscreener.com/news/ubs-adjusts-price-target-on-home-depot-to-417-from-420-keeps-buy-rating-ce785eddda8af32d"
-    },
-    {
-      "created_at": "2026-11-18T16:01:41Z",
-      "headline": "ExxonMobil Foundation Announces Winners of STEM Africa Regional Finals",
-      "source": "fiscal.ai",
-      "symbols": [
-        "XOM"
-      ],
-      "url": "https://africa.com/apo/mentes-brilhantes-wins-year-3-exxonmobil-foundation-science-technology-engineering-and-mathematics-stem-africa-regional-finals"
-    },
-    {
-      "created_at": "2026-11-18T16:01:33Z",
-      "headline": "BCG and Microsoft Expand Collaboration for AI-Powered Business Reimagination",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MSFT"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/bcg-and-microsoft-expand-collaboration-with-new-model-for-ai-powered-business-reimagination-302943516.html"
-    },
-    {
-      "created_at": "2026-11-18T16:01:33Z",
-      "headline": "Akamai Integrates Enterprise Security with Microsoft Edge for Business on Mobile",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MSFT"
-      ],
-      "url": "https://www.morningstar.com/news/globe-newswire/9879516/akamai-extends-its-enterprise-security-controls-to-microsoft-edge-for-business-browser-on-mobile"
-    },
-    {
-      "created_at": "2026-11-18T14:32:30Z",
-      "headline": "Amazon Ads Expands Holiday Sponsorship Program",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://stockhouse.com/news/newswire/2026/11/18/amazon-ads-brings-back-holiday-sponsorship-program-with-google-sharkninja-and"
-    },
-    {
-      "created_at": "2026-11-18T14:31:37Z",
-      "headline": "Teladoc Health Expands Weight Care Program with Employer Contribution Option for GLP-1s",
-      "source": "fiscal.ai",
-      "symbols": [
-        "LLY"
-      ],
-      "url": "https://easternherald.com/press-release/teladoc-health-expands-comprehensive-weight-care-program-with-employer-contribution-option-for-glp-1-medications/"
     }
   ],
   "regime": "DEFENSIVE",
   "regime_score": -0.821622,
   "top_candidates": [
     {
-      "news_score": 0.333333,
+      "news_score": 0.222222,
       "price": 127.305,
-      "reason": "5d +1.3%; 20d +8.1%; vs SPY +13.7%; RSI 60; volume 1.4x; volatility 26.2%; news +0.33",
-      "relative_strength_20d": 0.13669,
-      "score": 0.515142,
+      "reason": "5d +1.3%; 20d +8.1%; vs SPY +13.6%; RSI 60; volume 1.4x; volatility 26.2%; news +0.22",
+      "relative_strength_20d": 0.135668,
+      "score": 0.498482,
       "symbol": "WMT"
     },
     {
       "news_score": 0.0,
       "price": 1096.35,
-      "reason": "5d +0.9%; 20d +10.0%; vs SPY +15.5%; RSI 72; volume 0.7x; volatility 23.7%; news +0.00",
-      "relative_strength_20d": 0.154876,
+      "reason": "5d +0.9%; 20d +10.0%; vs SPY +15.4%; RSI 72; volume 0.7x; volatility 23.7%; news +0.00",
+      "relative_strength_20d": 0.153854,
       "score": 0.436259,
       "symbol": "COST"
     },
     {
       "news_score": 0.0,
       "price": 354.08,
-      "reason": "5d +2.5%; 20d +4.8%; vs SPY +10.3%; RSI 58; volume 1.2x; volatility 72.9%; news +0.00",
-      "relative_strength_20d": 0.103336,
-      "score": 0.37402,
+      "reason": "5d +2.5%; 20d +4.8%; vs SPY +10.2%; RSI 58; volume 1.2x; volatility 72.9%; news +0.00",
+      "relative_strength_20d": 0.102315,
+      "score": 0.374023,
       "symbol": "AVGO"
     },
     {
       "news_score": 0.0,
       "price": 91.19,
-      "reason": "5d -0.3%; 20d +4.7%; vs SPY +10.2%; RSI 57; volume 1.4x; volatility 24.1%; news +0.00",
-      "relative_strength_20d": 0.102197,
+      "reason": "5d -0.3%; 20d +4.7%; vs SPY +10.1%; RSI 57; volume 1.4x; volatility 24.1%; news +0.00",
+      "relative_strength_20d": 0.101175,
       "score": 0.307764,
       "symbol": "XLP"
     },
     {
-      "news_score": 0.166667,
-      "price": 267.66,
-      "reason": "5d +0.5%; 20d +2.0%; vs SPY +7.6%; RSI 70; volume 0.8x; volatility 42.4%; news +0.17",
-      "relative_strength_20d": 0.075541,
-      "score": 0.244066,
+      "news_score": 0.111111,
+      "price": 267.57,
+      "reason": "5d +0.5%; 20d +2.0%; vs SPY +7.4%; RSI 70; volume 0.8x; volatility 42.4%; news +0.11",
+      "relative_strength_20d": 0.074176,
+      "score": 0.230984,
       "symbol": "AMZN"
     },
     {
       "news_score": 0.0,
       "price": 328.03,
-      "reason": "5d -4.2%; 20d +10.9%; vs SPY +16.4%; RSI 64; volume 1.1x; volatility 42.3%; news +0.00",
-      "relative_strength_20d": 0.164149,
+      "reason": "5d -4.2%; 20d +10.9%; vs SPY +16.3%; RSI 64; volume 1.1x; volatility 42.3%; news +0.00",
+      "relative_strength_20d": 0.163128,
       "score": 0.226029,
       "symbol": "GE"
     },
     {
       "news_score": 0.0,
       "price": 43.54,
-      "reason": "5d -0.7%; 20d +3.6%; vs SPY +9.2%; RSI 51; volume 0.9x; volatility 14.0%; news +0.00",
-      "relative_strength_20d": 0.091779,
-      "score": 0.173846,
+      "reason": "5d -0.7%; 20d +3.6%; vs SPY +9.1%; RSI 51; volume 0.9x; volatility 14.0%; news +0.00",
+      "relative_strength_20d": 0.090757,
+      "score": 0.172314,
       "symbol": "XLU"
     },
     {
       "news_score": 0.0,
       "price": 337.66,
-      "reason": "5d -3.9%; 20d +7.5%; vs SPY +13.0%; RSI 55; volume 1.3x; volatility 39.4%; news +0.00",
-      "relative_strength_20d": 0.130384,
+      "reason": "5d -3.9%; 20d +7.5%; vs SPY +12.9%; RSI 55; volume 1.3x; volatility 39.4%; news +0.00",
+      "relative_strength_20d": 0.129363,
       "score": 0.167224,
       "symbol": "HD"
     },
     {
-      "news_score": 0.333333,
-      "price": 1382.72,
-      "reason": "5d -3.7%; 20d +8.9%; vs SPY +14.5%; RSI 43; volume 0.8x; volatility 37.4%; news +0.33",
-      "relative_strength_20d": 0.144673,
-      "score": 0.146019,
-      "symbol": "LLY"
-    },
-    {
       "news_score": 0.0,
       "price": 43.63,
-      "reason": "5d -2.1%; 20d +3.7%; vs SPY +9.3%; RSI 55; volume 1.1x; volatility 19.2%; news +0.00",
-      "relative_strength_20d": 0.09281,
-      "score": 0.141364,
+      "reason": "5d -2.1%; 20d +3.7%; vs SPY +9.2%; RSI 55; volume 1.1x; volatility 19.2%; news +0.00",
+      "relative_strength_20d": 0.091789,
+      "score": 0.139831,
       "symbol": "XLRE"
+    },
+    {
+      "news_score": 0.111111,
+      "price": 1382.72,
+      "reason": "5d -3.7%; 20d +8.9%; vs SPY +14.4%; RSI 43; volume 0.8x; volatility 37.4%; news +0.11",
+      "relative_strength_20d": 0.143651,
+      "score": 0.112693,
+      "symbol": "LLY"
     }
   ],
   "universe_size": 37
