@@ -1,19 +1,127 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": false,
-  "benchmark_price": 715.84,
+  "benchmark_price": 714.65,
   "benchmark_symbol": "SPY",
   "breadth_above_20d_average": 0.135135,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-11-19T21:06:00.841786+00:00",
-  "latest_market_timestamp": "2026-11-19T21:05:18.77443414Z",
+  "generated_at": "2026-11-20T02:16:38.633726+00:00",
+  "latest_market_timestamp": "2026-11-19T21:59:55.696315496Z",
   "market_is_open": false,
   "new_entries_allowed": false,
   "news_articles_reviewed": 50,
   "next_close": "2026-11-20T16:00:00-05:00",
   "next_open": "2026-11-20T09:30:00-05:00",
   "recent_news": [
+    {
+      "created_at": "2026-11-20T01:01:32Z",
+      "headline": "Meta Reevaluating 2030 Net Zero Emissions Goal",
+      "source": "fiscal.ai",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.manilatimes.net/2026/11/20/world/americas-emea/meta-says-reevaluating-2030-net-zero-target-amid-ai-buildout/2474624"
+    },
+    {
+      "created_at": "2026-11-20T01:01:26Z",
+      "headline": "Third Point LLC Exits Entire Stake in Amazon",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AMZN"
+      ],
+      "url": "https://www.barchart.com/story/news/8926361/dan-loebs-third-point-exits-its-entire-stake-in-amazon-stock-where-it-invested-instead"
+    },
+    {
+      "created_at": "2026-11-20T00:02:07Z",
+      "headline": "ISS Recommends Shareholders Vote Against Tesla Chair Robyn Denholm",
+      "source": "fiscal.ai",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.moomoo.com/stock/TSLA-US?chain_id=Name1K9-3FXPhg.1lfula0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FENPH-US%22%7D"
+    },
+    {
+      "created_at": "2026-11-19T22:32:06Z",
+      "headline": "Meta to Price Muse Charm AI Device at $300",
+      "source": "fiscal.ai",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.moomoo.com/stock/META-US?chain_id=Name1K9-3FXPhg.1lfuhpg&global_content=%7B%22promote_id%22%3A%22%22%2C%22sub_promote_id%22%3A64%2C%22subpromote_id%22%3A%22%22%2C%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Fvchong-888-105336580%22%7D"
+    },
+    {
+      "created_at": "2026-11-19T22:31:33Z",
+      "headline": "NVIDIA to Present at 30th Annual UBS Global Technology and AI Conference",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NVDA"
+      ],
+      "url": "https://www.globenewswire.com/news-release/2026/11/19/3407166/0/en/nvidia-announces-upcoming-event-for-financial-community.html"
+    },
+    {
+      "created_at": "2026-11-19T22:31:27Z",
+      "headline": "U.K. Tribunal Orders Government to Confirm Secret Demand for Apple Customer Data",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://newsfilter.io/articles/u-k-government-forced-to-disclose-secret-apple-backdoor-order-89f07cb47e5859b18ddafa5e02d91f83"
+    },
+    {
+      "created_at": "2026-11-19T21:31:49Z",
+      "headline": "Mastercard Reports Limited Customer Data Leak Following Third-Party Security Incident",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MA"
+      ],
+      "url": "https://www.pymnts.com/cybersecurity/2026/visa-mastercard-and-jpmorgan-customer-data-leaked-in-breach/"
+    },
+    {
+      "created_at": "2026-11-19T21:31:49Z",
+      "headline": "Mastercard and Rakuten Mobile Collaborate on Agentic Travel Experience",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MA"
+      ],
+      "url": "https://www.pymnts.com/partnerships/2026/rakuten-teams-with-mastercard-to-power-agentic-commerce/"
+    },
+    {
+      "created_at": "2026-11-19T21:31:49Z",
+      "headline": "TechnipFMC Awarded Subsea Contract for ExxonMobil's Longtail Project",
+      "source": "fiscal.ai",
+      "symbols": [
+        "XOM"
+      ],
+      "url": "https://www.businesswire.com/newsroom/industry/energy/oil-gas"
+    },
+    {
+      "created_at": "2026-11-19T21:31:48Z",
+      "headline": "The Home Depot Declares Quarterly Cash Dividend",
+      "source": "fiscal.ai",
+      "symbols": [
+        "HD"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/the-home-depot-declares-quarterly-dividend-of-2-33--302946007.html"
+    },
+    {
+      "created_at": "2026-11-19T21:31:46Z",
+      "headline": "Bank of America Chicago Marathon Extends Partnership with Nike",
+      "source": "fiscal.ai",
+      "symbols": [
+        "BAC"
+      ],
+      "url": "https://investingnews.com/bank-of-america-chicago-marathon-and-nike-extend-partnership-through-2036/"
+    },
+    {
+      "created_at": "2026-11-19T21:31:33Z",
+      "headline": "Anthropic IPO Valuation and Amazon's Stake Disclosure",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AMZN"
+      ],
+      "url": "https://newsfilter.io/articles/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test-a8f2d6fda3135f21896995b1454f23c1"
+    },
     {
       "created_at": "2026-11-19T20:02:05Z",
       "headline": "Boeing and GE Aerospace expand digital tracking to combat unapproved parts",
@@ -85,114 +193,6 @@
         "V"
       ],
       "url": "https://glenbrook.com/payments-news/all-payments-news/"
-    },
-    {
-      "created_at": "2026-11-19T19:01:29Z",
-      "headline": "Chevron Selects GEP SMART for Global Digital Procurement Transformation",
-      "source": "fiscal.ai",
-      "symbols": [
-        "CVX"
-      ],
-      "url": "https://procurementmag.com/news/vendor-insight-agentic-ai-transform-source-to-pay-platforms"
-    },
-    {
-      "created_at": "2026-11-19T19:01:25Z",
-      "headline": "Teleport Achieves AWS Security Competency Status",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.globenewswire.com/news-release/2026/11/19/3406533/0/en/teleport-achieves-aws-security-competency-in-identity-and-access-management-category.html"
-    },
-    {
-      "created_at": "2026-11-19T19:01:23Z",
-      "headline": "Netflix Announces Grendel Animated Series",
-      "source": "fiscal.ai",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.avclub.com/article-type/news"
-    },
-    {
-      "created_at": "2026-11-19T19:01:23Z",
-      "headline": "J.P. Morgan Asset Management Launches JPMorgan All Country Research Enhanced Equity ETF (JALL)",
-      "source": "fiscal.ai",
-      "symbols": [
-        "JPM"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/jp-morgan-asset-management-launches-jpmorgan-all-country-research-enhanced-equity-etf-jall-on-nyse-arca-302944783.html"
-    },
-    {
-      "created_at": "2026-11-19T19:01:18Z",
-      "headline": "Apple Announces 2026 Black Friday Shopping Event",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://appleosophy.com/wire/b3dp95q/"
-    },
-    {
-      "created_at": "2026-11-19T19:01:15Z",
-      "headline": "Mastercard and Yeahka Sign Agreement for AI Agent-Driven Commerce",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MA"
-      ],
-      "url": "https://www.globenewswire.com/news-release/2026/11/19/3406963/0/en/from-a-cup-of-bubble-tea-to-a-transaction-yeahka-and-mastercard-deploy-agent-pay-capabilities.html"
-    },
-    {
-      "created_at": "2026-11-19T17:31:29Z",
-      "headline": "Costain Announces New Medium-Term Targets and Share Buyback Program",
-      "source": "fiscal.ai",
-      "symbols": [
-        "COST"
-      ],
-      "url": "https://www.investegate.co.uk/announcement/rns/costain-group--cost/capital-markets-event/9882972"
-    },
-    {
-      "created_at": "2026-11-19T16:02:11Z",
-      "headline": "Longbow Research Adjusts Home Depot Price Target to $385 From $415",
-      "source": "fiscal.ai",
-      "symbols": [
-        "HD"
-      ],
-      "url": "https://www.marketscreener.com/news/longbow-research-adjusts-home-depot-price-target-to-385-from-415-ce785ed2da80f725"
-    },
-    {
-      "created_at": "2026-11-19T16:01:19Z",
-      "headline": "Profound Launches Integrations for Microsoft Teams and Microsoft 365",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MSFT"
-      ],
-      "url": "https://www.globenewswire.com/news-release/2026/11/19/3406573/0/en/profound-brings-your-ai-marketer-into-microsoft-teams-and-microsoft-365.html"
-    },
-    {
-      "created_at": "2026-11-19T16:01:12Z",
-      "headline": "JPMorgan Chase Reports Cyberattack on Third-Party Vendors",
-      "source": "fiscal.ai",
-      "symbols": [
-        "JPM"
-      ],
-      "url": "https://wjno.iheart.com/content/2026-11-19-jpmorganchase-says-vendor-cyberattack-exposed-customer-data/"
-    },
-    {
-      "created_at": "2026-11-19T14:31:58Z",
-      "headline": "UBS Raises Meta Platforms Price Target Following Muse AI Adoption",
-      "source": "fiscal.ai",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.moomoo.com/stock/META-US?chain_id=Name1K9-3FXPhg.1lfti50&global_content=%7B%22promote_id%22%3A%22%22%2C%22sub_promote_id%22%3A64%2C%22subpromote_id%22%3A%22%22%2C%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Flouou-70661856%22%7D"
-    },
-    {
-      "created_at": "2026-11-19T14:31:30Z",
-      "headline": "Microsoft Integrates IDEMIA Mobile Driver's License Verification into Entra",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MSFT"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/idemia-public-security-to-bring-mobile-drivers-license-verification-to-the-microsoft-entra-verified-id-ecosystem-302945574.html"
     }
   ],
   "regime": "DEFENSIVE",
@@ -201,81 +201,81 @@
     {
       "news_score": 0.0,
       "price": 1094.025,
-      "reason": "5d +0.1%; 20d +7.6%; vs SPY +13.9%; RSI 66; volume 0.9x; volatility 23.2%; news +0.00",
-      "relative_strength_20d": 0.139277,
+      "reason": "5d +0.1%; 20d +7.6%; vs SPY +14.1%; RSI 66; volume 0.9x; volatility 23.2%; news +0.00",
+      "relative_strength_20d": 0.140834,
       "score": 0.356668,
       "symbol": "COST"
     },
     {
-      "news_score": 0.333333,
+      "news_score": 0.666667,
       "price": 126.04,
-      "reason": "5d -0.1%; 20d +4.0%; vs SPY +10.4%; RSI 45; volume 1.0x; volatility 24.9%; news +0.33",
-      "relative_strength_20d": 0.103523,
-      "score": 0.268722,
+      "reason": "5d -0.1%; 20d +4.0%; vs SPY +10.5%; RSI 45; volume 1.0x; volatility 24.9%; news +0.67",
+      "relative_strength_20d": 0.10508,
+      "score": 0.318722,
       "symbol": "WMT"
     },
     {
-      "news_score": 0.111111,
-      "price": 318.865,
-      "reason": "5d -3.6%; 20d +8.6%; vs SPY +14.9%; RSI 52; volume 0.9x; volatility 43.8%; news +0.11",
-      "relative_strength_20d": 0.14883,
-      "score": 0.152466,
-      "symbol": "GE"
-    },
-    {
       "news_score": 0.0,
-      "price": 349.085,
-      "reason": "5d -1.6%; 20d +0.3%; vs SPY +6.6%; RSI 59; volume 1.4x; volatility 27.6%; news +0.00",
-      "relative_strength_20d": 0.065961,
-      "score": 0.105058,
+      "price": 350.4,
+      "reason": "5d -1.3%; 20d +0.7%; vs SPY +7.1%; RSI 60; volume 1.4x; volatility 27.6%; news +0.00",
+      "relative_strength_20d": 0.071296,
+      "score": 0.142448,
       "symbol": "AAPL"
     },
     {
       "news_score": 0.0,
-      "price": 89.9,
-      "reason": "5d -1.3%; 20d -0.1%; vs SPY +6.2%; RSI 46; volume 1.4x; volatility 21.9%; news +0.00",
-      "relative_strength_20d": 0.062295,
-      "score": 0.068478,
-      "symbol": "XLP"
+      "price": 318.865,
+      "reason": "5d -3.6%; 20d +8.6%; vs SPY +15.0%; RSI 52; volume 0.9x; volatility 43.8%; news +0.00",
+      "relative_strength_20d": 0.150388,
+      "score": 0.135799,
+      "symbol": "GE"
     },
     {
       "news_score": 0.0,
-      "price": 346.545,
-      "reason": "5d -4.9%; 20d +7.2%; vs SPY +13.5%; RSI 57; volume 1.3x; volatility 71.4%; news +0.00",
-      "relative_strength_20d": 0.134956,
-      "score": 0.067089,
+      "price": 348.84,
+      "reason": "5d -4.2%; 20d +7.9%; vs SPY +14.4%; RSI 57; volume 1.3x; volatility 71.4%; news +0.00",
+      "relative_strength_20d": 0.143612,
+      "score": 0.115219,
       "symbol": "AVGO"
     },
     {
       "news_score": 0.0,
+      "price": 89.9,
+      "reason": "5d -1.3%; 20d -0.1%; vs SPY +6.4%; RSI 46; volume 1.4x; volatility 21.9%; news +0.00",
+      "relative_strength_20d": 0.063853,
+      "score": 0.070814,
+      "symbol": "XLP"
+    },
+    {
+      "news_score": 0.0,
       "price": 43.06,
-      "reason": "5d -1.7%; 20d +0.5%; vs SPY +6.8%; RSI 41; volume 1.5x; volatility 13.0%; news +0.00",
-      "relative_strength_20d": 0.06774,
-      "score": 0.056307,
+      "reason": "5d -1.7%; 20d +0.5%; vs SPY +6.9%; RSI 41; volume 1.5x; volatility 13.0%; news +0.00",
+      "relative_strength_20d": 0.069297,
+      "score": 0.058643,
       "symbol": "XLU"
     },
     {
       "news_score": 0.0,
       "price": 257.25,
-      "reason": "5d -3.8%; 20d +2.7%; vs SPY +9.0%; RSI 58; volume 1.1x; volatility 41.4%; news +0.00",
-      "relative_strength_20d": 0.090471,
-      "score": 0.035567,
+      "reason": "5d -3.8%; 20d +2.7%; vs SPY +9.2%; RSI 58; volume 1.1x; volatility 41.4%; news +0.00",
+      "relative_strength_20d": 0.092028,
+      "score": 0.037904,
       "symbol": "AMZN"
     },
     {
       "news_score": 0.0,
       "price": 336.92,
-      "reason": "5d -3.3%; 20d +2.8%; vs SPY +9.1%; RSI 47; volume 0.8x; volatility 36.6%; news +0.00",
-      "relative_strength_20d": 0.091225,
-      "score": -0.003625,
+      "reason": "5d -3.3%; 20d +2.8%; vs SPY +9.3%; RSI 47; volume 0.8x; volatility 36.6%; news +0.00",
+      "relative_strength_20d": 0.092782,
+      "score": -0.001289,
       "symbol": "HD"
     },
     {
       "news_score": 0.0,
       "price": 115.85,
-      "reason": "5d -3.8%; 20d +0.7%; vs SPY +7.0%; RSI 45; volume 1.3x; volatility 29.8%; news +0.00",
-      "relative_strength_20d": 0.07029,
-      "score": -0.042676,
+      "reason": "5d -3.8%; 20d +0.7%; vs SPY +7.2%; RSI 45; volume 1.3x; volatility 29.8%; news +0.00",
+      "relative_strength_20d": 0.071847,
+      "score": -0.040339,
       "symbol": "XLY"
     }
   ],
