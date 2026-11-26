@@ -6,7 +6,7 @@
   "breadth_above_20d_average": 0.27027,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-11-25T22:04:26.335723+00:00",
+  "generated_at": "2026-11-26T22:02:26.251879+00:00",
   "latest_market_timestamp": "2026-11-25T21:53:51.498535688Z",
   "market_is_open": false,
   "new_entries_allowed": false,
@@ -15,184 +15,184 @@
   "next_open": "2026-11-27T09:30:00-05:00",
   "recent_news": [
     {
-      "created_at": "2026-11-25T21:31:38Z",
-      "headline": "Doba Launches Seller Recruitment Campaign for Walmart Marketplace",
-      "source": "fiscal.ai",
-      "symbols": [
-        "WMT"
-      ],
-      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410238/0/en/doba-launches-seller-recruitment-campaign-to-help-retailers-start-selling-on-walmart-marketplace.html"
-    },
-    {
-      "created_at": "2026-11-25T21:31:37Z",
-      "headline": "Kirby McInerney LLP Investigates UnitedHealth Group Inc. Following Medicare Advantage Audit Rule Proposal",
-      "source": "fiscal.ai",
-      "symbols": [
-        "UNH"
-      ],
-      "url": "https://www.quantisnow.com/insight/unitedhealth-group-inc-unh-investors-contact-kirby-mcinerney-llp-about-6806978"
-    },
-    {
-      "created_at": "2026-11-25T20:01:55Z",
-      "headline": "Supreme Court of British Columbia Rules in Class Action Regarding Supplement Labeling",
-      "source": "fiscal.ai",
-      "symbols": [
-        "COST"
-      ],
-      "url": "https://www.newswire.ca/news-releases/in-canada-wide-class-action-b-c-supreme-court-rules-popular-canadian-glucosamine-sulfate-labelled-products-do-not-contain-glucosamine-sulfate-889683505.html"
-    },
-    {
-      "created_at": "2026-11-25T19:02:22Z",
-      "headline": "Tigress Finance Raises Price Target on Mastercard",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MA"
-      ],
-      "url": "https://www.marketscreener.com/news/tigress-finance-raises-price-target-on-mastercard-to-770-from-735-maintains-strong-buy-rating-ce7851d8db8cff20"
-    },
-    {
-      "created_at": "2026-11-25T19:01:38Z",
-      "headline": "J.P. Morgan Analyzes Potential Tesla-SpaceX Merger Impact on S&P 500 Eligibility",
-      "source": "fiscal.ai",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.manilatimes.net/2026/11/26/business/foreign-business/possible-tesla-merger-could-aid-spacexs-sp-500-entry-jp-morgan-says/2478020"
-    },
-    {
-      "created_at": "2026-11-25T16:01:23Z",
-      "headline": "UBS Adjusts Broadcom Price Target",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AVGO"
-      ],
-      "url": "https://www.moomoo.com/news/post/1005768279/today-s-analyst-rating-ubs-cuts-its-price-target-cut"
-    },
-    {
-      "created_at": "2026-11-25T16:01:19Z",
-      "headline": "Duracell and Amazon Partner for 'Power Playland on the Pier' Holiday Event",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.prnewswire.com/news-releases/in-partnership-with-amazon-duracell-brings-holiday-magic-to-chicago-with-power-playland-on-the-pier-302950562.html"
-    },
-    {
-      "created_at": "2026-11-25T14:32:39Z",
-      "headline": "General Motors Korea to Adopt Tesla's North American Charging Standard",
-      "source": "fiscal.ai",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.moomoo.com/stock/TSLA-CA?chain_id=Name1K9-3FXPhg.1l14fs0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A107,%22f%22%3A%22www.moomoo.com%2Fetfs%2FEMDV-US%2Fnews%22%7D"
-    },
-    {
-      "created_at": "2026-11-25T14:32:23Z",
-      "headline": "Eli Lilly and Novo Nordisk Face Lawsuits Over Rare Eye Condition Linked to GLP-1 Drugs",
-      "source": "fiscal.ai",
-      "symbols": [
-        "LLY"
-      ],
-      "url": "https://www.marketscreener.com/news/novo-eli-lilly-face-lawsuits-in-us-over-rare-eye-condition-from-glp-1-drugs-ce7851d8d88cf020"
-    },
-    {
-      "created_at": "2026-11-25T14:31:49Z",
-      "headline": "Meta Deploys Autonomous Food Preparation System in London Office",
-      "source": "fiscal.ai",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.marketscreener.com/news/meta-deploys-autonomous-food-preparation-system-for-employees-in-london-office-ce7851d8d88ff725"
-    },
-    {
-      "created_at": "2026-11-25T14:31:49Z",
-      "headline": "Meta and Amazon Conclude Discussions to Lift Muse Shopping Robot Blockade",
-      "source": "fiscal.ai",
-      "symbols": [
-        "META"
-      ],
-      "url": "https://www.rootdata.com/news/844573"
-    },
-    {
-      "created_at": "2026-11-25T14:31:36Z",
-      "headline": "The Home Depot Foundation Awards $150,000 Grant for Affordable Housing Project",
-      "source": "fiscal.ai",
-      "symbols": [
-        "HD"
-      ],
-      "url": "https://www.einpresswire.com/article/958865194/mercy-house-and-community-development-partners-open-mesa-vista-86-affordable-homes-in-a-former-costa-mesa-motel-6"
-    },
-    {
-      "created_at": "2026-11-25T14:31:29Z",
-      "headline": "Schneider Electric Integrates Industrial Intelligence Solutions with AWS",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.morningstar.com/news/globe-newswire/9884913/manufacturers-can-scale-industrial-intelligence-faster-with-schneider-electric-open-software-defined-automation-on-aws"
-    },
-    {
-      "created_at": "2026-11-25T14:31:27Z",
-      "headline": "Chevron Faces Regulatory Probe Following Methane Emissions at Gorgon LNG Plant",
-      "source": "fiscal.ai",
-      "symbols": [
-        "CVX"
-      ],
-      "url": "https://michaelwest.com.au/huge-greenhouse-gas-plume-at-chevron-plant-deliberate/"
-    },
-    {
-      "created_at": "2026-11-25T14:31:27Z",
-      "headline": "The AA Deploys Microsoft Dynamics 365 and Azure for Digital Workflow",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MSFT"
-      ],
-      "url": "https://aimagazine.com/news/why-the-aa-relies-on-microsoft-ai-for-vehicle-diagnostics"
-    },
-    {
-      "created_at": "2026-11-25T14:04:04Z",
-      "headline": "BacTech Environmental to Attend Ontario Critical Minerals Conference",
-      "source": "fiscal.ai",
-      "symbols": [
-        "BAC"
-      ],
-      "url": "https://www.thenewswire.com/press-releases/1kEjFR89M-bactech-environmental-to-attend-ontario-critical-minerals-conference-in-toronto.html"
-    },
-    {
-      "created_at": "2026-11-25T14:04:03Z",
-      "headline": "Verdera Energy Corp. to Present at Precious Metals & Critical Minerals Virtual Investor Conference",
-      "source": "fiscal.ai",
-      "symbols": [
-        "V"
-      ],
-      "url": "https://www.globenewswire.com/news-release/2026/11/24/3409897/0/en/precious-metals-critical-minerals-virtual-investor-conference-agenda-announced-for-december-1-3.html"
-    },
-    {
-      "created_at": "2026-11-25T13:01:26Z",
-      "headline": "Malaysia Aviation Group Selects GE Aerospace GEnx Engines for New Boeing 787 Fleet",
-      "source": "fiscal.ai",
-      "symbols": [
-        "GE"
-      ],
-      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410120/0/en/malaysia-aviation-group-selects-ge-aerospace-genx-engines-to-power-new-787-dreamliners.html"
-    },
-    {
-      "created_at": "2026-11-25T12:32:12Z",
-      "headline": "NVIDIA CEO Jensen Huang Reportedly Apologizes to Staff and Enters Therapy",
-      "source": "fiscal.ai",
-      "symbols": [
-        "NVDA"
-      ],
-      "url": "https://www.marketscreener.com/news/nvidia-s-huang-reportedly-apologizes-to-staff-says-he-is-in-therapy-ce7851dbd088f321"
-    },
-    {
-      "created_at": "2026-11-25T12:32:11Z",
-      "headline": "JPMorgan Chase Evaluates UK Investment Strategy Following Bank Tax Increase",
+      "created_at": "2026-11-26T21:32:33Z",
+      "headline": "JPMorgan Chase Lowers Price Target for Vodafone",
       "source": "fiscal.ai",
       "symbols": [
         "JPM"
       ],
-      "url": "https://www.marketscreener.com/news/jpmorgan-weighs-scaling-back-uk-investments-after-bank-tax-increase-ce7851d8d98af721"
+      "url": "https://www.marketscreener.com/news/jpmorgan-lowers-vodafone-pt-maintains-underweight-rating-ce7851d8d08fff21"
+    },
+    {
+      "created_at": "2026-11-26T20:01:30Z",
+      "headline": "Tesla Deploys Manual Battery Preconditioning Feature",
+      "source": "fiscal.ai",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.frandroid.com/marques/tesla/3341437_tesla-lance-enfin-une-fonction-que-ses-rivaux-proposaient-deja-depuis-des-annees-le-prechauffage-manuel-de-la-batterie"
+    },
+    {
+      "created_at": "2026-11-26T20:01:30Z",
+      "headline": "EU Postpones Vote on Tesla Assisted Driving Approval",
+      "source": "fiscal.ai",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.finanzen.ch/nachrichten/aktien/eu-delays-vote-on-teslas-assisted-driving-system-to-december-15-reports-1036803762"
+    },
+    {
+      "created_at": "2026-11-26T19:01:32Z",
+      "headline": "Microsoft AI CEO Mustafa Suleyman Issues Warning on AI Safety Thresholds",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://af.net/fr/realtime/microsoft-ai-ceo-warns-labs-are-crossing-threshold-as-internal-models-break-containment/"
+    },
+    {
+      "created_at": "2026-11-26T19:01:25Z",
+      "headline": "European Parliament Delays Methane Reporting Requirements for Fossil Fuel Importers",
+      "source": "fiscal.ai",
+      "symbols": [
+        "XOM"
+      ],
+      "url": "https://www.finanzen.at/nachrichten/aktien/eu-parlament-gibt-gruenes-licht-fuer-aufschub-von-klimaregeln-1036802896"
+    },
+    {
+      "created_at": "2026-11-26T16:01:46Z",
+      "headline": "Amazon Announces Quick Sight Upgrade and Autonomous Workload Build Capabilities",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AMZN"
+      ],
+      "url": "https://aithority.com/machine-learning/megazonecloud-launches-its-amazon-quick-center-of-excellence-to-turn-enterprise-data-into-autonomous-action/"
+    },
+    {
+      "created_at": "2026-11-26T16:01:32Z",
+      "headline": "JPMorgan Chase & Co. Discloses Change in Voting Rights for Delivery Hero SE",
+      "source": "fiscal.ai",
+      "symbols": [
+        "JPM"
+      ],
+      "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-delivery-hero-se-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036803459"
+    },
+    {
+      "created_at": "2026-11-26T16:01:32Z",
+      "headline": "JPMorgan Chase & Co. Reduces Stake in Gamma Communications PLC",
+      "source": "fiscal.ai",
+      "symbols": [
+        "JPM"
+      ],
+      "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/holding-s-in-company/9895474"
+    },
+    {
+      "created_at": "2026-11-26T14:31:33Z",
+      "headline": "India Approves $1.2 Billion Incentive Plan for Construction Equipment Manufacturers",
+      "source": "fiscal.ai",
+      "symbols": [
+        "CAT"
+      ],
+      "url": "https://realtynxt.com/infrastructure/2026-11-26/india-to-support-jcb-caterpillar-hitachi-under-12-bn-construction-equipment-incentive-scheme"
+    },
+    {
+      "created_at": "2026-11-26T14:31:27Z",
+      "headline": "Visa Releases 2026 Holiday Spending Shift Survey for Canada",
+      "source": "fiscal.ai",
+      "symbols": [
+        "V"
+      ],
+      "url": "https://www.globenewswire.com/news-release/2026/11/26/3410758/0/fr/cette-ann%C3%A9e-les-canadiens-veulent-en-avoir-pour-leur-argent-aux-f%C3%AAtes-mais-les-exp%C3%A9riences-et-les-%C3%A9v%C3%A9nements-sont-en-haut-de-leur-liste-de-souhaits-une-%C3%A9tude-visa.html"
+    },
+    {
+      "created_at": "2026-11-26T14:31:24Z",
+      "headline": "Moloco Selects JPMorgan Chase and Goldman Sachs for IPO",
+      "source": "fiscal.ai",
+      "symbols": [
+        "JPM"
+      ],
+      "url": "https://stockanalysis.com/private/moloco/"
+    },
+    {
+      "created_at": "2026-11-26T13:01:32Z",
+      "headline": "NVIDIA and Kioxia Announce Collaboration to Extend GPU Memory Capacity",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NVDA"
+      ],
+      "url": "https://natlawreview.com/press-releases/kioxia-and-nvidia-collaborate-expand-effective-high-bandwidth-memory"
+    },
+    {
+      "created_at": "2026-11-26T13:01:30Z",
+      "headline": "Chevron Increases Investment in Argentina's Energy Infrastructure",
+      "source": "fiscal.ai",
+      "symbols": [
+        "CVX"
+      ],
+      "url": "https://newsfilter.io/articles/latin-america-has-the-copper-and-energy-the-ai-build-out-needs-infrastructure-is-cfb3a66dd618589b924d043b1a1cd7fa"
+    },
+    {
+      "created_at": "2026-11-26T13:01:30Z",
+      "headline": "Chevron Partners with TPAO for Offshore Exploration in Guinea Bissau",
+      "source": "fiscal.ai",
+      "symbols": [
+        "CVX"
+      ],
+      "url": "https://www.moomoo.com/hans/news/flash/1005903439/turkish-energy-minister-turkey-s-tpao-partners-with-chevron-in"
+    },
+    {
+      "created_at": "2026-11-26T13:01:18Z",
+      "headline": "Visa Announces Plans for New 'Visa Flex Card' in Partnership with NBX",
+      "source": "fiscal.ai",
+      "symbols": [
+        "V"
+      ],
+      "url": "https://news.europawire.eu/visa-and-nbx-plan-single-card-payments-from-traditional-currency-and-stablecoin-balances-across-five-european-markets/eu-press-release/2026/11/26/13/48/03/189766/"
+    },
+    {
+      "created_at": "2026-11-26T12:32:04Z",
+      "headline": "Netflix Announces Limited-Time 'Stranger Things' 10th Anniversary Cafe",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "http://www.excite.co.jp/news/article/Kyodo_prw_202611261116/"
+    },
+    {
+      "created_at": "2026-11-26T12:32:04Z",
+      "headline": "Netflix Identified as Most Impersonated Brand in Black Friday Phishing Scams",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://tecnologia.ig.com.br/2026-11-26/golpe-na-black-friday--netflix-lidera-lista-de-sites-suspeitos.html"
+    },
+    {
+      "created_at": "2026-11-26T11:32:14Z",
+      "headline": "Apple Removes Talkie AI App from App Store Worldwide",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://www.marketscreener.com/news/minimax-s-talkie-removed-from-apple-app-store-worldwide-ce7851d8d18af721"
+    },
+    {
+      "created_at": "2026-11-26T11:32:14Z",
+      "headline": "Apple to Open New Retail Store in Hyderabad, India",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://www.finanzen.ch/nachrichten/aktien/apple-to-open-new-store-in-hyderabad-expanding-indian-retail-business-1036802666"
+    },
+    {
+      "created_at": "2026-11-26T11:31:41Z",
+      "headline": "NVIDIA Orders Partners to Stop Server Shipments to ASEAN States",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NVDA"
+      ],
+      "url": "https://www.marketscreener.com/news/nvidia-orders-partners-to-stop-server-shipments-to-asean-states-ce7851d8de89f626"
     }
   ],
   "regime": "DEFENSIVE",
@@ -223,11 +223,11 @@
       "symbol": "COST"
     },
     {
-      "news_score": 0.111111,
+      "news_score": 0.166667,
       "price": 660.29,
-      "reason": "5d +2.7%; 20d +8.1%; vs SPY +15.3%; RSI 54; volume 1.2x; volatility 31.4%; news +0.11",
+      "reason": "5d +2.7%; 20d +8.1%; vs SPY +15.3%; RSI 54; volume 1.2x; volatility 31.4%; news +0.17",
       "relative_strength_20d": 0.15305,
-      "score": 0.504131,
+      "score": 0.512465,
       "symbol": "MA"
     },
     {
@@ -247,11 +247,11 @@
       "symbol": "V"
     },
     {
-      "news_score": 0.111111,
+      "news_score": 0.0,
       "price": 355.14,
-      "reason": "5d +0.8%; 20d +3.3%; vs SPY +10.5%; RSI 64; volume 1.3x; volatility 28.6%; news +0.11",
+      "reason": "5d +0.8%; 20d +3.3%; vs SPY +10.5%; RSI 64; volume 1.3x; volatility 28.6%; news +0.00",
       "relative_strength_20d": 0.104992,
-      "score": 0.366645,
+      "score": 0.349978,
       "symbol": "AAPL"
     },
     {
