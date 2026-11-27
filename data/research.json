@@ -1,282 +1,282 @@
 {
   "benchmark_above_20d_average": false,
   "benchmark_above_50d_average": false,
-  "benchmark_price": 716.67,
+  "benchmark_price": 728.35,
   "benchmark_symbol": "SPY",
-  "breadth_above_20d_average": 0.27027,
+  "breadth_above_20d_average": 0.432432,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-11-26T22:02:26.251879+00:00",
-  "latest_market_timestamp": "2026-11-25T21:53:51.498535688Z",
+  "generated_at": "2026-11-27T21:45:25.688582+00:00",
+  "latest_market_timestamp": "2026-11-27T18:57:08.605847373Z",
   "market_is_open": false,
   "new_entries_allowed": false,
-  "news_articles_reviewed": 50,
-  "next_close": "2026-11-27T13:00:00-05:00",
-  "next_open": "2026-11-27T09:30:00-05:00",
+  "news_articles_reviewed": 48,
+  "next_close": "2026-11-30T16:00:00-05:00",
+  "next_open": "2026-11-30T09:30:00-05:00",
   "recent_news": [
     {
-      "created_at": "2026-11-26T21:32:33Z",
-      "headline": "JPMorgan Chase Lowers Price Target for Vodafone",
+      "created_at": "2026-11-27T21:31:20Z",
+      "headline": "OpenAI Files Counterclaims Against Apple in Trade Secret Dispute",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://newsfilter.io/articles/openai-countersues-apple-for-stealing-trade-secrets-0d87ce11b27055aa8258a54eec95e532"
+    },
+    {
+      "created_at": "2026-11-27T20:02:02Z",
+      "headline": "Apple Officer Discloses Sale of 55,000 Shares",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://www.moomoo.com/stock/AAPL-US?chain_id=Name1K9-3FXPhg.1lgjh90&global_content=%7B%22promote_id%22%3A%22%22%2C%22sub_promote_id%22%3A64%2C%22subpromote_id%22%3A%22%22%2C%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Fchris-strazzeri-151367145%22%7D"
+    },
+    {
+      "created_at": "2026-11-27T20:02:02Z",
+      "headline": "Apple Increases US Smartphone Market Share to 57% in Q3 2026",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://telcomagazine.com/news/apple-hits-57-share-as-q3-us-smartphone-shipments-fall-9"
+    },
+    {
+      "created_at": "2026-11-27T20:01:30Z",
+      "headline": "Amskor Corp. Files Lawsuit Against Costco Wholesale Canada",
+      "source": "fiscal.ai",
+      "symbols": [
+        "COST"
+      ],
+      "url": "https://newsfilter.io/articles/costcos-return-policy-pushed-a-toronto-rug-supplier-to-the-brink-lawsuit-alleges-edd0f989d1fd573c8aaa5af21c8162cb"
+    },
+    {
+      "created_at": "2026-11-27T19:02:03Z",
+      "headline": "Meta Platforms in Talks with JERA for Tokyo-Area Data Centers",
+      "source": "fiscal.ai",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.marketscreener.com/news/anthropic-meta-others-tech-giants-in-talks-with-jera-to-build-tokyo-area-data-centers-ce7851d9de8df422"
+    },
+    {
+      "created_at": "2026-11-27T19:01:39Z",
+      "headline": "Visa and Rally Announce Strategic Collaboration to Launch Visa Fleet 2.0 in Europe and the UK",
+      "source": "fiscal.ai",
+      "symbols": [
+        "V"
+      ],
+      "url": "https://news.europawire.eu/visa-fleet-2-0-collaboration-with-rally-brings-ai-powered-expense-management-to-european-businesses/2026/11/27/17/59/03/190077/"
+    },
+    {
+      "created_at": "2026-11-27T19:01:33Z",
+      "headline": "Unconfirmed Firmware Discovery Suggests Potential European Robotaxi Geofencing",
+      "source": "fiscal.ai",
+      "symbols": [
+        "TSLA"
+      ],
+      "url": "https://www.basenor.com/blogs/news/tesla-robotaxi-geofences-found-in-firmware-for-9-european-cities"
+    },
+    {
+      "created_at": "2026-11-27T19:01:32Z",
+      "headline": "JPMorgan Chase Discloses 6.34% Stake in Sibanye-Stillwater",
       "source": "fiscal.ai",
       "symbols": [
         "JPM"
       ],
-      "url": "https://www.marketscreener.com/news/jpmorgan-lowers-vodafone-pt-maintains-underweight-rating-ce7851d8d08fff21"
+      "url": "https://irw-press.com/en/notification-of-an-acquisition-of-beneficial-interest-in-securities-by-jpmorgan-chase-co-4/"
     },
     {
-      "created_at": "2026-11-26T20:01:30Z",
-      "headline": "Tesla Deploys Manual Battery Preconditioning Feature",
+      "created_at": "2026-11-27T16:01:17Z",
+      "headline": "JPMorgan Chase Discloses Change in Voting Rights in Ashtead Technology",
+      "source": "fiscal.ai",
+      "symbols": [
+        "JPM"
+      ],
+      "url": "https://www.investegate.co.uk/announcement/rns/ashtead-technology-holdings--at./holding-s-in-company/9897534"
+    },
+    {
+      "created_at": "2026-11-27T14:31:46Z",
+      "headline": "Meta Cited in South African High Court Ruling Regarding Pseudonymous Content",
+      "source": "fiscal.ai",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.einnews.com/pr_news/959345946/government-welcomes-high-court-ruling-against-pseudonymous-facebook-account"
+    },
+    {
+      "created_at": "2026-11-27T14:31:46Z",
+      "headline": "Meta Launches Instagram for TV in India",
+      "source": "fiscal.ai",
+      "symbols": [
+        "META"
+      ],
+      "url": "https://www.marketscreener.com/news/meta-platforms-brings-instagram-for-tv-to-india-ce7851d9df8df327"
+    },
+    {
+      "created_at": "2026-11-27T14:31:44Z",
+      "headline": "JPMorgan and BlackRock Contending to Manage Portion of Singapore's Public Pension Fund",
+      "source": "fiscal.ai",
+      "symbols": [
+        "JPM"
+      ],
+      "url": "https://www.marketscreener.com/news/jpmorgan-blackrock-contending-to-manage-portion-of-singapore-s-543-62-billion-public-pension-fund-ce7851d9df8df324"
+    },
+    {
+      "created_at": "2026-11-27T14:31:36Z",
+      "headline": "UnitedHealthcare to Close Medicare Advantage Plans in Idaho",
+      "source": "fiscal.ai",
+      "symbols": [
+        "UNH"
+      ],
+      "url": "https://insurancenewsnet.com/oarticle/health-insurers-are-dropping-idaho-medicare-advantage-plans-that-cover-tens-of-thousands-2"
+    },
+    {
+      "created_at": "2026-11-27T13:01:31Z",
+      "headline": "Mastercard Executive to Present at UBS Global Technology and AI Conference",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MA"
+      ],
+      "url": "https://www.businesswire.com/newsroom/industry/technology/payments"
+    },
+    {
+      "created_at": "2026-11-27T13:01:27Z",
+      "headline": "NVIDIA Faces New U.S. Export Controls and Regional Market Shifts",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NVDA"
+      ],
+      "url": "https://world.storm.mg/articles/1184970"
+    },
+    {
+      "created_at": "2026-11-27T11:32:24Z",
+      "headline": "Daiwa Adjusts Price Target on Walmart to $140 From $113",
+      "source": "fiscal.ai",
+      "symbols": [
+        "WMT"
+      ],
+      "url": "https://www.marketscreener.com/news/daiwa-adjusts-price-target-on-walmart-to-140-from-113-ce7851d9dc8af520"
+    },
+    {
+      "created_at": "2026-11-27T11:31:55Z",
+      "headline": "Tesla Files Plans to Acquire German Company Emag",
       "source": "fiscal.ai",
       "symbols": [
         "TSLA"
       ],
-      "url": "https://www.frandroid.com/marques/tesla/3341437_tesla-lance-enfin-une-fonction-que-ses-rivaux-proposaient-deja-depuis-des-annees-le-prechauffage-manuel-de-la-batterie"
+      "url": "https://www.moomoo.com/stock/TSLA-US/news?chain_id=Name1K9-3FXPhg.1l60200&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2FUROY-US%22%7D"
     },
     {
-      "created_at": "2026-11-26T20:01:30Z",
-      "headline": "EU Postpones Vote on Tesla Assisted Driving Approval",
-      "source": "fiscal.ai",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.finanzen.ch/nachrichten/aktien/eu-delays-vote-on-teslas-assisted-driving-system-to-december-15-reports-1036803762"
-    },
-    {
-      "created_at": "2026-11-26T19:01:32Z",
-      "headline": "Microsoft AI CEO Mustafa Suleyman Issues Warning on AI Safety Thresholds",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MSFT"
-      ],
-      "url": "https://af.net/fr/realtime/microsoft-ai-ceo-warns-labs-are-crossing-threshold-as-internal-models-break-containment/"
-    },
-    {
-      "created_at": "2026-11-26T19:01:25Z",
-      "headline": "European Parliament Delays Methane Reporting Requirements for Fossil Fuel Importers",
-      "source": "fiscal.ai",
-      "symbols": [
-        "XOM"
-      ],
-      "url": "https://www.finanzen.at/nachrichten/aktien/eu-parlament-gibt-gruenes-licht-fuer-aufschub-von-klimaregeln-1036802896"
-    },
-    {
-      "created_at": "2026-11-26T16:01:46Z",
-      "headline": "Amazon Announces Quick Sight Upgrade and Autonomous Workload Build Capabilities",
+      "created_at": "2026-11-27T11:31:28Z",
+      "headline": "ScitiX Launches Model Inference Services on AWS Marketplace",
       "source": "fiscal.ai",
       "symbols": [
         "AMZN"
       ],
-      "url": "https://aithority.com/machine-learning/megazonecloud-launches-its-amazon-quick-center-of-excellence-to-turn-enterprise-data-into-autonomous-action/"
+      "url": "https://www.prnewswire.com/apac/news-releases/scitix-model-inference-now-available-in-aws-marketplace-302951612.html"
     },
     {
-      "created_at": "2026-11-26T16:01:32Z",
-      "headline": "JPMorgan Chase & Co. Discloses Change in Voting Rights for Delivery Hero SE",
-      "source": "fiscal.ai",
-      "symbols": [
-        "JPM"
-      ],
-      "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-delivery-hero-se-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036803459"
-    },
-    {
-      "created_at": "2026-11-26T16:01:32Z",
-      "headline": "JPMorgan Chase & Co. Reduces Stake in Gamma Communications PLC",
-      "source": "fiscal.ai",
-      "symbols": [
-        "JPM"
-      ],
-      "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/holding-s-in-company/9895474"
-    },
-    {
-      "created_at": "2026-11-26T14:31:33Z",
-      "headline": "India Approves $1.2 Billion Incentive Plan for Construction Equipment Manufacturers",
-      "source": "fiscal.ai",
-      "symbols": [
-        "CAT"
-      ],
-      "url": "https://realtynxt.com/infrastructure/2026-11-26/india-to-support-jcb-caterpillar-hitachi-under-12-bn-construction-equipment-incentive-scheme"
-    },
-    {
-      "created_at": "2026-11-26T14:31:27Z",
-      "headline": "Visa Releases 2026 Holiday Spending Shift Survey for Canada",
-      "source": "fiscal.ai",
-      "symbols": [
-        "V"
-      ],
-      "url": "https://www.globenewswire.com/news-release/2026/11/26/3410758/0/fr/cette-ann%C3%A9e-les-canadiens-veulent-en-avoir-pour-leur-argent-aux-f%C3%AAtes-mais-les-exp%C3%A9riences-et-les-%C3%A9v%C3%A9nements-sont-en-haut-de-leur-liste-de-souhaits-une-%C3%A9tude-visa.html"
-    },
-    {
-      "created_at": "2026-11-26T14:31:24Z",
-      "headline": "Moloco Selects JPMorgan Chase and Goldman Sachs for IPO",
-      "source": "fiscal.ai",
-      "symbols": [
-        "JPM"
-      ],
-      "url": "https://stockanalysis.com/private/moloco/"
-    },
-    {
-      "created_at": "2026-11-26T13:01:32Z",
-      "headline": "NVIDIA and Kioxia Announce Collaboration to Extend GPU Memory Capacity",
-      "source": "fiscal.ai",
-      "symbols": [
-        "NVDA"
-      ],
-      "url": "https://natlawreview.com/press-releases/kioxia-and-nvidia-collaborate-expand-effective-high-bandwidth-memory"
-    },
-    {
-      "created_at": "2026-11-26T13:01:30Z",
-      "headline": "Chevron Increases Investment in Argentina's Energy Infrastructure",
-      "source": "fiscal.ai",
-      "symbols": [
-        "CVX"
-      ],
-      "url": "https://newsfilter.io/articles/latin-america-has-the-copper-and-energy-the-ai-build-out-needs-infrastructure-is-cfb3a66dd618589b924d043b1a1cd7fa"
-    },
-    {
-      "created_at": "2026-11-26T13:01:30Z",
-      "headline": "Chevron Partners with TPAO for Offshore Exploration in Guinea Bissau",
-      "source": "fiscal.ai",
-      "symbols": [
-        "CVX"
-      ],
-      "url": "https://www.moomoo.com/hans/news/flash/1005903439/turkish-energy-minister-turkey-s-tpao-partners-with-chevron-in"
-    },
-    {
-      "created_at": "2026-11-26T13:01:18Z",
-      "headline": "Visa Announces Plans for New 'Visa Flex Card' in Partnership with NBX",
-      "source": "fiscal.ai",
-      "symbols": [
-        "V"
-      ],
-      "url": "https://news.europawire.eu/visa-and-nbx-plan-single-card-payments-from-traditional-currency-and-stablecoin-balances-across-five-european-markets/eu-press-release/2026/11/26/13/48/03/189766/"
-    },
-    {
-      "created_at": "2026-11-26T12:32:04Z",
-      "headline": "Netflix Announces Limited-Time 'Stranger Things' 10th Anniversary Cafe",
+      "created_at": "2026-11-27T03:01:42Z",
+      "headline": "All Indian Cine Workers Association Demands Ban on Netflix's Pakistani Series",
       "source": "fiscal.ai",
       "symbols": [
         "NFLX"
       ],
-      "url": "http://www.excite.co.jp/news/article/Kyodo_prw_202611261116/"
+      "url": "https://www.nation.com.pk/27-Nov-2026/two-screenings-pakistani-tv-show-cancelled-india-backlash"
     },
     {
-      "created_at": "2026-11-26T12:32:04Z",
-      "headline": "Netflix Identified as Most Impersonated Brand in Black Friday Phishing Scams",
+      "created_at": "2026-11-27T01:01:26Z",
+      "headline": "ExxonMobil Files Disclosure Regarding Threshold Crossing in Esso S.A.F.",
       "source": "fiscal.ai",
       "symbols": [
-        "NFLX"
+        "XOM"
       ],
-      "url": "https://tecnologia.ig.com.br/2026-11-26/golpe-na-black-friday--netflix-lidera-lista-de-sites-suspeitos.html"
-    },
-    {
-      "created_at": "2026-11-26T11:32:14Z",
-      "headline": "Apple Removes Talkie AI App from App Store Worldwide",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://www.marketscreener.com/news/minimax-s-talkie-removed-from-apple-app-store-worldwide-ce7851d8d18af721"
-    },
-    {
-      "created_at": "2026-11-26T11:32:14Z",
-      "headline": "Apple to Open New Retail Store in Hyderabad, India",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AAPL"
-      ],
-      "url": "https://www.finanzen.ch/nachrichten/aktien/apple-to-open-new-store-in-hyderabad-expanding-indian-retail-business-1036802666"
-    },
-    {
-      "created_at": "2026-11-26T11:31:41Z",
-      "headline": "NVIDIA Orders Partners to Stop Server Shipments to ASEAN States",
-      "source": "fiscal.ai",
-      "symbols": [
-        "NVDA"
-      ],
-      "url": "https://www.marketscreener.com/news/nvidia-orders-partners-to-stop-server-shipments-to-asean-states-ce7851d8de89f626"
+      "url": "https://www.globenewswire.com/news-release/2026/11/26/3411020/0/fr/communiqu%C3%A9-relatif-au-d%C3%A9p%C3%B4t-d-un-projet-d-offre-publique-d-achat-simplifi%C3%A9e.html"
     }
   ],
   "regime": "DEFENSIVE",
-  "regime_score": -0.837838,
+  "regime_score": -0.740541,
   "top_candidates": [
     {
       "news_score": 0.0,
-      "price": 361.355,
-      "reason": "5d +7.0%; 20d +13.7%; vs SPY +20.9%; RSI 67; volume 1.0x; volatility 36.5%; news +0.00",
-      "relative_strength_20d": 0.209095,
-      "score": 0.7021,
-      "symbol": "HD"
-    },
-    {
-      "news_score": 0.0,
-      "price": 131.91,
-      "reason": "5d +3.6%; 20d +11.0%; vs SPY +18.2%; RSI 76; volume 0.7x; volatility 25.3%; news +0.00",
-      "relative_strength_20d": 0.182034,
-      "score": 0.607517,
+      "price": 133.13,
+      "reason": "5d +5.6%; 20d +9.8%; vs SPY +15.1%; RSI 78; volume 0.5x; volatility 24.8%; news +0.00",
+      "relative_strength_20d": 0.151443,
+      "score": 0.626416,
       "symbol": "WMT"
     },
     {
       "news_score": 0.0,
-      "price": 1086.625,
-      "reason": "5d +1.9%; 20d +13.9%; vs SPY +21.1%; RSI 75; volume 0.8x; volatility 21.9%; news +0.00",
-      "relative_strength_20d": 0.210705,
-      "score": 0.55269,
-      "symbol": "COST"
+      "price": 362.21,
+      "reason": "5d +7.5%; 20d +10.1%; vs SPY +15.5%; RSI 60; volume 0.3x; volatility 34.9%; news +0.00",
+      "relative_strength_20d": 0.154641,
+      "score": 0.554351,
+      "symbol": "HD"
     },
     {
-      "news_score": 0.166667,
-      "price": 660.29,
-      "reason": "5d +2.7%; 20d +8.1%; vs SPY +15.3%; RSI 54; volume 1.2x; volatility 31.4%; news +0.17",
-      "relative_strength_20d": 0.15305,
-      "score": 0.512465,
-      "symbol": "MA"
-    },
-    {
-      "news_score": 0.0,
-      "price": 92.28,
-      "reason": "5d +1.2%; 20d +6.2%; vs SPY +13.4%; RSI 63; volume 1.3x; volatility 20.9%; news +0.00",
-      "relative_strength_20d": 0.134285,
-      "score": 0.41927,
-      "symbol": "XLP"
-    },
-    {
-      "news_score": 0.111111,
-      "price": 424.515,
-      "reason": "5d +2.2%; 20d +6.1%; vs SPY +13.3%; RSI 52; volume 0.7x; volatility 30.1%; news +0.11",
-      "relative_strength_20d": 0.132553,
-      "score": 0.375835,
+      "news_score": 0.25,
+      "price": 430.04,
+      "reason": "5d +6.9%; 20d +4.9%; vs SPY +10.3%; RSI 56; volume 0.4x; volatility 29.3%; news +0.25",
+      "relative_strength_20d": 0.102854,
+      "score": 0.480704,
       "symbol": "V"
     },
     {
       "news_score": 0.0,
-      "price": 355.14,
-      "reason": "5d +0.8%; 20d +3.3%; vs SPY +10.5%; RSI 64; volume 1.3x; volatility 28.6%; news +0.00",
-      "relative_strength_20d": 0.104992,
-      "score": 0.349978,
-      "symbol": "AAPL"
+      "price": 667.22,
+      "reason": "5d +6.4%; 20d +4.9%; vs SPY +10.3%; RSI 56; volume 0.6x; volatility 28.4%; news +0.00",
+      "relative_strength_20d": 0.102857,
+      "score": 0.47304,
+      "symbol": "MA"
+    },
+    {
+      "news_score": -0.666667,
+      "price": 1098.22,
+      "reason": "5d +3.2%; 20d +13.5%; vs SPY +18.9%; RSI 75; volume 0.4x; volatility 21.8%; news -0.67",
+      "relative_strength_20d": 0.188904,
+      "score": 0.469673,
+      "symbol": "COST"
     },
     {
       "news_score": 0.0,
-      "price": 1392.715,
-      "reason": "5d +0.7%; 20d +8.0%; vs SPY +15.2%; RSI 57; volume 0.6x; volatility 38.2%; news +0.00",
-      "relative_strength_20d": 0.152377,
-      "score": 0.330165,
-      "symbol": "LLY"
+      "price": 107.5,
+      "reason": "5d +4.6%; 20d +6.2%; vs SPY +11.6%; RSI 50; volume 0.3x; volatility 28.3%; news +0.00",
+      "relative_strength_20d": 0.115612,
+      "score": 0.418603,
+      "symbol": "XLC"
     },
     {
       "news_score": 0.0,
-      "price": 183.61,
-      "reason": "5d +1.3%; 20d +2.1%; vs SPY +9.3%; RSI 48; volume 1.4x; volatility 25.1%; news +0.00",
-      "relative_strength_20d": 0.093368,
-      "score": 0.302296,
-      "symbol": "XLV"
+      "price": 92.7,
+      "reason": "5d +3.1%; 20d +5.2%; vs SPY +10.5%; RSI 61; volume 0.7x; volatility 20.5%; news +0.00",
+      "relative_strength_20d": 0.105081,
+      "score": 0.405174,
+      "symbol": "XLP"
     },
     {
       "news_score": 0.0,
-      "price": 43.86,
-      "reason": "5d +0.5%; 20d +4.1%; vs SPY +11.3%; RSI 49; volume 1.1x; volatility 20.6%; news +0.00",
-      "relative_strength_20d": 0.113442,
-      "score": 0.26999,
-      "symbol": "XLRE"
+      "price": 52.17,
+      "reason": "5d +5.5%; 20d -0.7%; vs SPY +4.7%; RSI 46; volume 1.1x; volatility 27.9%; news +0.00",
+      "relative_strength_20d": 0.0468,
+      "score": 0.298143,
+      "symbol": "XLB"
+    },
+    {
+      "news_score": 0.0,
+      "price": 629.995,
+      "reason": "5d +5.6%; 20d +0.9%; vs SPY +6.2%; RSI 47; volume 0.6x; volatility 49.6%; news +0.00",
+      "relative_strength_20d": 0.062263,
+      "score": 0.289374,
+      "symbol": "META"
+    },
+    {
+      "news_score": 0.0,
+      "price": 119.88,
+      "reason": "5d +3.5%; 20d +3.2%; vs SPY +8.5%; RSI 47; volume 0.4x; volatility 34.5%; news +0.00",
+      "relative_strength_20d": 0.085311,
+      "score": 0.28587,
+      "symbol": "XLY"
     }
   ],
   "universe_size": 37
