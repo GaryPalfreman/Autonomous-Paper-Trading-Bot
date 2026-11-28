@@ -6,14 +6,77 @@
   "breadth_above_20d_average": 0.432432,
   "data_feed": "iex",
   "data_source": "Alpaca Market Data",
-  "generated_at": "2026-11-27T21:45:25.688582+00:00",
+  "generated_at": "2026-11-28T03:33:34.337771+00:00",
   "latest_market_timestamp": "2026-11-27T18:57:08.605847373Z",
   "market_is_open": false,
   "new_entries_allowed": false,
-  "news_articles_reviewed": 48,
+  "news_articles_reviewed": 38,
   "next_close": "2026-11-30T16:00:00-05:00",
   "next_open": "2026-11-30T09:30:00-05:00",
   "recent_news": [
+    {
+      "created_at": "2026-11-28T03:01:32Z",
+      "headline": "Chevron Implements 'Plateau' Production Strategy in US Shale Basins",
+      "source": "fiscal.ai",
+      "symbols": [
+        "CVX"
+      ],
+      "url": "https://energynow.ca/2026/08/us-oil-growth-faces-headwinds-as-shale-producers-cut-spending/"
+    },
+    {
+      "created_at": "2026-11-28T03:01:29Z",
+      "headline": "Amazon and Globalstar File Opposition to License Transfer Challenge",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AMZN"
+      ],
+      "url": "https://newsfilter.io/articles/response-by-globalstar-inc-amazon-com-inc-in-26-134-3f9b2ef147cb51e1b09733d1c163af88"
+    },
+    {
+      "created_at": "2026-11-28T03:01:27Z",
+      "headline": "Executive VP Teresa Roseborough Sells $1 Million in Home Depot Stock",
+      "source": "fiscal.ai",
+      "symbols": [
+        "HD"
+      ],
+      "url": "https://www.moomoo.com/news/post/1006022594/have-home-depot-insiders-been-selling-stock"
+    },
+    {
+      "created_at": "2026-11-28T01:01:45Z",
+      "headline": "Netflix Announces New Spanish Comedy Series 'O Aristocrata Decadente'",
+      "source": "fiscal.ai",
+      "symbols": [
+        "NFLX"
+      ],
+      "url": "https://gente.ig.com.br/colunas/franklin-valverde/2026-11-27/oaristocratadecadente.html"
+    },
+    {
+      "created_at": "2026-11-28T01:01:26Z",
+      "headline": "Anthropic's Expansion in Enterprise AI Challenges Microsoft's Market Position",
+      "source": "fiscal.ai",
+      "symbols": [
+        "MSFT"
+      ],
+      "url": "https://www.varindia.com/news/microsoft-copilot-holds-ground-against-claude"
+    },
+    {
+      "created_at": "2026-11-28T01:01:25Z",
+      "headline": "Reports Suggest Apple Exploring Ceramic Components for 2027 iPhone",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AAPL"
+      ],
+      "url": "https://www.finanzen.ch/nachrichten/aktien/apple-may-consider-ceramic-design-for-20th-anniversary-iphone-1036806444"
+    },
+    {
+      "created_at": "2026-11-28T01:01:18Z",
+      "headline": "Amazon Blocks AI Shopping Agents from Its Platform",
+      "source": "fiscal.ai",
+      "symbols": [
+        "AMZN"
+      ],
+      "url": "https://newsfilter.io/articles/ai-shopping-agents-are-having-a-moment-but-amazon-and-a-growing-number-of-sites-797242a1e1cc57d9b4086f1febb2da9b"
+    },
     {
       "created_at": "2026-11-27T21:31:20Z",
       "headline": "OpenAI Files Counterclaims Against Apple in Trade Secret Dispute",
@@ -130,69 +193,6 @@
         "UNH"
       ],
       "url": "https://insurancenewsnet.com/oarticle/health-insurers-are-dropping-idaho-medicare-advantage-plans-that-cover-tens-of-thousands-2"
-    },
-    {
-      "created_at": "2026-11-27T13:01:31Z",
-      "headline": "Mastercard Executive to Present at UBS Global Technology and AI Conference",
-      "source": "fiscal.ai",
-      "symbols": [
-        "MA"
-      ],
-      "url": "https://www.businesswire.com/newsroom/industry/technology/payments"
-    },
-    {
-      "created_at": "2026-11-27T13:01:27Z",
-      "headline": "NVIDIA Faces New U.S. Export Controls and Regional Market Shifts",
-      "source": "fiscal.ai",
-      "symbols": [
-        "NVDA"
-      ],
-      "url": "https://world.storm.mg/articles/1184970"
-    },
-    {
-      "created_at": "2026-11-27T11:32:24Z",
-      "headline": "Daiwa Adjusts Price Target on Walmart to $140 From $113",
-      "source": "fiscal.ai",
-      "symbols": [
-        "WMT"
-      ],
-      "url": "https://www.marketscreener.com/news/daiwa-adjusts-price-target-on-walmart-to-140-from-113-ce7851d9dc8af520"
-    },
-    {
-      "created_at": "2026-11-27T11:31:55Z",
-      "headline": "Tesla Files Plans to Acquire German Company Emag",
-      "source": "fiscal.ai",
-      "symbols": [
-        "TSLA"
-      ],
-      "url": "https://www.moomoo.com/stock/TSLA-US/news?chain_id=Name1K9-3FXPhg.1l60200&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2FUROY-US%22%7D"
-    },
-    {
-      "created_at": "2026-11-27T11:31:28Z",
-      "headline": "ScitiX Launches Model Inference Services on AWS Marketplace",
-      "source": "fiscal.ai",
-      "symbols": [
-        "AMZN"
-      ],
-      "url": "https://www.prnewswire.com/apac/news-releases/scitix-model-inference-now-available-in-aws-marketplace-302951612.html"
-    },
-    {
-      "created_at": "2026-11-27T03:01:42Z",
-      "headline": "All Indian Cine Workers Association Demands Ban on Netflix's Pakistani Series",
-      "source": "fiscal.ai",
-      "symbols": [
-        "NFLX"
-      ],
-      "url": "https://www.nation.com.pk/27-Nov-2026/two-screenings-pakistani-tv-show-cancelled-india-backlash"
-    },
-    {
-      "created_at": "2026-11-27T01:01:26Z",
-      "headline": "ExxonMobil Files Disclosure Regarding Threshold Crossing in Esso S.A.F.",
-      "source": "fiscal.ai",
-      "symbols": [
-        "XOM"
-      ],
-      "url": "https://www.globenewswire.com/news-release/2026/11/26/3411020/0/fr/communiqu%C3%A9-relatif-au-d%C3%A9p%C3%B4t-d-un-projet-d-offre-publique-d-achat-simplifi%C3%A9e.html"
     }
   ],
   "regime": "DEFENSIVE",
@@ -215,11 +215,11 @@
       "symbol": "HD"
     },
     {
-      "news_score": 0.25,
+      "news_score": 0.666667,
       "price": 430.04,
-      "reason": "5d +6.9%; 20d +4.9%; vs SPY +10.3%; RSI 56; volume 0.4x; volatility 29.3%; news +0.25",
+      "reason": "5d +6.9%; 20d +4.9%; vs SPY +10.3%; RSI 56; volume 0.4x; volatility 29.3%; news +0.67",
       "relative_strength_20d": 0.102854,
-      "score": 0.480704,
+      "score": 0.543204,
       "symbol": "V"
     },
     {
